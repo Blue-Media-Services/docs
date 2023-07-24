@@ -1,2 +1,0 @@
-# Creatives, Groups and Ads
-
