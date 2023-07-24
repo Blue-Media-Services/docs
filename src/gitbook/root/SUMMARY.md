@@ -17,19 +17,3 @@
 
 * [🎨 For Designers](use-cases/for-designers.md)
 * [🖥 For Developers](use-cases/for-developers.md)
-
-## Ad Serving
-
-* [What is an ad?](ad-serving/page-1.md)
-
-## Campaigns
-
-* [Page 2](campaigns/page-2.md)
-
-## Catalog Storage Service <a href="#cs2" id="cs2"></a>
-
-* [Page 3](cs2/page-3.md)
-
-## Group 1
-
-* [Page 4](group-1/page-4.md)
