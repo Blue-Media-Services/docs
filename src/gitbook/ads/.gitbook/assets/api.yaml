@@ -1,0 +1,496 @@
+openapi: 3.0.0
+x-stoplight:
+  id: 9u2f72hsbiyyq
+info:
+  title: AdServer Ad Tracking
+  version: '1.0'
+servers:
+  - url: 'https://track.ads.dev.bluems.com'
+    description: Public Development
+  - url: 'https://track.ads.bluems.com'
+    description: Public Production
+  - url: 'http://localhost:5241'
+    description: Local
+paths:
+  '/v1/ad:display':
+    get:
+      summary: Track Ad Display
+      responses:
+        '204':
+          description: No Content
+      operationId: TrackAdDisplay
+      description: |-
+        Tracks the fact that an ad was displayed (loaded into the DOM).
+
+        This is a public endpoint.
+
+        The following event is published to the kafka topic `ads--ad-displayed-event`:
+
+        ```json
+        {
+          timestamp
+          exchangeId
+          region
+          userId
+          bidId
+          accountId
+          campaignId
+          targetId
+          adId
+          adRuleId
+          creativeGroupId
+          creativeId
+          publisherId
+          tagId
+          impressionId
+          domain
+          geoLat
+          geoLon
+          timeToDisplay  // Measured in milliseconds
+          
+          // Captured from request header
+          userAgent
+          ip
+        }
+        ```
+      parameters:
+        - schema:
+            type: string
+            example: adx
+          in: query
+          name: e
+          description: The ID of the exchange.
+        - schema:
+            type: string
+            example: CAESEJ9QR3fwvcSSntUh4FSK1z8
+          in: query
+          name: u
+          description: The ID of the user.
+        - schema:
+            type: string
+            example: 0ujsswThIGTUYm2K8FjOOfXtY1K
+          in: query
+          name: ad
+          description: The ID of the ad to track.
+          required: true
+        - schema:
+            type: string
+            example: 0ujsszwN8NRY24YaXiTIE2VWDTS
+          in: query
+          name: acc
+          description: The ID of the account that owns the ad.
+          required: true
+        - schema:
+            type: string
+            example: 0ujsszwN8NRY24YaXiTIE2VWDTS
+          in: query
+          name: c
+          description: The ID of the campaign.
+        - schema:
+            type: string
+            example: pub-6330791094260149
+          in: query
+          name: p
+          description: The ID of the publisher on the exchange.
+        - schema:
+            type: string
+            example: '2590999865'
+          in: query
+          name: tag
+          description: The ID of the publisher's ad tag on the exchange.
+        - schema:
+            type: string
+            example: '0'
+          in: query
+          name: imp
+          description: The ID of the impression on the bid request.
+        - schema:
+            type: string
+            example: globo.com
+          in: query
+          name: d
+          description: The domain where the ad is being rendered.
+        - schema:
+            type: string
+            example: YmdKoAAD6d0Kx4XEUw0grA
+          in: query
+          name: bid
+          description: The ID of the bid request.
+        - schema:
+            type: number
+            example: -22.35
+            minimum: -90
+            maximum: 90
+            exclusiveMinimum: true
+            exclusiveMaximum: true
+          in: query
+          name: glt
+          description: The latitude of the user.
+        - schema:
+            type: number
+            example: -42.71
+            minimum: -180
+            maximum: 180
+            exclusiveMinimum: true
+            exclusiveMaximum: true
+          in: query
+          name: gln
+          description: The longitude of the user.
+        - schema:
+            type: string
+            example: vcA1R3fwSSz8KSntUh4ESEJ9QFC
+          in: query
+          name: adr
+          description: The ID of the ad rule.
+        - schema:
+            type: string
+            example: KSntUh4C1R3fwvcAESEJ9QFSSz8
+          in: query
+          name: t
+          description: The ID of the campaign target that was matched.
+        - schema:
+            type: string
+            example: UK8FjOOfXtYmTwY1KhIGT20ujss
+          in: query
+          name: cr
+          description: The ID of the creative.
+        - schema:
+            type: string
+            example: OujsK8FjXUtYswY1KhIOfGT20mT
+          in: query
+          name: crg
+          description: The ID of the creative group.
+        - schema:
+            type: number
+          in: query
+          name: rts
+          description: 'The render timestamp in Unix milliseconds, used to calculate the time to display metric.'
+      tags:
+        - Tracker
+    parameters: []
+  '/v1/ad:view':
+    get:
+      summary: Track Ad View
+      responses:
+        '204':
+          description: No Content
+      operationId: TrackAdView
+      description: |-
+        Tracks the fact that an ad was viewed.
+
+        This is a public endpoint.
+
+        The following event is published to the kafka topic `ads--ad-viewed-event`:
+
+        ```json
+        {
+          timestamp
+          exchangeId
+          region
+          userId
+          bidId
+          accountId
+          campaignId
+          targetId
+          adId
+          adRuleId
+          creativeGroupId
+          creativeId
+          publisherId
+          tagId
+          impressionId
+          domain
+          geoLat
+          geoLon
+          timeToView  // Measured in milliseconds
+          
+          // Captured from request header
+          userAgent
+          ip
+        }
+        ```
+      parameters:
+        - schema:
+            type: string
+            example: adx
+          in: query
+          name: e
+          description: The ID of the exchange.
+        - schema:
+            type: string
+            example: CAESEJ9QR3fwvcSSntUh4FSK1z8
+          in: query
+          name: u
+          description: The ID of the user.
+        - schema:
+            type: string
+            example: 0ujsswThIGTUYm2K8FjOOfXtY1K
+          in: query
+          name: ad
+          description: The ID of the ad to track.
+          required: true
+        - schema:
+            type: string
+            example: 0ujsszwN8NRY24YaXiTIE2VWDTS
+          in: query
+          name: acc
+          description: The ID of the account that owns the ad.
+          required: true
+        - schema:
+            type: string
+            example: 0ujsszwN8NRY24YaXiTIE2VWDTS
+          in: query
+          name: c
+          description: The ID of the campaign.
+        - schema:
+            type: string
+            example: pub-6330791094260149
+          in: query
+          name: p
+          description: The ID of the publisher on the exchange.
+        - schema:
+            type: string
+            example: '2590999865'
+          in: query
+          name: tag
+          description: The ID of the publisher's ad tag on the exchange.
+        - schema:
+            type: string
+            example: '0'
+          in: query
+          name: imp
+          description: The ID of the impression on the bid request.
+        - schema:
+            type: string
+            example: globo.com
+          in: query
+          name: d
+          description: The domain where the ad is being rendered.
+        - schema:
+            type: string
+            example: YmdKoAAD6d0Kx4XEUw0grA
+          in: query
+          name: bid
+          description: The ID of the bid request.
+        - schema:
+            type: number
+            example: -22.35
+            minimum: -90
+            maximum: 90
+            exclusiveMinimum: true
+            exclusiveMaximum: true
+          in: query
+          name: glt
+          description: The latitude of the user.
+        - schema:
+            type: number
+            example: -42.71
+            minimum: -180
+            maximum: 180
+            exclusiveMinimum: true
+            exclusiveMaximum: true
+          in: query
+          name: gln
+          description: The longitude of the user.
+        - schema:
+            type: string
+            example: vcA1R3fwSSz8KSntUh4ESEJ9QFC
+          in: query
+          name: adr
+          description: The ID of the ad rule.
+        - schema:
+            type: string
+            example: KSntUh4C1R3fwvcAESEJ9QFSSz8
+          in: query
+          name: t
+          description: The ID of the campaign target that was matched.
+        - schema:
+            type: string
+            example: UK8FjOOfXtYmTwY1KhIGT20ujss
+          in: query
+          name: cr
+          description: The ID of the creative.
+        - schema:
+            type: string
+            example: OujsK8FjXUtYswY1KhIOfGT20mT
+          in: query
+          name: crg
+          description: The ID of the creative group.
+        - schema:
+            type: number
+          in: query
+          name: rts
+          description: 'The render timestamp in Unix milliseconds, used to calculate the time to display metric.'
+      tags:
+        - Tracker
+    parameters: []
+  '/v1/ad:click':
+    get:
+      summary: Track Ad Click
+      tags:
+        - Tracker
+      responses:
+        '204':
+          description: No Content (if no `r` query string parameter is provided)
+        '302':
+          description: 'Found, redirecting to the url indicated in the `r` query string parameter'
+      operationId: TrackAdClick
+      description: |-
+        Tracks the fact that a user clicked in an ad then redirects to the target url.
+
+        This is a public endpoint.
+
+        The following event is published to the kafka topic `ads--ad-clicked-event`:
+
+        ```json
+        {
+          timestamp
+          exchangeId
+          region
+          userId
+          bidId
+          accountId
+          campaignId
+          targetId
+          adId
+          adRuleId
+          creativeGroupId
+          creativeId
+          publisherId
+          tagId
+          impressionId
+          domain
+          geoLat
+          geoLon
+          redirectUrl
+          timeToClick   // Measured in milliseconds
+          
+          // Captured from request header
+          userAgent
+          ip
+        }
+        ```
+      parameters:
+        - schema:
+            type: string
+            example: adx
+          in: query
+          name: e
+          description: The ID of the exchange.
+        - schema:
+            type: string
+            example: CAESEJ9QR3fwvcSSntUh4FSK1z8
+          in: query
+          name: u
+          description: The ID of the user.
+        - schema:
+            type: string
+            example: 0ujsswThIGTUYm2K8FjOOfXtY1K
+          in: query
+          name: ad
+          description: The ID of the ad to track.
+          required: true
+        - schema:
+            type: string
+            example: 0ujsszwN8NRY24YaXiTIE2VWDTS
+          in: query
+          name: acc
+          description: The ID of the account that owns the ad.
+          required: true
+        - schema:
+            type: string
+            example: 0ujsszwN8NRY24YaXiTIE2VWDTS
+          in: query
+          name: c
+          description: The ID of the campaign.
+        - schema:
+            type: string
+            example: pub-6330791094260149
+          in: query
+          name: p
+          description: The ID of the publisher on the exchange.
+        - schema:
+            type: string
+            example: '2590999865'
+          in: query
+          name: tag
+          description: The ID of the publisher's ad tag on the exchange.
+        - schema:
+            type: string
+            example: '0'
+          in: query
+          name: imp
+          description: The ID of the impression on the bid request.
+        - schema:
+            type: string
+            example: globo.com
+          in: query
+          name: d
+          description: The domain where the ad is being rendered.
+        - schema:
+            type: string
+            example: YmdKoAAD6d0Kx4XEUw0grA
+          in: query
+          name: bid
+          description: The ID of the bid request.
+        - schema:
+            type: number
+            example: -22.35
+            minimum: -90
+            maximum: 90
+            exclusiveMinimum: true
+            exclusiveMaximum: true
+          in: query
+          name: glt
+          description: The latitude of the user.
+        - schema:
+            type: number
+            example: -42.71
+            minimum: -180
+            maximum: 180
+            exclusiveMinimum: true
+            exclusiveMaximum: true
+          in: query
+          name: gln
+          description: The longitude of the user.
+        - schema:
+            type: string
+            example: vcA1R3fwSSz8KSntUh4ESEJ9QFC
+          in: query
+          name: adr
+          description: The ID of the ad rule.
+        - schema:
+            type: string
+            example: KSntUh4C1R3fwvcAESEJ9QFSSz8
+          in: query
+          name: t
+          description: The ID of the campaign target that was matched.
+        - schema:
+            type: string
+            example: 'https://www.disney.com/'
+          in: query
+          name: r
+          description: The url that should be redirected to (this should be the last query string).
+          required: true
+        - schema:
+            type: string
+            example: UK8FjOOfXtYmTwY1KhIGT20ujss
+          in: query
+          name: cr
+          description: The ID of the creative.
+        - schema:
+            type: string
+            example: OujsK8FjXUtYswY1KhIOfGT20mT
+          in: query
+          name: crg
+          description: The ID of the creative group.
+        - schema:
+            type: number
+          in: query
+          name: rts
+          description: 'The render timestamp in Unix milliseconds, used to calculate the time to click metric.'
+    parameters: []
+components:
+  schemas: {}
+tags:
+  - name: Tracker
