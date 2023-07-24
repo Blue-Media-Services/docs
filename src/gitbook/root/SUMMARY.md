@@ -20,7 +20,7 @@
 
 ## Ad Serving
 
-* [Page 1](ad-serving/page-1.md)
+* [What is an ad?](ad-serving/what-is-an-ad.md)
 
 ## Campaigns
 
