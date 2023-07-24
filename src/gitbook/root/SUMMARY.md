@@ -34,3 +34,4 @@
 - [Data Management Platform (DMP)](product-documentation/dmp.md)
   - [Cookie Pools](product-documentation/dmp/cookie-pools.md)
   - [Trackers](product-documentation/dmp/trackers.md)
+    - [Actions](product-documentation/dmp/trackers/actions.md)
