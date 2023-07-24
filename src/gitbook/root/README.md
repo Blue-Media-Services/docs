@@ -20,6 +20,10 @@ Here are a couple of example overviews from products with really great docs:
 
 ## Quick links
 
+{% content-ref url="http://127.0.0.1:5000/o/qZQJqpLFNPk5QUg2UAle/s/VhfcYYhaEDV9CHyNNPvu/" %}
+[Ad Serving](http://127.0.0.1:5000/o/qZQJqpLFNPk5QUg2UAle/s/VhfcYYhaEDV9CHyNNPvu/)
+{% endcontent-ref %}
+
 {% content-ref url="overview/what-we-do.md" %}
 [what-we-do.md](overview/what-we-do.md)
 {% endcontent-ref %}
