@@ -30,20 +30,20 @@ Here are a couple of example overviews from products with really great docs:
 
 ## Products
 
-{% content-ref url="http://127.0.0.1:5000/o/qZQJqpLFNPk5QUg2UAle/s/VhfcYYhaEDV9CHyNNPvu/" %}
-[Ad Serving](http://127.0.0.1:5000/o/qZQJqpLFNPk5QUg2UAle/s/VhfcYYhaEDV9CHyNNPvu/)
+{% content-ref url="product-documentation/ad-serving/" %}
+[ad-serving](product-documentation/ad-serving/)
 {% endcontent-ref %}
 
-{% content-ref url="http://127.0.0.1:5000/o/qZQJqpLFNPk5QUg2UAle/s/f0mS4rNAkryoDlX6QTmM/" %}
-[Campaigns](http://127.0.0.1:5000/o/qZQJqpLFNPk5QUg2UAle/s/f0mS4rNAkryoDlX6QTmM/)
+{% content-ref url="product-documentation/campaigns/" %}
+[campaigns](product-documentation/campaigns/)
 {% endcontent-ref %}
 
-{% content-ref url="http://127.0.0.1:5000/o/qZQJqpLFNPk5QUg2UAle/s/sV8KvogKr2BUqnxYf83x/" %}
-[CS2](http://127.0.0.1:5000/o/qZQJqpLFNPk5QUg2UAle/s/sV8KvogKr2BUqnxYf83x/)
+{% content-ref url="product-documentation/cs2/" %}
+[cs2](product-documentation/cs2/)
 {% endcontent-ref %}
 
-{% content-ref url="http://127.0.0.1:5000/o/qZQJqpLFNPk5QUg2UAle/s/9a9f8NPxrvX2kc3Ye2an/" %}
-[Billing](http://127.0.0.1:5000/o/qZQJqpLFNPk5QUg2UAle/s/9a9f8NPxrvX2kc3Ye2an/)
+{% content-ref url="product-documentation/billing.md" %}
+[billing.md](product-documentation/billing.md)
 {% endcontent-ref %}
 
 ## Get Started
