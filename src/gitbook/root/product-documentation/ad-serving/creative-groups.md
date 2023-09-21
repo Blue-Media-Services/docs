@@ -19,7 +19,9 @@ In the Creative Groups area, you can create groups of creatives of the same form
 
 3. You can choose the weight you want to give each creative.&#x20;
 
-> **Note:** Remember that if the weight is the same, the platform will deliver the creatives equally, creating an A/B test. If you increase the weight, the platform will give preference to the creative with the highest weight.
+{% hint style="info" %}
+Remember that if the weight is the same, the platform will deliver the creatives equally, creating an A/B test. If you increase the weight, the platform will give preference to the creative with the highest weight.
+{% endhint %}
 
 4. Click "Preview" to see your group of creatives;
 5. Save.

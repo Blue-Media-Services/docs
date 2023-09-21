@@ -23,11 +23,11 @@ In the Ads area you will create the Ads for your campaign, adding the group of c
 3. Name the rule you want to create;
 4. Select the period, days of the week and times for your Ads to be available in the campaign. BMS will automatically activate and deactivate your Ads according to the rules you have created.
 
-> Note: If you don't change the rule, the platform will understand that your creative will run during the campaign period, on all days of the week and at any time. This area allows you to create periods for Ads to run within the same campaign, as well as their times and days of the week.
+{% hint style="info" %}
+If you don't change the rule, the platform will understand that your creative will run during the campaign period, on all days of the week and at any time. This area allows you to create periods for Ads to run within the same campaign, as well as their times and days of the week.
+{% endhint %}
 
-_**Example:**_
-
-_Let's say that in the first half of the month you have a promotion for a 10% discount on products and in the second half of the month for a 20% discount. You could create two Ads with different creatives and create a period rule so that the platform makes this change automatically for you, without the need to create two different campaigns;_
+> Example: _Let's say that in the first half of the month you have a promotion for a 10% discount on products and in the second half of the month for a 20% discount. You could create two Ads with different creatives and create a period rule so that the platform makes this change automatically for you, without the need to create two different campaigns;_
 
 ### <mark style="color:blue;">Ad Exchange Review</mark>
 
