@@ -18,3 +18,35 @@ In the context of digital advertising and marketing, a cookie pool can serve sev
 
 ### <mark style="color:blue;">Creating a Cookie Pool</mark>
 
+1. In the Cookie Pool area, click on the **"+ Cookie Pool"** button.
+2. Fill the details:
+   * Name - how you want to call this cookie pool
+   * Tag - for your organization
+   * Domain -  the main domain in which you want to collect cookies
+   * Exchanges&#x20;
+   * TTL - The number of days after which cookies without use are removed from the pool.
+   * Max Size - The maximum size that this pool can grow to. Zero if i is unbounded. After a pool is full, no new cookies will be accepted.
+
+### <mark style="color:blue;">Setting up your Cookie Pool</mark>
+
+After creating your Cookie Pool, select to receive the **install instructions**. How you can do this installation:&#x20;
+
+1. Installation in the header of your site&#x20;
+
+Copy the code below and paste it on the pages of your website where you want your users to be added to the pool. Paste the code as high up as possible in the page's `<head>` tag.
+
+2. Tag Manager
+
+* Learn how to install your Cookie Pool using BMS Tag Container
+* Learn how to install your Cookie Pool using Google Tag Manager (GTM)
+
+### <mark style="color:blue;">Cookie Pools Metrics</mark>
+
+In the metrics area, you can track the metrics of your cookie pool. The information provided is:
+
+* **Expiration Count -** The number of cookie expirations
+* **Max Size -** The maximmum number of cookies allowed inside the pool.
+* **Size -** The number of cookies inside the pool.
+* **Sync Count -** The number of cookie synchronizations.
+* **Time until Expiration -** How long it will take until cookies in the pool expire.
+
