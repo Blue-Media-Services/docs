@@ -17,9 +17,15 @@ The events available are:
 * <img src="../../.gitbook/assets/image (6).png" alt="" data-size="line">\
   This event is registered when the end user clicks on the ad. For this event to be tracked you must be using the BMS Click Tracker which is enabled by default but can be disabled by editing the creative's HTML code.
 
+{% hint style="info" %}
+Please note that the "impression" event can only be tracked for Campaigns and Ads.
+
+When checking real time events for Creatives or Creative Groups no "impression" event can be recorded. The Ad Rules are determined only at the time of Ad Delivery. This is the point where the final creative group is selected and from it the final creative is chosen.
+{% endhint %}
+
 You can choose what events to see by toggling the selector:
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Event filter</p></figcaption></figure>
 
 For any event displayed on the list, you can click on the details button to see more:
 
