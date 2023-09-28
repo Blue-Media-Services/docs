@@ -33,10 +33,24 @@ All creatives need to be approved by BMS to ensure that it is in accordance with
        <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Creative HTML customization tab.</p></figcaption></figure>
 
        * This can be anything and it is entirely up to you to produce a working creative with HTML, CSS and Javascript.
-       * When you provide the HTML code, we will not automatically add our click tracker. You can copy the click tracker macro (or any other macro you wish) from the bottom template assist buttons and paste it on your HTML.
+       * When you provide the HTML code, we will not automatically add our click tracker. You can copy the click tracker macro (or any other macro you wish) from the bottom template assist buttons and paste it on your HTML. Please take a look at the [Macros section](creatives.md#macros) for more information.
 4. You can use the <img src="../../.gitbook/assets/image (7) (1).png" alt="" data-size="line"> button to check how your creative will be displayed and to make sure that it goes to the correct site when clicking on it.
 5. If you are ready to send the creative for review ensure that the "Send for review" option is checked. If you wish to continue editing it later, leave it unchecked.
 6. In the end, just save it.
+
+#### Macros
+
+Our Ad Server provides several macros that can be used within your HTML code. They are:
+
+* BMS Click Tracker - these macros will enable BMS to track clicks on your ads. If you don't install any of these, no click event or metric will be registered.
+  * <img src="../../.gitbook/assets/image (17).png" alt="" data-size="line">\
+    This is the most used version. It must be installed at the very beginning of the link, before any other tracker and before the final URL itself.
+  * <img src="../../.gitbook/assets/image (18).png" alt="" data-size="line">\
+    This version is similar to the previous but it should only be used if you wish to have an external click tracker that does not support unescaped URLs.
+  * <img src="../../.gitbook/assets/image (19).png" alt="" data-size="line">\
+    This version is similar to the previous two but it should only be used if you wish to have a click tracker chain of two or more where the external click tackers do not support unescaped URLs.
+* <img src="../../.gitbook/assets/image (20).png" alt="" data-size="line">\
+  This macro will inject a random sequence of numbers and is most commonly used to ensure that the requests will not be cached.
 
 ### Editing a Creative
 
