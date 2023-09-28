@@ -36,3 +36,6 @@
   * [Cookie Pools](product-documentation/dmp/cookie-pools.md)
   * [Trackers](product-documentation/dmp/trackers/README.md)
     * [Actions](product-documentation/dmp/trackers/actions.md)
+* [Monitoring](product-documentation/monitoring/README.md)
+  * [Metrics Tab](product-documentation/monitoring/metrics-tab.md)
+  * [Real Time Tab](product-documentation/monitoring/real-time-tab.md)
