@@ -1,7 +1,3 @@
----
-description: Learn how to create, edit and analyze your creative's metrics here.
----
-
 # Creatives
 
 Creatives are the smallest building block of our Ad Server. A creative represent what will be delivered to the end user when your ad is displayed.
