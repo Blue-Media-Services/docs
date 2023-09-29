@@ -6,15 +6,15 @@ Ad and Campaign resources have a dedicated real time monitoring tab that allows 
 
 The events available are:
 
-* <img src="../../.gitbook/assets/image (2) (1).png" alt="Impression" data-size="line">\
+* <img src="../../.gitbook/assets/impression event.png" alt="Impression" data-size="line">\
   This event is registered any time a campaign wins the right to display an ad to the end user. This is the point where the media acquisition cost is charged.
-* <img src="../../.gitbook/assets/image (3) (1).png" alt="Delivered" data-size="line">\
+* <img src="../../.gitbook/assets/delivered event.png" alt="Delivered" data-size="line">\
   This event is registered when the end user's browser requests the ad content from our ad server. This is the point where the ad server cost is charged.
-* <img src="../../.gitbook/assets/image (4) (1).png" alt="Displayed" data-size="line">\
+* <img src="../../.gitbook/assets/displayed event.png" alt="Displayed" data-size="line">\
   This event is registered when the end user's browser loads and displays the ad in a page.
-* <img src="../../.gitbook/assets/image (5) (1).png" alt="Viewed" data-size="line">\
+* <img src="../../.gitbook/assets/viewed event.png" alt="Viewed" data-size="line">\
   This event is registered when at least 50% of the ad body is shown on the screen for at least 1 second.
-* <img src="../../.gitbook/assets/image (6) (1).png" alt="Clicked" data-size="line">\
+* <img src="../../.gitbook/assets/clicked event.png" alt="Clicked" data-size="line">\
   This event is registered when the end user clicks on the ad. For this event to be tracked you must be using the BMS Click Tracker which is enabled by default but can be disabled by editing the creative's HTML code.
 
 {% hint style="info" %}

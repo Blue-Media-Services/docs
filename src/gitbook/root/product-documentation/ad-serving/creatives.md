@@ -14,7 +14,7 @@ All creatives need to be approved by BMS to ensure that it is in accordance with
 
 ### Creating a Creative
 
-1. In the Creatives page, click on the <img src="../../.gitbook/assets/image (6) (1) (1).png" alt="Create Creative" data-size="line"> button.
+1. In the Creatives page, click on the <img src="../../.gitbook/assets/create creative.png" alt="Create Creative" data-size="line"> button.
 2.  Fill in the details:
 
     <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Creative editor screen</p></figcaption></figure>
@@ -34,7 +34,7 @@ All creatives need to be approved by BMS to ensure that it is in accordance with
 
        * This can be anything and it is entirely up to you to produce a working creative with HTML, CSS and Javascript.
        * When you provide the HTML code, we will not automatically add our click tracker. You can copy the click tracker macro (or any other macro you wish) from the bottom template assist buttons and paste it on your HTML. Please take a look at the [Macros section](creatives.md#macros) for more information.
-4. You can use the <img src="../../.gitbook/assets/image (7) (1) (1).png" alt="Preview" data-size="line"> button to check how your creative will be displayed and to make sure that it goes to the correct site when clicking on it.
+4. You can use the <img src="../../.gitbook/assets/preview.png" alt="Preview" data-size="line"> button to check how your creative will be displayed and to make sure that it goes to the correct site when clicking on it.
 5. If you are ready to send the creative for review ensure that the "Send for review" option is checked. If you wish to continue editing it later, leave it unchecked.
 6. In the end, just hit <img src="../../.gitbook/assets/save.png" alt="Save" data-size="line">.
 
@@ -54,9 +54,9 @@ Our Ad Server provides several macros that can be used within your HTML code. Th
 
 ### Editing a Creative
 
-To edit a creative use the <img src="../../.gitbook/assets/edit (1).png" alt="Edit" data-size="line"> button on the creative list. All fields are available for editing except the domain and type selectors.
+To edit a creative use the <img src="broken-reference" alt="Edit" data-size="line"> button on the creative list. All fields are available for editing except the domain and type selectors.
 
-If you modify the image URL, link or the HTML code the creative will go back to the <img src="../../.gitbook/assets/image (8) (1).png" alt="Draft" data-size="line"> status and you will need to send the creative for review again. While in draft the creative will not be shown on any campaigns.
+If you modify the image URL, link or the HTML code the creative will go back to the <img src="../../.gitbook/assets/draft status.png" alt="Draft" data-size="line"> status and you will need to send the creative for review again. While in draft the creative will not be shown on any campaigns.
 
 ### Enabling and Disabling a Creative
 
@@ -68,7 +68,7 @@ To be displayed in a campaign a creative must be enabled. If you wish to prevent
 
 Creatives that are not being used as often can be archived by clicking on the <img src="../../.gitbook/assets/archive.png" alt="Archive" data-size="line"> button. Archiving a creative does not prevent it from being used or displayed, just hides it from main view.
 
-To see all archived creatives simply turn on the <img src="../../.gitbook/assets/image (12) (1).png" alt="Archived" data-size="line"> filter. You can unarchive <img src="../../.gitbook/assets/unarchive.png" alt="Unarchive" data-size="line"> a creative to make it show again on the main list.
+To see all archived creatives simply turn on the <img src="../../.gitbook/assets/archive filter.png" alt="Archived" data-size="line"> filter. You can unarchive <img src="../../.gitbook/assets/unarchive.png" alt="Unarchive" data-size="line"> a creative to make it show again on the main list.
 
 ### Deleting a Creative
 
@@ -82,7 +82,7 @@ All creatives are reviewed to ensure that they comply with our policies and the 
 
 The review process is usually very quick. If there is any issue it will be displayed as "Rejected" with a tooltip indicating what the reason was. You can make the necessary changes and submit it for review again.
 
-Creatives that pass all validations are marked as <img src="../../.gitbook/assets/image (15).png" alt="Approved" data-size="line">.
+Creatives that pass all validations are marked as <img src="../../.gitbook/assets/approved status.png" alt="Approved" data-size="line">.
 
 A creative will only receive impressions if it is enabled by you and approved by BMS.
 
