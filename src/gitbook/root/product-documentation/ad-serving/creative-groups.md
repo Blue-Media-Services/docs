@@ -19,10 +19,18 @@ This is most useful to run A/B tests with any number of creatives to measure whi
     * Tags - up to 5 labels that can be used to aid identification and searching;
     * Domain - this is the primary domain that the creatives on this group will take the user when clicked;
     * Type - the type of creative, can be any common IAB size like "Large Leaderboard (970x90)", "Banner (468x60)", etc.
-3. Configure the creative group composition:
-   1. Select at least one creative to be a part of this group. To add more creatives use the ADD button. To remove an existing creative use the REMOVE button.
-   2. By default the system will attribute equal weight to all creatives. If you wish to direct more traffic to one creative over another, simply adjust the weights column. The system will calculate what is the approximate ratio of impressions that each one will have.
-   3. Click on the PREVIEW button to see a preview of this group.
+3.  Configure the creative group composition:
+
+    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Creative Group composition</p></figcaption></figure>
+
+    1. Select at least one creative to be a part of this group. To add more creatives use the ADD button. To remove an existing creative use the REMOVE button.
+    2.
+
+
+
+        <figure><img src="../../.gitbook/assets/add.png" alt="" width="53"><figcaption></figcaption></figure>
+    3. By default the system will attribute equal weight to all creatives. If you wish to direct more traffic to one creative over another, simply adjust the weights column. The system will calculate what is the approximate ratio of impressions that each one will have.
+    4. Click on the PREVIEW button to see a preview of this group.
 4. If all is correct, click on the SAVE button.
 
 ### Editing a Creative Group
