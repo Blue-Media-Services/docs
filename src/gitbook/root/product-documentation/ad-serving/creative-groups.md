@@ -1,40 +1,57 @@
----
-description: Learn how to create, edit and analyze your creative group's metrics here.
----
+# Creative Groups
 
-# Creative Group
+Creative Groups, as the name suggest, allow you to group several creatives while applying different weights to each.
 
-In the Creative Groups area, you can create groups of creatives of the same format and size for A/B testing.
+This is most useful to run A/B tests with any number of creatives to measure which performs better.&#x20;
 
-## <mark style="color:blue;">Creating a Creative Group</mark>
+## Managing Creative Groups
 
-1. In the Creative Group page click at the "**+ CREATIVE GROUP**" button.
-2. Fill the details:
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Creative Group list</p></figcaption></figure>
 
-* Name of your creative group;
-* Internal tag for organization;
-* Campaign domain;
-* Choose the size of your banner;
-* Add the creatives (with the same format and size) that you want to be part of your A/B test group;
+### Creating a Creative Group
 
-3. You can choose the weight you want to give each creative.&#x20;
+1. In the Creative Group page click at the CREATE CREATIVE button.
+2.  Fill the details:
 
-{% hint style="info" %}
-Remember that if the weight is the same, the platform will deliver the creatives equally, creating an A/B test. If you increase the weight, the platform will give preference to the creative with the highest weight.
-{% endhint %}
+    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Creative Group editor screen</p></figcaption></figure>
 
-4. Click "Preview" to see your group of creatives;
-5. Save.
+    * Name - how you want to call this creative group;
+    * Tags - up to 5 labels that can be used to aid identification and searching;
+    * Domain - this is the primary domain that the creatives on this group will take the user when clicked;
+    * Type - the type of creative, can be any common IAB size like "Large Leaderboard (970x90)", "Banner (468x60)", etc.
+3. Configure the creative group composition:
+   1. Select at least one creative to be a part of this group. To add more creatives use the ADD button. To remove an existing creative use the REMOVE button.
+   2. By default the system will attribute equal weight to all creatives. If you wish to direct more traffic to one creative over another, simply adjust the weights column. The system will calculate what is the approximate ratio of impressions that each one will have.
+   3. Click on the PREVIEW button to see a preview of this group.
+4. If all is correct, click on the SAVE button.
 
-## <mark style="color:blue;">Editing a creative group</mark>
+### Editing a Creative Group
 
-When editing all options remain available except the domain and type selections. Once created you cannot change the domain for a creative group.
+To edit a creative group use the <img src="../../.gitbook/assets/edit (1).png" alt="Edit" data-size="line"> button on the creative group list. All fields are available for editing except the domain and type selectors.
 
-## <mark style="color:blue;">Creative Group metrics and real time</mark>
+### Archiving and Unarchiving a Creative Group
 
-You can see all the metrics and delivery of your creative groups in real time. You can choose one or more creative groups for this view. You can make this comparison by selecting up to 10 creative groups at a time.
+Creative Groups that are not being used as often can be archived by clicking on the <img src="../../.gitbook/assets/archive.png" alt="Archive" data-size="line"> button. Archiving a creative group does not prevent it from being used or displayed, just hides it from main view.
 
-Learn more about metrics here.
+To see all archived creative groups simply turn on the <img src="../../.gitbook/assets/image (12) (1).png" alt="Archived" data-size="line"> filter. You can unarchive <img src="../../.gitbook/assets/unarchive.png" alt="Unarchive" data-size="line"> a creative group to make it show again on the main list.
 
-Learn more about real time here.
+### Deleting a Creative Group
+
+You can delete a creative group by clicking on <img src="../../.gitbook/assets/delete.png" alt="Delete" data-size="line">. If the creative group is being used, you will be presented with a list of ads that will be affected. If you confirm the deletion, the ads will be modified to remove the deleted creative group from rotation.
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Delete confirmation screen showing that the creative group is being used.</p></figcaption></figure>
+
+## Monitoring Creative Groups
+
+### Metrics Tab
+
+The metrics tab will display all metrics related to the selected creative groups or for the whole account if no creative groups are selected.
+
+Learn more about the [metrics tab](../monitoring/metrics-tab.md).
+
+### Real Time Tab
+
+The real time tab will display real time events related to the selected creative group.
+
+Learn more about the [real time tab](../monitoring/real-time-tab.md).
 
