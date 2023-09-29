@@ -54,7 +54,7 @@ Our Ad Server provides several macros that can be used within your HTML code. Th
 
 ### Editing a Creative
 
-To edit a creative use the <img src="broken-reference" alt="Edit" data-size="line"> button on the creative list. All fields are available for editing except the domain and type selectors.
+To edit a creative use the <img src="../../.gitbook/assets/edit.png" alt="Edit" data-size="line"> button on the creative list. All fields are available for editing except the domain and type selectors.
 
 If you modify the image URL, link or the HTML code the creative will go back to the <img src="../../.gitbook/assets/draft status.png" alt="Draft" data-size="line"> status and you will need to send the creative for review again. While in draft the creative will not be shown on any campaigns.
 

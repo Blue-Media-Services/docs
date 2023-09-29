@@ -6,17 +6,30 @@ description: Learn how to create, edit and analyze your Ads' metrics here.
 
 In the Ads area you will create the Ads for your campaign, adding the group of creatives you want to send to the AdExchanges for approval. You have complete control and visualization of the status of your Ad in each of the AdExchanges and you can also create rules for promoting these Ads.
 
-## <mark style="color:blue;">Creating an Ads</mark>
+## Managing Ads
 
-1. Name of your Ads;
-2. Tag for your organization;
-3. Campaign domain;
-4. Choose the size of your banner;
-5. Choose the Creative Groups you want to run your Ads;
-6. Always check that the option to send to AdExchanges is active;
-7. By saving, you have created your Ads and sent them for approval to all the AdExchanges available on the BMS.
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Ad list</p></figcaption></figure>
 
-### <mark style="color:blue;">Ad Rules</mark>
+### Creating a single Ad
+
+1. In the Ads page, click on the <img src="../../../.gitbook/assets/image (1).png" alt="Create" data-size="line"> button.
+2.  Fill in the details:
+
+    <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Ad editor screen</p></figcaption></figure>
+
+    * Name - how you want to call this ad;
+    * Tags - up to 5 labels that can be used to aid identification and searching;
+    * Domain - this is the primary domain that this ad will take the user when clicked;
+    * Type - the type of ad, can be any common IAB size like "Large Leaderboard (970x90)", "Banner (468x60)", etc.
+3. Choose a default creative group. You can pick one from the list, create a brand new one by clicking on ADD or edit the selected one by clicking on EDIT.
+4. The option "Send for review on all supported ad exchanges" is checked by default but you can uncheck it if you want to further customize your ad before having it reviewed.
+5. If all is correct, just click SAVE.
+
+### Editing an Ad
+
+To edit an Ad use the <img src="../../../.gitbook/assets/edit.png" alt="Edit" data-size="line"> button on the ad list. All fields are available for editing except the domain and type selectors.
+
+### Editing Ad Rules
 
 1. Select the Ad;
 2. Click on Edit;
@@ -29,7 +42,7 @@ If you don't change the rule, the platform will understand that your creative wi
 
 > Example: _Let's say that in the first half of the month you have a promotion for a 10% discount on products and in the second half of the month for a 20% discount. You could create two Ads with different creatives and create a period rule so that the platform makes this change automatically for you, without the need to create two different campaigns;_
 
-### <mark style="color:blue;">Ad Exchange Review</mark>
+#### Ad Exchange Review
 
 1. After creating your Ad, select it to follow the approval or rejection of the Ad Exchanges;
 2. Click on Exchange Review;
@@ -37,15 +50,31 @@ If you don't change the rule, the platform will understand that your creative wi
 4. If you want to resubmit your Ad, click on the submit arrow next to the name of the AdExchange you want to submit it to;
 5. The approval time does not depend on the BMS, but on the Ad Exchange.
 
-## <mark style="color:blue;">Editing an Ads</mark>
+### Checking the status of an Ad
 
-When editing all options remain available except the domain and type selections. Once created you cannot change the domain for an Ads.
+On the Ad list you can check at a glance if there are any issues with your configuration. You can move the mouse over the warning sign to see a description of the issue.
 
-## <mark style="color:blue;">Ads metrics and real time</mark>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Issue being displayed for an ad</p></figcaption></figure>
 
-You can see all the metrics and delivery of your Ads in real time. You can choose one or more Ads for this view. You can make this comparison by selecting up to 10 Ads at a time.
+Once all issues are addressed the ad will display a green check.
 
-Learn more about metrics here.
+### Archiving and Unarchiving an Ad
 
-Learn more about real time here.
+Ads that are not being used as often can be archived by clicking on the <img src="../../../.gitbook/assets/archive.png" alt="Archive" data-size="line"> button. Archiving an Ad does not prevent it from being used or displayed, just hides it from main view.
+
+To see all archived ads simply turn on the <img src="../../../.gitbook/assets/archive filter.png" alt="Archived" data-size="line"> filter. You can unarchive <img src="../../../.gitbook/assets/unarchive.png" alt="Unarchive" data-size="line"> an Ad to make it show again on the main list.
+
+## Monitoring Ads
+
+### Metrics Tab
+
+The metrics tab will display all metrics related to the selected ads or for the whole account if no ads are selected.
+
+Learn more about the [metrics tab](../../monitoring/metrics-tab.md).
+
+### Real Time Tab
+
+The real time tab will display real time events related to the selected ad.
+
+Learn more about the [real time tab](../../monitoring/real-time-tab.md).
 
