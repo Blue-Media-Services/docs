@@ -10,32 +10,31 @@ This is most useful to run A/B tests with any number of creatives to measure whi
 
 ### Creating a Creative Group
 
-1. In the Creative Group page click at the CREATE CREATIVE button.
-2.  Fill the details:
+1. In the Creative Group page click at the <img src="../../.gitbook/assets/image (1).png" alt="Save" data-size="line"> button.
+2. Fill the details:
 
-    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Creative Group editor screen</p></figcaption></figure>
+   <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Creative Group editor screen</p></figcaption></figure>
 
-    * Name - how you want to call this creative group;
-    * Tags - up to 5 labels that can be used to aid identification and searching;
-    * Domain - this is the primary domain that the creatives on this group will take the user when clicked;
-    * Type - the type of creative, can be any common IAB size like "Large Leaderboard (970x90)", "Banner (468x60)", etc.
-3.  Configure the creative group composition:
+   - Name - how you want to call this creative group;
+   - Tags - up to 5 labels that can be used to aid identification and searching;
+   - Domain - this is the primary domain that the creatives on this group will take the user when clicked;
+   - Type - the type of creative, can be any common IAB size like "Large Leaderboard (970x90)", "Banner (468x60)", etc.
 
-    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Creative Group composition</p></figcaption></figure>
+3. Configure the creative group composition:
 
-    1. Select at least one creative to be a part of this group. To add more creatives use the ADD button. To remove an existing creative use the REMOVE button.
-    2.
+   <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Creative Group composition</p></figcaption></figure>
 
+   1. Select at least one creative to be a part of this group. To add more creatives use the <img src="../../.gitbook/assets/add.png" alt="Add" data-size="line"> button. To remove an existing creative use the <img src="../../.gitbook/assets/remove.png" alt="Remove" data-size="line"> button.
+   2. You can create a new creative straight from this editor by clicking on the <img src="../../.gitbook/assets/create.png" alt="Create" data-size="line"> button or you can edit an existing creative by clicking on the <img src="../../.gitbook/assets/edit.png" alt="Edit" data-size="line"> button.
+   3. By default the system will attribute equal weight to all creatives. If you wish to direct more traffic to one creative over another, simply adjust the weights column. The system will calculate what is the approximate ratio of impressions that each one will have.
+   4. Click on the <img src="../../.gitbook/assets/preview group.png" alt="Preview Group"> button to see a preview of this group:
+   <figure><img src="../../.gitbook/assets/creative group preview.png" alt=""><figcaption><p>Creative Group editor screen</p></figcaption></figure>
 
-
-        <figure><img src="../../.gitbook/assets/add.png" alt="" width="53"><figcaption></figcaption></figure>
-    3. By default the system will attribute equal weight to all creatives. If you wish to direct more traffic to one creative over another, simply adjust the weights column. The system will calculate what is the approximate ratio of impressions that each one will have.
-    4. Click on the PREVIEW button to see a preview of this group.
-4. If all is correct, click on the SAVE button.
+4. If all is correct, click on the <img src="../../.gitbook/assets/save.png" alt="Save" data-size="line"> button.
 
 ### Editing a Creative Group
 
-To edit a creative group use the <img src="../../.gitbook/assets/edit (1).png" alt="Edit" data-size="line"> button on the creative group list. All fields are available for editing except the domain and type selectors.
+To edit a creative group use the <img src="../../.gitbook/assets/edit.png" alt="Edit" data-size="line"> button on the creative group list. All fields are available for editing except the domain and type selectors.
 
 ### Archiving and Unarchiving a Creative Group
 
@@ -62,4 +61,3 @@ Learn more about the [metrics tab](../monitoring/metrics-tab.md).
 The real time tab will display real time events related to the selected creative group.
 
 Learn more about the [real time tab](../monitoring/real-time-tab.md).
-
