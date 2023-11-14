@@ -15,25 +15,28 @@ All creatives need to be approved by BMS to ensure that it is in accordance with
 ### Creating a Creative
 
 1. In the Creatives page, click on the <img src="../../.gitbook/assets/create creative.png" alt="Create Creative" data-size="line"> button.
-2.  Fill in the details:
+2. Fill in the details:
 
-    <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Creative editor screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Creative editor screen</p></figcaption></figure>
 
-    * Name - how you want to call this creative;
-    * Tags - up to 5 labels that can be used to aid identification and searching;
-    * Domain - this is the primary domain that this creative will take the user when clicked;
-    * Type - the type of creative, can be any common IAB size like "Large Leaderboard (970x90)", "Banner (468x60)", etc.
+* Name - how you want to call this creative;
+* Tags - up to 5 labels that can be used to aid identification and searching;
+* Domain - this is the primary domain that this creative will take the user when clicked;
+* Type - the type of creative, can be any common IAB size like "Large Leaderboard (970x90)", "Banner (468x60)", etc.&#x20;
+
 3. To design your creative you have two options:
-   * To use a simple image with a link, on the "Static Image" tab, fill:
-     * The image you want to display. You can paste an URL for an image you are already hosting or you can use the integration with the BMS Media Library to find or upload a new one.
-       * The BMS Media Library supports uploads of static images or GIFs as long as the file size is 2 MB or less.
-     * The link you want to open when the image is clicked. You can use any https URL with any query strings such as UTMs. We will add our standard click tracker to be able to show metrics for the creative.
-   *   To use a fully customized creative, switch to the "Paste HTML" tab and add the final HTML code that will be displayed when the user sees your creative.
 
-       <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Creative HTML customization tab.</p></figcaption></figure>
+* To use a simple image with a link, on the "Static Image" tab, fill:
+  * The image you want to display. You can paste an URL for an image you are already hosting or you can use the integration with the BMS Media Library to find or upload a new one.
+    * The BMS Media Library supports uploads of static images or GIFs as long as the file size is 2 MB or less.
+  * The link you want to open when the image is clicked. You can use any https URL with any query strings such as UTMs. We will add our standard click tracker to be able to show metrics for the creative.
+*   To use a fully customized creative, switch to the "Paste HTML" tab and add the final HTML code that will be displayed when the user sees your creative.
 
-       * This can be anything and it is entirely up to you to produce a working creative with HTML, CSS and Javascript.
-       * When you provide the HTML code, we will not automatically add our click tracker. You can copy the click tracker macro (or any other macro you wish) from the bottom template assist buttons and paste it on your HTML. Please take a look at the [Macros section](creatives.md#macros) for more information.
+    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Creative HTML customization tab.</p></figcaption></figure>
+
+    * This can be anything and it is entirely up to you to produce a working creative with HTML, CSS and Javascript.
+    * When you provide the HTML code, we will not automatically add our click tracker. You can copy the click tracker macro (or any other macro you wish) from the bottom template assist buttons and paste it on your HTML. Please take a look at the [Macros section](creatives.md#macros) for more information.
+
 4. You can use the <img src="../../.gitbook/assets/preview.png" alt="Preview" data-size="line"> button to check how your creative will be displayed and to make sure that it goes to the correct site when clicking on it.
 5. If you are ready to send the creative for review ensure that the "Send for review" option is checked. If you wish to continue editing it later, leave it unchecked.
 6. In the end, just hit <img src="../../.gitbook/assets/save.png" alt="Save" data-size="line">.
