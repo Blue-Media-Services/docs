@@ -6,9 +6,9 @@ description: Learn how to create, edit and analyze the metrics of your Bulk Ads 
 
 In the Bulk Ads area, you can upload multiple static images or gifs at once. Creating the corresponding creative and creative group for each image.
 
-Clik on ![](<../../../.gitbook/assets/image (13).png>)either in the Ads area or in the Campaigns area to get started.
+Clik on ![](<../../../.gitbook/assets/image (13) (1).png>)either in the Ads area or in the Campaigns area to get started.
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Bulk Ads area</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Bulk Ads area</p></figcaption></figure>
 
 1. Name of your Bulk Ads;
 2. Tag name;
@@ -30,7 +30,7 @@ Clik on ![](<../../../.gitbook/assets/image (13).png>)either in the Ads area or 
        * GIFs -  maximum size 2bm per image
 6. After selecting all the images you want to use, you can keep the **Sync Tag Editing** button to use the same Tags on all the images or disable this option and manually place different Tags on your image one by one;
 
-<figure><img src="../../../.gitbook/assets/image (21).png" alt="" width="563"><figcaption><p>Example: after uploading images and gifs.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21) (1).png" alt="" width="563"><figcaption><p>Example: after uploading images and gifs.</p></figcaption></figure>
 
 7. After saving your images, the platform will make them available on a public server and will check that the images are in the correct formats for creating your Creative, Creative Group and Ads. If the image is not in the correct format, the platform will flag it for you.
 

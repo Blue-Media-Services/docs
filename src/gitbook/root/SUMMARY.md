@@ -9,7 +9,7 @@
 
 ## Solutions
 
-* [Branding](solutions/branding.md)
+* [Creating a Branding Campaign](solutions/branding.md)
 * [Retargeting](solutions/retargeting.md)
 
 ## Product documentation

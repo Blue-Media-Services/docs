@@ -6,14 +6,14 @@ They are very useful if you wish to display several variants of the same banners
 
 ## Managing Creative Groups
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Creative Group list</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Creative Group list</p></figcaption></figure>
 
 ### Creating a Creative Group
 
 1. In the Creative Group page click at the <img src="../../.gitbook/assets/create creative group.png" alt="Save" data-size="line"> button.
 2.  Fill the details:
 
-    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Creative Group editor screen</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Creative Group editor screen</p></figcaption></figure>
 
     * Name - how you want to call this creative group;
     * Tags - up to 5 labels that can be used to aid identification and searching;
@@ -21,7 +21,7 @@ They are very useful if you wish to display several variants of the same banners
     * Type - the type of creative, can be any common IAB size like "Large Leaderboard (970x90)", "Banner (468x60)", etc.
 3.  Configure the creative group composition:
 
-    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Creative Group composition</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Creative Group composition</p></figcaption></figure>
 
     1. Select at least one creative to be a part of this group. To add more creatives use the <img src="../../.gitbook/assets/add.png" alt="Add" data-size="line"> button. To remove an existing creative use the <img src="../../.gitbook/assets/remove.png" alt="Remove" data-size="line"> button.
     2. You can create a new creative straight from this editor by clicking on the <img src="../../.gitbook/assets/create.png" alt="Create" data-size="line"> button or you can edit an existing creative by clicking on the <img src="../../.gitbook/assets/edit.png" alt="Edit" data-size="line"> button.
@@ -53,7 +53,7 @@ To see all archived creative groups simply turn on the <img src="../../.gitbook/
 
 You can delete a creative group by clicking on <img src="../../.gitbook/assets/delete.png" alt="Delete" data-size="line">. If the creative group is being used, you will be presented with a list of ads that will be affected. If you confirm the deletion, the ads will be modified to remove the deleted creative group from rotation.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Delete confirmation screen showing that the creative group is being used.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Delete confirmation screen showing that the creative group is being used.</p></figcaption></figure>
 
 ## Monitoring Creative Groups
 
@@ -67,7 +67,7 @@ Learn more about the [metrics tab](../monitoring/metrics-tab.md).
 
 To check the performance of the creatives in a group, select the desired group on the list and then switch the metrics to be grouped by Creative instead of by Creative Group. You can then compare any of the available metrics between the creatives being tested in the group.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Checking metrics of an A/B creative test</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Checking metrics of an A/B creative test</p></figcaption></figure>
 
 ### Real Time Tab
 

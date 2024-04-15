@@ -17,7 +17,7 @@ All creatives need to be approved by BMS to ensure that it is in accordance with
 1. In the Creatives page, click on the <img src="../../.gitbook/assets/create creative.png" alt="Create Creative" data-size="line"> button.
 2. Fill in the details:
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Creative editor screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Creative editor screen</p></figcaption></figure>
 
 * Name - how you want to call this creative;
 * Tags - up to 5 labels that can be used to aid identification and searching;
@@ -32,7 +32,7 @@ All creatives need to be approved by BMS to ensure that it is in accordance with
   * The link you want to open when the image is clicked. You can use any https URL with any query strings such as UTMs. We will add our standard click tracker to be able to show metrics for the creative.
 *   To use a fully customized creative, switch to the "Paste HTML" tab and add the final HTML code that will be displayed when the user sees your creative.
 
-    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Creative HTML customization tab.</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Creative HTML customization tab.</p></figcaption></figure>
 
     * This can be anything and it is entirely up to you to produce a working creative with HTML, CSS and Javascript.
     * When you provide the HTML code, we will not automatically add our click tracker. You can copy the click tracker macro (or any other macro you wish) from the bottom template assist buttons and paste it on your HTML. Please take a look at the [Macros section](creatives.md#macros) for more information.
@@ -46,13 +46,13 @@ All creatives need to be approved by BMS to ensure that it is in accordance with
 Our Ad Server provides several macros that can be used within your HTML code. They are:
 
 * BMS Click Tracker - these macros will enable BMS to track clicks on your ads. If you don't install any of these, no click event or metric will be registered.
-  * <img src="../../.gitbook/assets/image (17).png" alt="Unescaped Click URL" data-size="line">\
+  * <img src="../../.gitbook/assets/image (17) (1).png" alt="Unescaped Click URL" data-size="line">\
     This is the most used version. It must be installed at the very beginning of the link, before any other tracker and before the final URL itself.
-  * <img src="../../.gitbook/assets/image (18).png" alt="Escaped Click URL" data-size="line">\
+  * <img src="../../.gitbook/assets/image (18) (1).png" alt="Escaped Click URL" data-size="line">\
     This version is similar to the previous but it should only be used if you wish to have an external click tracker that does not support unescaped URLs.
-  * <img src="../../.gitbook/assets/image (19).png" alt="Double-escaped Click URL" data-size="line">\
+  * <img src="../../.gitbook/assets/image (19) (1).png" alt="Double-escaped Click URL" data-size="line">\
     This version is similar to the previous two but it should only be used if you wish to have a click tracker chain of two or more where the external click tackers do not support unescaped URLs.
-* <img src="../../.gitbook/assets/image (20).png" alt="Cache Buster" data-size="line">\
+* <img src="../../.gitbook/assets/image (20) (1).png" alt="Cache Buster" data-size="line">\
   This macro will inject a random sequence of numbers and is most commonly used to ensure that the requests will not be cached.
 
 ### Editing a Creative
@@ -63,7 +63,7 @@ If you modify the image URL, link or the HTML code the creative will go back to 
 
 ### Enabling and Disabling a Creative
 
-![](<../../.gitbook/assets/image (9) (1) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1) (1).png>)
 
 To be displayed in a campaign a creative must be enabled. If you wish to prevent a creative from being displayed you can disable it and it will immediately cease impressions.
 
@@ -77,7 +77,7 @@ To see all archived creatives simply turn on the <img src="../../.gitbook/assets
 
 You can delete a creative by clicking on <img src="../../.gitbook/assets/delete.png" alt="Delete" data-size="line">. If the creative is being used, you will be presented with a list of creative groups that will be affected. If you confirm the deletion, the creative groups will be modified to remove the deleted creative from rotation.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Delete confirmation screen showing that the creative is being used.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Delete confirmation screen showing that the creative is being used.</p></figcaption></figure>
 
 ## Review Process
 
