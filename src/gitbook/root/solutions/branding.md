@@ -105,4 +105,4 @@ You can also check your metrics through the **Overview** page, you can reach it 
 
 All metrics have a <img src="../.gitbook/assets/image (19) (2).png" alt="" data-size="line"> to help you identify what that metric is about.
 
-You can learn more about metrics in the [Metrics Tab Documentation page](../product-documentation/monitoring/metrics-tab.md).
+You can learn more about metrics in the [Metrics Tab Documentation page](../product-documentation/campaigns/monitoring-campaigns.md).
