@@ -6,7 +6,7 @@ description: Learn how to select your campaign's ads.
 
 ### Choosing which Ads to show
 
-To select an Ad to your campaign press the <img src="../../.gitbook/assets/image (3).png" alt="Select Ads" data-size="line"> button.
+To select an Ad to your campaign press the <img src="../../.gitbook/assets/image (3) (3).png" alt="Select Ads" data-size="line"> button.
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt="" width="489"><figcaption><p>Campaign's Ads Section</p></figcaption></figure>
 

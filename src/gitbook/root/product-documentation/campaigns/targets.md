@@ -40,11 +40,11 @@ You can choose who to show ads to based on where these users are located by eith
 
 ### Creating a Target
 
-In the selected Campaign page, Press <img src="../../.gitbook/assets/image (3).png" alt="Create Target" data-size="line">to start creating your target.
+In the selected Campaign page, Press <img src="../../.gitbook/assets/image (3) (3).png" alt="Create Target" data-size="line">to start creating your target.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="505"><figcaption><p>Targets List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (3).png" alt="" width="505"><figcaption><p>Targets List</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption><p>Create Target Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt="" width="563"><figcaption><p>Create Target Screen</p></figcaption></figure>
 
 When adding targets, pay attention to the <img src="../../.gitbook/assets/image (84).png" alt="Check" data-size="original"> and <img src="../../.gitbook/assets/image (85).png" alt="Exclude" data-size="line"> signs, you will be selecting or excluding a filter to your campaign, and it will be **listed** in your target filter what will be targeted or excluded from that specific target.
 

@@ -6,11 +6,11 @@ description: Learn how to create a campaign an get it ready for configuration.
 
 ### Creating a Campaign
 
-In the Campaigns Area click on the <img src="../../.gitbook/assets/image (10).png" alt="Create Campaign" data-size="line"> Button.
+In the Campaigns Area click on the <img src="../../.gitbook/assets/image (10) (3).png" alt="Create Campaign" data-size="line"> Button.
 
 Fill in the details.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt="" width="563"><figcaption><p>Campaign Creation Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (3).png" alt="" width="563"><figcaption><p>Campaign Creation Screen</p></figcaption></figure>
 
 * Name - Choose a name for your campaign;
 * Tags - up to 5 labels that can be used to aid identification and searching;
@@ -36,7 +36,7 @@ This will be your view after successfully creating a campaign.
 
 ### Configuring your Campaign
 
-To start configuring your Campaign, check the <img src="../../.gitbook/assets/image (6).png" alt="Check Box" data-size="line"> of your desired campaign and your configuration tab will be displayed accordingly.
+To start configuring your Campaign, check the <img src="../../.gitbook/assets/image (6) (3).png" alt="Check Box" data-size="line"> of your desired campaign and your configuration tab will be displayed accordingly.
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Full Campaign Screen</p></figcaption></figure>
 
@@ -48,13 +48,13 @@ In order to enable your campaign, you **must** have at least one Target and Ad a
 
 Note: If this notice appears in the status of your creative, ad, or campaign, it means that the material was not approved by the platform or ad exchanges. In this case, BMS will inform you of the issue in question (in detail) by hovering the cursor on the sign, and you can make the necessary adjustments before activation.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Fulfilled Campaign</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Fulfilled Campaign</p></figcaption></figure>
 
 To enable your campaign simply flip the Enable toggle.
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="269"><figcaption><p>Campaign Enabled</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt="" width="269"><figcaption><p>Campaign Enabled</p></figcaption></figure>
 
 </div>
 
