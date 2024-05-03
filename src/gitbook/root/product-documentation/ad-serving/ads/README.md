@@ -8,7 +8,7 @@ In the Ads area you will create the Ads for your campaign, adding the group of c
 
 ## Managing Ads
 
-<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Ad list</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21) (1).png" alt=""><figcaption><p>Ad list</p></figcaption></figure>
 
 ### Creating a single Ad
 
