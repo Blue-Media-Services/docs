@@ -4,13 +4,13 @@ Branding campaigns aim to increase the awareness of a given brand and bring the 
 
 To create a branding campaign you must already have your ads setup in our Ad Server. [Check how to do that here.](../product-documentation/ad-serving/ads/) With the ads ready, here is an overview:
 
-1. Create a new campaign.
-2. Define a daily budget.
-3. Configure one or more targets.
-4. Choose which ads to show.
-5. Turn on the campaign.
-6. Watch the impressions and clicks in real-time.
-7. Check metrics.
+1. [Create a new campaign](branding.md#creating-a-new-campaign)
+2. [Define a daily budget](branding.md#defining-a-budget)
+3. [Configure one or more targets](branding.md#configuring-one-or-more-targets)
+4. [Choosing which ads to show](branding.md#choosing-which-a-ds-to-show)
+5. [Turn on the campaign](branding.md#turn-on-the-campaign)
+6. [Watch the impressions and clicks in real-time](branding.md#watch-the-impressions-and-clicks-in-real-time)
+7. [Check metrics](branding.md#check-metrics)
 
 ### Creating a new campaign
 
