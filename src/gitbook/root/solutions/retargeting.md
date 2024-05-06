@@ -1,4 +1,23 @@
+---
+description: >-
+  Retargeting is an ad technique that shows ads based on your product catalog to
+  users who previously interacted with your website or app intending to increase
+  conversions.
+---
+
 # Creating a Retargeting Campaign
+
+To help you create a retargeting campaign from the beginning until it's running we've developed this article, here is what we're going to approach for this purpose:
+
+* [Creating and Installing a Cookie Pool](retargeting.md#creating-a-cookie-pool)
+* [Creating a Catalog and Import Channels](retargeting.md#creating-a-catalog)
+* [Creating, Setting up, and Installing a Tracker](retargeting.md#creating-trackers)
+* [Creating Recommendation Models](retargeting.md#creating-a-recommendation-model)
+* [Using the Creative Builder to Create Builds and Blueprints](retargeting.md#creative-builder)
+* [Creating Creative Groups](retargeting.md#creating-a-creative-group)
+* [Creating Ads and Bulk Ads](retargeting.md#creating-an-a-d)
+* [Setting Up Rules for Ads](retargeting.md#creating-a-rule)
+* [Creating a Retargeting Campaign](retargeting.md#creating-a-campaign)
 
 ## Cookie Pool
 
