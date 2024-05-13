@@ -28,17 +28,17 @@ _Attention! The higher the Frequency Cap, the more you'll appear to the same use
 
 * QPS: Amount of bid requests your campaign will be sending per second.
 
-After filling all fields, click on the <img src="../../.gitbook/assets/image (14).png" alt="Save" data-size="line"> button, if there is any invalid field, it will be shown so you can review what is missing.
+After filling all fields, click on the <img src="../../.gitbook/assets/image (14) (3).png" alt="Save" data-size="line"> button, if there is any invalid field, it will be shown so you can review what is missing.
 
 This will be your view after successfully creating a campaign.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Campaign List Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (3).png" alt=""><figcaption><p>Campaign List Screen</p></figcaption></figure>
 
 ### Configuring your Campaign
 
 To start configuring your Campaign, check the <img src="../../.gitbook/assets/image (6) (3).png" alt="Check Box" data-size="line"> of your desired campaign and your configuration tab will be displayed accordingly.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Full Campaign Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (3).png" alt=""><figcaption><p>Full Campaign Screen</p></figcaption></figure>
 
 Configure your [Budget](budgets.md), [Targets](targets.md) and [Ads](managing-ads.md).
 
@@ -48,7 +48,7 @@ In order to enable your campaign, you **must** have at least one Target and Ad a
 
 Note: If this notice appears in the status of your creative, ad, or campaign, it means that the material was not approved by the platform or ad exchanges. In this case, BMS will inform you of the issue in question (in detail) by hovering the cursor on the sign, and you can make the necessary adjustments before activation.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Fulfilled Campaign</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (3).png" alt=""><figcaption><p>Fulfilled Campaign</p></figcaption></figure>
 
 To enable your campaign simply flip the Enable toggle.
 

@@ -32,3 +32,4 @@
 * [Monitoring](product-documentation/monitoring/README.md)
   * [Metrics Tab](product-documentation/monitoring/metrics-tab.md)
   * [Real Time Tab](product-documentation/monitoring/real-time-tab.md)
+* [Media](product-documentation/media.md)

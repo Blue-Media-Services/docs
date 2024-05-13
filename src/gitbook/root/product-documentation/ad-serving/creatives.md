@@ -32,7 +32,7 @@ All creatives need to be approved by BMS to ensure that it is in accordance with
   * The link you want to open when the image is clicked. You can use any https URL with any query strings such as UTMs. We will add our standard click tracker to be able to show metrics for the creative.
 *   To use a fully customized creative, switch to the "Paste HTML" tab and add the final HTML code that will be displayed when the user sees your creative.
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Creative HTML customization tab.</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Creative HTML customization tab.</p></figcaption></figure>
 
     * This can be anything and it is entirely up to you to produce a working creative with HTML, CSS and Javascript.
     * When you provide the HTML code, we will not automatically add our click tracker. You can copy the click tracker macro (or any other macro you wish) from the bottom template assist buttons and paste it on your HTML. Please take a look at the [Macros section](creatives.md#macros) for more information.
@@ -63,7 +63,7 @@ If you modify the image URL, link or the HTML code the creative will go back to 
 
 ### Enabling and Disabling a Creative
 
-![](<../../.gitbook/assets/image (9) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1) (1) (1).png>)
 
 To be displayed in a campaign a creative must be enabled. If you wish to prevent a creative from being displayed you can disable it and it will immediately cease impressions.
 
