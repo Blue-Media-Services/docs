@@ -29,6 +29,7 @@
 * [Data Management Platform (DMP)](product-documentation/dmp/README.md)
   * [Cookie Pools](product-documentation/dmp/cookie-pools.md)
   * [Trackers](product-documentation/dmp/trackers.md)
+  * [Metrics](product-documentation/dmp/metrics.md)
 * [Monitoring](product-documentation/monitoring/README.md)
   * [Metrics Tab](product-documentation/monitoring/metrics-tab.md)
   * [Real Time Tab](product-documentation/monitoring/real-time-tab.md)

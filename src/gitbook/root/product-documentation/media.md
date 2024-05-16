@@ -20,15 +20,15 @@ If no media is selected, you will be presented with Account-wide metrics.
 
 ### Uploading a Media
 
-To upload media click on <img src="../.gitbook/assets/image.png" alt="Upload Media" data-size="line">, you can then drop images to the screen or manually select files by browsing them.
+To upload media click on <img src="../.gitbook/assets/image (4).png" alt="Upload Media" data-size="line">, you can then drop images to the screen or manually select files by browsing them.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="539"><figcaption><p>Upload Media Screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (5).png" alt="" width="539"><figcaption><p>Upload Media Screen</p></figcaption></figure>
 
 After selecting all media that you want to upload, you have the option to rename them and set tags to better identify your media.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="539"><figcaption><p>Selected Media</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (4).png" alt="" width="539"><figcaption><p>Selected Media</p></figcaption></figure>
 
-Then after customizing your media, click on <img src="../.gitbook/assets/image (3).png" alt="Save" data-size="line"> to finish your upload.
+Then after customizing your media, click on <img src="../.gitbook/assets/image (3) (4).png" alt="Save" data-size="line"> to finish your upload.
 
 ### Editing a media
 
@@ -36,7 +36,7 @@ You can alter your view between Grid and List view by selecting the <img src="..
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Edit Media Screen</p></figcaption></figure>
 
-You can then edit the name and tags for each media, after making the necessary changes, click on  <img src="../.gitbook/assets/image (3).png" alt="Save" data-size="line">.
+You can then edit the name and tags for each media, after making the necessary changes, click on  <img src="../.gitbook/assets/image (3) (4).png" alt="Save" data-size="line">.
 
 ### Archiving and Unarchiving a Media
 
