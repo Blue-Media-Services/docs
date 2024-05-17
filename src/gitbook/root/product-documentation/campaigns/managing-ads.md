@@ -12,19 +12,19 @@ To select an Ad to your campaign press the <img src="../../.gitbook/assets/image
 
 A screen will pop up and it will be displayed the created ads for that current campaign's **domain**.
 
-<figure><img src="../../.gitbook/assets/image (21) (2).png" alt="" width="563"><figcaption><p>Ads List Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt="" width="563"><figcaption><p>Ads List Screen</p></figcaption></figure>
 
-Select a previously created AD or create new ones by pressing the <img src="../../.gitbook/assets/image (22) (2).png" alt="Create AD" data-size="line"> button, alternatively, if you wish to create ads in bulk, you also have that option through the <img src="../../.gitbook/assets/image (23) (2).png" alt="Create Bulk Ad" data-size="line"> button.
+Select a previously created AD or create new ones by pressing the <img src="../../.gitbook/assets/image (22).png" alt="Create AD" data-size="line"> button, alternatively, if you wish to create ads in bulk, you also have that option through the <img src="../../.gitbook/assets/image (23).png" alt="Create Bulk Ad" data-size="line"> button.
 
 {% hint style="info" %}
 Learn more about Ads Creation and Management [**here**](../ad-serving/)**.**
 {% endhint %}
 
-After selecting your ads, click on <img src="../../.gitbook/assets/image (24) (2).png" alt="Select" data-size="line"> button to confirm.
+After selecting your ads, click on <img src="../../.gitbook/assets/image (24).png" alt="Select" data-size="line"> button to confirm.
 
 You can add as many ads as you need to your campaign.
 
-<figure><img src="../../.gitbook/assets/image (25) (2).png" alt="" width="482"><figcaption><p>Campaign's added Ads</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt="" width="482"><figcaption><p>Campaign's added Ads</p></figcaption></figure>
 
 ### Preview your Ad
 

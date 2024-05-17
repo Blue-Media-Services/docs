@@ -16,7 +16,7 @@ There are 2 visualization options available:
 
 This option will show your cookie pools' results as cards containing graphics:
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Cookie Pools' Metrics Tab - Metrics Cards Visualization</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption><p>Cookie Pools' Metrics Tab - Metrics Cards Visualization</p></figcaption></figure>
 
 Each card contains relevant data about your cookie pools:
 
@@ -26,21 +26,21 @@ Each card contains relevant data about your cookie pools:
 * Sync Count: The amount of cookies synchronizations.
 * Time Until Expiration: The amount of time a cookie will be available in the pool before expiring.
 
-It's possible to export the data contained on each metric card by clicking on the desired card and then clicking on the download button <img src="../../.gitbook/assets/image (23).png" alt="" data-size="line">, after selecting the desired time frame.
+It's possible to export the data contained on each metric card by clicking on the desired card and then clicking on the download button <img src="../../.gitbook/assets/image (125).png" alt="" data-size="line">, after selecting the desired time frame.
 
 ### Data Table
 
 This option will bring the same data that are on the metric cards in table format:
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption><p>Cookie Pools' Metric Tab - Data Table Visualizitation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption><p>Cookie Pools' Metric Tab - Data Table Visualizitation</p></figcaption></figure>
 
-This visualization option allows you to export the data by clicking on the download button <img src="../../.gitbook/assets/image (23).png" alt="" data-size="line">, you can also visualize the table in full-screen mode by clicking on ![](<../../.gitbook/assets/image (24).png>).
+This visualization option allows you to export the data by clicking on the download button <img src="../../.gitbook/assets/image (125).png" alt="" data-size="line">, you can also visualize the table in full-screen mode by clicking on ![](<../../.gitbook/assets/image (126).png>).
 
 ## Trackers
 
 To access the metrics tab select the trackers which you want to visualize data on the trackers' list:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Trackers' Metrics Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption><p>Trackers' Metrics Tab</p></figcaption></figure>
 
 We can select more than one tracker, however, the option 'Group by' is only available when selecting only one tracker, when selecting more than one tracker, the data will be grouped by tracker and this option won't be displayed.
 
@@ -60,7 +60,7 @@ When grouping by tracker all the data collected by the selected tracker will be 
 
 ### Grouping by Event&#x20;
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Trackers' Metrics tab - Grouped by Event</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption><p>Trackers' Metrics tab - Grouped by Event</p></figcaption></figure>
 
 When grouping by event the displayed metrics will be separated according to the event to which they belong, these are the available metric cards or data table columns:
 
@@ -74,7 +74,7 @@ One of the features on the metrics tab is defining a time frame and a period in 
 
 <div align="center">
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Metrics Tab - Period</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption><p>Metrics Tab - Period</p></figcaption></figure>
 
  
 
@@ -86,4 +86,4 @@ We can select a time frame to visualize the data collected by our trackers or co
 
 Additionally, it's also possible to set a period to define measurement time. For example, suppose you select a time frame of 1 day and a period of 1 hour. In that case, all the results on the last day will be displayed and divided into 1 hour periods, so you can gather knowledge about what hours of the day your users are more active.
 
-To update your results click on the refresh button <img src="../../.gitbook/assets/image (3).png" alt="" data-size="original">.
+To update your results click on the refresh button <img src="../../.gitbook/assets/image (122).png" alt="" data-size="original">.
