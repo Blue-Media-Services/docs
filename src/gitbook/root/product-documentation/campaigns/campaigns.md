@@ -72,7 +72,7 @@ To check your archived campaigns, click on <img src="../../.gitbook/assets/image
 
 If you need to delete a campaign simply click on ![Delete Campaign](<../../.gitbook/assets/image (81).png>) and a confirmation screen will be displayed, this action cannot be undone and you will have to manually type the campaign name to delete it.
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption><p>Campaign Delete Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (1).png" alt=""><figcaption><p>Campaign Delete Screen</p></figcaption></figure>
 
 
 
@@ -105,6 +105,6 @@ In the metrics tab you can explore several metrics, grouping values by specific 
 * Metric Cards: This manner is an easier way to view your metrics and compare them with others since they will be showing you a graphic and pointing to each group chosen.
 * Data Table: By selecting this visualization method, you can either check on your screen the data requested or download it as .csv and then make your own filters and work with the values shown. To download it simply select the visualization method and then click on ![Download CSV](https://docs.bluems.com/\~gitbook/image?url=https%3A%2F%2F2773629451-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FhY34GDQYan7GqviubCLT%252Fuploads%252FXG9nhYgglIIxtHZhC0Wb%252Fimage.png%3Falt%3Dmedia%26token%3Df73a080c-878b-4d94-b04e-ee2820289c86\&width=45\&dpr=4\&quality=100\&sign=41fab3d3d38e3aa19106157d140e55c4a7cf0b11d34a32d901b358cf2216395f) to start downloading your metrics.
 
-In every metric you will have a <img src="../../.gitbook/assets/image (38).png" alt="Info" data-size="line"> which will precisely explain what that metric represents.
+In every metric you will have a <img src="../../.gitbook/assets/image (38) (1).png" alt="Info" data-size="line"> which will precisely explain what that metric represents.
 
-You can also **monitor** your campaign through our <img src="../../.gitbook/assets/image (32).png" alt="Overview" data-size="line"> tab [here](monitoring-campaigns.md).
+You can also **monitor** your campaign through our <img src="../../.gitbook/assets/image (32) (1).png" alt="Overview" data-size="line"> tab [here](metrics.md).

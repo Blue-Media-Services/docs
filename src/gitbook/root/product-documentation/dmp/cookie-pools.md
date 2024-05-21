@@ -16,7 +16,7 @@ In the context of digital advertising and marketing, a cookie pool can serve sev
 
 ## Managing Cookie Pools
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Cookie Pools list</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Cookie Pools list</p></figcaption></figure>
 
 ### Creating a Cookie Pool
 

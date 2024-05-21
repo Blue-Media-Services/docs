@@ -52,7 +52,7 @@ Our Ad Server provides several macros that can be used within your HTML code. Th
     This version is similar to the previous but it should only be used if you wish to have an external click tracker that does not support unescaped URLs.
   * <img src="../../.gitbook/assets/image (19) (1).png" alt="Double-escaped Click URL" data-size="line">\
     This version is similar to the previous two but it should only be used if you wish to have a click tracker chain of two or more where the external click tackers do not support unescaped URLs.
-* <img src="../../.gitbook/assets/image (20) (1).png" alt="Cache Buster" data-size="line">\
+* <img src="../../.gitbook/assets/image (20) (1) (1).png" alt="Cache Buster" data-size="line">\
   This macro will inject a random sequence of numbers and is most commonly used to ensure that the requests will not be cached.
 
 ### Editing a Creative

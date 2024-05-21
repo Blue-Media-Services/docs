@@ -60,7 +60,7 @@ It is time to start the campaign! On the main table just switch it on by flippin
 
 **Note**: You can **enable** or **disable** your campaign at anytime and also make real time changes while having the campaign active. Any changes you make will take up to 15 seconds to take effect.
 
-Please check that the campaign has a green check: <img src="../.gitbook/assets/image (48).png" alt="" data-size="line">. This symbol will change to a <img src="../.gitbook/assets/image (16) (2).png" alt="Issue Sign" data-size="line"> sign if there are any issues that would prevent the campaign from running effectively. By hovering the cursor over the exclamation mark you will be presented with the reason for the warning.
+Please check that the campaign has a green check: <img src="../.gitbook/assets/image (48) (1).png" alt="" data-size="line">. This symbol will change to a <img src="../.gitbook/assets/image (16) (2).png" alt="Issue Sign" data-size="line"> sign if there are any issues that would prevent the campaign from running effectively. By hovering the cursor over the exclamation mark you will be presented with the reason for the warning.
 
 ### Watch the impressions and clicks in real-time
 
@@ -105,4 +105,4 @@ You can also check your metrics through the **Overview** page, you can reach it 
 
 All metrics have a <img src="../.gitbook/assets/image (19) (2).png" alt="" data-size="line"> to help you identify what that metric is about.
 
-You can learn more about metrics in the [Metrics Tab Documentation page](../product-documentation/campaigns/monitoring-campaigns.md).
+You can learn more about metrics in the [Metrics Tab Documentation page](../product-documentation/campaigns/metrics.md).

@@ -28,16 +28,16 @@ Use the cookie pool feature to gather more data about audience segmentation and 
 ### Creating a Cookie Pool
 
 1. On the [BMS homepage](https://console.bluems.com/), in the DMP section, click on Cookie Pools.
-2. Click on <img src="../.gitbook/assets/image (36) (1).png" alt="+ cookie pool button" data-size="line"> to create a Cookie Pool.
+2. Click on <img src="../.gitbook/assets/image (36) (1) (1).png" alt="+ cookie pool button" data-size="line"> to create a Cookie Pool.
 3. Now you can set a Name and Tags for it.
 4. Insert your domain and select the exchanges you desire.
 5. Set the period and the size of the cookie pool.
-6. Click on <img src="../.gitbook/assets/image (32) (1).png" alt="Save Button" data-size="line"> to save your cookie pool.
+6. Click on <img src="../.gitbook/assets/image (32) (1) (1).png" alt="Save Button" data-size="line"> to save your cookie pool.
 
 ### Installing a Cookie Pool
 
 1. On the [Cookie Pools page](https://console.bluems.com/dmp/cookie-pools), select the tab install instructions.
-2. Click on <img src="../.gitbook/assets/image (37) (1).png" alt="Copy button" data-size="line"> to copy the cookie pool tag.
+2. Click on <img src="../.gitbook/assets/image (37) (1) (1).png" alt="Copy button" data-size="line"> to copy the cookie pool tag.
 3. Add this code to the \<head> tag of the pages where you want your users to be added to the pool.
    * We recommend you ask your website's developer to perform this action.
    * Alternatively, you can install this tag on your website using Google Tag Manager (GTM).
@@ -49,14 +49,14 @@ Once you have created a cookie pool, it's time to build your product catalog. Th
 ### Creating a Catalog
 
 1. On the [BMS homepage](https://console.bluems.com/), click on Catalogs, in the CS2 section.
-2. Click on <img src="../.gitbook/assets/image (38) (1).png" alt="Create Catalog Button" data-size="line"> to create a new catalog.
+2. Click on <img src="../.gitbook/assets/image (38) (1) (1).png" alt="Create Catalog Button" data-size="line"> to create a new catalog.
 3. Set a Name and Tags for it.
-4. Click on <img src="../.gitbook/assets/image (34) (1).png" alt="Save Button" data-size="line"> to save your changes.
+4. Click on <img src="../.gitbook/assets/image (34) (1) (1).png" alt="Save Button" data-size="line"> to save your changes.
 
 ### Creating an Import Channel
 
 1. At the menu on the Right, click on Import Channels.
-2. Click on <img src="../.gitbook/assets/image (39) (1).png" alt="+ import channel button" data-size="line"> to start.
+2. Click on <img src="../.gitbook/assets/image (39) (1) (1).png" alt="+ import channel button" data-size="line"> to start.
 3. Here we need to configure the three tabs available for it to be working properly.
    * General Tab
      1. Set a name and tags for your Import Channel.
@@ -69,16 +69,16 @@ Once you have created a cookie pool, it's time to build your product catalog. Th
      3. Select your catalog format between the available options.
    * Mapping Tab
      1. Inform the template model of your catalog, this step may require the help of our technical team.
-     2. Click on <img src="../.gitbook/assets/image (35) (1).png" alt="Save Button" data-size="line"> to save your changes.
+     2. Click on <img src="../.gitbook/assets/image (35) (1) (1).png" alt="Save Button" data-size="line"> to save your changes.
 
 After completing the steps above, enable the import channel to start working with it, you can also perform a test to confirm that it's working properly, to perform this test, follow the steps below:
 
 1. Select the import channel that you need to run a test for it.
-2. Click on <img src="../.gitbook/assets/image (40) (1).png" alt=" Start Button" data-size="line"> to start a manual import.
+2. Click on <img src="../.gitbook/assets/image (40) (1) (1).png" alt=" Start Button" data-size="line"> to start a manual import.
 3. Flag the 'Testing Mode'.
 4. Select how many products that should be tested.
 5. Set if you want to use the channel's settings for deleting products or if you want to remove them before the test begins.
-6. Click on <img src="../.gitbook/assets/image (41) (1).png" alt="Start Button" data-size="line"> to start.
+6. Click on <img src="../.gitbook/assets/image (41) (1) (1).png" alt="Start Button" data-size="line"> to start.
 7. Select the import channel you've run the test, and at the jobs tab you can confirm if the channel is working properly or not, in case of any issues with it, they will be displayed in the column "Issues".
 
 ### Products
@@ -92,7 +92,7 @@ Track your audience's website activities using trackers, and utilize the data to
 ### Creating Trackers
 
 1. On the [BMS homepage](https://console.bluems.com/), click on Trackers.
-2. Click on <img src="../.gitbook/assets/image (42) (1).png" alt="+ tracker button" data-size="line"> to add a new tracker.
+2. Click on <img src="../.gitbook/assets/image (42) (1) (1).png" alt="+ tracker button" data-size="line"> to add a new tracker.
 3. Set the name for your tracker.
 4. Setting tags will help you find this tracker more easily.
 5. Set the maximum number of users. New users cannot be added once the limit is reached, but existing user's actions will still be tracked.
@@ -104,7 +104,7 @@ Track your audience's website activities using trackers, and utilize the data to
 Set events for tracking specific actions of your audience.
 
 1. On the [Trackers page](https://console.bluems.com/dmp/trackers), select a tracker.
-2. On the configuration tab, click on <img src="../.gitbook/assets/image (43) (1).png" alt="Add button" data-size="line">, to create an event.
+2. On the configuration tab, click on <img src="../.gitbook/assets/image (43) (1) (1).png" alt="Add button" data-size="line">, to create an event.
 3. Setting a name for your event will automatically set an ID for it.
 4. Set the custom data field with the information you want to track, for example: "offerid".
 5. Click on <img src="../.gitbook/assets/image (44) (1).png" alt="Add button" data-size="line"> to create an action to be executed after the event has been tracked.
@@ -124,21 +124,21 @@ After creating your trackers, events, and actions, you must install them on your
   2. Click on the 'Install Instructions' tab, and choose the event you want to track.
   3. Select the Script option.
   4. If you have configured custom data fields, please use the indicated placeholders to inform the values.\
-     Here's an example of how the indicated placeholder for your custom data fields might look to you: <img src="../.gitbook/assets/image (48) (1).png" alt=" Custom data field example" data-size="original">.
-  5. Click on <img src="../.gitbook/assets/image (49).png" alt="copy button" data-size="line"> to copy the script.
+     Here's an example of how the indicated placeholder for your custom data fields might look to you: <img src="../.gitbook/assets/image (48) (1) (1).png" alt=" Custom data field example" data-size="original">.
+  5. Click on <img src="../.gitbook/assets/image (49) (1).png" alt="copy button" data-size="line"> to copy the script.
   6. Add this script to your website's code, on the page where the event will be tracked.
   7. You can also use a tag manager, like Google Tag Manager, to add this script to your website.
 * Pixel
   1. After choosing an event on the 'Install Instructions' tab, select the Pixel option.
   2. If you have configured custom data fields, please use the indicated placeholders to inform the values.
-  3. Click on <img src="../.gitbook/assets/image (49).png" alt="copy button" data-size="line"> to copy the Pixel tag.&#x20;
+  3. Click on <img src="../.gitbook/assets/image (49) (1).png" alt="copy button" data-size="line"> to copy the Pixel tag.&#x20;
   4. Add the Pixel tag to your website's code, on the page where the event will be tracked.
   5. You can also use a tag manager, like Google Tag Manager, to add this script to your website.
 * Redirect
   1. After choosing an event on the 'Install Instructions' tab, select the Redirect option.
   2. Provide the URL to which the user should be redirected after the event is captured.
   3. If you have configured custom data fields, please use the indicated placeholders to inform the values.
-  4. Click on <img src="../.gitbook/assets/image (49).png" alt="copy button" data-size="line"> to copy the generated URL and use it as it was the URL you provided before.
+  4. Click on <img src="../.gitbook/assets/image (49) (1).png" alt="copy button" data-size="line"> to copy the generated URL and use it as it was the URL you provided before.
 
 ### Tracker's Metrics Tab
 
@@ -157,10 +157,10 @@ Recommendation models are used to fill up your dynamic banners with data about y
 ### Creating a Recommendation Model
 
 1. On the [BMS homepage](https://console.bluems.com/), click on Recommendation Models, in the CS2 section.
-2. Click on <img src="../.gitbook/assets/image (50).png" alt="Create recommendation model button " data-size="line"> to create a new recommendation model.
+2. Click on <img src="../.gitbook/assets/image (50) (1).png" alt="Create recommendation model button " data-size="line"> to create a new recommendation model.
 3. Set a Name and Tags for it.
 4. Select the catalog from which the model will collect data and lead interactions.
-5. Click on <img src="../.gitbook/assets/image (51).png" alt="save button" data-size="line"> to save your changes.
+5. Click on <img src="../.gitbook/assets/image (51) (1).png" alt="save button" data-size="line"> to save your changes.
 
 If you stop using a recommendation model, we recommend disabling it instead of deleting it, as deleting a model also deletes the data collected by this recommendation model.
 
@@ -170,20 +170,20 @@ Now that we've created our recommendation model, we need to set up some sources 
 
 * DMP Trackers
   1. Select the recommendation models you want to use this source for.
-  2. In the Configuration tab click on <img src="../.gitbook/assets/image (52).png" alt="+ add button" data-size="line"> to add a new Source.
+  2. In the Configuration tab click on <img src="../.gitbook/assets/image (52) (1).png" alt="+ add button" data-size="line"> to add a new Source.
   3. Set a Name.
   4. Set a limit of catalog products from which data will be collected.
   5. Choose DMP Tracker as the source's type.
   6. Select the tracker from which you will collect the data.
   7. Select the event configured on the tracker from which you will collect data.
   8. Set the field containing your offer IDs.
-  9. Click on <img src="../.gitbook/assets/image (53).png" alt="save button" data-size="line"> to save your changes.
+  9. Click on <img src="../.gitbook/assets/image (53) (1).png" alt="save button" data-size="line"> to save your changes.
 * CS2 Product Ranking
   1. Realize the steps 1-4 above.
   2. Choose CS2 Product Ranking.
   3. Select the action you want to use to rank products for this source.
   4. Inform the period in which metrics will be checked and collected.
-  5. &#x20;Click on <img src="../.gitbook/assets/image (54).png" alt="save button" data-size="line"> to save your changes.
+  5. &#x20;Click on <img src="../.gitbook/assets/image (54) (1).png" alt="save button" data-size="line"> to save your changes.
 
 Sources are used to bring your product data to your dynamic banner, you must have at least one source for each space available in your dynamic banner, each source fills up only one space at a time, so if you have more spaces than sources, some spaces will be empty on your dynamic banners. We also recommend setting up at least 3 sources per recommendation model.
 
@@ -203,20 +203,20 @@ At first, you will need to choose between creating a blueprint on your own or us
 
 * **Creating a blueprint model.**
   1. Locate and click on Blueprints on the [BMS homepage](https://console.bluems.com/).
-  2. Click on <img src="../.gitbook/assets/image (24) (1).png" alt="add blueprint button" data-size="line">.
+  2. Click on <img src="../.gitbook/assets/image (24) (1) (1).png" alt="add blueprint button" data-size="line">.
   3. Set a Name for your Blueprint.
   4. Set tags to make it easier to find it later.
   5. Choose the availability according to your preference, selecting public will make your blueprint available for everyone using the BMS platform, and private makes it available only for you and those with access to your account.
   6. Select the desired banner sizes.
-  7. Click on ![](<../.gitbook/assets/image (25) (1).png>) to add a new parameter group and start coding your banner
+  7. Click on ![](<../.gitbook/assets/image (25) (1) (1).png>) to add a new parameter group and start coding your banner
   8. Feel free to use the given system parameters according to your needs.
   9. You can also use our Macros for better interaction with your ads' viewers.
 * **Using an existing Blueprint model**
   1. Locate and click on Blueprints on the [BMS homepage](https://console.bluems.com/).
   2. Turn off the 'Owned' option, this will show you all the public Blueprints available at the moment.
   3. Choose the Blueprint according to your business needs between the options available.
-  4. Click on ![](<../.gitbook/assets/image (26) (1).png>) to duplicate the blueprint to your account.
-  5. Click on ![](<../.gitbook/assets/image (27) (1).png>) to start editing your copy of the blueprint, here you can make changes to the blueprint, adjusting it to better reflect your business needs.
+  4. Click on ![](<../.gitbook/assets/image (26) (1) (1).png>) to duplicate the blueprint to your account.
+  5. Click on ![](<../.gitbook/assets/image (27) (1) (1).png>) to start editing your copy of the blueprint, here you can make changes to the blueprint, adjusting it to better reflect your business needs.
 
 ### Builds
 
@@ -225,14 +225,14 @@ Create builds using your blueprint models, builds help you create dynamic banner
 #### Creating Dynamic Banners Using Builds
 
 1. On the [BMS homepage](https://console.bluems.com/), locate and click on Builds
-2. Click on <img src="../.gitbook/assets/image (62).png" alt="create build button" data-size="line"> to start creating a new build.
+2. Click on <img src="../.gitbook/assets/image (62) (1).png" alt="create build button" data-size="line"> to start creating a new build.
 3. Now set a Name for it, you can also set tags to make it easier to track it.
 4. Choose your domain.
 5. Now select a blueprint model.
 6. Select the sizes for your banners. It's recommended to use sizes with equal proportions for each build, for example, use one build for vertical banners and then create another for horizontal banners, this will keep the proportions of the logos, images, and products shown.
 7. Use the Parameters on the left side to set and customize your logos, images, product grids, and more.
 8. As you change the parameters, you can see a live preview of how your banner will be shown to help you find the perfect adjustment for your business needs.
-9. Flag the box "Send creatives for approval" and click on <img src="../.gitbook/assets/image (63).png" alt="" data-size="line"> to save your build and send it for the Ad Exchanges review.
+9. Flag the box "Send creatives for approval" and click on <img src="../.gitbook/assets/image (63) (1).png" alt="" data-size="line"> to save your build and send it for the Ad Exchanges review.
 
 ## Creative Groups
 
@@ -241,7 +241,7 @@ Group several creatives as a single unit to apply different weights and compare 
 ### Creating a Creative Group
 
 1. On the [BMS homepage](https://console.bluems.com/) click on Creative Groups, in the AdServing Section.
-2. Click on <img src="../.gitbook/assets/image (64).png" alt="add creative build button" data-size="line"> to create a new creative group.
+2. Click on <img src="../.gitbook/assets/image (64) (1).png" alt="add creative build button" data-size="line"> to create a new creative group.
 3. Set a Name and Tags for it.
 4. Select your domain.
 5. Select the format of the creatives in the group.
@@ -275,19 +275,19 @@ You can use this option to create ads quickly and massively.
 2. Set a Name and Tags for your ads.
 3. Select your domain.
 4. Inform the URL to where the ad should redirect to when clicked, parametrization is allowed (UTM, for example).
-5. Click on <img src="../.gitbook/assets/image (55).png" alt="" data-size="line"> to add your creatives' images according to the options below:
+5. Click on <img src="../.gitbook/assets/image (55) (1).png" alt="" data-size="line"> to add your creatives' images according to the options below:
    * &#x20;Use Existing
      1. Select all the images you want between the ones you've already uploaded to the platform.
-     2. Click on <img src="../.gitbook/assets/image (56).png" alt="" data-size="line"> to confirm your selection.
+     2. Click on <img src="../.gitbook/assets/image (56) (1).png" alt="" data-size="line"> to confirm your selection.
    * Upload New
-     1. Upload new images to the platform by dragging them to the box or clicking on <img src="../.gitbook/assets/image (57).png" alt="" data-size="line"> and selecting them on your device storage.
-     2. Click on <img src="../.gitbook/assets/image (56).png" alt="" data-size="line"> to confirm your selection.
+     1. Upload new images to the platform by dragging them to the box or clicking on <img src="../.gitbook/assets/image (57) (1).png" alt="" data-size="line"> and selecting them on your device storage.
+     2. Click on <img src="../.gitbook/assets/image (56) (1).png" alt="" data-size="line"> to confirm your selection.
    * Use Web Adress (URL)
      1. Add one image URL per line.
-     2. Click on <img src="../.gitbook/assets/image (56).png" alt="" data-size="line"> to confirm your selection.
+     2. Click on <img src="../.gitbook/assets/image (56) (1).png" alt="" data-size="line"> to confirm your selection.
 6. Flag the option to group creatives of the same format to be able to perform an A/B test.
 7. Flag the option to send your ads to a review from the AdExchanges.
-8. Click on <img src="../.gitbook/assets/image (58).png" alt="" data-size="line"> to save your ads and send them to review.
+8. Click on <img src="../.gitbook/assets/image (58) (1).png" alt="" data-size="line"> to save your ads and send them to review.
 
 ### Rules
 
@@ -296,11 +296,11 @@ In this tab, you can set up rules for running your ads only in specific hours an
 #### Creating a Rule
 
 1. Select the ad you want to set a rule for.
-2. In the Rule tab click on <img src="../.gitbook/assets/image (59).png" alt="" data-size="line"> to add a new rule.
+2. In the Rule tab click on <img src="../.gitbook/assets/image (59) (1).png" alt="" data-size="line"> to add a new rule.
 3. Set a Name for it and select what Creative Group should be affected.
-4. Switch the Scheduling option to "on"<img src="../.gitbook/assets/image (60).png" alt="" data-size="original">.
+4. Switch the Scheduling option to "on"<img src="../.gitbook/assets/image (60) (1).png" alt="" data-size="original">.
 5. Select the hours you want your ads to be displayed on each day. If there are some days you don't need this ad to run, unflag all the hours on these days, and it won't be running on these days.
-6. Click on <img src="../.gitbook/assets/image (61).png" alt="" data-size="line"> to save your rule.
+6. Click on <img src="../.gitbook/assets/image (61) (1).png" alt="" data-size="line"> to save your rule.
 7. The rules can be activated/deactivated any time you want, you can do this by switching the rule between on and off on the rules tab.
 
 ### AdExchange Reviews
@@ -316,7 +316,7 @@ In this article, we're approaching the creation of retargeting campaigns, to see
 ### Creating a Campaign
 
 1. On the BMS homepage, click on Campaigns, in the campaigns section.
-2. Click on <img src="../.gitbook/assets/image (28) (1).png" alt="" data-size="line"> to start creating your campaign.
+2. Click on <img src="../.gitbook/assets/image (28) (1) (1).png" alt="" data-size="line"> to start creating your campaign.
 3. Set a Name and tags for it.
 4. Select your domain and time zone.
 5. Set when the campaign should start and end.
@@ -325,7 +325,7 @@ In this article, we're approaching the creation of retargeting campaigns, to see
    * Variable: This option will optimize your bid's cost in a defined range, looking for the smallest bids possible. Insert the lowest and the highest value of your CPM.
 7. Set the frequency cap, this is the number of times an ad of the same campaign will display to the same user.
 8. Set how many bids you want to request for a second.
-9. Click on <img src="../.gitbook/assets/image (29) (1).png" alt="" data-size="line"> to save your campaign.
+9. Click on <img src="../.gitbook/assets/image (29) (1) (1).png" alt="" data-size="line"> to save your campaign.
 
 ### Target
 
@@ -334,7 +334,7 @@ After creating your campaign, you'll need to set a target for it, we have some o
 #### Creating a Target
 
 1. Select the campaign that will receive this target.
-2. On the Configuration tab, find the Target section and click on <img src="../.gitbook/assets/image (30) (1).png" alt="" data-size="line"> to create your target.
+2. On the Configuration tab, find the Target section and click on <img src="../.gitbook/assets/image (30) (1) (1).png" alt="" data-size="line"> to create your target.
 3. Set a Name for your target.
 4. On the Locations tab, you can set your target's location.
    * Geographies: Use this to include or exclude countries and regions where your campaign should be delivered.
@@ -355,13 +355,13 @@ After creating your campaign, you'll need to set a target for it, we have some o
    * Exchanges: select ad exchanges to display your ads through those platforms, you can also exclude ad exchanges so your ads won't appear on those excluded platforms.
    * Position: select inventory positions to strategically place your ads for optimal visibility and engagement, you can also exclude positions to place your o ads on all non-excluded options.
    * Viewability: adjust the slider to set the minimum viewability threshold for ad slots. Your ads will only be matched with inventory positions where the viewability percentage is higher than the selected threshold.
-8. Click on <img src="../.gitbook/assets/image (31) (1).png" alt="" data-size="line"> to save your target.
+8. Click on <img src="../.gitbook/assets/image (31) (1) (1).png" alt="" data-size="line"> to save your target.
 
 ### Budget
 
 Here you set your campaign's daily budget in USD, you can also track how much of the budget has been spent already, how much you still have available, and the current budget target.
 
 1. On the Configuration tab, in the budget section, inform your budget value in USD.
-2. Click on <img src="../.gitbook/assets/image (31) (1).png" alt="Save button" data-size="line"> to save your changes.
+2. Click on <img src="../.gitbook/assets/image (31) (1) (1).png" alt="Save button" data-size="line"> to save your changes.
 
 Now your retargeting campaign is ready to run, you only have to enable it and track how it goes on the metrics and real-time tabs. Here's an article on [how metrics work on the BMS platform](../product-documentation/monitoring/metrics-tab.md).

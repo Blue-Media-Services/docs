@@ -50,19 +50,19 @@ When adding targets, pay attention to the <img src="../../.gitbook/assets/image 
 
 <figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption><p>Target Selection or Exclusion</p></figcaption></figure>
 
-After selecting and configuring your target, click on the<img src="../../.gitbook/assets/image (28).png" alt="Save" data-size="line"> button.
+After selecting and configuring your target, click on the<img src="../../.gitbook/assets/image (28) (1).png" alt="Save" data-size="line"> button.
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt="" width="563"><figcaption><p>Configured Target Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (1).png" alt="" width="563"><figcaption><p>Configured Target Screen</p></figcaption></figure>
 
 You can add as many targets as you need to your campaign, and feel free to turn the target on or off during the campaign to adjust it to your campaign's needs.
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt="" width="498"><figcaption><p>Created Targets' List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (1).png" alt="" width="498"><figcaption><p>Created Targets' List</p></figcaption></figure>
 
 ### Enabling and Disabling a Target
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt="" width="162"><figcaption><p>Target Enable Toggle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41) (1).png" alt="" width="162"><figcaption><p>Target Enable Toggle</p></figcaption></figure>
 
 </div>
 
@@ -70,11 +70,11 @@ For a campaign to star and to use your configured target, you must have a target
 
 ### Duplicating a Target
 
-If you want to reutilize a dense target but with few changes, you have the option to duplicate that target and save time, simply click on <img src="../../.gitbook/assets/image (42).png" alt="Duplicate Target" data-size="line"> to duplicate your target and a copy of that target will be created.
+If you want to reutilize a dense target but with few changes, you have the option to duplicate that target and save time, simply click on <img src="../../.gitbook/assets/image (42) (1).png" alt="Duplicate Target" data-size="line"> to duplicate your target and a copy of that target will be created.
 
 ### Deleting a Target
 
-If a target is no longer useful for your campaign, you can click on<img src="../../.gitbook/assets/image (43).png" alt="Delete Target" data-size="line"> to permanently delete the target, and a confirming screen will be shown to you.&#x20;
+If a target is no longer useful for your campaign, you can click on<img src="../../.gitbook/assets/image (43) (1).png" alt="Delete Target" data-size="line"> to permanently delete the target, and a confirming screen will be shown to you.&#x20;
 
 Note that this is a permanent decision and cannot be undone.
 
