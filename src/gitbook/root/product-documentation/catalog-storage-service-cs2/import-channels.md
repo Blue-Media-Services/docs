@@ -76,7 +76,7 @@ _Import Channels can import data from HTTP, FTP or SFTP websites. Google Merchan
         * 'price': link this field to the column containing the products' price.
 
         _This is only an example of what our mapping can do, there are more fields available, including custom fields. If you need assistance, contact our support team._&#x20;
-3. Once you have finished the steps above, check your settings to ensure everything is correct, then click on <img src="../../.gitbook/assets/image (15).png" alt="" data-size="line"> to save your [Import Channel.](#user-content-fn-1)[^1]
+3. Once you have finished the steps above, check your settings to ensure everything is correct, then click on <img src="../../.gitbook/assets/image (15).png" alt="" data-size="line"> to save your Import Channel.
 4.  Click on <img src="../../.gitbook/assets/image.png" alt="" data-size="original"> to start a manual job for importing your products:\
 
 
@@ -98,5 +98,3 @@ We can edit our import channels by clicking on <img src="../../.gitbook/assets/i
 ### Deleting an Import Channel
 
 We can delete unused import channels by clicking on <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> at the same row that the import channel to be deleted is, however, this will also delete the metrics related to it, so proceed with caution, alternatively we can also archive these import channels by clicking on <img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> at the same row that the import channel to be archived, to view archived import channels, turn on the option 'Archived' above the import channels' list.
-
-[^1]: Acrescentaria: Reminder: channels will have to import products each time an import is started. This includes problem logs, bytes processed, data, and other information. So, make sure everything is set up correctly before activating.
