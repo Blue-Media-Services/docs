@@ -25,3 +25,7 @@ The promotion of online, real-money gambling or sites that contain or link to co
 ## SHOCKING CONTENT
 
 Remove content that contains violent language, gruesome imagery, graphic images, accounts of physical trauma, and obscene or profane language likely to shock or scare.
+
+## REMOVED BY GOOGLE
+
+This error may occur from time to time, based on Google's review failing, you can try to submit the Ad again.
