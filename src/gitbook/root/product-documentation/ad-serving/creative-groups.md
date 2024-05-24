@@ -13,7 +13,7 @@ They are very useful if you wish to display several variants of the same banners
 1. In the Creative Group page click at the <img src="../../.gitbook/assets/create creative group.png" alt="Save" data-size="line"> button.
 2.  Fill the details:
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Creative Group editor screen</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Creative Group editor screen</p></figcaption></figure>
 
     * Name - how you want to call this creative group;
     * Tags - up to 5 labels that can be used to aid identification and searching;

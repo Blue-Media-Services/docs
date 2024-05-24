@@ -12,10 +12,10 @@ In the Ads area you will create the Ads for your campaign, adding the group of c
 
 ### Creating a single Ad
 
-1. In the Ads page, click on the <img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="Create" data-size="line"> button.
+1. In the Ads page, click on the <img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="Create" data-size="line"> button.
 2.  Fill in the details:
 
-    <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Ad editor screen</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Ad editor screen</p></figcaption></figure>
 
     * Name - how you want to call this ad;
     * Tags - up to 5 labels that can be used to aid identification and searching;

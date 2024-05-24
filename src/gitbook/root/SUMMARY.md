@@ -19,6 +19,7 @@
   * [Creative Groups](product-documentation/ad-serving/creative-groups.md)
   * [Ads](product-documentation/ad-serving/ads/README.md)
     * [Bulk Ads](product-documentation/ad-serving/ads/bulk-ads.md)
+    * [AdExchange Review - Google](product-documentation/ad-serving/ads/adexchange-review-google.md)
   * [Creative Builder](product-documentation/ad-serving/creative-builder/README.md)
     * [Blueprints](product-documentation/ad-serving/creative-builder/blueprints.md)
 * [Campaigns](product-documentation/campaigns/README.md)

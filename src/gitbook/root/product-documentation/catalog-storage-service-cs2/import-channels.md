@@ -77,10 +77,10 @@ _Import Channels can import data from HTTP, FTP or SFTP websites. Google Merchan
 
         _This is only an example of what our mapping can do, there are more fields available, including custom fields. If you need assistance, contact our support team._&#x20;
 3. Once you have finished the steps above, check your settings to ensure everything is correct, then click on <img src="../../.gitbook/assets/image (15).png" alt="" data-size="line"> to save your Import Channel.
-4.  Click on <img src="../../.gitbook/assets/image.png" alt="" data-size="original"> to start a manual job for importing your products:\
+4.  Click on <img src="../../.gitbook/assets/image (2).png" alt="" data-size="original"> to start a manual job for importing your products:\
 
 
-    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Start Jobs screen</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Start Jobs screen</p></figcaption></figure>
 5. Click on <img src="../../.gitbook/assets/image (3).png" alt="" data-size="line"> to start importing your products.
 6.  It's also possible to import only a few products to test if everything works fine before starting the full import. We can do this by checking the box 'Testing Mode', filling in the details and then clicking on <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line">.\
 
