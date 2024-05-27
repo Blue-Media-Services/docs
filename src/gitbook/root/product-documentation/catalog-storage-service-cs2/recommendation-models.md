@@ -18,7 +18,7 @@ Before creating a recommendation model it's necessary to configure catalogs and 
 2.  Fill in the details:\
 
 
-    <figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption><p>Recommendation Models Editor</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (48) (2).png" alt=""><figcaption><p>Recommendation Models Editor</p></figcaption></figure>
 
     * Name: Inform a name for your recommendation model.
     * Tags: Set tags for your organization.

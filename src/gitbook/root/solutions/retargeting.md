@@ -364,4 +364,4 @@ Here you set your campaign's daily budget in USD, you can also track how much of
 1. On the Configuration tab, in the budget section, inform your budget value in USD.
 2. Click on <img src="../.gitbook/assets/image (31) (1) (1).png" alt="Save button" data-size="line"> to save your changes.
 
-Now your retargeting campaign is ready to run, you only have to enable it and track how it goes on the metrics and real-time tabs. Here's an article on [how metrics work on the BMS platform](../product-documentation/monitoring/metrics-tab.md).
+Now your retargeting campaign is ready to run, you only have to enable it and track how it goes on the metrics and real-time tabs. Here's an article on [how metrics work on the BMS platform](../product-documentation/campaigns/campaigns.md#metrics).

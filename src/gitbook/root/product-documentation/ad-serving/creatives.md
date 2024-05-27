@@ -95,11 +95,11 @@ A creative will only receive impressions if it is enabled by you and approved by
 
 The metrics tab will display all metrics related to the selected creatives or for the whole account if no creatives are selected.
 
-Learn more about the [metrics tab](../monitoring/metrics-tab.md).
+Learn more about the [metrics tab](../monitoring/metrics.md).
 
 ### Real Time Tab
 
 The real time tab will display real time events related to the selected creative.
 
-Learn more about the [real time tab](../monitoring/real-time-tab.md).
+Learn more about the [real time tab](../campaigns/real-time-tab.md).
 

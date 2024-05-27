@@ -74,7 +74,7 @@ When your campaign is active, you can go to the **Real Time** panel and check yo
 
 You can click on the <img src="../.gitbook/assets/image (14) (2).png" alt="Preview" data-size="line"> button to get more details about each event.
 
-You can learn more about real time events in the [Real Time Tab Documentation page](../product-documentation/monitoring/real-time-tab.md).
+You can learn more about real time events in the [Real Time Tab Documentation page](broken-reference).
 
 ### Check metrics
 

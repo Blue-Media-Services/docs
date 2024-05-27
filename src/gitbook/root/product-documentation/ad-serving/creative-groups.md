@@ -61,7 +61,7 @@ You can delete a creative group by clicking on <img src="../../.gitbook/assets/d
 
 The metrics tab will display all metrics related to the selected creative groups or for the whole account if no creative groups are selected.
 
-Learn more about the [metrics tab](../monitoring/metrics-tab.md).
+Learn more about the [metrics tab](../monitoring/metrics.md).
 
 #### A/B testing
 
@@ -73,4 +73,4 @@ To check the performance of the creatives in a group, select the desired group o
 
 The real time tab will display real time events related to the selected creative group.
 
-Learn more about the [real time tab](../monitoring/real-time-tab.md).
+Learn more about the [real time tab](../campaigns/real-time-tab.md).

@@ -13,11 +13,11 @@ We have 2 visualization options available for CS2 Metrics:
 *   Metric Cards: This option displays your metrics on cards containing graphics. It's possible to export the data contained in each metric card by clicking on the desired card and then clicking on the download button <img src="../../.gitbook/assets/image (125).png" alt="" data-size="line">.\
 
 
-    <figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption><p>Catalog Metrics Tab -  Metric Cards</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (41) (2).png" alt=""><figcaption><p>Catalog Metrics Tab -  Metric Cards</p></figcaption></figure>
 *   Data Table: This option will bring the same data that are on the metric cards in table format. This visualization option allows you to export the data by clicking on the download button <img src="../../.gitbook/assets/image (125).png" alt="" data-size="line">.  You can also visualize the table in full-screen mode by clicking on ![](<../../.gitbook/assets/image (126).png>).\
 
 
-    <figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption><p>Catalog Metrics Tab - Data Table</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (40) (2).png" alt=""><figcaption><p>Catalog Metrics Tab - Data Table</p></figcaption></figure>
 
 ### Time-Frames and Periodicity
 
@@ -53,7 +53,7 @@ There are 3 options available on the 'Group by' feature:
 
 The products metrics tab contains data about how your website's users interact with your products. Without selecting a product, account-wide metrics data for all your products will be displayed on this tab. Selecting one product will restrict  the displayed metrics data to the selected one, and selecting more than one will generate a metrics comparison between the selected products.
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption><p>Products Metrics Tab </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42) (2).png" alt=""><figcaption><p>Products Metrics Tab </p></figcaption></figure>
 
 These are the metrics available for products:
 
@@ -68,7 +68,7 @@ These are the metrics available for products:
 
 The import channels metrics tab contains data about your importing jobs, such as data processing, performance, and failure rate. Without selecting an Import channel, account-wide metrics data for all your import channels will be displayed on this tab. Selecting one import channel will restrict the  displayed metrics data to the selected one, and selecting more than one will generate a metrics comparison between the selected ones.
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption><p>Import Channels Metrics Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39) (2).png" alt=""><figcaption><p>Import Channels Metrics Tab</p></figcaption></figure>
 
 These are the metrics available for import channels:
 
@@ -83,7 +83,7 @@ These are the metrics available for import channels:
 
 The recommendation models metrics tab contains data about how your recommendation models are performing. Without selecting a recommendation model, account-wide metrics data for all your recommendation models will be displayed on this tab. Selecting one recommendation model will restrict the displayed metrics data to the selected one, and selecting more than one will generate a metrics comparison between the selected ones.
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption><p>Recommendation Models Metrics Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43) (2).png" alt=""><figcaption><p>Recommendation Models Metrics Tab</p></figcaption></figure>
 
 These are the metrics available for recommendation models:
 

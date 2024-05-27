@@ -70,11 +70,11 @@ To see all archived ads simply turn on the <img src="../../../.gitbook/assets/ar
 
 The metrics tab will display all metrics related to the selected ads or for the whole account if no ads are selected.
 
-Learn more about the [metrics tab](../../monitoring/metrics-tab.md).
+Learn more about the [metrics tab](../../monitoring/metrics.md).
 
 ### Real Time Tab
 
 The real time tab will display real time events related to the selected ad.
 
-Learn more about the [real time tab](../../monitoring/real-time-tab.md).
+Learn more about the [real time tab](../../campaigns/real-time-tab.md).
 

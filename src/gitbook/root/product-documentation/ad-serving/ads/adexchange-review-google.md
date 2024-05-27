@@ -6,9 +6,9 @@ description: Learn how Google's AdExchange Review works.
 
 When your Ad is rejected during creation or by Google's daily checks, here are the most common errors that you may be presented with.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="125"><figcaption><p>AdExchange Rejection</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="125"><figcaption><p>AdExchange Rejection</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Google Rejection's Reason</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (7).png" alt=""><figcaption><p>Google Rejection's Reason</p></figcaption></figure>
 
 ## ADULT CONTENT
 

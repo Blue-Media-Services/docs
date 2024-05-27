@@ -8,7 +8,7 @@ Use import channels to upload your products' catalog's feed to our platform, thi
 
 ## Managing Import Channels
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Import Channels' list</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (6).png" alt=""><figcaption><p>Import Channels' list</p></figcaption></figure>
 
 ### Creating an Import Channel
 
@@ -18,11 +18,11 @@ To start creating an Import Channel, we must first create the catalog which will
 _Import Channels can import data from HTTP, FTP or SFTP websites. Google Merchant's XML format is the standard for creating catalogs and the easiest to work with, but the import channel can be configured to use CSV or other XML formats._
 {% endhint %}
 
-1. Click on <img src="../../.gitbook/assets/image (10).png" alt="" data-size="line"> to start creating your Import Channel.
+1. Click on <img src="../../.gitbook/assets/image (10) (6).png" alt="" data-size="line"> to start creating your Import Channel.
 2.  Fill in the details on the 3 tabs:\
 
 
-    <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Import Channel editor</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (13) (6).png" alt=""><figcaption><p>Import Channel editor</p></figcaption></figure>
 
     1. General Tab
        * Name: Set a name for your Import channel.
@@ -76,13 +76,13 @@ _Import Channels can import data from HTTP, FTP or SFTP websites. Google Merchan
         * 'price': link this field to the column containing the products' price.
 
         _This is only an example of what our mapping can do, there are more fields available, including custom fields. If you need assistance, contact our support team._&#x20;
-3. Once you have finished the steps above, check your settings to ensure everything is correct, then click on <img src="../../.gitbook/assets/image (15).png" alt="" data-size="line"> to save your Import Channel.
-4.  Click on <img src="../../.gitbook/assets/image (2).png" alt="" data-size="original"> to start a manual job for importing your products:\
+3. Once you have finished the steps above, check your settings to ensure everything is correct, then click on <img src="../../.gitbook/assets/image (15) (6).png" alt="" data-size="line"> to save your Import Channel.
+4.  Click on <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="original"> to start a manual job for importing your products:\
 
 
-    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Start Jobs screen</p></figcaption></figure>
-5. Click on <img src="../../.gitbook/assets/image (3).png" alt="" data-size="line"> to start importing your products.
-6.  It's also possible to import only a few products to test if everything works fine before starting the full import. We can do this by checking the box 'Testing Mode', filling in the details and then clicking on <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line">.\
+    <figure><img src="../../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption><p>Start Jobs screen</p></figcaption></figure>
+5. Click on <img src="../../.gitbook/assets/image (3) (6).png" alt="" data-size="line"> to start importing your products.
+6.  It's also possible to import only a few products to test if everything works fine before starting the full import. We can do this by checking the box 'Testing Mode', filling in the details and then clicking on <img src="../../.gitbook/assets/image (4) (6).png" alt="" data-size="line">.\
 
 
     <figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption><p>Start Jobs screen - Testing Mode</p></figcaption></figure>
@@ -93,8 +93,8 @@ _Import Channels can import data from HTTP, FTP or SFTP websites. Google Merchan
 
 ### Editing an Import Channel
 
-We can edit our import channels by clicking on <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> at the same row that the import channel you need to edit. All details are available for editing.&#x20;
+We can edit our import channels by clicking on <img src="../../.gitbook/assets/image (5) (6).png" alt="" data-size="line"> at the same row that the import channel you need to edit. All details are available for editing.&#x20;
 
 ### Deleting an Import Channel
 
-We can delete unused import channels by clicking on <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> at the same row that the import channel to be deleted is, however, this will also delete the metrics related to it, so proceed with caution, alternatively we can also archive these import channels by clicking on <img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> at the same row that the import channel to be archived, to view archived import channels, turn on the option 'Archived' above the import channels' list.
+We can delete unused import channels by clicking on <img src="../../.gitbook/assets/image (7) (6).png" alt="" data-size="line"> at the same row that the import channel to be deleted is, however, this will also delete the metrics related to it, so proceed with caution, alternatively we can also archive these import channels by clicking on <img src="../../.gitbook/assets/image (6) (6).png" alt="" data-size="line"> at the same row that the import channel to be archived, to view archived import channels, turn on the option 'Archived' above the import channels' list.
