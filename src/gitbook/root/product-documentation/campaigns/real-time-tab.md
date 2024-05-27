@@ -1,3 +1,7 @@
+---
+description: Learn How our Real Time Tab works.
+---
+
 # Real Time Tab
 
 Ad and Campaign resources have a dedicated real time monitoring tab that allows the customer to see what is being delivered in real time.

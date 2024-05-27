@@ -2,7 +2,7 @@
 
 Branding campaigns aim to increase the awareness of a given brand and bring the user back to your website. All campaigns have 3 main components: a Target (what is the subset of the population that should see your campaign), a Budget (how much do you want to spend daily on the campaign) and a list of Ads (what the users should see).
 
-To create a branding campaign you must already have your ads setup in our Ad Server. [Check how to do that here.](../product-documentation/ad-serving/ads/) With the ads ready, here is an overview:
+To create a branding campaign you must already have your ads set up in our Ad Server. [Check how to do that here.](../product-documentation/ad-serving/ads/) With the ads ready, here is an overview:
 
 1. [Create a new campaign](branding.md#creating-a-new-campaign)
 2. [Define a daily budget](branding.md#defining-a-budget)
@@ -18,14 +18,14 @@ In our Home Page, click on <img src="../.gitbook/assets/image (2) (2).png" alt="
 
 * The domain you choose must be the same domain selected when the ads were created.
 * The bid price you choose directly influences the quality of the inventory you will get access to. The more mainstream a website is, the more expensive it becomes. We recommend opting for a variable bid price so that you can get impressions in a wide variety of websites paying the market rate for each. The $0.50 to $1.50 is a good starting point.
-* You can schedule your campaign to begin or finish at specific dates, but if you choose to have it starting in the future, you won't see any metrics or real time data right away. We recommend setting up and testing the campaign first, then scheduling it for a future time.
+* You can schedule your campaign to begin or finish at specific dates, but if you choose to have it starting in the future, you won't see any metrics or real-time data right away. We recommend setting up and testing the campaign first, then scheduling it for a future time.
 * You can leave the other fields with their default values. More details on how to optimize and further configure the campaign can be [found here](../product-documentation/campaigns/).
 
 After saving the campaign, select it on the list to continue its configuration.
 
 ### Defining a budget
 
-For your campaign to run we need to know how much you are willing to spend daily. The system will spread your impressions throughout the entire day. In the Configuration > Budget panel, simply type the amount and save it.
+For your campaign to run, we need to know how much you are willing to spend daily. The system will spread your impressions throughout the entire day. In the Configuration > Budget panel, simply type the amount and save it.
 
 New accounts are limited to spending $30 per day per campaign. If you need more than this later, you can submit a Quota Increase Request and after review your limit will be increased.
 
@@ -38,7 +38,7 @@ You can specify your target audience by using four main filters:
 * Location based: You can choose who to show ads to based on where these users are located by either specifying the country and region or by adding geofences around specific addresses.
 * Content based: You can choose what websites to display your ads at based on the content of the website including the language it was written in, the categories that identify what it is about, specific domains and keywords present in the URL.
 * Device based: You can choose what devices to display your ads in based on the device characteristics such as its operating system, browser and device type among others.
-* Inventory based: You can choose what inventory to purchase based on what ad exchange is providing the ad spaces, the position of the ad space on the website or its past viewability.
+* Inventory based: You can choose what inventory to purchase based on what ad exchange is providing the ad spaces, the position of the ad space on the website, or its past viewability.
 
 Please note that the more filters you apply, the more specific your audience will become. We recommend that you play with these settings until you find the right targeting options that work for your campaign. You can clone existing targets to make it easier to change some aspects and monitor their performances.
 
@@ -64,7 +64,7 @@ Please check that the campaign has a green check: <img src="../.gitbook/assets/i
 
 ### Watch the impressions and clicks in real-time
 
-When your campaign is active, you can go to the **Real Time** panel and check your campaign events happening in real-time:
+When your campaign is active, you can go to the **Real Time** panel and check your campaign events happening in real time:
 
 * Impressions: The bid placed won the auction and your campaign got the right to display the ad to the end user.
 * Deliveries: The end user's Browser downloaded your ad from our Ad Server.
@@ -74,11 +74,11 @@ When your campaign is active, you can go to the **Real Time** panel and check yo
 
 You can click on the <img src="../.gitbook/assets/image (14) (2).png" alt="Preview" data-size="line"> button to get more details about each event.
 
-You can learn more about real time events in the [Real Time Tab Documentation page](broken-reference).
+You can learn more about real-time events on the [Real Time Tab Documentation page](../product-documentation/campaigns/real-time-tab.md).
 
 ### Check metrics
 
-While real-time events are kept for 15 minutes, you can check the campaing metrics for any time interval. Metrics can take up to 5 minutes to display the most recent data.
+While real-time events are kept for 15 minutes, you can check the campaign metrics for any time interval. Metrics can take up to 5 minutes to display the most recent data.
 
 In the metrics tab you can explore several metrics, grouping values by specific fields, change visualization between charts and tables, change time range and download the data to analyze it in your own device.
 
@@ -98,7 +98,7 @@ Grouping options
 
 Visualization options
 
-* Metric Cards: This manner is an easier way to view your metrics and compare with others since they will be showing you a graphic and pointing each group chosen.
+* Metric Cards: This manner is an easier way to view your metrics and compare them with others since they will be showing you a graphic and pointing to each group chosen.
 * Data Table: By selecting this visualization method, you can either check on your screen the data requested or download it as .csv and then make your own filters and work with the values shown. To download it simply select the visualization method and then click on <img src="../.gitbook/assets/image (18) (2).png" alt="" data-size="line"> to start downloading your metrics.
 
 You can also check your metrics through the **Overview** page, you can reach it through the Home page or Campaigns page, simply click on <img src="../.gitbook/assets/image (20) (2).png" alt="" data-size="line">, there you can choose a campaign and check its metrics in a broader view.
