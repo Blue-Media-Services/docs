@@ -38,7 +38,7 @@ When selecting two or more event stores, the Bulk Actions will be enabled, allow
 
 You will be capable of Archiving, Deleting, Enabling and Disabling events in bulk.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Event Stores' Bulk Actions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (8).png" alt=""><figcaption><p>Event Stores' Bulk Actions</p></figcaption></figure>
 
 ### Archiving and Unarchiving your Event Store
 

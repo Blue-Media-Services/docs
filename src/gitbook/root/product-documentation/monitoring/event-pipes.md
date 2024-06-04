@@ -83,7 +83,7 @@ Once everything is configured, click on <img src="../../.gitbook/assets/image (2
 
 To enable an event pipe simply flip the toggle <img src="../../.gitbook/assets/image (33).png" alt="Toggle" data-size="line"> and your event store will be enabled.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Event Pipe Enabled</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Event Pipe Enabled</p></figcaption></figure>
 
 ### Editing your Event Pipe
 
@@ -97,7 +97,7 @@ When selecting two or more event pipes, the Bulk Actions will be enabled, allowi
 
 You will be capable of Archiving and Deleting events in bulk.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Event Pipe's Bulk Actions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (6).png" alt=""><figcaption><p>Event Pipe's Bulk Actions</p></figcaption></figure>
 
 ### Archiving and Unarchiving your Event Pipe
 
