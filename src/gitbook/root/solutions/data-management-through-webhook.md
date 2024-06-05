@@ -24,7 +24,7 @@ The main reason for collecting that specific data is that we want to know the ex
 Follow the steps below to successfully manage your data through a webhook.
 
 * [Creating an Event Pipe](data-management-through-webhook.md#creating-an-event-pipe)
-* [Configuring your Webhook Tool](data-management-through-webhook.md#configuring-your-webhook-tool)
+* [Configuring your Webhook Tool](data-management-through-webhook.md#configuring-your-webhook-tool) (Zapier)
 * [Trigger](data-management-through-webhook.md#trigger)
 * [Action](data-management-through-webhook.md#action)
 * [Start Collecting Data!](data-management-through-webhook.md#start-collecting-data)
@@ -32,6 +32,8 @@ Follow the steps below to successfully manage your data through a webhook.
 ### Creating an Event Pipe
 
 To use a webhook, we will be using the Event Pipe feature to gather data from a running campaign.
+
+When using **Zapier's Webhook**, move to the [trigger](data-management-through-webhook.md#trigger) step first in order to get the Webhook link to finish your event pipe configuration.
 
 Go to our Monitoring tab and click on **Event Pipes**.
 
@@ -55,6 +57,10 @@ Move to the Targets tab, there is where we configure our webhook link, click on 
 
 Insert the URL provided by Zapier or your data management tool, and then **save** your Target and Event Pipe.
 
+{% hint style="warning" %}
+In some tools you **might** already have the webhook link available, if you are using **Zapier**, you will need to start configuring your webhook first in order to get the link.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/image (17) (5).png" alt="" width="542"><figcaption><p>Zapier Webhook Configured</p></figcaption></figure>
 
 Make sure to have your Event Pipe enabled and an Active campaign to collect data and send it to your webhook tool.
@@ -65,9 +71,11 @@ Make sure to have your Event Pipe enabled and an Active campaign to collect data
 
 For this solution we will be using Zapier as an example, but feel free to use your favorite data management tool, the only requirement is having a Webhook feature.
 
+Zapier is a tool that presents multiple integrations that can promote automation to your daily tasks, it is a paid tool that has a trial in which you can check if this tool is useful, you will need to create an account to start using, even during trial.
+
 If you will be using Zapier as well, this is the link to access: [Zapier](https://zapier.com).
 
-On Zapier, click on Create, then Zaps.
+On Zapier, click on <img src="../.gitbook/assets/image.png" alt="Create" data-size="line">, then Zaps.
 
 <figure><img src="../.gitbook/assets/image (11) (5).png" alt="" width="221"><figcaption><p>Zapier Creation Menu</p></figcaption></figure>
 
@@ -76,6 +84,8 @@ We will then configure our trigger and action, based on Webhook + Event Pipe + G
 <figure><img src="../.gitbook/assets/image (12) (5).png" alt="" width="489"><figcaption><p>Zapier's Trigger and Action</p></figcaption></figure>
 
 ### Trigger
+
+This is the most important step, since here you will be getting the Webhook URL to start collecting data from BMS.
 
 To configure our trigger, click on Trigger and then Search for Webhooks by Zapier.
 
@@ -87,12 +97,14 @@ Then move to the App & Event Tab on your right, there you will configure your ev
 
 Move to the Test Tab and get your **Webhook URL**.
 
+This URL will be used on your Event Pipe configuration [here](data-management-through-webhook.md#creating-an-event-pipe).
+
 <figure><img src="../.gitbook/assets/image (16) (5).png" alt="" width="410"><figcaption><p>Webhook URL</p></figcaption></figure>
 
 After configuring the webhook URL to your Event Pipe, click on Test Trigger to collect a data sample and use it to configure your Google Sheet.
 
 {% hint style="warning" %}
-_Attention! Make sure to have an **Active** Campaign and have your Event Pipe **enabled**, in order to have data available for that test._
+_Attention! Make sure to have an **Active** Campaign and have your Event Pipe **enabled**, in order to have data available for that test, note that the test is **necessary** so there is_ _data available for further configuration on the_ [_Action_](data-management-through-webhook.md#action) _step._
 {% endhint %}
 
 The data might take a while to be available, once your event pipe sends information to your tool, this is the data you will get from that event.
@@ -111,7 +123,9 @@ We will use **Google Sheets** to manage the data collected.
 
 Create a Google sheet on your preferred account, and then have the Columns ready to be configured.
 
-In this example, we will be collecting the following data: **Time Stamp**, **Domain**, **Campaign ID**, **Ad ID**.
+In this example, we will be collecting the following data: **Time Stamp**, **Domain**, **Campaign ID**, and **Ad ID**.
+
+Note that you can name your columns according to your needs, feel free to set any identification that feels better for you.
 
 <figure><img src="../.gitbook/assets/image (108) (1).png" alt="" width="333"><figcaption><p>Google Sheet Configured</p></figcaption></figure>
 
