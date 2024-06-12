@@ -75,7 +75,7 @@ Zapier is a tool that presents multiple integrations that can promote automation
 
 If you will be using Zapier as well, this is the link to access: [Zapier](https://zapier.com).
 
-On Zapier, click on <img src="../.gitbook/assets/image.png" alt="Create" data-size="line">, then Zaps.
+On Zapier, click on <img src="../.gitbook/assets/image (164).png" alt="Create" data-size="line">, then Zaps.
 
 <figure><img src="../.gitbook/assets/image (11) (5).png" alt="" width="221"><figcaption><p>Zapier Creation Menu</p></figcaption></figure>
 

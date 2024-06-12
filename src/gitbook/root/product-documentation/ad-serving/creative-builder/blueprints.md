@@ -18,7 +18,7 @@ layout:
 
 Blueprints are models for creating ads quickly and efficiently. These pre-made models allow you to build ads that meet your business needs with ease.&#x20;
 
-Built on web design languages, Blueprints can offer you the flexibility of creating dynamic banners. Even, if you are not familiar with web development languages, you can confidently use one of the pre-made Blueprints available.&#x20;
+Built on web design languages, Blueprints can offer you the flexibility of creating dynamic banners. Even, if you are not famil3iar with web development languages, you can confidently use one of the pre-made Blueprints available.&#x20;
 
 ### How to use Blueprints
 
