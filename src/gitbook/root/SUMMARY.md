@@ -14,7 +14,7 @@
 
 ## Product documentation
 
-* [Ad Serving](product-documentation/ad-serving/README.md)
+* [Ad Server](product-documentation/ad-serving/README.md)
   * [Creatives](product-documentation/ad-serving/creatives.md)
   * [Creative Groups](product-documentation/ad-serving/creative-groups.md)
   * [Ads](product-documentation/ad-serving/ads/README.md)
@@ -24,7 +24,7 @@
   * [Creative Builder](product-documentation/ad-serving/creative-builder/README.md)
     * [Blueprints](product-documentation/ad-serving/creative-builder/blueprints.md)
     * [Builds](product-documentation/ad-serving/creative-builder/builds.md)
-* [Campaigns](product-documentation/campaigns/README.md)
+* [Demand Side Platform (DSP)](product-documentation/campaigns/README.md)
   * [Managing Campaigns](product-documentation/campaigns/campaigns.md)
   * [Managing Budgets](product-documentation/campaigns/budgets.md)
   * [Managing Targets](product-documentation/campaigns/targets.md)
