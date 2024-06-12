@@ -20,7 +20,7 @@
   * [Ads](product-documentation/ad-serving/ads/README.md)
     * [Bulk Ads](product-documentation/ad-serving/ads/bulk-ads.md)
     * [Metrics](product-documentation/ad-serving/ads/metrics.md)
-    * [Common AdExchange Review Status](product-documentation/ad-serving/ads/common-adexchange-review-status.md)
+    * [Common AdExchange Review Status](product-documentation/ad-serving/ads/adexchange-review-google.md)
   * [Creative Builder](product-documentation/ad-serving/creative-builder/README.md)
     * [Blueprints](product-documentation/ad-serving/creative-builder/blueprints.md)
     * [Builds](product-documentation/ad-serving/creative-builder/builds.md)
