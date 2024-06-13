@@ -10,7 +10,7 @@ Create builds based on your blueprints to generate dynamic banners for your camp
 
 On the BMS homepage click on Builds, under the Ad Serving section, to access the Builds page.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Builds List</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (141).png" alt=""><figcaption><p>Builds List</p></figcaption></figure>
 
 ### Creating Builds
 

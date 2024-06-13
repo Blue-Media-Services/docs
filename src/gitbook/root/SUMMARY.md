@@ -15,8 +15,8 @@
 ## Product documentation
 
 * [Ad Server](product-documentation/ad-server/README.md)
-  * [Creatives](product-documentation/ad-server/creatives.md)
-  * [Creative Groups](product-documentation/ad-server/creative-groups.md)
+  * [Creatives](product-documentation/ad-serving/creatives.md)
+  * [Creative Groups](product-documentation/ad-serving/creative-groups.md)
   * [Ads](product-documentation/ad-server/ads/README.md)
     * [Bulk Ads](product-documentation/ad-server/ads/bulk-ads.md)
     * [Metrics](product-documentation/ad-server/ads/metrics.md)

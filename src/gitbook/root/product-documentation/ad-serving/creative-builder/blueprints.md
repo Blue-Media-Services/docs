@@ -36,15 +36,15 @@ You will have some public blueprint models available for use, so even if you are
    * Tags: Set tags for your better organization.
    * Availability: Select if you want this blueprint to be public or private. Public blueprints will be available to everyone on BMS.
    * Generate Sizes: Select in which sizes this blueprint will build your creatives.
-   *   Parameters: Click on ![](<../../../.gitbook/assets/image (1).png>) to create a new parameters group.\
+   *   Parameters: Click on ![](<../../../.gitbook/assets/image (1) (10).png>) to create a new parameters group.\
 
 
        <figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Parameters Group Creator</p></figcaption></figure>
 
        * Name: Set a name for this parameters group.
        * Description: Set a description of the parameters group.
-       * Click on <img src="../../../.gitbook/assets/image (2).png" alt="" data-size="line"> to save your parameter group.
-3.  After creating the parameters group, you can begin coding your banner on the code box. Then, configure the parameters of your code to align with those in the parameter group. To add a new parameter to the group click on ![](<../../../.gitbook/assets/image (3).png>) and fill in the details:
+       * Click on <img src="../../../.gitbook/assets/image (2) (7).png" alt="" data-size="line"> to save your parameter group.
+3.  After creating the parameters group, you can begin coding your banner on the code box. Then, configure the parameters of your code to align with those in the parameter group. To add a new parameter to the group click on ![](<../../../.gitbook/assets/image (3) (7).png>) and fill in the details:
 
 
 
@@ -83,7 +83,7 @@ You will have some public blueprint models available for use, so even if you are
 
           * Label: Insert the label of your parameter.
           * Value: Insert the value associated with the label.
-          * Add as many labels as you need by clicking on ![](<../../../.gitbook/assets/image (3).png>).
+          * Add as many labels as you need by clicking on ![](<../../../.gitbook/assets/image (3) (7).png>).
           * Initial Value: Pick one of the configurated labels as the initial value.
       *   **Code**
 
@@ -123,7 +123,7 @@ You will have some public blueprint models available for use, so even if you are
 
           * Use Image Picker: Check this box to enable the image picker, in which you can pick images from your uploaded creatives, upload a new one if needed, or inform the image URL.
           * Initial Value: Insert the initial value for the image URL.
-    * Click on <img src="../../../.gitbook/assets/image (2).png" alt="" data-size="line"> to save your parameter.
+    * Click on <img src="../../../.gitbook/assets/image (2) (7).png" alt="" data-size="line"> to save your parameter.
 4. Continue adding parameter groups and parameters until your business needs are satisfied.&#x20;
 5. Use the available system parameters to customize your template:
    * Account ID: This option inserts on your template the account ID of the account where the build is created.
@@ -135,11 +135,11 @@ You will have some public blueprint models available for use, so even if you are
    * Double-Escaped Click URL: This macro will be replaced by BMS's double-escaped click tracker URL. Use this option when BMS is the third click tracker on the chain.
    * Cache Buster: This macro will be replaced by a random number that can be used for cache busting.
    * Escaped Ad Context: This macro will be replaced by an escaped JSON object containing data about the ad context, such as the campaign ID and users' data.
-7. After finishing all your blueprint settings, click on <img src="../../../.gitbook/assets/image (2).png" alt="" data-size="line"> to save your blueprint.
+7. After finishing all your blueprint settings, click on <img src="../../../.gitbook/assets/image (2) (7).png" alt="" data-size="line"> to save your blueprint.
 
 ### Using an Existing Blueprint
 
-It's possible to use an existing blueprint as well. You can duplicate a blueprint you already have to reuse some of its parameters by clicking on <img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> at the same row as the blueprint you want to be duplicated. Additionally, you can use a public blueprint. Turn off the <img src="../../../.gitbook/assets/image (7).png" alt="" data-size="line"> owned option, above the blueprints list, choose one of the available blueprints, and click on <img src="../../../.gitbook/assets/image (6).png" alt="" data-size="line"> at the same row as the public blueprint you want to use. Turn on  ![](<../../../.gitbook/assets/image (10).png>)the owned option again, and then click on <img src="../../../.gitbook/assets/image (11).png" alt="" data-size="line"> to edit the blueprint according to your business needs.
+It's possible to use an existing blueprint as well. You can duplicate a blueprint you already have to reuse some of its parameters by clicking on <img src="../../../.gitbook/assets/image (6) (7).png" alt="" data-size="line"> at the same row as the blueprint you want to be duplicated. Additionally, you can use a public blueprint. Turn off the <img src="../../../.gitbook/assets/image (7) (7).png" alt="" data-size="line"> owned option, above the blueprints list, choose one of the available blueprints, and click on <img src="../../../.gitbook/assets/image (6) (7).png" alt="" data-size="line"> at the same row as the public blueprint you want to use. Turn on  ![](<../../../.gitbook/assets/image (10).png>)the owned option again, and then click on <img src="../../../.gitbook/assets/image (11).png" alt="" data-size="line"> to edit the blueprint according to your business needs.
 
 ### Deleting Blueprints
 

@@ -27,7 +27,7 @@ Choose a default creative group. You can pick one from your creative group's lis
 
 The option "Send for review on all supported ad exchanges" is checked by default but you can uncheck it if you want to further customize your ad before having it reviewed.
 
-After making all the changes necessary, click on <img src="../../../.gitbook/assets/image (144).png" alt="Save" data-size="line">, and your ad will be created.
+After making all the changes necessary, click on <img src="../../../.gitbook/assets/image (144) (1).png" alt="Save" data-size="line">, and your ad will be created.
 
 ### Editing an Ad
 
@@ -35,13 +35,13 @@ If you need to make any necessary changes, click on <img src="../../../.gitbook/
 
 <figure><img src="../../../.gitbook/assets/image (158).png" alt=""><figcaption><p>Editing an Ad</p></figcaption></figure>
 
-After making changes, click on <img src="../../../.gitbook/assets/image (144).png" alt="Save" data-size="line">.
+After making changes, click on <img src="../../../.gitbook/assets/image (144) (1).png" alt="Save" data-size="line">.
 
 ### Creating Ad Rules
 
 For an Ad to work, it is necessary to create a rule, you will decide when the ad will be displayed.
 
-To start creating an Ad rule, select an ad and move to the <img src="../../../.gitbook/assets/image (145).png" alt="Rules" data-size="line"> tab.
+To start creating an Ad rule, select an ad and move to the <img src="../../../.gitbook/assets/image (145) (1).png" alt="Rules" data-size="line"> tab.
 
 <figure><img src="../../../.gitbook/assets/image (146).png" alt=""><figcaption><p>Rules</p></figcaption></figure>
 
@@ -56,7 +56,7 @@ On your rule creation, you will be able to select the time frame in which your a
 * Scheduling - You can schedule your ads to be displayed on certain days or time window, making it possible to fully customize when your ads will be displayed.
 * Display - Set a starting date and when the rule stops, you can always edit this date when necessary.
 
-After making all necessary customizations, click on <img src="../../../.gitbook/assets/image (144).png" alt="Save" data-size="line">.
+After making all necessary customizations, click on <img src="../../../.gitbook/assets/image (144) (1).png" alt="Save" data-size="line">.
 
 <figure><img src="../../../.gitbook/assets/image (149).png" alt=""><figcaption><p>Rules Configured</p></figcaption></figure>
 

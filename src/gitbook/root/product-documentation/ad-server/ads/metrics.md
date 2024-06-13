@@ -41,7 +41,7 @@ You will also be able to Group your metrics by:
 
 Each Group by option may present different metrics, related only to that option you have chosen.
 
-<figure><img src="../../../.gitbook/assets/image (143).png" alt=""><figcaption><p>Ads Metrics</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (143) (1).png" alt=""><figcaption><p>Ads Metrics</p></figcaption></figure>
 
 * Budget Spent: Represents the total budget spent including media purchases, ad delivery, and bidding activities.
 * Bids: Number of bids placed.
