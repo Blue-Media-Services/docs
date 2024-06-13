@@ -16,11 +16,11 @@ Please note that sometimes AdExchange's rejection might not provide an accurate 
 
 This document will present the main reasons for rejection by AdExchange, with examples so that you can make the necessary changes to your Ad:
 
-* [ADULT CONTENT](adexchange-review-google.md#adult-content)
-* [DESTINATION NOT CRAWLABLE](adexchange-review-google.md#destination-not-crawlable)
-* [ONLINE GAMBLING](adexchange-review-google.md#online-gambling)
-* [INAPPROPRIATE CONTENT](adexchange-review-google.md#inappropriate-content)
-* [REMOVED BY GOOGLE](adexchange-review-google.md#removed-by-google)
+* [ADULT CONTENT](common-adexchange-review-status.md#adult-content)
+* [DESTINATION NOT CRAWLABLE](common-adexchange-review-status.md#destination-not-crawlable)
+* [ONLINE GAMBLING](common-adexchange-review-status.md#online-gambling)
+* [INAPPROPRIATE CONTENT](common-adexchange-review-status.md#inappropriate-content)
+* [REMOVED BY GOOGLE](common-adexchange-review-status.md#removed-by-google)
 
 ## ADULT CONTENT
 

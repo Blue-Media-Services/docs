@@ -101,5 +101,5 @@ Learn more about the [metrics tab](../monitoring/metrics.md).
 
 The real time tab will display real time events related to the selected creative.
 
-Learn more about the [real time tab](../campaigns/real-time-tab.md).
+Learn more about the [real time tab](../demand-side-platform-dsp/real-time-tab.md).
 

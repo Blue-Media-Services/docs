@@ -17,7 +17,7 @@ A screen will pop up and it will be displayed the created ads for that current c
 Select a previously created AD or create new ones by pressing the <img src="../../.gitbook/assets/image (22) (1).png" alt="Create AD" data-size="line"> button, alternatively, if you wish to create ads in bulk, you also have that option through the <img src="../../.gitbook/assets/image (23) (1).png" alt="Create Bulk Ad" data-size="line"> button.
 
 {% hint style="info" %}
-Learn more about Ads Creation and Management [**here**](../ad-serving/)**.**
+Learn more about Ads Creation and Management [**here**](../ad-server/)**.**
 {% endhint %}
 
 After selecting your ads, click on <img src="../../.gitbook/assets/image (24) (1).png" alt="Select" data-size="line"> button to confirm.

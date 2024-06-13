@@ -2,7 +2,7 @@
 
 Branding campaigns aim to increase the awareness of a given brand and bring the user back to your website. All campaigns have 3 main components: a Target (what is the subset of the population that should see your campaign), a Budget (how much do you want to spend daily on the campaign) and a list of Ads (what the users should see).
 
-To create a branding campaign you must already have your ads set up in our Ad Server. [Check how to do that here.](../product-documentation/ad-serving/ads/) With the ads ready, here is an overview:
+To create a branding campaign you must already have your ads set up in our Ad Server. [Check how to do that here.](../product-documentation/ad-server/ads/) With the ads ready, here is an overview:
 
 1. [Create a new campaign](branding.md#creating-a-new-campaign)
 2. [Define a daily budget](branding.md#defining-a-budget)
@@ -19,7 +19,7 @@ In our Home Page, click on <img src="../.gitbook/assets/image (2) (2).png" alt="
 * The domain you choose must be the same domain selected when the ads were created.
 * The bid price you choose directly influences the quality of the inventory you will get access to. The more mainstream a website is, the more expensive it becomes. We recommend opting for a variable bid price so that you can get impressions in a wide variety of websites paying the market rate for each. The $0.50 to $1.50 is a good starting point.
 * You can schedule your campaign to begin or finish at specific dates, but if you choose to have it starting in the future, you won't see any metrics or real-time data right away. We recommend setting up and testing the campaign first, then scheduling it for a future time.
-* You can leave the other fields with their default values. More details on how to optimize and further configure the campaign can be [found here](../product-documentation/campaigns/).
+* You can leave the other fields with their default values. More details on how to optimize and further configure the campaign can be [found here](../product-documentation/demand-side-platform-dsp/).
 
 After saving the campaign, select it on the list to continue its configuration.
 
@@ -74,7 +74,7 @@ When your campaign is active, you can go to the **Real Time** panel and check yo
 
 You can click on the <img src="../.gitbook/assets/image (14) (2).png" alt="Preview" data-size="line"> button to get more details about each event.
 
-You can learn more about real-time events on the [Real Time Tab Documentation page](../product-documentation/campaigns/real-time-tab.md).
+You can learn more about real-time events on the [Real Time Tab Documentation page](../product-documentation/demand-side-platform-dsp/real-time-tab.md).
 
 ### Check metrics
 
@@ -105,4 +105,4 @@ You can also check your metrics through the **Overview** page, you can reach it 
 
 All metrics have a <img src="../.gitbook/assets/image (19) (2).png" alt="" data-size="line"> to help you identify what that metric is about.
 
-You can learn more about metrics in the [Metrics Tab Documentation page](../product-documentation/campaigns/metrics.md).
+You can learn more about metrics in the [Metrics Tab Documentation page](../product-documentation/demand-side-platform-dsp/metrics.md).

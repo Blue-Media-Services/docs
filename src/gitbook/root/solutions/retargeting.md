@@ -311,7 +311,7 @@ In the Exchange Reviews tab, after creating your ad, select it to monitor whethe
 
 This is where you'll find and be able to monitor your campaigns.
 
-In this article, we're approaching the creation of retargeting campaigns, to see a complete description of every function on this page, please check our[ campaigns' documentation](../product-documentation/campaigns/).&#x20;
+In this article, we're approaching the creation of retargeting campaigns, to see a complete description of every function on this page, please check our[ campaigns' documentation](../product-documentation/demand-side-platform-dsp/).&#x20;
 
 ### Creating a Campaign
 
@@ -364,4 +364,4 @@ Here you set your campaign's daily budget in USD, you can also track how much of
 1. On the Configuration tab, in the budget section, inform your budget value in USD.
 2. Click on <img src="../.gitbook/assets/image (31) (1) (1).png" alt="Save button" data-size="line"> to save your changes.
 
-Now your retargeting campaign is ready to run, you only have to enable it and track how it goes on the metrics and real-time tabs. Here's an article on [how metrics work on the BMS platform](../product-documentation/campaigns/campaigns.md#metrics).
+Now your retargeting campaign is ready to run, you only have to enable it and track how it goes on the metrics and real-time tabs. Here's an article on [how metrics work on the BMS platform](../product-documentation/demand-side-platform-dsp/campaigns.md#metrics).

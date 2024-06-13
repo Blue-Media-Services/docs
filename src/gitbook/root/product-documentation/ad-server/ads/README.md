@@ -72,7 +72,7 @@ Once you create your ads, it is necessary for certain exchanges to review your a
 
 If you did not check the Send for Review on your Ad creation, you will be able to send your ad for review by clicking on <img src="../../../.gitbook/assets/image (154).png" alt="Send" data-size="line">.
 
-Should your ad review fail for any reason, you can check more details [here](adexchange-review-google.md) on how to correctly identify the error and how to fix it.
+Should your ad review fail for any reason, you can check more details [here](common-adexchange-review-status.md) on how to correctly identify the error and how to fix it.
 
 {% hint style="info" %}
 If you don't change the rule, the platform will understand that your creative will run during the campaign period, on all days of the week, and at any time. This area allows you to create periods for Ads to run within the same campaign, as well as their times and days of the week.
@@ -106,4 +106,4 @@ Learn more about the [metrics tab](../../monitoring/metrics.md).
 
 The real time tab will display real time events related to the selected ad.
 
-Learn more about the [real time tab](../../campaigns/real-time-tab.md).
+Learn more about the [real time tab](../../demand-side-platform-dsp/real-time-tab.md).

@@ -73,4 +73,4 @@ To check the performance of the creatives in a group, select the desired group o
 
 The real time tab will display real time events related to the selected creative group.
 
-Learn more about the [real time tab](../campaigns/real-time-tab.md).
+Learn more about the [real time tab](../demand-side-platform-dsp/real-time-tab.md).
