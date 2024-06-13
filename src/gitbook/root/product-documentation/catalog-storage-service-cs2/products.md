@@ -4,13 +4,13 @@ In the Products tab, you will be presented with all the products imported throug
 
 You can filter your products by Catalog or manually searching for a specific product.
 
-<figure><img src="../../.gitbook/assets/image (28) (2).png" alt=""><figcaption><p>Products List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (2) (1).png" alt=""><figcaption><p>Products List</p></figcaption></figure>
 
 ### Details
 
 When checking the details for each product, you will see all the information gathered from the Mapping, as well as any errors in the product.
 
-<figure><img src="../../.gitbook/assets/image (29) (2).png" alt="" width="563"><figcaption><p>Product Details</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (2) (1).png" alt="" width="563"><figcaption><p>Product Details</p></figcaption></figure>
 
 ### Metrics
 

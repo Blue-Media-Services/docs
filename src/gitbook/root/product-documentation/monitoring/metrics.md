@@ -14,11 +14,11 @@ We have two visualization options available:
 
 * Metric Cards: This option displays your metrics on cards containing graphics. It's possible to export the data contained in each metric card by clicking on the desired card and then clicking on the download button <img src="../../.gitbook/assets/image (125).png" alt="" data-size="line">.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Event Stores - Metric Cards</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (6).png" alt=""><figcaption><p>Event Stores - Metric Cards</p></figcaption></figure>
 
 * Data Table: This option will bring the same data that are on the metric cards in table format. This visualization option allows you to export the data by clicking on the download button <img src="../../.gitbook/assets/image (125).png" alt="" data-size="line">.  You can also visualize the table in full-screen mode by clicking on ![](<../../.gitbook/assets/image (126).png>).
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Event Stores - Data Table</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (6).png" alt=""><figcaption><p>Event Stores - Data Table</p></figcaption></figure>
 
 ## Time-Frames and Periodicity
 
@@ -56,13 +56,13 @@ Once an event pipe is enabled and actions related to that event pipe are happeni
 
 You can group your metrics by Event Pipes, being able to compare your events and check how many events were matched.
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption><p>Grouped By Event Pipes</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (2).png" alt=""><figcaption><p>Grouped By Event Pipes</p></figcaption></figure>
 
 You can also check each event pipe's target metrics, by grouping your metrics by **Targets**.
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Grouped by Targets</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (2).png" alt=""><figcaption><p>Grouped by Targets</p></figcaption></figure>
 
 * Call Count - The number of times a target has been called for execution within the event pipe.
 * Failure Rate - The ratio of failed execution attempts on a target within an event pipe.
 
-When checking Metrics, you can always check our <img src="../../.gitbook/assets/image (28).png" alt="Information" data-size="line"> to receive more detailed information on how a specific metric works.
+When checking Metrics, you can always check our <img src="../../.gitbook/assets/image (28) (2).png" alt="Information" data-size="line"> to receive more detailed information on how a specific metric works.

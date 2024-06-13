@@ -10,7 +10,7 @@ Please note that sometimes AdExchange's rejection might not provide an accurate 
 
 
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="125"><figcaption><p>AdExchange Rejection</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (6).png" alt="" width="125"><figcaption><p>AdExchange Rejection</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (1) (7).png" alt=""><figcaption><p>Google Rejection's Reason</p></figcaption></figure>
 

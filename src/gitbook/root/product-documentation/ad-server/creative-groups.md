@@ -6,7 +6,7 @@ They are very useful if you wish to display several variants of the same banners
 
 ## Managing Creative Groups
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Creative Group list</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Creative Group list</p></figcaption></figure>
 
 ### Creating a Creative Group
 
@@ -21,7 +21,7 @@ They are very useful if you wish to display several variants of the same banners
     * Type - the type of creative, can be any common IAB size like "Large Leaderboard (970x90)", "Banner (468x60)", etc.
 3.  Configure the creative group composition:
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Creative Group composition</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Creative Group composition</p></figcaption></figure>
 
     1. Select at least one creative to be a part of this group. To add more creatives use the <img src="../../.gitbook/assets/add.png" alt="Add" data-size="line"> button. To remove an existing creative use the <img src="../../.gitbook/assets/remove.png" alt="Remove" data-size="line"> button.
     2. You can create a new creative straight from this editor by clicking on the <img src="../../.gitbook/assets/create.png" alt="Create" data-size="line"> button or you can edit an existing creative by clicking on the <img src="../../.gitbook/assets/edit.png" alt="Edit" data-size="line"> button.

@@ -22,7 +22,7 @@
     * [Metrics](product-documentation/ad-server/ads/metrics.md)
     * [Common AdExchange Review Status](product-documentation/ad-server/ads/common-adexchange-review-status.md)
   * [Creative Builder](product-documentation/ad-server/creative-builder/README.md)
-    * [Blueprints](product-documentation/ad-server/creative-builder/blueprints.md)
+    * [Blueprints](product-documentation/ad-serving/creative-builder/blueprints.md)
     * [Builds](product-documentation/ad-server/creative-builder/builds.md)
 * [Demand Side Platform (DSP)](product-documentation/demand-side-platform-dsp/README.md)
   * [Managing Campaigns](product-documentation/demand-side-platform-dsp/campaigns.md)

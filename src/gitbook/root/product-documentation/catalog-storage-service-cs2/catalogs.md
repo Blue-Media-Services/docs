@@ -10,37 +10,37 @@ By adding those events to your page, we will be able to collect all the data nee
 
 ### Creating a Catalog
 
-To create a catalog, click on <img src="../../.gitbook/assets/image (16) (6).png" alt="Create Catalog" data-size="line"> button.
+To create a catalog, click on <img src="../../.gitbook/assets/image (16) (6) (1).png" alt="Create Catalog" data-size="line"> button.
 
-<figure><img src="../../.gitbook/assets/image (17) (6).png" alt="" width="539"><figcaption><p>Create Catalog Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (6) (1).png" alt="" width="539"><figcaption><p>Create Catalog Screen</p></figcaption></figure>
 
 Choose a **name** for your catalog, and if you wish, add **Tags** to better identify your catalog.
 
-After filling in the fields, click on <img src="../../.gitbook/assets/image (18) (6).png" alt="Save" data-size="line">.
+After filling in the fields, click on <img src="../../.gitbook/assets/image (18) (6) (1).png" alt="Save" data-size="line">.
 
 Then your catalog will be available on your list.
 
-<figure><img src="../../.gitbook/assets/image (19) (6).png" alt=""><figcaption><p>Catalog List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (6) (1).png" alt=""><figcaption><p>Catalog List</p></figcaption></figure>
 
 ### Editing a Catalog
 
-If you need to Edit a catalog's name or tags, click on <img src="../../.gitbook/assets/image (20) (4).png" alt="Edit" data-size="line">, after making the necessary changes, click on <img src="../../.gitbook/assets/image (21) (2).png" alt="Save" data-size="line">.
+If you need to Edit a catalog's name or tags, click on <img src="../../.gitbook/assets/image (20) (4) (1).png" alt="Edit" data-size="line">, after making the necessary changes, click on <img src="../../.gitbook/assets/image (21) (2) (1).png" alt="Save" data-size="line">.
 
 ### Archiving a Catalog
 
-To archive a catalog, click on <img src="../../.gitbook/assets/image (22) (2).png" alt="Archive" data-size="line">, then your archived catalog will be shown in the Archived list, to alter your view flip the toggle <img src="../../.gitbook/assets/image (23) (2).png" alt="Toggle" data-size="line">.
+To archive a catalog, click on <img src="../../.gitbook/assets/image (22) (2) (1).png" alt="Archive" data-size="line">, then your archived catalog will be shown in the Archived list, to alter your view flip the toggle <img src="../../.gitbook/assets/image (23) (2) (1).png" alt="Toggle" data-size="line">.
 
 ### Unarchiving a Catalog
 
-To unarchive a catalog, toggle your view to the Archived list then click on <img src="../../.gitbook/assets/image (24) (2).png" alt="Unarchive" data-size="line">, and your catalog will return to the active catalogs.
+To unarchive a catalog, toggle your view to the Archived list then click on <img src="../../.gitbook/assets/image (24) (2) (1).png" alt="Unarchive" data-size="line">, and your catalog will return to the active catalogs.
 
 ### Deleting a Catalog
 
-To delete a catalog, click on <img src="../../.gitbook/assets/image (25) (2).png" alt="Delete" data-size="line">, a screen will be shown to confirm the deletion.
+To delete a catalog, click on <img src="../../.gitbook/assets/image (25) (2) (1).png" alt="Delete" data-size="line">, a screen will be shown to confirm the deletion.
 
-<figure><img src="../../.gitbook/assets/image (26) (2).png" alt=""><figcaption><p>Catalog Deletion Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (2) (1).png" alt=""><figcaption><p>Catalog Deletion Screen</p></figcaption></figure>
 
-After clicking on <img src="../../.gitbook/assets/image (27) (2).png" alt="Delete" data-size="line">, your catalog will be **permanently** deleted.
+After clicking on <img src="../../.gitbook/assets/image (27) (2) (1).png" alt="Delete" data-size="line">, your catalog will be **permanently** deleted.
 
 {% hint style="warning" %}
 _Attention! We always advise to deactivate the Catalog instead of deleting it completely. When deleting a Catalog, all data and metrics are lost as well._

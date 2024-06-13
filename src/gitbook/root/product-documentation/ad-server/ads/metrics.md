@@ -6,11 +6,11 @@ description: In this page you will be learning how our Ads' Metrics works.
 
 Once you have created your ads and started a campaign, you will be able to check your metrics and analyze your ads performance, providing you with precise data.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Ads - Metric Cards</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (9).png" alt=""><figcaption><p>Ads - Metric Cards</p></figcaption></figure>
 
 * Data Table: This option will bring the same data that are on the metric cards in table format. This visualization option allows you to export the data by clicking on the download button <img src="../../../.gitbook/assets/image (125).png" alt="" data-size="line">.  You can also visualize the table in full-screen mode by clicking on ![](<../../../.gitbook/assets/image (126).png>).
 
-<figure><img src="../../../.gitbook/assets/image (1) (9).png" alt=""><figcaption><p>Ads - Data Table</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (9) (1).png" alt=""><figcaption><p>Ads - Data Table</p></figcaption></figure>
 
 ## Time-Frames and Periodicity
 
@@ -65,4 +65,4 @@ Each Group by option may present different metrics, related only to that option 
 * Budget Spent on Impressions: The total budget spent on media purchases, reflects the expenses for acquiring ad spaces.
 * Budget Spent on Deliveries: Total budget spent on the ad delivery process, encompassing the costs of distributing ads to the target audience.
 
-When checking metrics, you can always check our <img src="../../../.gitbook/assets/image (28).png" alt="Information" data-size="line"> to receive more detailed information on how a metric works.
+When checking metrics, you can always check our <img src="../../../.gitbook/assets/image (28) (2).png" alt="Information" data-size="line"> to receive more detailed information on how a metric works.

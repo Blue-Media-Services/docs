@@ -14,7 +14,7 @@ On the BMS homepage click on Builds, under the Ad Serving section, to access the
 
 ### Creating Builds
 
-Before creating a build,  it is necessary to create your blueprints. If you haven't done this yet, follow the instructions on the [Blueprints page](blueprints.md) and then come back.
+Before creating a build,  it is necessary to create your blueprints. If you haven't done this yet, follow the instructions on the [Blueprints page](../../ad-serving/creative-builder/blueprints.md) and then come back.
 
 1.  Click on <img src="../../../.gitbook/assets/image (159).png" alt="" data-size="line"> to start creating your Build.\
 

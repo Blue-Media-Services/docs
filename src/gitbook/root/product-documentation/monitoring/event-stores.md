@@ -2,7 +2,7 @@
 
 In our Event Stores tab, you can create a store that acts as a database for storing events. You will be able to create a store where your event pipes will be sent. You can then download the events as a .JSON file and import that to your data management file to better organize it.
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt="" width="563"><figcaption><p>Event Stores Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (2).png" alt="" width="563"><figcaption><p>Event Stores Tab</p></figcaption></figure>
 
 ## Creating an Event Store
 

@@ -6,7 +6,7 @@ description: Learn How our Real Time Tab works.
 
 Ad and Campaign resources have a dedicated real time monitoring tab that allows the customer to see what is being delivered in real time.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Real time tab showing ads being delivered and user interactions as they happen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Real time tab showing ads being delivered and user interactions as they happen</p></figcaption></figure>
 
 The events available are:
 
