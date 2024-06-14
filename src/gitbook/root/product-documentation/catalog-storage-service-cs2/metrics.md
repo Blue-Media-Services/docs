@@ -4,40 +4,11 @@ description: Learn more about Catalog Storage Service Metrics.
 
 # Metrics
 
+{% hint style="info" %}
+To learn more about how the metrics service works, how to set your visualization options, and how to download your data, visit our [Metrics page](../metrics.md).&#x20;
+{% endhint %}
+
 All features on CS2 have their own metrics tab containing data about aspects related to each one, including performance and processing data.
-
-### Visualization
-
-We have 2 visualization options available for CS2 Metrics:
-
-*   Metric Cards: This option displays your metrics on cards containing graphics. It's possible to export the data contained in each metric card by clicking on the desired card and then clicking on the download button <img src="../../.gitbook/assets/image (125).png" alt="" data-size="line">.\
-
-
-    <figure><img src="../../.gitbook/assets/image (41) (2).png" alt=""><figcaption><p>Catalog Metrics Tab -  Metric Cards</p></figcaption></figure>
-*   Data Table: This option will bring the same data that are on the metric cards in table format. This visualization option allows you to export the data by clicking on the download button <img src="../../.gitbook/assets/image (125).png" alt="" data-size="line">.  You can also visualize the table in full-screen mode by clicking on ![](<../../.gitbook/assets/image (126).png>).\
-
-
-    <figure><img src="../../.gitbook/assets/image (40) (2).png" alt=""><figcaption><p>Catalog Metrics Tab - Data Table</p></figcaption></figure>
-
-### Time-Frames and Periodicity
-
-One of the features on the metrics tab is defining a time frame and a period in which you want to visualize your catalogs, import channels, products, and recommendation models performances.&#x20;
-
-<div align="center">
-
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption><p>Metrics Tab - Period</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-05-16 081812.png" alt=""><figcaption><p>Metrics Tab - Time Frame</p></figcaption></figure>
-
-</div>
-
-We can select a time frame to visualize the performance of CS2's features within that period. To define a time frame, click on the button that represents the desired period or use the calendar button to set a custom time frame.
-
-Additionally, it's also possible to set a period to define measurement intervals. For example, suppose you select a time frame of 1 day and a period of 1 hour. In that case, all the results from the last day will be displayed and divided into 1 hour periods.
-
-To update your results click on the refresh button <img src="../../.gitbook/assets/image (122).png" alt="" data-size="original">.
 
 ### Catalog
 
@@ -51,7 +22,7 @@ There are 3 options available on the 'Group by' feature:
 
 ### Products
 
-The products metrics tab contains data about how your website's users interact with your products. Without selecting a product, account-wide metrics data for all your products will be displayed on this tab. Selecting one product will restrict  the displayed metrics data to the selected one, and selecting more than one will generate a metrics comparison between the selected products.
+The products metrics tab contains data about how your website's users interact with your products. Without selecting a product, account-wide metrics data for all your products will be displayed on this tab. Selecting one product will restrict the displayed metrics data to the selected one, and selecting more than one will generate a metrics comparison between the selected products.
 
 <figure><img src="../../.gitbook/assets/image (42) (2).png" alt=""><figcaption><p>Products Metrics Tab </p></figcaption></figure>
 
@@ -66,7 +37,7 @@ These are the metrics available for products:
 
 ### Import Channels
 
-The import channels metrics tab contains data about your importing jobs, such as data processing, performance, and failure rate. Without selecting an Import channel, account-wide metrics data for all your import channels will be displayed on this tab. Selecting one import channel will restrict the  displayed metrics data to the selected one, and selecting more than one will generate a metrics comparison between the selected ones.
+The import channels metrics tab contains data about your importing jobs, such as data processing, performance, and failure rate. Without selecting an Import channel, account-wide metrics data for all your import channels will be displayed on this tab. Selecting one import channel will restrict the displayed metrics data to the selected one, and selecting more than one will generate a metrics comparison between the selected ones.
 
 <figure><img src="../../.gitbook/assets/image (39) (2).png" alt=""><figcaption><p>Import Channels Metrics Tab</p></figcaption></figure>
 
