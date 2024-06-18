@@ -14,9 +14,9 @@ You have complete control and visualization of the status of your Ad in each of 
 
 ### Creating a single Ad
 
-In the Ads page, click on the <img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="Create Ad" data-size="line"> button.
+In the Ads page, click on the <img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="Create Ad" data-size="line"> button.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Ad editor screen</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Ad editor screen</p></figcaption></figure>
 
 * Name - how you want to call this ad;
 * Tags - up to 5 labels that can be used to aid identification and searching;

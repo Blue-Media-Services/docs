@@ -83,7 +83,7 @@ Once everything is configured, click on <img src="../../.gitbook/assets/image (2
 
 To enable an event pipe simply flip the toggle <img src="../../.gitbook/assets/image (33).png" alt="Toggle" data-size="line"> and your event store will be enabled.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Event Pipe Enabled</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Event Pipe Enabled</p></figcaption></figure>
 
 ### Editing your Event Pipe
 

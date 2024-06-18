@@ -12,7 +12,7 @@ Please note that sometimes AdExchange's rejection might not provide an accurate 
 
 <figure><img src="../../../.gitbook/assets/image (8) (6).png" alt="" width="125"><figcaption><p>AdExchange Rejection</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (7).png" alt=""><figcaption><p>Google Rejection's Reason</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 This document will present the main reasons for rejection by AdExchange, with examples so that you can make the necessary changes to your Ad:
 
@@ -80,7 +80,7 @@ However, the following are not allowed:
 * Social casino game destinations that offer gambling or games where the opportunity exists to win real money or prizes based on the outcome of the game.
 * Promotion of "real money gambling" destinations. This includes gambling-related advertisements that appear on your social casino game destination.
 
-### Gambling
+#### Gambling
 
 Promoting ads for offline and online gambling is permitted. However, your ad must comply with the following:
 
