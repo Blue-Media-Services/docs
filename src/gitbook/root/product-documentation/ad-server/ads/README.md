@@ -1,5 +1,5 @@
 ---
-description: Learn how to create, edit and analyze your Ads here.
+description: Learn how to create, edit and analyze your Ads' metrics here.
 ---
 
 # Ads
@@ -9,6 +9,8 @@ In the Ads area, you will create the Ads for your campaign, adding the group of 
 You have complete control and visualization of the status of your Ad in each of the AdExchanges and you can also create rules for promoting these Ads.
 
 ## Managing Ads
+
+On the Ads page, click on the <img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="Create Ad" data-size="line"> button.
 
 <figure><img src="../../../.gitbook/assets/image (210).png" alt=""><figcaption><p>Ads List</p></figcaption></figure>
 
@@ -181,7 +183,7 @@ To see all archived ads simply turn on the <img src="../../../.gitbook/assets/ar
 
 The metrics tab will display all metrics related to the selected ads or for the whole account if no ads are selected.
 
-Learn more about the [metrics tab](../../monitoring/metrics.md).
+Learn more about the [metrics tab](ads-metrics.md).
 
 ### Real Time Tab
 

@@ -21,7 +21,7 @@ Built on web design languages, Blueprints offer the flexibility of creating dyna
 
 ## Managing Blueprints
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Blueprints List</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19) (7).png" alt=""><figcaption><p>Blueprints List</p></figcaption></figure>
 
 You will have some public blueprint models available for use, so even if you are not familiar with web development languages, you'll be able to create and use blueprints easily. You can also create a blueprint with your parameters by coding it; however, this option might require web development skills.
 
@@ -39,7 +39,7 @@ You will have some public blueprint models available for use, so even if you are
    *   Parameters: Click on ![](<../../../.gitbook/assets/image (1) (10).png>) to create a new parameters group.\
 
 
-       <figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Parameters Group Creator</p></figcaption></figure>
+       <figure><img src="../../../.gitbook/assets/image (20) (5).png" alt=""><figcaption><p>Parameters Group Creator</p></figcaption></figure>
 
        * Name: Set a name for this parameters group.
        * Description: Set a description of the parameters group.
@@ -58,7 +58,7 @@ You will have some public blueprint models available for use, so even if you are
 
 
 
-          <figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Parameter Editor - String Type</p></figcaption></figure>
+          <figure><img src="../../../.gitbook/assets/image (21) (3).png" alt=""><figcaption><p>Parameter Editor - String Type</p></figcaption></figure>
 
           * Minimum Length: Set a minimum length for the input.
           * Maximum Length:  Set a minimum length for the input.
@@ -72,14 +72,14 @@ You will have some public blueprint models available for use, so even if you are
 
 
 
-          <figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption><p>Parameter Editor - Boolean Type</p></figcaption></figure>
+          <figure><img src="../../../.gitbook/assets/image (26) (3).png" alt=""><figcaption><p>Parameter Editor - Boolean Type</p></figcaption></figure>
 
           * Initial Value: Check the box if the initial value is true, uncheck it if it's false.
       *   **Choice**
 
 
 
-          <figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Parameter Editor - Choice Type</p></figcaption></figure>
+          <figure><img src="../../../.gitbook/assets/image (27) (3).png" alt=""><figcaption><p>Parameter Editor - Choice Type</p></figcaption></figure>
 
           * Label: Insert the label of your parameter.
           * Value: Insert the value associated with the label.
@@ -97,12 +97,12 @@ You will have some public blueprint models available for use, so even if you are
 
 
 
-          <figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Parameter Editor - Color Type</p></figcaption></figure>
+          <figure><img src="../../../.gitbook/assets/image (23) (3).png" alt=""><figcaption><p>Parameter Editor - Color Type</p></figcaption></figure>
 
           * Initial Value: Insert the hex color code, or click on the color box to pick a color.
       *   **Number**
 
-          <figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Parameter Editor - Number Type</p></figcaption></figure>
+          <figure><img src="../../../.gitbook/assets/image (25) (3).png" alt=""><figcaption><p>Parameter Editor - Number Type</p></figcaption></figure>
 
           * Minimum: Insert the minimum value to be accepted.
           * Maximum: Insert the maximum value to be accepted.
@@ -111,7 +111,7 @@ You will have some public blueprint models available for use, so even if you are
 
 
 
-          <figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Parameter Editor - Resource ID type</p></figcaption></figure>
+          <figure><img src="../../../.gitbook/assets/image (24) (3).png" alt=""><figcaption><p>Parameter Editor - Resource ID type</p></figcaption></figure>
 
           * Resource Type:  Choose between a CS2 catalog or a CS2 Recommendation Model to use one of them as a resource for your banner.
           * Initial Value: Select the specific catalog or recommendation model you want to use for this parameter.
@@ -119,7 +119,7 @@ You will have some public blueprint models available for use, so even if you are
 
 
 
-          <figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption><p>Parameter Editor - URL Type</p></figcaption></figure>
+          <figure><img src="../../../.gitbook/assets/image (22) (3).png" alt=""><figcaption><p>Parameter Editor - URL Type</p></figcaption></figure>
 
           * Use Image Picker: Check this box to enable the image picker, in which you can pick images from your uploaded creatives, upload a new one if needed, or inform the image URL.
           * Initial Value: Insert the initial value for the image URL.
@@ -139,14 +139,14 @@ You will have some public blueprint models available for use, so even if you are
 
 ### Using an Existing Blueprint
 
-It's possible to use an existing blueprint as well. You can duplicate a blueprint you already have to reuse some of its parameters by clicking on <img src="../../../.gitbook/assets/image (6) (7).png" alt="" data-size="line"> at the same row as the blueprint you want to be duplicated. Additionally, you can use a public blueprint. Turn off the <img src="../../../.gitbook/assets/image (7) (7).png" alt="" data-size="line"> owned option, above the blueprints list, choose one of the available blueprints, and click on <img src="../../../.gitbook/assets/image (6) (7).png" alt="" data-size="line"> at the same row as the public blueprint you want to use. Turn on  ![](<../../../.gitbook/assets/image (10).png>)the owned option again, and then click on <img src="../../../.gitbook/assets/image (11).png" alt="" data-size="line"> to edit the blueprint according to your business needs.
+It's possible to use an existing blueprint as well. You can duplicate a blueprint you already have to reuse some of its parameters by clicking on <img src="../../../.gitbook/assets/image (6) (7) (1).png" alt="" data-size="line"> at the same row as the blueprint you want to be duplicated. Additionally, you can use a public blueprint. Turn off the <img src="../../../.gitbook/assets/image (7) (7) (1).png" alt="" data-size="line"> owned option, above the blueprints list, choose one of the available blueprints, and click on <img src="../../../.gitbook/assets/image (6) (7) (1).png" alt="" data-size="line"> at the same row as the public blueprint you want to use. Turn on  ![](<../../../.gitbook/assets/image (10) (7).png>)the owned option again, and then click on <img src="../../../.gitbook/assets/image (11) (7).png" alt="" data-size="line"> to edit the blueprint according to your business needs.
 
 ### Deleting Blueprints
 
-You can delete or archive blueprints according to your needs. To archive blueprints, click on ![](<../../../.gitbook/assets/image (12).png>) at the same row as the blueprint you want to archived. To view your archived blueprints, turn on the ![](<../../../.gitbook/assets/image (10).png>) archived option above the list of blueprints.
+You can delete or archive blueprints according to your needs. To archive blueprints, click on ![](<../../../.gitbook/assets/image (12) (7).png>) at the same row as the blueprint you want to archived. To view your archived blueprints, turn on the ![](<../../../.gitbook/assets/image (10) (7).png>) archived option above the list of blueprints.
 
 {% hint style="danger" %}
 Be careful when deleting blueprints, this action cannot be undone, and builds relying on the deleted blueprint will stop working.
 {% endhint %}
 
-To delete blueprints click on ![](<../../../.gitbook/assets/image (14).png>) at the same row as the blueprint you need to delete, then confirm the action by clicking on <img src="../../../.gitbook/assets/image (15).png" alt="" data-size="line">.
+To delete blueprints click on ![](<../../../.gitbook/assets/image (14) (7).png>) at the same row as the blueprint you need to delete, then confirm the action by clicking on <img src="../../../.gitbook/assets/image (15) (7).png" alt="" data-size="line">.

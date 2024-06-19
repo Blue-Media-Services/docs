@@ -16,10 +16,10 @@ On the BMS homepage click on Builds, under the Ad Serving section, to access the
 
 Before creating a build,  it is necessary to create your blueprints. If you haven't done this yet, follow the instructions on the [Blueprints page](../../ad-serving/creative-builder/blueprints.md) and then come back.
 
-1.  Click on <img src="../../../.gitbook/assets/image (159).png" alt="" data-size="line"> to start creating your Build.\
+1.  Click on <img src="../../../.gitbook/assets/image (159) (1).png" alt="" data-size="line"> to start creating your Build.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (160).png" alt=""><figcaption><p>Builds Editor</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (160) (1).png" alt=""><figcaption><p>Builds Editor</p></figcaption></figure>
 2. Fill in the details:
    * Name: Set a name for your Build.
    * Tags: Set tags for your organization.
@@ -27,7 +27,7 @@ Before creating a build,  it is necessary to create your blueprints. If you have
    * Blueprint: Select the previously configured blueprint to start configuring its parameters.
    * Generated sizes: Select in which sizes your ads' banners should be generated.
    * Parameters: This section will change according to the selected blueprint, it will contain the same parameters configured on the blueprint, you can adjust these parameters as you observe a preview of how your dynamic banners are being generated.
-3. Click on <img src="../../../.gitbook/assets/image (161).png" alt="" data-size="line"> to save your Build.
+3. Click on <img src="../../../.gitbook/assets/image (161) (1).png" alt="" data-size="line"> to save your Build.
 
 ### Creatives Tab
 

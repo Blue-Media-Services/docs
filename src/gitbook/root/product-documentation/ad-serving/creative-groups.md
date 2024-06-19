@@ -39,15 +39,15 @@ Click on the <img src="../../.gitbook/assets/preview group.png" alt="Preview Gro
 
 <figure><img src="../../.gitbook/assets/creative group preview.png" alt=""><figcaption><p>Creative Group editor screen</p></figcaption></figure>
 
-After making all the necessary changes, click on <img src="../../.gitbook/assets/image (7).png" alt="Save" data-size="line">.
+After making all the necessary changes, click on <img src="../../.gitbook/assets/image (7) (7).png" alt="Save" data-size="line">.
 
 ### Editing a Creative Group
 
 To edit a creative group use the <img src="../../.gitbook/assets/edit.png" alt="Edit" data-size="line"> button on the creative group list. All fields are available for editing except the domain and type selectors.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Editing a Creative Group</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (7).png" alt=""><figcaption><p>Editing a Creative Group</p></figcaption></figure>
 
-Once you make the necessary changes to your creative group, click on <img src="../../.gitbook/assets/image (7).png" alt="Save" data-size="line">.
+Once you make the necessary changes to your creative group, click on <img src="../../.gitbook/assets/image (7) (7).png" alt="Save" data-size="line">.
 
 ### Checking the status of a Creative Group
 
@@ -55,7 +55,7 @@ In the Creative Group list, by hovering the mouse over the warning sign, you can
 
 <figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Issue being displayed for a creative group</p></figcaption></figure>
 
-Once all issues are addressed the creative group will display a <img src="../../.gitbook/assets/image (8).png" alt="Check" data-size="line">.
+Once all issues are addressed the creative group will display a <img src="../../.gitbook/assets/image (8) (7).png" alt="Check" data-size="line">.
 
 ### Archiving and Unarchiving a Creative Group
 

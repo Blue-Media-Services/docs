@@ -33,7 +33,7 @@ This option will bring the same data that are on the metric cards in table forma
 
 Some services will have more than one way to group the displayed data, for example, the trackers' metrics tab can be grouped by tracker or by event, different kinds of grouping data can help you to analyze every aspect of the data collected by the used services, bringing you knowledge to make more engaging campaigns, improving your results.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Group By</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (8).png" alt=""><figcaption><p>Group By</p></figcaption></figure>
 
 ## Time Frame and Periodicity
 
@@ -59,7 +59,7 @@ To update your results click on the refresh button <img src="../.gitbook/assets/
 
 Coming up next, there are products that include the metrics service. To learn more about the metrics associated with each product, refer to the content below based on your product of interest:
 
-* [Ad Server Metrics](ad-server/ads/metrics.md)
+* [Ad Server Metrics](ad-server/ads/ads-metrics.md)
 * [DSP Metrics](demand-side-platform-dsp/metrics.md)
 * [DMP Metrics](demand-management-platform-dmp/metrics.md)
 * [CS2 Metrics](catalog-storage-service-cs2/metrics.md)
