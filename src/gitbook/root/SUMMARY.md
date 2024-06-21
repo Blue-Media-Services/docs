@@ -17,6 +17,7 @@
 * [Ad Server](product-documentation/ad-server/README.md)
   * [Creatives](product-documentation/ad-serving/creatives.md)
   * [Creative Groups](product-documentation/ad-serving/creative-groups.md)
+  * [Creatives Metrics](product-documentation/ad-server/creatives-metrics.md)
   * [Ads](product-documentation/ad-server/ads/README.md)
     * [Ads Metrics](product-documentation/ad-server/ads/ads-metrics.md)
     * [Common AdExchange Review Status](product-documentation/ad-server/ads/common-adexchange-review-status.md)
