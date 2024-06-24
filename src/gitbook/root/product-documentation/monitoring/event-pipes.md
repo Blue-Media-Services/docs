@@ -87,7 +87,7 @@ To enable an event pipe simply flip the toggle <img src="../../.gitbook/assets/i
 
 ### Editing your Event Pipe
 
-To edit your event store, click on <img src="../../.gitbook/assets/image (35).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes and then click on <img src="../../.gitbook/assets/image (32).png" alt="Save" data-size="line">.
+To edit your event store, click on <img src="../../.gitbook/assets/image (35).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes and then click on <img src="../../.gitbook/assets/image (32) (2).png" alt="Save" data-size="line">.
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="527"><figcaption><p>Event Pipe's Edit Screen</p></figcaption></figure>
 

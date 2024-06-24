@@ -6,15 +6,15 @@ In our Event Stores tab, you can create a store that acts as a database for stor
 
 ## Creating an Event Store
 
-To create an event store, click on <img src="../../.gitbook/assets/image (30).png" alt="Create Event Store" data-size="line"> then an event creation screen will pop up.
+To create an event store, click on <img src="../../.gitbook/assets/image (30) (2).png" alt="Create Event Store" data-size="line"> then an event creation screen will pop up.
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt="" width="361"><figcaption><p>Event Store Creation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (2).png" alt="" width="361"><figcaption><p>Event Store Creation</p></figcaption></figure>
 
 * Name - Set a name for your Event Store.
 * Tags - Create tags to better identify each event store.
 * Retention - Decide for how long you will be keeping the data collected by this event store, after expiration, the data will be **deleted**.
 
-After configuring your event store, click on <img src="../../.gitbook/assets/image (32).png" alt="Save" data-size="line"> button to finish your event creation.
+After configuring your event store, click on <img src="../../.gitbook/assets/image (32) (2).png" alt="Save" data-size="line"> button to finish your event creation.
 
 ### Enabling your Event Store
 
@@ -28,7 +28,7 @@ To enable an event store simply flip the toggle <img src="../../.gitbook/assets/
 
 ### Editing your Event Store
 
-To edit your event store, click on <img src="../../.gitbook/assets/image (35).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes and then click on <img src="../../.gitbook/assets/image (32).png" alt="Save" data-size="line">.
+To edit your event store, click on <img src="../../.gitbook/assets/image (35).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes and then click on <img src="../../.gitbook/assets/image (32) (2).png" alt="Save" data-size="line">.
 
 <figure><img src="../../.gitbook/assets/image (36).png" alt="" width="360"><figcaption><p>Edit Event Store Screen</p></figcaption></figure>
 

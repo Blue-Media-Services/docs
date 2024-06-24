@@ -14,6 +14,7 @@
 
 ## Product documentation
 
+* [Accounts](product-documentation/accounts.md)
 * [Ad Server](product-documentation/ad-server/README.md)
   * [Creatives](product-documentation/ad-serving/creatives.md)
   * [Creative Groups](product-documentation/ad-serving/creative-groups.md)

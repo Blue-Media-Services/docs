@@ -48,7 +48,7 @@ You will have some public blueprint models available for use, so even if you are
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Parameter Creator - Type Options</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (28) (3).png" alt=""><figcaption><p>Parameter Creator - Type Options</p></figcaption></figure>
 
     * Parameter ID: Use this identifier to insert the provided user value into your template.
     * Name: Set a name to your parameter.
@@ -89,7 +89,7 @@ You will have some public blueprint models available for use, so even if you are
 
 
 
-          <figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption><p>Parameter Editor - Code Type</p></figcaption></figure>
+          <figure><img src="../../../.gitbook/assets/image (29) (3).png" alt=""><figcaption><p>Parameter Editor - Code Type</p></figcaption></figure>
 
           * Type: Select the code language.
           * Code box: Insert your code into the code box.

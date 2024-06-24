@@ -15,6 +15,6 @@ When checking the details for each product, you will see all the information gat
 ### Metrics
 
 You can select as many products as you wish to compare them in the metrics tab, providing you with important information about each product and how it is performing. \
-If you hover the cursor over the ![](<../../.gitbook/assets/image (31) (2).png>), a detailed description of the metric will be shown.
+If you hover the cursor over the ![](<../../.gitbook/assets/image (31) (2) (1).png>), a detailed description of the metric will be shown.
 
-<figure><img src="../../.gitbook/assets/image (32) (2).png" alt=""><figcaption><p>Product Metrics</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32) (2) (1).png" alt=""><figcaption><p>Product Metrics</p></figcaption></figure>
