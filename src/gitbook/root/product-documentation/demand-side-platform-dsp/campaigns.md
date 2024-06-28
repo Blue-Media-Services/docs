@@ -107,4 +107,4 @@ In the metrics tab you can explore several metrics, grouping values by specific 
 
 In every metric you will have a <img src="../../.gitbook/assets/image (38) (1).png" alt="Info" data-size="line"> which will precisely explain what that metric represents.
 
-You can also **monitor** your campaign through our <img src="../../.gitbook/assets/image (32) (1).png" alt="Overview" data-size="line"> tab [here](metrics.md).
+You can also **monitor** your campaign through our <img src="../../.gitbook/assets/image (32) (1).png" alt="Overview" data-size="line"> tab [here](dsp-metrics.md).

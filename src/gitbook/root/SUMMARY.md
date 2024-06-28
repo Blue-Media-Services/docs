@@ -30,7 +30,7 @@
   * [Managing Budgets](product-documentation/demand-side-platform-dsp/budgets.md)
   * [Managing Targets](product-documentation/demand-side-platform-dsp/targets.md)
   * [Managing Ads](product-documentation/demand-side-platform-dsp/managing-ads.md)
-  * [Metrics](product-documentation/demand-side-platform-dsp/metrics.md)
+  * [DSP Metrics](product-documentation/demand-side-platform-dsp/dsp-metrics.md)
   * [Real Time Tab](product-documentation/demand-side-platform-dsp/real-time-tab.md)
 * [Data Management Platform (DMP)](product-documentation/demand-management-platform-dmp/README.md)
   * [Cookie Pools](product-documentation/demand-management-platform-dmp/cookie-pools.md)

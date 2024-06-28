@@ -60,7 +60,7 @@ To update your results click on the refresh button <img src="../.gitbook/assets/
 Coming up next, there are products that include the metrics service. To learn more about the metrics associated with each product, refer to the content below based on your product of interest:
 
 * [Ad Server Metrics](ad-server/ads/ads-metrics.md)
-* [DSP Metrics](demand-side-platform-dsp/metrics.md)
+* [DSP Metrics](demand-side-platform-dsp/dsp-metrics.md)
 * [DMP Metrics](demand-management-platform-dmp/metrics.md)
 * [CS2 Metrics](catalog-storage-service-cs2/metrics.md)
 * [Monitoring Metrics](monitoring/metrics.md)
