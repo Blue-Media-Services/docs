@@ -4,4 +4,4 @@ In the DSP area, you will be using all features previously created like **Creati
 
 This is the most important step since you will be deciding which public you want to focus your campaign on, the ads that will be displayed, and the budget available for each campaign.
 
-<figure><img src="../../.gitbook/assets/image (12) (3) (1).png" alt=""><figcaption><p>Campaigns Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (237).png" alt=""><figcaption><p>Campaigns</p></figcaption></figure>

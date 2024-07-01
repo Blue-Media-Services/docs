@@ -14,7 +14,7 @@ To create a branding campaign you must already have your ads set up in our Ad Se
 
 ### Creating a new campaign
 
-In our Home Page, click on <img src="../.gitbook/assets/image (2) (2).png" alt="Campaigns" data-size="line"> and then <img src="../.gitbook/assets/image (3) (2).png" alt="Create Campaign" data-size="line">, fill in the details paying attention to:
+In our Home Page, click on <img src="../.gitbook/assets/image (2) (2).png" alt="Campaigns" data-size="line"> and then <img src="../.gitbook/assets/image (255).png" alt="" data-size="line">, fill in the details paying attention to:
 
 * The domain you choose must be the same domain selected when the ads were created.
 * The bid price you choose directly influences the quality of the inventory you will get access to. The more mainstream a website is, the more expensive it becomes. We recommend opting for a variable bid price so that you can get impressions in a wide variety of websites paying the market rate for each. The $0.50 to $1.50 is a good starting point.
@@ -44,11 +44,11 @@ Please note that the more filters you apply, the more specific your audience wil
 
 ### Choosing which ads to show
 
-With targets defined now it is the time to select the ads you want to show to your audience. In the Configuration > Ads panel, click on the <img src="../.gitbook/assets/image (5) (2).png" alt="Create Ad" data-size="line"> button.
+With targets defined now it is the time to select the ads you want to show to your audience. In the Configuration > Ads panel, click on <img src="../.gitbook/assets/image (5) (2).png" alt="Create Ad" data-size="line">.
 
-You will be presented with a list of all ads that match the campaign's domain. You can refine the search and use the <img src="../.gitbook/assets/image (14) (2).png" alt="Preview" data-size="line"> button to preview the ad.
+You will be presented with a list of all ads that match the campaign's domain. You can refine the search and use the <img src="../.gitbook/assets/image (14) (2).png" alt="Preview" data-size="line"> to preview the ad.
 
-Check all the ads you want to select then click on <img src="../.gitbook/assets/image (13) (2).png" alt="" data-size="line"> button to confirm.
+Check all the ads you want to select then click on <img src="../.gitbook/assets/image (13) (2).png" alt="" data-size="line"> to confirm.
 
 You can remove or select more ads at any time.
 
@@ -61,6 +61,10 @@ It is time to start the campaign! On the main table just switch it on by flippin
 **Note**: You can **enable** or **disable** your campaign at anytime and also make real time changes while having the campaign active. Any changes you make will take up to 15 seconds to take effect.
 
 Please check that the campaign has a green check: <img src="../.gitbook/assets/image (48) (1).png" alt="" data-size="line">. This symbol will change to a <img src="../.gitbook/assets/image (16) (2).png" alt="Issue Sign" data-size="line"> sign if there are any issues that would prevent the campaign from running effectively. By hovering the cursor over the exclamation mark you will be presented with the reason for the warning.
+
+{% hint style="info" %}
+_Our bidding works by crossing the information of your configured campaign's settings and bid set, so you will be getting impressions based on your campaign's configuration only._
+{% endhint %}
 
 ### Watch the impressions and clicks in real-time
 
@@ -105,4 +109,4 @@ You can also check your metrics through the **Overview** page, you can reach it 
 
 All metrics have a <img src="../.gitbook/assets/image (19) (2).png" alt="" data-size="line"> to help you identify what that metric is about.
 
-You can learn more about metrics in the [Metrics Tab Documentation page](../product-documentation/demand-side-platform-dsp/dsp-metrics.md).
+You can learn more about metrics in the [Metrics Tab Documentation page](../product-documentation/demand-side-platform-dsp/metrics.md).

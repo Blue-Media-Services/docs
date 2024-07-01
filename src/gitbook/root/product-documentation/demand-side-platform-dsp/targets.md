@@ -38,11 +38,15 @@ You can choose who to show ads to based on where these users are located by eith
   * \*Viewability - Adjust the slider to set the minimum viewability threshold for ad slots. Your ads will only be matched with inventory positions where the viewability percentage is higher than the selected threshold. This allows for precise control over ad placement, ensuring your ads are only displayed in slots with a visibility level that meets or exceeds your criteria for optimal engagement and impact. \
     \*This target option is in beta and currently is only supported by Google Authorized Buyers.
 
+### Using AI to define Targets
+
+AI can assist in setting targets aligned with your objectives. By analyzing target values, you gain insights for campaign adjustments. For instance, AI utilizes data from our [Monitoring ](../monitoring/)product, based on your campaign results and your objective. The AI will show the possibilities of changes for your campaign when using an [Event Pipe](../monitoring/event-pipes.md) for ADS - Clicked, you can get the data related to which domains are being clicked more often, and on top of that you might get insights.
+
 ### Creating a Target
 
 In the selected Campaign page, Press <img src="../../.gitbook/assets/image (3) (3).png" alt="Create Target" data-size="line">to start creating your target.
 
-<figure><img src="../../.gitbook/assets/image (4) (3).png" alt="" width="505"><figcaption><p>Targets List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (242).png" alt="" width="434"><figcaption><p>Targets List</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (2) (3).png" alt="" width="563"><figcaption><p>Create Target Screen</p></figcaption></figure>
 
@@ -50,32 +54,36 @@ When adding targets, pay attention to the <img src="../../.gitbook/assets/image 
 
 <figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption><p>Target Selection or Exclusion</p></figcaption></figure>
 
-After selecting and configuring your target, click on the<img src="../../.gitbook/assets/image (28) (1).png" alt="Save" data-size="line"> button.
+After selecting and configuring your target, click on ![](<../../.gitbook/assets/image (253).png>).
 
 <figure><img src="../../.gitbook/assets/image (27) (1).png" alt="" width="563"><figcaption><p>Configured Target Screen</p></figcaption></figure>
 
 You can add as many targets as you need to your campaign, and feel free to turn the target on or off during the campaign to adjust it to your campaign's needs.
 
-<figure><img src="../../.gitbook/assets/image (29) (1).png" alt="" width="498"><figcaption><p>Created Targets' List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (243).png" alt="" width="434"><figcaption><p>Targets List</p></figcaption></figure>
 
 ### Enabling and Disabling a Target
 
-<div align="left">
+To start a campaign and use your configured target, ensure the targets are enabled. If you need to modify or simply stop using a specific target. You can disable it and the campaign will stop using that target immediately.
 
-<figure><img src="../../.gitbook/assets/image (41) (1).png" alt="" width="162"><figcaption><p>Target Enable Toggle</p></figcaption></figure>
-
-</div>
-
-For a campaign to star and to use your configured target, you must have a target enabled. If you wish to change the target or simply stop using a specific target, you can disable it and the campaign will stop using that target immediately.
+<figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption><p>Target Toggles</p></figcaption></figure>
 
 ### Duplicating a Target
 
-If you want to reutilize a dense target but with few changes, you have the option to duplicate that target and save time, simply click on <img src="../../.gitbook/assets/image (42) (1).png" alt="Duplicate Target" data-size="line"> to duplicate your target and a copy of that target will be created.
+If you want to reutilize a dense target but with few changes, you have the option to duplicate that target and save time, simply click on <img src="../../.gitbook/assets/image (42) (1).png" alt="Duplicate Target" data-size="line"> to duplicate your target and a copy of that target will be instantly created.
 
 ### Deleting a Target
 
-If a target is no longer useful for your campaign, you can click on<img src="../../.gitbook/assets/image (43) (1).png" alt="Delete Target" data-size="line"> to permanently delete the target, and a confirming screen will be shown to you.&#x20;
+If a target is no longer useful for your campaign, you can click on <img src="../../.gitbook/assets/image (43) (1).png" alt="Delete Target" data-size="line"> to permanently delete the target, and a confirmation screen will be shown to you.&#x20;
 
-Note that this is a permanent decision and cannot be undone.
+<figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption><p>Target Deletion</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption><p>Target Removal Screen</p></figcaption></figure>
+{% hint style="danger" %}
+_Attention! We always advise disabling the target beforehand and analyze if it is necessary to delete or simply modify it since the action cannot be undone._
+{% endhint %}
+
+### Bulk Actions
+
+If you select more than one target, it is possible to make bulk actions.
+
+After selecting two or more targets, the bulk actions button will be enabled, <img src="../../.gitbook/assets/image (244).png" alt="Bulk Actions" data-size="line"> then after clicking on the menu. You will be shown three possibilities which are: **Enable**, **Disable** and **Delete** targets in bulk, this helps you make more actions at once.

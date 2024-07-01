@@ -6,9 +6,9 @@ description: Learn how to set your campaign's Budget
 
 New accounts are limited to spending $30 per day per campaign. If you need a higher budget, you can submit a Quota Increase Request and after review your limit will be increased.
 
-To set a budget to your campaign, simply select your desired campaign and set manually a daily limit budget and press <img src="../../.gitbook/assets/image (14) (3).png" alt="Save" data-size="line"> button, your budget can be modified at any time.
+To set a budget for your campaign, simply select your desired campaign and manually set a daily limit budget then press the <img src="../../.gitbook/assets/image (241).png" alt="Save" data-size="line"> button, your budget can be modified at any time.
 
-<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption><p>Budget Configuration Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption><p>Budget Configuration</p></figcaption></figure>
 
 After setting your daily budget, you will be presented with the information regarding your budget.
 

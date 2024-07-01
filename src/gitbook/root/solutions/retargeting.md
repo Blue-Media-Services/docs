@@ -365,3 +365,7 @@ Here you set your campaign's daily budget in USD, you can also track how much of
 2. Click on <img src="../.gitbook/assets/image (31) (1) (1).png" alt="Save button" data-size="line"> to save your changes.
 
 Now your retargeting campaign is ready to run, you only have to enable it and track how it goes on the metrics and real-time tabs. Here's an article on [how metrics work on the BMS platform](../product-documentation/demand-side-platform-dsp/campaigns.md#metrics).
+
+{% hint style="info" %}
+_Our bidding works by crossing the information of your configured campaign's settings and bid set, so you will be getting impressions based on your campaign's configuration only._
+{% endhint %}
