@@ -57,7 +57,7 @@ The ads metrics are also available on this page, they are: budget spent, bids, b
 
 * Budget Spent with Recommendations: This metric shows how much of your budget was spent based on recommendations. It will only appear if you are using a recommendation model for this campaign.
 
-<figure><img src="../../.gitbook/assets/image (224).png" alt=""><figcaption><p>Budget Spent with Recommendations Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (224) (1).png" alt=""><figcaption><p>Budget Spent with Recommendations Metric</p></figcaption></figure>
 
 
 
@@ -71,7 +71,7 @@ The ads metrics are also available on this page, they are: budget spent, bids, b
 
 * Budget Pace Effective: This metric shows you the actual race at which your budget is being consumed. It allows you to gather information on which hours of the day or days of the week, your ads spent your budget.
 
-<figure><img src="../../.gitbook/assets/image (225).png" alt=""><figcaption><p>Budget Pace Effective Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (225) (1).png" alt=""><figcaption><p>Budget Pace Effective Metric</p></figcaption></figure>
 
 
 
