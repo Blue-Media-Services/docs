@@ -1,7 +1,3 @@
----
-description: Learn more about managing your accounts, organizations and service quotas.
----
-
 # Accounts
 
 The accounts section is available when clicking on your account's name next to the top right corner of our pages, and then clicking on your account ID.

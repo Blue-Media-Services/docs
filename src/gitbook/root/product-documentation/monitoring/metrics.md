@@ -1,16 +1,10 @@
----
-description: >-
-  In this page you will be learning how our metrics works in BMS platform and
-  how to manage your Event Stores and Pipes Metrics.
----
-
 # Metrics
 
 {% hint style="info" %}
-To learn more about how the metrics service works, how to set your visualization options, and how to download your data, visit our [Metrics page](../metrics.md).&#x20;
+You can learn more about how metrics are handled by visiting the [Metrics page](../metrics.md).&#x20;
 {% endhint %}
 
-All of our products have metrics in order to provide you with all the information we have once the product is being used.
+All of our products have metrics in order to provide you with all the information we have once the product is being used. In this page you will be learning how our metrics works in BMS platform and how to manage your Event Stores and Pipes Metrics.
 
 ## Event Stores
 

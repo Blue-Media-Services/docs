@@ -1,11 +1,7 @@
----
-description: Learn more about how trackers metrics work.
----
-
 # Trackers Metrics
 
 {% hint style="info" %}
-To learn more about how the metrics service works, how to set your visualization options, and how to download your data, visit our [Metrics page](../../metrics.md).&#x20;
+You can learn more about how metrics are handled by visiting the [Metrics page](../../metrics.md).&#x20;
 {% endhint %}
 
 To access the metrics tab select the trackers which you want to visualize data on the trackers' list:

@@ -1,11 +1,7 @@
----
-description: Learn about the DMP features' metrics tab.
----
-
 # DMP Metrics
 
 {% hint style="info" %}
-To learn more about how the metrics service works, how to set your visualization options, and how to download your data, visit our [Metrics page](../../metrics.md).&#x20;
+You can learn more about how metrics are handled by visiting the [Metrics page](../../metrics.md).&#x20;
 {% endhint %}
 
 All features on DMP have their own metrics tab, containing data about aspects related to each one, including performance and processing data.

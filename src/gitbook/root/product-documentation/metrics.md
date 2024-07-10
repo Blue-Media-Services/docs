@@ -1,7 +1,3 @@
----
-description: Learn more about how Metrics works.
----
-
 # Metrics
 
 The main BMS products include a metrics tab. These metrics are invaluable for monitoring your campaigns' results and gathering insights about your target audience. By understanding their behaviors and preferences, you can tailor your campaigns more effectively. This deeper audience knowledge enables you to create better campaigns in the future, thereby enhancing your results and increasing brand engagement.

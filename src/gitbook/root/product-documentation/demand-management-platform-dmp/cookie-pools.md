@@ -1,7 +1,3 @@
----
-description: Learn more about Cookie Pools and how to configure them.
----
-
 # Cookie Pools
 
 A Cookie Pool is a collection or database of users' cookies. Cookies are tiny pieces of data stored in a user's web browser when they visit a website. These cookies record users' online behavior, preferences, and interactions with websites and services.

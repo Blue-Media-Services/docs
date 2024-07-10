@@ -1,7 +1,3 @@
----
-description: Learn more about builds and how to work with them!
----
-
 # Builds
 
 Create builds based on your blueprints to generate dynamic banners for your campaigns. Dynamic banners are useful because they can customize what each user sees according to the parameters set, allowing for more engaging campaigns and improving expected results. For example, when running a retargeting campaign, you can create a build to generate creatives based on recommendation models, which will suggest products from your catalog based on the recent activity on your website, thereby improving your conversions.

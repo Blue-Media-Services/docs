@@ -1,7 +1,3 @@
----
-description: Learn how to create a campaign an get it ready for configuration.
----
-
 # Managing Campaigns
 
 ### Creating a Campaign

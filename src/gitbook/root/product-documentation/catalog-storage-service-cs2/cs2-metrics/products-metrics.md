@@ -1,11 +1,7 @@
----
-description: Learn more about Porducts Metrics
----
-
 # Products Metrics
 
 {% hint style="info" %}
-To learn more about how the metrics service works, how to set your visualization options, and how to download your data, visit our [Metrics page](../../metrics.md).&#x20;
+You can learn more about how metrics are handled by visiting the [Metrics page](../../metrics.md).&#x20;
 {% endhint %}
 
 This metrics tab contains data about how your website's users interact with your products. Without selecting a product, account-wide metrics data for all your products will be displayed on this tab, selecting one product will restrict the displayed metrics data to the selected one and selecting more than one will generate a metrics comparison between the selected products.

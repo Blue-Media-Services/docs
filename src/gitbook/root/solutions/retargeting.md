@@ -1,11 +1,6 @@
----
-description: >-
-  Retargeting is an ad technique that shows ads based on your product catalog to
-  users who previously interacted with your website or app intending to increase
-  conversions.
----
-
 # Creating a Retargeting Campaign
+
+Retargeting is an ad technique that shows ads based on your product catalog to users who previously interacted with your website or app intending to increase conversions.
 
 To help you create a retargeting campaign from the beginning until it's running we've developed this article, here is what we're going to approach for this purpose:
 

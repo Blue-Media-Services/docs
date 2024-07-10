@@ -1,13 +1,7 @@
----
-description: >-
-  In this page you will be learning all of our metrics to better understand how
-  your campaign is performing.
----
-
 # DSP Metrics
 
 {% hint style="info" %}
-To learn more about how the metrics service works, how to set your visualization options, and how to download your data, visit our [Metrics page](../metrics.md).&#x20;
+You can learn more about how metrics are handled by visiting the [Metrics page](../metrics.md).&#x20;
 {% endhint %}
 
 You can have a more precise view of your campaign by checking the <img src="../../.gitbook/assets/image (32) (1).png" alt="Overview" data-size="line"> tab. Here you will be presented with the most valuable metrics of a campaign, which can be divided by **Targets**, **Ads**, **Creative Groups**, and **Creatives**.

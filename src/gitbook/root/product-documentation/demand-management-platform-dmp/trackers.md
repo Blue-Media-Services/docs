@@ -1,7 +1,3 @@
----
-description: Learn more about trackers and how to use them.
----
-
 # Trackers
 
 Trackers are small scripts placed on your websites' codes to gather data on your users' activities, then we can use the collected data to build recommendation models for running retargeting campaigns, improving your conversions. Additionally, this data can provide valuable insights into your users' interests, facilitating the creation of more efficient ad campaigns.

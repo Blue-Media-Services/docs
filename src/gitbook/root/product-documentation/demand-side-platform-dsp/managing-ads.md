@@ -1,7 +1,3 @@
----
-description: Learn how to select your campaign's ads.
----
-
 # Managing Ads
 
 ### Choosing which Ads to show

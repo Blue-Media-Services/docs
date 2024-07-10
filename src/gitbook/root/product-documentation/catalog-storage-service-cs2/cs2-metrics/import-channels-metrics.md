@@ -1,11 +1,7 @@
----
-description: Learn more about Import Channels Metric
----
-
 # Import Channels Metrics
 
 {% hint style="info" %}
-To learn more about how the metrics service works, how to set your visualization options, and how to download your data, visit our [Metrics page](../../metrics.md).&#x20;
+You can learn more about how metrics are handled by visiting the [Metrics page](../../metrics.md).&#x20;
 {% endhint %}
 
 The import channels metrics tab contains data about your importing jobs, such as data processing, performance, and failure rate. The metrics tab will display account-wide data for all import channels if no import channel is selected. Selecting a single import channel will show metrics specific to that import channel while selecting multiple import channels will compare their performance.

@@ -1,7 +1,3 @@
----
-description: Learn how to configure your Targets here.
----
-
 # Managing Targets
 
 After creating a Campaign, you will be required to set one Target at least to run the campaign, targets are basically which kind of public you want your campaign to be displayed to, our targets work using **AND** rules not **OR**, so whenever you include a target, you will be restricting your campaign even more to your desired public.

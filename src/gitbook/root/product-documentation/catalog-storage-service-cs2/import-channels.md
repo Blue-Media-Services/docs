@@ -1,7 +1,3 @@
----
-description: Learn more about Import Channels and how to configure them.
----
-
 # Import Channels
 
 Use import channels to upload your products' catalog's feed to our platform, this feature will also keep your catalog updated according to the feed.

@@ -1,7 +1,3 @@
----
-description: Learn how to set your campaign's Budget
----
-
 # Managing Budgets
 
 New accounts are limited to spending $30 per day per campaign. If you need a higher budget, you can submit a Quota Increase Request and after review your limit will be increased.

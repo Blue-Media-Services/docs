@@ -1,11 +1,7 @@
----
-description: Learn how each metric from your Creatives Works.
----
-
 # Creatives Metrics
 
 {% hint style="info" %}
-To learn more about how the metrics service works, how to set your visualization options, and how to download your data, visit our [Metrics page](../metrics.md).&#x20;
+You can learn more about how metrics are handled by visiting the [Metrics page](../metrics.md).&#x20;
 {% endhint %}
 
 Once you have created your creatives and started a campaign, you will be able to check your metrics and analyze your creatives and creatives group's performance, providing you with precise data.

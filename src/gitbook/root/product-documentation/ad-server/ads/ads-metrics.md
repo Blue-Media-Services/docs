@@ -1,11 +1,7 @@
----
-description: In this page you will be learning how our Ads Metrics works.
----
-
 # Ads Metrics
 
 {% hint style="info" %}
-To learn more about how the Metrics service works, how to set your visualization options, and how to download your data, visit our [Metrics page](../../metrics.md).&#x20;
+You can learn more about how metrics are handled by visiting the [Metrics page](../../metrics.md).&#x20;
 {% endhint %}
 
 Once you have created your ads and started a campaign, you will be able to check your metrics and analyze your ads performance, providing you with precise data.

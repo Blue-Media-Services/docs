@@ -1,7 +1,3 @@
----
-description: Learn how the AdExchange Review Status works, how to identify and solve them.
----
-
 # Common AdExchange Review Status
 
 If your Ad is rejected during creation or by Google's daily checks, here are the most common errors you may be presented with and how to identify the problem.

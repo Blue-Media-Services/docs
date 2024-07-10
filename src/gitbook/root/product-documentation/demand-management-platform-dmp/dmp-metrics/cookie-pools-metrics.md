@@ -1,11 +1,7 @@
----
-description: Learn more about how cookie pools metrics work.
----
-
 # Cookie Pools Metrics
 
 {% hint style="info" %}
-To learn more about how the metrics service works, how to set your visualization options, and how to download your data, visit our [Metrics page](../../metrics.md).&#x20;
+You can learn more about how metrics are handled by visiting the [Metrics page](../../metrics.md).&#x20;
 {% endhint %}
 
 Select a cookie pool from the list to access its metrics. It is also possible to select more than one to compare their results.

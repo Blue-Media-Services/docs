@@ -1,7 +1,3 @@
----
-description: Learn how to create, edit and analyze your Ads' metrics here.
----
-
 # Ads
 
 In the Ads area, you will create the Ads for your campaign, adding the group of creatives you want to send to the AdExchanges for approval.&#x20;

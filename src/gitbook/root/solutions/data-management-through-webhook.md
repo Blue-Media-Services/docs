@@ -1,7 +1,3 @@
----
-description: Learn how to effectively use our Webhook Feature
----
-
 # Data Management Through Webhook
 
 ### What is a Webhook

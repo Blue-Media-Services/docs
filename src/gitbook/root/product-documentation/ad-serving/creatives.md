@@ -1,7 +1,3 @@
----
-description: On this Page, you will learn how to manage and create your creatives.
----
-
 # Creatives
 
 Creatives are the smallest building block of our Ad Server, representing what will be delivered to the end-user when your ad is displayed.

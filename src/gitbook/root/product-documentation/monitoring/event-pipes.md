@@ -1,7 +1,3 @@
----
-description: Learn how to create and manage your Event Pipes.
----
-
 # Event Pipes
 
 Our Event Pipes are used to collect data from all products on our platform. You can use this feature to keep track of everything that can cause an event at BMS, from campaigns to organization creation, allowing you to organize the provided data as you wish.&#x20;

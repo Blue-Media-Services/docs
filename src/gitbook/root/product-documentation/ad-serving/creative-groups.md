@@ -1,7 +1,3 @@
----
-description: On this page you will learn how to create creative groups to run A/B Tests.
----
-
 # Creative Groups
 
 Creative Groups allow you to group several creatives as a single unit. You can then apply different weights to each and later check the performance of one against the others.

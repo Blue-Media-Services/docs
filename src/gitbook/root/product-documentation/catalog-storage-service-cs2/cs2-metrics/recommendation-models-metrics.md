@@ -1,11 +1,7 @@
----
-description: Learn more about recommendation models metrics.
----
-
 # Recommendation Models Metrics
 
 {% hint style="info" %}
-To learn more about how the metrics service works, how to set your visualization options, and how to download your data, visit our [Metrics page](../../metrics.md).&#x20;
+You can learn more about how metrics are handled by visiting the [Metrics page](../../metrics.md).&#x20;
 {% endhint %}
 
 This metrics tab contains data about the performance of your recommendation models. Without selecting a recommendation model, account-wide metrics for all your recommendation models will be displayed. Selecting one recommendation model will restrict the displayed metrics to that model. Selecting more than one will generate a comparison of metrics between the selected models.
