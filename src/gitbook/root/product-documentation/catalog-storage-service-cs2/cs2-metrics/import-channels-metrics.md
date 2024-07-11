@@ -56,4 +56,6 @@ This metric shows the amount of records processed during the import jobs in the 
 
 _**Example:** You can use this metric to measure how many records are being processed during your import jobs. On this graph, the defined time frame was 1 week divided into daily periods, represented as dots. You will notice that on the first 5 days, the import job was processing almost 100 records, on the last 2 days, it was processing a little more than 100 records, which means the feed file has been modified._
 
+### Additional Information
+
 These are all the metrics available in the Import Channels feature for analyzing the performance of your import channels. Additionally, when checking metrics, you can always check our <img src="../../../.gitbook/assets/image (28) (2).png" alt="Information" data-size="line"> to access additional information about a specific metric.

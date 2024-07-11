@@ -6,7 +6,7 @@ You can learn more about how metrics are handled by visiting the [Metrics page](
 
 Select a cookie pool from the list to access its metrics. It is also possible to select more than one to compare their results.
 
-<figure><img src="../../../.gitbook/assets/image (225).png" alt=""><figcaption><p>Cookie Pools Metrics Tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (225) (2).png" alt=""><figcaption><p>Cookie Pools Metrics Tab</p></figcaption></figure>
 
 ### **Expiration Count**
 
@@ -47,5 +47,7 @@ This metric shows the remaining time a cookie is still available in the pool unt
 <figure><img src="../../../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
 
 _**Example:** When you create your cookie pool you can set the number of days in which a cookie will expire, this metric shows you how much time you have until a cookie expiration. On this graph, the time frame was 1 week, divided into daily periods, represented as dots, you can observe that on June 20th there was less than 1 day until some of the cookies in the pool expired._
+
+### Additional Information
 
 These are all the metrics available in the Cookie Pool feature for analyzing the performance of your cookie pools. Additionally, when checking metrics, you can always check our <img src="../../../.gitbook/assets/image (28) (2).png" alt="Information" data-size="line"> to access for more information about a specific metric.

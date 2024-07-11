@@ -49,7 +49,7 @@ These are the services which are limited by quotas:
 * **Public Blueprint Limit:** This quota limits how many public blueprints you are allowed to create.
 * **Campaign Daily Budget Limit:** This quota limits the daily budget available for each campaign. To learn more about campaigns, access the [Campaigns article](demand-side-platform-dsp/campaigns.md).
 * **Campaign Limit:** This quota limits how many campaigns you are allowed to create.
-* **Media Limit:** This quota limits how many media files can be uploaded. To learn more about media, access the[ Media Article](media.md).
+* **Media Limit:** This quota limits how many media files can be uploaded. To learn more about media, access the[ Media Article](media/).
 * **Media Storage Limit:** This quota limits how much storage your media can use.
 * **Organization Account Limit:** This quota limits how many accounts your organization is allowed to have.
 * **Organization Limit:** This quota limits how many organizations you are allowed to have.&#x20;

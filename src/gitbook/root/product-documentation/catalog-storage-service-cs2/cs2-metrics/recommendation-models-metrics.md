@@ -48,4 +48,6 @@ This metric shows the number of times the selected product recommendation was vi
 
 _**Example:** In the context where you have a campaign that is using a recommendation model to generate banners, this metric will show you a count of views on your recommendations, the data this metric provides is useful to understand if your recommendations are being viewed, furthermore, comparing this metric with the Recomendation Click Count metric will allow you to understand if your banner is interesting to your targeted audiences._ _On this graph, the defined time frame was 1 week, divided into 6h periods, represented as dots. You will notice that on June 26th at 12 PM there were nearly 4000 views on your recommendations._
 
+### Additional Information
+
 These are all the metrics available in the Recommendation Model feature for analyzing the performance of your recommendation models. Additionally, when checking metrics, you can always check our <img src="../../../.gitbook/assets/image (28) (2).png" alt="Information" data-size="line"> to access additional information about a specific metric.

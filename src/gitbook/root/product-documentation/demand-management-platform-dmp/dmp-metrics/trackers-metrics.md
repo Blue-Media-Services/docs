@@ -100,4 +100,6 @@ Whenever a user performs a new tracked activity on your website, it will be reco
 
 _**Example:** You have 'add to cart' and 'product view' events configured on your tracker. Every time a user performs any of these tracked activities, it will be counted and displayed in this metric, grouped by event. On this graph, you will notice that the number of new activities increases after 6 AM. The graph covers a time frame of 3 hours, divided into 5-minute intervals represented as data points._
 
+### Additional Information
+
 These are all the metrics available in the DMP product for analyzing the performance of your cookie pools and trackers. Additionally, when checking metrics, you can always check our <img src="../../../.gitbook/assets/image (28) (2).png" alt="Information" data-size="line"> to access for more information about a specific metric.
