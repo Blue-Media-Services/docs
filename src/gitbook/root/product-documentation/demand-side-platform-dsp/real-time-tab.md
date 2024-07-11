@@ -33,6 +33,6 @@ You can choose what events to see by toggling the selector:
 
 For any event displayed on the list, you can click on the details button to see more:
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Event detail screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p>Event detail screen</p></figcaption></figure>
 
 Here you can observe all the details for a particular event such as the user's geolocation, IP, browser and device type. The parameters for the bid, ad exchange and domain and those related to the particular campaign, target, ad, ad rule, creative group and creative alongside a preview for the creative itself.

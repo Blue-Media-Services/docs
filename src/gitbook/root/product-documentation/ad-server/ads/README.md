@@ -1,3 +1,7 @@
+---
+description: Learn how to create, edit and analyze your Ads' metrics here.
+---
+
 # Ads
 
 In the Ads area, you will create the Ads for your campaign, adding the group of creatives you want to send to the AdExchanges for approval.&#x20;
@@ -141,7 +145,13 @@ After making all necessary customizations, click on <img src="../../../.gitbook/
 
 Once you configure your rule, a week preview will be shown as well as the hours per week that your ad will be displayed. To make any necessary changes, click on ![](<../../../.gitbook/assets/image (150).png>) and you will be able to make changes.
 
+{% hint style="info" %}
+If you do not change the rule, the platform will understand that your creative will run during the campaign period, on all days of the week, and at any time. This area allows you to create periods for Ads to run within the same campaign, as well as their times and days of the week.
+{% endhint %}
+
 You can create multiple rules for the same Ad, and enable or disable them as you wish. Just flip the<img src="../../../.gitbook/assets/image (151).png" alt="Toggle" data-size="line"> to decide which rules will be used.
+
+Example: _Let's say that in the first half of the month, you have a promotion for a 10% discount on products and in the second half of the month for a 20% discount. You could create two Ads with different creatives and create a period rule so that the platform makes this change automatically for you, without the need to create two different campaigns;_
 
 ## Exchange Reviews
 
@@ -153,17 +163,11 @@ If you did not check the Send for Review on your Ad creation, you will be able t
 
 Should your ad review fail for any reason, you can check more details [here](common-adexchange-review-status.md) on how to correctly identify the error and how to fix it.
 
-{% hint style="info" %}
-If you don't change the rule, the platform will understand that your creative will run during the campaign period, on all days of the week, and at any time. This area allows you to create periods for Ads to run within the same campaign, as well as their times and days of the week.
-{% endhint %}
-
-> Example: _Let's say that in the first half of the month you have a promotion for a 10% discount on products and in the second half of the month for a 20% discount. You could create two Ads with different creatives and create a period rule so that the platform makes this change automatically for you, without the need to create two different campaigns;_
-
 ## Checking the status of an Ad
 
 On the Ad list, you can check at a glance if there are any issues with your configuration. You can move the mouse over the warning sign to see a description of the issue.
 
-<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Issue being displayed for an ad</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption><p>Issue being displayed for an ad</p></figcaption></figure>
 
 Once all issues are addressed the ad will display a green check.
 

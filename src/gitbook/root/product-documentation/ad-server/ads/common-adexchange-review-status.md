@@ -8,7 +8,7 @@ Please note that sometimes AdExchange's rejection might not provide an accurate 
 
 <figure><img src="../../../.gitbook/assets/image (8) (6).png" alt="" width="125"><figcaption><p>AdExchange Rejection</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 This document will present the main reasons for rejection by AdExchange, with examples so that you can make the necessary changes to your Ad:
 

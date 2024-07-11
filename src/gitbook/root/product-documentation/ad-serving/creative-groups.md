@@ -10,7 +10,7 @@ They are very useful if you wish to display several variants of the same banners
 
 ### Creating a Creative Group
 
-On the Creative Group page click on <img src="../../.gitbook/assets/image (4) (1).png" alt="Create Creative Group" data-size="line">.
+On the Creative Group page click on <img src="../../.gitbook/assets/image (4) (1) (1).png" alt="Create Creative Group" data-size="line">.
 
 Fill in the details:
 
@@ -49,7 +49,7 @@ Once you make the necessary changes to your creative group, click on <img src=".
 
 In the Creative Group list, by hovering the mouse over the warning sign, you can check the status of your creative.
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Issue being displayed for a creative group</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption><p>Issue being displayed for a creative group</p></figcaption></figure>
 
 Once all issues are addressed the creative group will display a <img src="../../.gitbook/assets/image (8) (7).png" alt="Check" data-size="line">.
 

@@ -53,4 +53,6 @@
 * [Monitoring](product-documentation/monitoring/README.md)
   * [Event Stores](product-documentation/monitoring/event-stores.md)
   * [Event Pipes](product-documentation/monitoring/event-pipes.md)
-  * [Metrics](product-documentation/monitoring/metrics.md)
+  * [Monitoring Metrics](product-documentation/monitoring/monitoring-metrics/README.md)
+    * [Event Stores Metrics](product-documentation/monitoring/monitoring-metrics/event-stores-metrics.md)
+    * [Event Pipes Metrics](product-documentation/monitoring/monitoring-metrics/event-pipes-metrics.md)

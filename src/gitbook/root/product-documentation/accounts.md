@@ -18,7 +18,7 @@ The billing data is editable as well, in this case, all the fields available are
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Billing Contact Information Editor</p></figcaption></figure>
 
-You can edit your data by clicking on <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> in the section you need to edit, after finishing, click on<img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> to save your changes.\
+You can edit your data by clicking on <img src="../.gitbook/assets/image (6) (2).png" alt="" data-size="line"> in the section you need to edit, after finishing, click on<img src="../.gitbook/assets/image (7) (2).png" alt="" data-size="line"> to save your changes.\
 
 
 ## Organization

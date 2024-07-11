@@ -31,7 +31,7 @@ New accounts are limited to spending $30 per day per campaign. If you need more 
 
 ### Configuring one or more targets
 
-With a daily budget allocated, we need to know who you want to target. To create the first target, in the Configuration > Targets panel, click on the <img src="../.gitbook/assets/image (5) (2).png" alt="Create Target" data-size="line"> button.
+With a daily budget allocated, we need to know who you want to target. To create the first target, in the Configuration > Targets panel, click on the <img src="../.gitbook/assets/image (5) (2) (1).png" alt="Create Target" data-size="line"> button.
 
 You can specify your target audience by using four main filters:
 
@@ -44,7 +44,7 @@ Please note that the more filters you apply, the more specific your audience wil
 
 ### Choosing which ads to show
 
-With targets defined now it is the time to select the ads you want to show to your audience. In the Configuration > Ads panel, click on <img src="../.gitbook/assets/image (5) (2).png" alt="Create Ad" data-size="line">.
+With targets defined now it is the time to select the ads you want to show to your audience. In the Configuration > Ads panel, click on <img src="../.gitbook/assets/image (5) (2) (1).png" alt="Create Ad" data-size="line">.
 
 You will be presented with a list of all ads that match the campaign's domain. You can refine the search and use the <img src="../.gitbook/assets/image (14) (2).png" alt="Preview" data-size="line"> to preview the ad.
 

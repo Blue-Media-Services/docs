@@ -6,13 +6,13 @@ You can learn more about how metrics are handled by visiting the [Metrics page](
 
 This metrics tab contains data about how your website's users interact with your products. Without selecting a product, account-wide metrics data for all your products will be displayed on this tab, selecting one product will restrict the displayed metrics data to the selected one and selecting more than one will generate a metrics comparison between the selected products.
 
-<figure><img src="../../../.gitbook/assets/image (272).png" alt=""><figcaption><p>Products Metrics Tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (272) (1).png" alt=""><figcaption><p>Products Metrics Tab</p></figcaption></figure>
 
 ### **Product Added to Cart Count**
 
 This metric shows the number of times the selected products have been added to the cart in the defined time frame.
 
-<figure><img src="../../../.gitbook/assets/image (273).png" alt=""><figcaption><p>Product Added to Cart Count Metric</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (273) (1).png" alt=""><figcaption><p>Product Added to Cart Count Metric</p></figcaption></figure>
 
 _**Example:** In a context where_ y_ou install an event on your website, intending to track products that have been added to the cart by your users. You also configure an action to track the product in the catalog for when this event happens. This metric shows how many times a product has been added to the cart, use this data to understand in which products your website's audience is more interested. This graph's defined time frame was 3 days, divided into 6h periods, represented as dots. You will notice that on June 24th, between 12 PM and 6 PM, there were nearly 400 products added to the cart._
 
@@ -20,7 +20,7 @@ _**Example:** In a context where_ y_ou install an event on your website, intendi
 
 This metric shows the number of times the selected products have been ordered in the defined time frame.
 
-<figure><img src="../../../.gitbook/assets/image (274).png" alt=""><figcaption><p>Product Order Count Metric</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (274) (1).png" alt=""><figcaption><p>Product Order Count Metric</p></figcaption></figure>
 
 _**Example:** In the case where you install an event on your website, intending to track products that your users have ordered. You also configure an action to track the product in the catalog for when this event happens, this metric shows you how many times the selected products have been ordered, use this data to understand in which products your website's audience is more interested. This graph's defined time frame was 3 days, divided into 6h periods, represented as dots. You will notice that on June 24th, between 12 AM and 06 AM, there were nearly 50 products ordered._
 
@@ -28,7 +28,7 @@ _**Example:** In the case where you install an event on your website, intending 
 
 This metric shows the number of times the selected products were included in a recommendation in the defined time frame.
 
-<figure><img src="../../../.gitbook/assets/image (275).png" alt=""><figcaption><p>Product Recommendation Count Metric</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (275) (1).png" alt=""><figcaption><p>Product Recommendation Count Metric</p></figcaption></figure>
 
 _**Example:** In the context of using a recommendation model for a retargeting campaign, this metric will show you how many times a product was included in a recommendation, use this data to understand which of your products are being recommended on your banners. This graph's defined time frame was 3 days, divided into 6h periods, represented as dots. You will notice that on June 24th, between 12 AM and 6 AM the selected products were included on a recommendation nearly 4000 times._
 
@@ -36,7 +36,7 @@ _**Example:** In the context of using a recommendation model for a retargeting c
 
 This metric shows the number of times the selected products were visualized in the defined time frame.
 
-<figure><img src="../../../.gitbook/assets/image (276).png" alt=""><figcaption><p>Product View Count Metric</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (276) (1).png" alt=""><figcaption><p>Product View Count Metric</p></figcaption></figure>
 
 _**Example:** Suppose you have installed on your website a product view event, with an action of track in the catalog, these metrics will show you a count of how many times the selected products were viewed on your website. Use this data to understand in which products your audience is more interested, then create a recommendation model based on this data. This graph's defined time frame was 3 days, divided into 6h  periods, represented as dots. You will notice that on June 24th, between 12 AM and 6 AM the selected products were visualized nearly 3000 times._
 
