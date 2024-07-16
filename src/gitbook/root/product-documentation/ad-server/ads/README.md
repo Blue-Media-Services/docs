@@ -1,5 +1,16 @@
 ---
 description: Learn how to create, edit and analyze your Ads' metrics here.
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Ads

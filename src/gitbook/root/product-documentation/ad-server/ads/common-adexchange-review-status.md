@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Common AdExchange Review Status
 
 If your Ad is rejected during creation or by Google's daily checks, here are the most common errors you may be presented with and how to identify the problem.
@@ -12,13 +26,13 @@ Please note that sometimes AdExchange's rejection might not provide an accurate 
 
 This document will present the main reasons for rejection by AdExchange, with examples so that you can make the necessary changes to your Ad:
 
-* [ADULT CONTENT](common-adexchange-review-status.md#adult-content)
-* [DESTINATION NOT CRAWLABLE](common-adexchange-review-status.md#destination-not-crawlable)
-* [ONLINE GAMBLING](common-adexchange-review-status.md#online-gambling)
-* [INAPPROPRIATE CONTENT](common-adexchange-review-status.md#inappropriate-content)
-* [REMOVED BY GOOGLE](common-adexchange-review-status.md#removed-by-google)
+* [Adult Content](common-adexchange-review-status.md#adult-content)
+* [Destination Not Crawlable](common-adexchange-review-status.md#destination-not-crawlable)
+* [Online Gambling](common-adexchange-review-status.md#online-gambling)
+* [Inappropriate Content](common-adexchange-review-status.md#inappropriate-content)
+* [Removed By Google](common-adexchange-review-status.md#removed-by-google)
 
-## ADULT CONTENT
+## Adult Content
 
 Explicit adult content is not allowed on the ad network. Some adult-oriented ads and landing pages are allowed but will be shown in limited scenarios based on user searches, user age, and local laws.
 
@@ -40,7 +54,7 @@ Once you receive a rejection for your ad, identify which example better suits yo
 
 Should you need any further information, check [here](https://support.google.com/adspolicy/answer/6023699?sjid=1157365488976502743-SA).
 
-## DESTINATION NOT CRAWLABLE
+## Destination Not Crawlable
 
 Google requires that the destination and content of ads be accessible to the Google AdsBot web crawlers, ensuring that users are redirected to the correct destination after clicking on the ad.
 
@@ -63,7 +77,7 @@ Check which situation your website fits into; you may need to consult your techn
 
 You can also check [here](https://support.google.com/adspolicy/answer/6368661?sjid=8903565646488334037-SA#674) for a broader view of how to fix that issue.
 
-## ONLINE GAMBLING
+## Online Gambling
 
 The promotion of online, real-money gambling or sites that contain or link to content related to online gambling is allowed with country-specific restrictions.
 
@@ -73,7 +87,7 @@ The promotion of social casino games, which are online simulated gambling games 
 
 However, the following are not allowed:
 
-* Social casino game destinations that offer gambling or games where the opportunity exists to win real money or prizes based on the outcome of the game.
+* Social casino game destinations that offers gambling or games where the opportunity exists to win real money or prizes based on the outcome of the game.
 * Promotion of "real money gambling" destinations. This includes gambling-related advertisements that appear on your social casino game destination.
 
 #### Gambling
@@ -96,7 +110,7 @@ You will need the certificate for each country in which you are interested in pu
 
 For further information on how to apply for the certification, check [here](https://support.google.com/authorizedbuyers/answer/7450776).
 
-## INAPPROPRIATE CONTENT
+## Inappropriate Content
 
 All ads and landing pages on Authorized Buyers must be designated as "family safe" to ensure they can potentially be shown to all appropriate audiences. It is necessary to identify how your creative fits into each category below.
 
@@ -112,6 +126,6 @@ If your creative matches any of the examples above, you will need to make the ne
 
 For any further information you may need, check [here](https://support.google.com/adspolicy/answer/6015406?sjid=8903565646488334037-SA#360).
 
-## REMOVED BY GOOGLE
+## Removed By Google
 
 This error may occur from time to time, based on the AdExchange review failing. You can try submitting the ad for review again. If the error persists, please contact our support team at support@bluems.com.
