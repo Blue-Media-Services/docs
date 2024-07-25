@@ -15,9 +15,9 @@ layout:
 
 # Ads
 
-In the Ads area, you will create the Ads for your campaign, adding the group of creatives you want to send to the AdExchanges for approval.&#x20;
+In the Ads area, you will create the Ads for your campaign, adding the group of creatives you want to send to the Ad Exchanges for approval.&#x20;
 
-You have complete control and visualization of the status of your Ad in each of the AdExchanges and you can also create rules for promoting these Ads.
+You have complete control and visualization of the status of your Ad in each of the Ad Exchanges and you can also create rules for promoting these Ads.
 
 ## Managing Ads
 
@@ -108,11 +108,11 @@ _If no schedule is set, all of your ads will be displayed all day long every day
 
 ### Exchanges
 
-All ads are sent for review and need AdExchange approval in order to be available in your campaign.
+All ads are sent for review and need Ad Exchange approval in order to be available in your campaign.
 
 <figure><img src="../../../.gitbook/assets/image (208).png" alt=""><figcaption><p>Exchanges Selection</p></figcaption></figure>
 
-* Some AdExchanges do not require a review, and your Ads will be available for immediate use.
+* Some Ad Exchanges do not require a review, and your Ads will be available for immediate use.
 * After making all necessary changes, click on <img src="../../../.gitbook/assets/image (188).png" alt="Next" data-size="line"> to move to the next step.
 
 ### Review
@@ -172,7 +172,7 @@ Once you create your ads, it is necessary for certain exchanges to review your a
 
 If you did not check the Send for Review on your Ad creation, you will be able to send your ad for review by clicking on <img src="../../../.gitbook/assets/image (154).png" alt="Send" data-size="line">.
 
-Should your ad review fail for any reason, you can check more details [here](common-adexchange-review-status.md) on how to correctly identify the error and how to fix it.
+Should your ad review fail for any reason, you can check more details [here](ad-exchange-review.md) on how to correctly identify the error and how to fix it.
 
 ## Checking the status of an Ad
 

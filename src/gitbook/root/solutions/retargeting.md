@@ -281,7 +281,7 @@ You can use this option to create ads quickly and massively.
      1. Add one image URL per line.
      2. Click on <img src="../.gitbook/assets/image (56) (1).png" alt="" data-size="line"> to confirm your selection.
 6. Flag the option to group creatives of the same format to be able to perform an A/B test.
-7. Flag the option to send your ads to a review from the AdExchanges.
+7. Flag the option to send your ads to a review from the Ad Exchanges.
 8. Click on <img src="../.gitbook/assets/image (58) (1).png" alt="" data-size="line"> to save your ads and send them to review.
 
 ### Rules
@@ -298,9 +298,9 @@ In this tab, you can set up rules for running your ads only in specific hours an
 6. Click on <img src="../.gitbook/assets/image (61) (1).png" alt="" data-size="line"> to save your rule.
 7. The rules can be activated/deactivated any time you want, you can do this by switching the rule between on and off on the rules tab.
 
-### AdExchange Reviews
+### Ad Exchange Reviews
 
-In the Exchange Reviews tab, after creating your ad, select it to monitor whether AdExchanges will approve or reject your ads. In case of refusal, you can check the reason in the comments column. After making the necessary adjustments, you can resend the ads for a new review.
+In the Exchange Reviews tab, after creating your ad, select it to monitor whether Ad Exchanges will approve or reject your ads. In case of refusal, you can check the reason in the comments column. After making the necessary adjustments, you can resend the ads for a new review.
 
 ## Campaigns
 
@@ -324,7 +324,7 @@ In this article, we're approaching the creation of retargeting campaigns, to see
 
 ### Target
 
-After creating your campaign, you'll need to set a target for it, we have some options to help you build your ideal target, including geographic location, language, domains' categories, domains, keywords, cookie pools, and AdExchanges. Our targets work on an 'AND' system, which means that every target added to a campaign will work with the others to bring you a more specific and qualified audience.
+After creating your campaign, you'll need to set a target for it, we have some options to help you build your ideal target, including geographic location, language, domains' categories, domains, keywords, cookie pools, and Ad Exchanges. Our targets work on an 'AND' system, which means that every target added to a campaign will work with the others to bring you a more specific and qualified audience.
 
 #### Creating a Target
 

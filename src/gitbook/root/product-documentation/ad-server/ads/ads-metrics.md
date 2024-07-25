@@ -25,7 +25,7 @@ Since the group by feature is available for this metrics tab you will also be ab
 * Ad - See the performance of each ad separately.
 * Rule - Check which rule is working better for your ads, making it easy to make adjustments.
 * Creative Group - See which creative group is performing better and create strategies accordingly.
-* Exchange - Check the performance of an AdExchange and make adjustments based on that data.
+* Exchange - Check the performance of an Ad Exchange and make adjustments based on that data.
 
 Each Group by option may present different metrics related only to your chosen option.
 

@@ -21,7 +21,7 @@
   * [Creatives Metrics](product-documentation/ad-server/creatives-metrics.md)
   * [Ads](product-documentation/ad-server/ads/README.md)
     * [Ads Metrics](product-documentation/ad-server/ads/ads-metrics.md)
-    * [Common AdExchange Review Status](product-documentation/ad-server/ads/common-adexchange-review-status.md)
+    * [Ad Exchange Review](product-documentation/ad-server/ads/ad-exchange-review.md)
   * [Creative Builder](product-documentation/ad-server/creative-builder/README.md)
     * [Blueprints](product-documentation/ad-serving/creative-builder/blueprints.md)
     * [Builds](product-documentation/ad-server/creative-builder/builds.md)

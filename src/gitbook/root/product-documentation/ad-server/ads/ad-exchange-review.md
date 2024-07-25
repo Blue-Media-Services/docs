@@ -12,25 +12,28 @@ layout:
     visible: true
 ---
 
-# Common AdExchange Review Status
+# Ad Exchange Review
 
-If your Ad is rejected during creation or by Google's daily checks, here are the most common errors you may be presented with and how to identify the problem.
+Some ad exchanges require a review of your ad before displaying it in their inventory to ensure compliance with their pre-established rules. Once the review is complete, the ad exchange will inform you whether the ad is approved or rejected, along with the reason for rejection.&#x20;
 
-Please note that sometimes AdExchange's rejection might not provide an accurate status for your Review. So, make sure to resend your ad for review to double-check the rejection status.
+Reviewing ads is essential to prevent inappropriate content from being displayed on websites that do not accept such content.&#x20;
+
+Please note that sometimes an ad exchange's rejection might not provide an accurate status for your review. Therefore, make sure to resend your ad for review to double-check the rejection status.
 
 
 
-<figure><img src="../../../.gitbook/assets/image (8) (6).png" alt="" width="125"><figcaption><p>AdExchange Rejection</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (6).png" alt="" width="125"><figcaption><p>Rejected Status</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Status Rejection Example</p></figcaption></figure>
 
-This document will present the main reasons for rejection by AdExchange, with examples so that you can make the necessary changes to your Ad:
+Below are some statuses that Google Authorized Buyers may assign to your ad, along with guidance on how to identify any issues affecting your ad. Here are some statuses that authorized Google Buyers can assign to their ads, along with guidelines on how to identify any problems affecting their ads. The ad exchange statuses shown are specific to Google, as it is currently the only one with a rejection status.
 
-* [Adult Content](common-adexchange-review-status.md#adult-content)
-* [Destination Not Crawlable](common-adexchange-review-status.md#destination-not-crawlable)
-* [Online Gambling](common-adexchange-review-status.md#online-gambling)
-* [Inappropriate Content](common-adexchange-review-status.md#inappropriate-content)
-* [Removed By Google](common-adexchange-review-status.md#removed-by-google)
+* [Adult Content](ad-exchange-review.md#adult-content)
+* [Destination Not Crawlable](ad-exchange-review.md#destination-not-crawlable)
+* [Online Gambling](ad-exchange-review.md#online-gambling)
+* [Inappropriate Content](ad-exchange-review.md#inappropriate-content)
+* [Removed By Google](ad-exchange-review.md#removed-by-google)
+* [Revoked By Google](ad-exchange-review.md#revoked-by-google)
 
 ## Adult Content
 
@@ -73,7 +76,7 @@ Below are some restrictions and errors you may have and how to identify them.
 |   Destination Experience   |                 Destinations or content that are unnecessarily difficult or frustrating to navigate                 | Websites with pop-ups or interstitials that interfere with the user's ability to see the content requested; sites that disable or interfere with the browser's back button; websites that don't load quickly on most popular browsers and devices, or require download of an additional application to view the landing page (aside from common browser plug-ins) |
 | Destination Not Accessible |                            Destinations that are not accessible in the targeted location                            |                                A site that displays a location based access limitation message in the targeted location (e.g. “This site is not accessible in your location”); a site that displays other messaging related to access limitations in the targeted location (e.g. “you do not have permission to access this page”)                                |
 
-Check which situation your website fits into; you may need to consult your technical team to make the necessary changes to comply with the AdExchange's destination requirements.
+Check which situation your website fits into; you may need to consult your technical team to make the necessary changes to comply with the Ad Exchange's destination requirements.
 
 You can also check [here](https://support.google.com/adspolicy/answer/6368661?sjid=8903565646488334037-SA#674) for a broader view of how to fix that issue.
 
@@ -128,4 +131,10 @@ For any further information you may need, check [here](https://support.google.co
 
 ## Removed By Google
 
-This error may occur from time to time, based on the AdExchange review failing. You can try submitting the ad for review again. If the error persists, please contact our support team at support@bluems.com.
+It is possible for a Google-approved ad to be removed later due to policy changes or errors in Google's daily checks. Google's re-evaluation might determine that your ad now violates a rule, leading to its removal.
+
+A common solution for this situation is to resubmit your ad for review. This allows Google to either approve it again or provide the correct rejection status if it still violates a rule.
+
+## Revoked By Google
+
+During a campaign, you might stop using some ads, and Google may revoke these ads after a period of inactivity. Google performs daily checks, and if your ad is not being used regularly, it may be revoked. Once you resubmit the ad for review, it should be approved.
