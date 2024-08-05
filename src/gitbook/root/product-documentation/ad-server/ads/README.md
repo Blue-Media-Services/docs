@@ -21,7 +21,7 @@ You have complete control and visualization of the status of your Ad in each of 
 
 ## Managing Ads
 
-On the Ads page, click on the <img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="Create Ad" data-size="line"> button.
+On the Ads page, click on the <img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="Create Ad" data-size="line"> button.
 
 <figure><img src="../../../.gitbook/assets/image (210).png" alt=""><figcaption><p>Ads List</p></figcaption></figure>
 

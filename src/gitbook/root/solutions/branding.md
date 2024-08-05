@@ -105,7 +105,7 @@ Visualization options
 * Metric Cards: This manner is an easier way to view your metrics and compare them with others since they will be showing you a graphic and pointing to each group chosen.
 * Data Table: By selecting this visualization method, you can either check on your screen the data requested or download it as .csv and then make your own filters and work with the values shown. To download it simply select the visualization method and then click on <img src="../.gitbook/assets/image (18) (2).png" alt="" data-size="line"> to start downloading your metrics.
 
-You can also check your metrics through the **Overview** page, you can reach it through the Home page or Campaigns page, simply click on <img src="../.gitbook/assets/image (20) (2).png" alt="" data-size="line">, there you can choose a campaign and check its metrics in a broader view.
+You can also check your metrics through the **Overview** page, you can reach it through the Home page or Campaigns page, simply click on <img src="../.gitbook/assets/image (20) (2) (1).png" alt="" data-size="line">, there you can choose a campaign and check its metrics in a broader view.
 
 All metrics have a <img src="../.gitbook/assets/image (19) (2).png" alt="" data-size="line"> to help you identify what that metric is about.
 

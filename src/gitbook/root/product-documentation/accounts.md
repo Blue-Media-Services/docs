@@ -2,21 +2,21 @@
 
 The accounts section is available when clicking on your account's name next to the top right corner of our pages, and then clicking on your account ID.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Accounts Menu</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (2).png" alt=""><figcaption><p>Accounts Menu</p></figcaption></figure>
 
 ## Settings
 
 On the accounts page, you will have access to your account information, including the BMS accounts you have access to and your registered billing information.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Accounts Page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (2).png" alt=""><figcaption><p>Accounts Page</p></figcaption></figure>
 
 Some of your account data can be edited, you can change its name and set tags for it, making your organization easier.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Account Editor</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (2).png" alt=""><figcaption><p>Account Editor</p></figcaption></figure>
 
 The billing data is editable as well, in this case, all the fields available are editable.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Billing Contact Information Editor</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Billing Contact Information Editor</p></figcaption></figure>
 
 You can edit your data by clicking on <img src="../.gitbook/assets/image (6) (2).png" alt="" data-size="line"> in the section you need to edit, after finishing, click on<img src="../.gitbook/assets/image (7) (2).png" alt="" data-size="line"> to save your changes.\
 
@@ -27,19 +27,19 @@ The organization is a feature that allows you to better track your results and i
 
 Only the main account will have access to the organization settings, while the other accounts in the organization will have access only to their own data.&#x20;
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Organization Page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>Organization Page</p></figcaption></figure>
 
-If you don't have an organization, this page will contain only a button that you can use to start creating your organization. Click on <img src="../.gitbook/assets/image (9).png" alt="Create Organization" data-size="line"> to create your organization. Set a name for your organization and then click on<img src="../.gitbook/assets/image (21).png" alt="" data-size="line"> to save it.
+If you don't have an organization, this page will contain only a button that you can use to start creating your organization. Click on <img src="../.gitbook/assets/image (9) (2).png" alt="Create Organization" data-size="line"> to create your organization. Set a name for your organization and then click on<img src="../.gitbook/assets/image (21) (1).png" alt="" data-size="line"> to save it.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Organization Editor</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Organization Editor</p></figcaption></figure>
 
-It's possible to edit your organization's name by clicking on <img src="../.gitbook/assets/image (20).png" alt="" data-size="line">, and then clicking on <img src="../.gitbook/assets/image (21).png" alt="" data-size="line"> to save your changes.
+It's possible to edit your organization's name by clicking on <img src="../.gitbook/assets/image (20) (2).png" alt="" data-size="line">, and then clicking on <img src="../.gitbook/assets/image (21) (1).png" alt="" data-size="line"> to save your changes.
 
-You can also add more accounts to your organization as you need. Click on <img src="../.gitbook/assets/image (22).png" alt="" data-size="line"> to create a new account, set a name and tags to make it easier to manage, and then click on <img src="../.gitbook/assets/image (21).png" alt="" data-size="line"> to save your changes.
+You can also add more accounts to your organization as you need. Click on <img src="../.gitbook/assets/image (22) (1).png" alt="" data-size="line"> to create a new account, set a name and tags to make it easier to manage, and then click on <img src="../.gitbook/assets/image (21) (1).png" alt="" data-size="line"> to save your changes.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
-To access any account under your organization, click on <img src="../.gitbook/assets/image (23).png" alt="" data-size="original"> at the same row as the account you want to access.
+To access any account under your organization, click on <img src="../.gitbook/assets/image (23) (1).png" alt="" data-size="original"> at the same row as the account you want to access.
 
 ## Service Quotas
 
@@ -59,9 +59,9 @@ These are the services which are limited by quotas:
 
 As you can see, the service quotas list provides data about the default quota and the current quota for your services. You can also observe that we have a column for adjustability, which indicates whether a quota can be adjusted.
 
-In the column action, you will find the adjust quota request button <img src="../.gitbook/assets/image (25).png" alt="" data-size="original">. Click on it in the same row as the quota you need to increase to open a quota adjustment request.
+In the column action, you will find the adjust quota request button <img src="../.gitbook/assets/image (25) (1).png" alt="" data-size="original">. Click on it in the same row as the quota you need to increase to open a quota adjustment request.
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Service Quotas Adjustment Request</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Service Quotas Adjustment Request</p></figcaption></figure>
 
 The editable values in the requests are the quota value and the reason for requesting this adjustment. After filling in these details, click on <img src="../.gitbook/assets/image (26).png" alt="" data-size="line"> to send your request to our support team. Our team will analyze your request, and if everything is in order, they will approve it.
 
