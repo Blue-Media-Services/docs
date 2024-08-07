@@ -18,7 +18,7 @@ In the context of digital advertising and marketing, a cookie pool can serve sev
 
 A cookie pool must be created shortly before using it for a campaign so that it can be populated. Configure how long your cookies should be available before expiring, set how many cookies you want to store at your pool and select the Ad Exchanges you will use to synchronize your cookies with it.
 
-1. Click on <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="cookie pool button" data-size="line"> t[o create a Cookie Pool.](#user-content-fn-1)[^1]
+1. Click on <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="cookie pool button" data-size="line"> t[o create a Cookie Pool.](#user-content-fn-1)[^1]
 2.  Fill in the details:\
 
 

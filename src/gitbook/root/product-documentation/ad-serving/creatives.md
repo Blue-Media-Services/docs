@@ -12,7 +12,7 @@ All creatives need to be approved by BMS to ensure compliance with our policies.
 
 ### Creating a Creative
 
-To start creating your creative, click on <img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="Create Creative" data-size="line">.
+To start creating your creative, click on <img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="Create Creative" data-size="line">.
 
 Fill in the details:
 
@@ -40,7 +40,7 @@ You can use the <img src="../../.gitbook/assets/preview.png" alt="Preview" data-
 
 If you are ready to send the creative for review ensure that the "Send for review" option is checked. If you wish to continue editing it later, leave it unchecked.
 
-After making all necessary adjustments, click on ![Save](<../../.gitbook/assets/image (1) (1) (1) (1).png>).
+After making all necessary adjustments, click on ![Save](<../../.gitbook/assets/image (1) (1) (1) (1) (1).png>).
 
 #### Macros
 
@@ -60,11 +60,11 @@ Our Ad Server provides several macros that can be used within your HTML code. Th
 
 To edit a creative use the <img src="../../.gitbook/assets/edit.png" alt="Edit" data-size="line"> button on the corresponding creative. All fields are available for editing except the domain and type selectors.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Editing a Creative</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Editing a Creative</p></figcaption></figure>
 
 If you modify the image URL, link or the HTML code the creative will go back to the <img src="../../.gitbook/assets/draft status.png" alt="Draft" data-size="line"> status and you will need to send the creative for review again. While in draft, the creative will not be shown on any campaigns.
 
-Once you have made all necessary changes to your creative, click on ![Save](<../../.gitbook/assets/image (1) (1) (1) (1).png>).
+Once you have made all necessary changes to your creative, click on ![Save](<../../.gitbook/assets/image (1) (1) (1) (1) (1).png>).
 
 ### Enabling and Disabling a Creative
 

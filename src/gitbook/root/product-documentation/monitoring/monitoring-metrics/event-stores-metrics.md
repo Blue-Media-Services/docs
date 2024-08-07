@@ -27,7 +27,7 @@ Select an event store to check the metrics populated by the event pipes, note th
 
 It Is populated by having Event Streams available for download, according to the size of each event stream, this metric will present the sum of all your event streams' bytes.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Stream Bytes Metric</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Stream Bytes Metric</p></figcaption></figure>
 
 _**Example:** After having an event store populated, it will present event streams related to the pipes selected. Then you will be able to check the size and date of each pipe separately. The graph will populate as the stream's size increases. It is possible to see on this graph that it reached nearly 2 MB in size within a week._
 
@@ -35,7 +35,7 @@ _**Example:** After having an event store populated, it will present event strea
 
 It presents the count of each event stream presented on your event store, if the event store has many pipes related to it, the count will be high.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Stream Count Metric</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Stream Count Metric</p></figcaption></figure>
 
 _**Example:** When creating event pipes, you must select an event store or a webhook to send the data. Once you select an event store, each pipe you create to the same event store will generate an event stream when receiving data. It is important to note that if you have too many event pipes to the same event store, it is advisable to separate them in order to better organize your event streams. On this graph, you can see that the stream count reached a peak of nearly 200 streams._
 
@@ -51,7 +51,7 @@ _**Example:** Each event stream is uploaded to your selected event store after a
 
 This metric presents the total upload count, related to each event stream's data collected and presented for download, once they expire or get deleted, the count will decrease.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Stream Upload Count Metric</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Stream Upload Count Metric</p></figcaption></figure>
 
 _**Example:** On this graph, it is possible to see that on some dates the count reached nearly zero due to having no active event pipes or because of a cleanup. It is important to check your upload count since it might impact how you are organizing your event streams. Having too many event streams to organize can be confusing, so a cleanup or optimization should be done from time to time._
 
@@ -59,7 +59,7 @@ _**Example:** On this graph, it is possible to see that on some dates the count 
 
 This metric represents the sum of all downloaded bytes of your event streams and will be populated only when the event stream has been downloaded.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Stream Download Bytes Metric</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Stream Download Bytes Metric</p></figcaption></figure>
 
 _**Example:** Once you start downloading your event streams' data, you will be informed of the total number of bytes downloaded each day. This helps you keep track of how much data was downloaded. If the data volume is high, it indicates that many events were captured from the event stream. In this graph, you can see that only 2 KB of data was downloaded._
 

@@ -6,11 +6,11 @@ They are very useful if you wish to display several variants of the same banners
 
 ## Managing Creative Groups
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creative Group list</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creative Group list</p></figcaption></figure>
 
 ### Creating a Creative Group
 
-On the Creative Group page click on <img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt="Create Creative Group" data-size="line">.
+On the Creative Group page click on <img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="Create Creative Group" data-size="line">.
 
 Fill in the details:
 
@@ -23,7 +23,7 @@ Fill in the details:
 
 Configure the creative group composition:
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creative Group composition</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creative Group composition</p></figcaption></figure>
 
 Select at least one creative to be a part of this group. To add more creatives, use the <img src="../../.gitbook/assets/add.png" alt="Add" data-size="line"> button. To remove an existing creative, use the <img src="../../.gitbook/assets/remove.png" alt="Remove" data-size="line"> button.
 
