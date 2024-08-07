@@ -18,17 +18,17 @@ After configuring your event store, click on <img src="../../.gitbook/assets/ima
 
 ### Enabling your Event Store
 
-To enable an event store simply flip the toggle <img src="../../.gitbook/assets/image (33).png" alt="Toggle" data-size="line"> and your event store will be enabled.
+To enable an event store simply flip the toggle <img src="../../.gitbook/assets/image (33) (2).png" alt="Toggle" data-size="line"> and your event store will be enabled.
 
 <div align="center">
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt="" width="148"><figcaption><p>Event Store Enabled</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34) (2).png" alt="" width="148"><figcaption><p>Event Store Enabled</p></figcaption></figure>
 
 </div>
 
 ### Editing your Event Store
 
-To edit your event store, click on <img src="../../.gitbook/assets/image (35).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes and then click on <img src="../../.gitbook/assets/image (32) (2).png" alt="Save" data-size="line">.
+To edit your event store, click on <img src="../../.gitbook/assets/image (35) (2).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes and then click on <img src="../../.gitbook/assets/image (32) (2).png" alt="Save" data-size="line">.
 
 <figure><img src="../../.gitbook/assets/image (36).png" alt="" width="360"><figcaption><p>Edit Event Store Screen</p></figcaption></figure>
 

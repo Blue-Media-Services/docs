@@ -48,11 +48,11 @@ _Attention! We always advise to deactivate the Catalog instead of deleting it co
 
 ### Metrics
 
-A broad list of Metrics is available and you can group them by **Catalog**, **Import Channel,** and **Recommendation Model,** each presenting its metrics, should you need any detailed information from a specific metric, hover your cursor over the <img src="../../.gitbook/assets/image (33) (2).png" alt="Information" data-size="line"> and you will have that metric's description.
+A broad list of Metrics is available and you can group them by **Catalog**, **Import Channel,** and **Recommendation Model,** each presenting its metrics, should you need any detailed information from a specific metric, hover your cursor over the <img src="../../.gitbook/assets/image (33) (2) (1).png" alt="Information" data-size="line"> and you will have that metric's description.
 
 You can select multiple catalogs for comparison and assess their individual performance.
 
-<figure><img src="../../.gitbook/assets/image (35) (2).png" alt=""><figcaption><p>Catalog Tab Metrics</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35) (2) (1).png" alt=""><figcaption><p>Catalog Tab Metrics</p></figcaption></figure>
 
 ### Install Instructions
 
