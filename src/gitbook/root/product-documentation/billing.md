@@ -22,11 +22,11 @@ _**Example:** when checking the menu in a restaurant, the restaurant typically d
 
 All our products will include detailed information on the cost of each service used. BMS will not charge for features or products you are not using.
 
-To access your bills, click on the dropdown menu on your account, and then click on <img src="../../.gitbook/assets/image (3) (1).png" alt="Billing" data-size="line">.
+To access your bills, click on the dropdown menu on your account, and then click on <img src="../.gitbook/assets/image (3) (1).png" alt="Billing" data-size="line">.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Accessing Billing</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Accessing Billing</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Bills</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Bills</p></figcaption></figure>
 
 Once you access the bills page, you will be presented with the bills for the current month.
 
@@ -56,7 +56,7 @@ BMS has several units to accurately count each service. Each unit works differen
 
 ## Charges per Service
 
-In this section, all the products will be listed. After clicking on <img src="../../.gitbook/assets/image (4) (1).png" alt="Dropdown menu" data-size="line"> , the list will expand to display all charges related to that product. You can check each product separately or click on <img src="../../.gitbook/assets/image (5).png" alt="Expand All" data-size="line"> to view all products at once.
+In this section, all the products will be listed. After clicking on <img src="../.gitbook/assets/image (4) (1).png" alt="Dropdown menu" data-size="line"> , the list will expand to display all charges related to that product. You can check each product separately or click on <img src="../.gitbook/assets/image (5).png" alt="Expand All" data-size="line"> to view all products at once.
 
 By expanding a product, you will see a detailed view of each service used within that product. This option provided by BMS allows users to control their expenses and identify areas to avoid unnecessary use. Through BMS's transparency, users can check all services used, the total price, and the amount of usage processed.
 
@@ -64,7 +64,7 @@ By expanding a product, you will see a detailed view of each service used within
 
 If you own an organization, you will see the charges for each account, with the possibility to review all items listed for each account. This provides you with full transparency and information on each account within the organization.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Charges per Account Detailed</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Charges per Account Detailed</p></figcaption></figure>
 
 ## Usage Models
 
@@ -82,7 +82,7 @@ _**Example:** If you access the media library and upload media, it will count as
 
 Below you can find some requests that fit our discrete usage model.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Requests Example</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Requests Example</p></figcaption></figure>
 
 _**Example:** The lines "Get Ad - First 1000 - free" and "Get Ad - After 1000 - $0.01 per 1000" refer to the same service, meaning that you will have 1000 requests for free and, after that, you will be billed on USD 0.01 per 1000 requests._
 

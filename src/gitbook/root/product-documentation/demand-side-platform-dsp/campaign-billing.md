@@ -19,7 +19,7 @@ The Campaigns billing section will contain all billed items related to campaigns
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Campaigns Billing Section</p></figcaption></figure>
 
 {% hint style="info" %}
-At BMS, it prioritizes transparency by displaying every detail of your bill. Visit our [Billing Home](../billing/) to understand how the bills are structured.
+At BMS, it prioritizes transparency by displaying every detail of your bill. Visit our [Billing Home](../billing.md) to understand how the bills are structured.
 {% endhint %}
 
 ### Budget Management and Media
