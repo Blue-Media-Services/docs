@@ -97,6 +97,6 @@ The exchange review management subsection contains billing information related t
 _**Example**: In this picture, you will notice that there was a free quota of 1,000 requests for refreshing the exchange review status. After exceeding this quota, the service was billed $0.01 per 1,000 requests. With nearly 15,000 requests made, the resulting bill is $0.15. The other service did not exceed the free quota, so there will be no charges for it._
 
 {% hint style="info" %}
-All products generate metrics once you start using them. These metrics are charged and are crucial for understanding your BMS platform usage and performance. The monitoring tab is responsible for these metrics and will display the related bill.\
+All products generate metrics once you start using them. These metrics are charged and are crucial for understanding your BMS platform usage and performance. The [Monitoring Tab](../monitoring/monitoring-billing.md#metric-monitoring) is responsible for these metrics and will display the related bill.\
 BMS is focused on transparency and will show you the costs for all features within each product.
 {% endhint %}

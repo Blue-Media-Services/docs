@@ -39,6 +39,6 @@ On the campaign management bill, the costs for any action on the campaign page a
 _**Example:** In this case, since no requests have reached the first 1,000 mark, there will be no charges for actions performed on the campaigns page. However, since there were campaigns running or listed, a total of 2,201.09 campaign hours were charged, equivalent to about 3 campaigns running for an entire month. This resulted in a total cost of $2.29. Note that campaigns are charged for being listed, whether active or not, so deleting a campaign will stop further charges._
 
 {% hint style="info" %}
-All products generate metrics once you start using them. These metrics are charged and are crucial for understanding your BMS platform usage and performance. The monitoring tab is responsible for these metrics and will display the related bill.\
+All products generate metrics once you start using them. These metrics are charged and are crucial for understanding your BMS platform usage and performance. The [Monitoring Tab](../monitoring/monitoring-billing.md#metric-monitoring) is responsible for these metrics and will display the related bill.\
 BMS is focused on transparency and will show you the costs for all features within each product.
 {% endhint %}
