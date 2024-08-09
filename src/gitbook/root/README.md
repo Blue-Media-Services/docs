@@ -1,16 +1,168 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 👋 Welcome to BMS
 
-Blue Media Services is a complete and customizable “self-service” platform allowing users to develop their solutions to digital media strategies. Our mission is to democratize the AdTech market, combining cutting-edge technology with respect for privacy to help our clients boost their sales.
+Blue Media Services is a complete and customizable “self-service” platform that allows users to develop solutions to digital media strategies. Our mission is to democratize the AdTech market, combining cutting-edge technology with respect for privacy to help our clients boost their sales.
 
 You focus on your company's growth and we provide you with the technologies you need, with an infrastructure open to integrations and equipped with advanced tools that will help you create campaigns, optimize operations, redirect leads, and boost performance.
 
 The BMS team operates globally and focuses on providing services that are very similar to our culture and values. We enable communication with a stable auto-scaling server with transparency of results and costs, as well as cost flexibility; all to optimize your accessibility and maximize your business results.
 
-### Learn More About BMS
+### Our Features
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
-{% endcontent-ref %}
+These are the features available on BMS.
+
+<details>
+
+<summary>Accounts</summary>
+
+[Overview](product-documentation/accounts.md)
+
+</details>
+
+<details>
+
+<summary>Ad Server</summary>
+
+[Overview](product-documentation/ad-server/)
+
+[Creatives](product-documentation/ad-serving/creatives.md)
+
+[Creative Groups](product-documentation/ad-serving/creative-groups.md)
+
+[Creative Metrics](product-documentation/ad-server/creatives-metrics.md)
+
+[Ads](product-documentation/ad-server/ads/)
+
+[Ads Metrics](product-documentation/ad-server/ads/ads-metrics.md)
+
+[Ad Exchange Review](product-documentation/ad-server/ads/ad-exchange-review.md)
+
+[Creative Builder](product-documentation/ad-server/creative-builder/)
+
+[Blueprints](product-documentation/ad-serving/creative-builder/blueprints.md)
+
+[Builds](product-documentation/ad-server/creative-builder/builds.md)
+
+[Ad Serving Billing](product-documentation/ad-server/ad-serving-billing.md)
+
+</details>
+
+<details>
+
+<summary>Demand Side Platform (DSP)</summary>
+
+[Overview](product-documentation/demand-side-platform-dsp/)
+
+[Managing Campaigns](product-documentation/demand-side-platform-dsp/campaigns.md)
+
+[Managing Budgets](product-documentation/demand-side-platform-dsp/budgets.md)
+
+[Managing Targets](product-documentation/demand-side-platform-dsp/targets.md)
+
+[Managing Ads](product-documentation/demand-side-platform-dsp/managing-ads.md)
+
+[DSP Metrics](product-documentation/demand-side-platform-dsp/metrics.md)
+
+[Real Time Tab](product-documentation/demand-side-platform-dsp/real-time-tab.md)
+
+[Campaign Billing](product-documentation/demand-side-platform-dsp/campaign-billing.md)
+
+</details>
+
+<details>
+
+<summary>Data Management Platform (DMP)</summary>
+
+[Overview](product-documentation/demand-management-platform-dmp/)
+
+[Cookie Pools](product-documentation/demand-management-platform-dmp/cookie-pools.md)
+
+[Cookie Pools Metrics](product-documentation/demand-management-platform-dmp/dmp-metrics/cookie-pools-metrics.md)
+
+[Trackers](product-documentation/demand-management-platform-dmp/trackers.md)
+
+[Trackers Metrics](product-documentation/demand-management-platform-dmp/dmp-metrics/trackers-metrics.md)
+
+</details>
+
+<details>
+
+<summary>Catalog Storage Service (CS2)</summary>
+
+[Overview](product-documentation/catalog-storage-service-cs2/)
+
+[Catalogs](product-documentation/catalog-storage-service-cs2/catalogs.md)
+
+[Products](product-documentation/catalog-storage-service-cs2/products.md)
+
+[Products Metrics](product-documentation/catalog-storage-service-cs2/cs2-metrics/products-metrics.md)
+
+[Import Channels](product-documentation/catalog-storage-service-cs2/import-channels.md)
+
+[Import Channels Metrics](product-documentation/catalog-storage-service-cs2/cs2-metrics/import-channels-metrics.md)
+
+[Recommendation Models](product-documentation/catalog-storage-service-cs2/recommendation-models.md)
+
+[Recommendation Models Metrics](product-documentation/catalog-storage-service-cs2/cs2-metrics/recommendation-models-metrics.md)
+
+</details>
+
+<details>
+
+<summary>Media</summary>
+
+[Overview](product-documentation/media/)
+
+[Media Metrics](product-documentation/media/media-metrics.md)
+
+</details>
+
+<details>
+
+<summary>Metrics</summary>
+
+[Overview](product-documentation/metrics.md)
+
+</details>
+
+<details>
+
+<summary>Monitoring</summary>
+
+[Overview](product-documentation/monitoring/)
+
+[Event Stores](product-documentation/monitoring/event-stores.md)
+
+[Event Stores Metrics](product-documentation/monitoring/monitoring-metrics/event-stores-metrics.md)
+
+[Event Pipes](product-documentation/monitoring/event-pipes.md)
+
+[Event Pipes Metrics](product-documentation/monitoring/monitoring-metrics/event-pipes-metrics.md)
+
+[Monitoring Billing](product-documentation/monitoring/monitoring-billing.md)
+
+</details>
+
+<details>
+
+<summary>Billing</summary>
+
+[Overview](product-documentation/billing.md)
+
+</details>
 
 ### Solutions
 
@@ -23,3 +175,4 @@ We have set up some solutions to help you get started on our platform and try ou
 {% content-ref url="solutions/retargeting.md" %}
 [retargeting.md](solutions/retargeting.md)
 {% endcontent-ref %}
+
