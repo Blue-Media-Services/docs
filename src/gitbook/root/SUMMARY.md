@@ -51,6 +51,7 @@
     * [Recommendation Models Metrics](product-documentation/catalog-storage-service-cs2/cs2-metrics/recommendation-models-metrics.md)
 * [Media](product-documentation/media/README.md)
   * [Media Metrics](product-documentation/media/media-metrics.md)
+  * [Media Billing](product-documentation/media/media-billing.md)
 * [Metrics](product-documentation/metrics.md)
 * [Monitoring](product-documentation/monitoring/README.md)
   * [Event Stores](product-documentation/monitoring/event-stores.md)
