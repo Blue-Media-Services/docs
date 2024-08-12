@@ -45,6 +45,7 @@
   * [Products](product-documentation/catalog-storage-service-cs2/products.md)
   * [Import Channels](product-documentation/catalog-storage-service-cs2/import-channels.md)
   * [Recommendation Models](product-documentation/catalog-storage-service-cs2/recommendation-models.md)
+  * [CS2 Billing](product-documentation/catalog-storage-service-cs2/cs2-billing.md)
   * [CS2 Metrics](product-documentation/catalog-storage-service-cs2/cs2-metrics/README.md)
     * [Products Metrics](product-documentation/catalog-storage-service-cs2/cs2-metrics/products-metrics.md)
     * [Import Channels Metrics](product-documentation/catalog-storage-service-cs2/cs2-metrics/import-channels-metrics.md)

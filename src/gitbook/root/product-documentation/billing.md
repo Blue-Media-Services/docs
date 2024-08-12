@@ -84,7 +84,7 @@ Below you can find some requests that fit our discrete usage model.
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Requests Example</p></figcaption></figure>
 
-_**Example:** The lines "Get Ad - First 1000 - free" and "Get Ad - After 1000 - $0.01 per 1000" refer to the same service, meaning that you will have 1000 requests for free and, after that, you will be billed on USD 0.01 per 1000 requests._
+_**Example:** The lines "Get Ad - First 1,000 - free" and "Get Ad - After 1,000 - $0.01 per 1,000" refer to the same service, meaning that you will have 1,000 requests for free and, after that, you will be billed on USD 0.01 per 1,000 requests._
 
 ### Parking Model (Continuous Billing)
 
