@@ -16,7 +16,7 @@ layout:
 
 The media's bills contain all bills related to media storage and download, it has a single section, in which all information will be detailed.
 
-<figure><img src="../../.gitbook/assets/image (306).png" alt=""><figcaption><p>Media Billing Section</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (306) (2).png" alt=""><figcaption><p>Media Billing Section</p></figcaption></figure>
 
 {% hint style="info" %}
 At BMS, it prioritizes transparency by displaying every detail of your bill. Visit our [Billing Home](../billing.md) to understand how the bills are structured.

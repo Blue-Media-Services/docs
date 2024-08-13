@@ -34,6 +34,7 @@
   * [DSP Metrics](product-documentation/demand-side-platform-dsp/metrics.md)
   * [Real Time Tab](product-documentation/demand-side-platform-dsp/real-time-tab.md)
   * [Campaign Billing](product-documentation/demand-side-platform-dsp/campaign-billing.md)
+  * [Check URL Classification](product-documentation/demand-side-platform-dsp/check-url-classification.md)
 * [Data Management Platform (DMP)](product-documentation/demand-management-platform-dmp/README.md)
   * [Cookie Pools](product-documentation/demand-management-platform-dmp/cookie-pools.md)
   * [Trackers](product-documentation/demand-management-platform-dmp/trackers.md)

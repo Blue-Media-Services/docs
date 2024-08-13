@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Creatives
 
 Creatives are the smallest building block of our Ad Server, representing what will be delivered to the end-user when your ad is displayed.
