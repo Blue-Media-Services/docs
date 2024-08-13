@@ -1,8 +1,8 @@
 # Creating a Retargeting Campaign
 
-Retargeting is an ad technique that shows ads based on your product catalog to users who previously interacted with your website or app intending to increase conversions.
+Retargeting is an online advertising strategy designed to re-engage users who have previously visited your website or mobile app but did not complete a desired action, such as purchasing a product, signing up, or filling out a form. The main objective of retargeting is to bring these users back to your website or app and motivate them to complete the action they initially intended.&#x20;
 
-To help you create a retargeting campaign from the beginning until it's running we've developed this article, here is what we're going to approach for this purpose:
+To help you create a retargeting campaign from start to finish, we've developed this article. Here's what we’re going to cover for this purpose:
 
 * [Creating and Installing a Cookie Pool](retargeting.md#creating-a-cookie-pool)
 * [Creating a Catalog and Import Channels](retargeting.md#creating-a-catalog)
@@ -16,9 +16,9 @@ To help you create a retargeting campaign from the beginning until it's running 
 
 ## Cookie Pool
 
-We start creating and installing a cookie pool on your website, a cookie pool is a database built upon the user's stored cookies. Cookies are small files stored on the user's web browser that contain data about the user's behavior on the internet.
+We start by creating and installing a cookie pool on your website. A cookie pool is a database built upon users' stored cookies. Cookies are small files stored on a user's web browser that contain data about their behavior on the internet.&#x20;
 
-Use the cookie pool feature to gather more data about audience segmentation and enhance campaign performance. Not using it limits data gathering and recommendation models.
+The cookie pool feature collects additional data on audience segmentation and improves campaign performance.
 
 ### Creating a Cookie Pool
 
@@ -39,7 +39,9 @@ Use the cookie pool feature to gather more data about audience segmentation and 
 
 ## Catalog Storage Service (CS2)
 
-Once you have created a cookie pool, it's time to build your product catalog. This will enable you to use recommendation models that increase ad conversions by showcasing your products on dynamic banners.
+If you want to promote products from your website in your ad banners, use the catalog. If this is not your goal, you can skip this step and proceed with setting up your  [trackers](retargeting.md#trackers).
+
+Once you have created a set of cookies, it's time to create your product catalog. This will allow you to use recommendation models that increase ad conversions by presenting your products in dynamic banners.
 
 ### Creating a Catalog
 
