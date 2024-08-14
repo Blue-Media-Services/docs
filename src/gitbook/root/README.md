@@ -28,7 +28,7 @@ These are the features available on BMS.
 
 <summary>Accounts</summary>
 
-[Overview](product-documentation/accounts.md)
+[Overview](product-documentation/accounts/)
 
 </details>
 
