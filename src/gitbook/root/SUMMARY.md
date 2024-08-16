@@ -42,6 +42,7 @@
   * [DMP Metrics](product-documentation/demand-management-platform-dmp/dmp-metrics/README.md)
     * [Cookie Pools Metrics](product-documentation/demand-management-platform-dmp/dmp-metrics/cookie-pools-metrics.md)
     * [Trackers Metrics](product-documentation/demand-management-platform-dmp/dmp-metrics/trackers-metrics.md)
+  * [DMP Billing](product-documentation/demand-management-platform-dmp/dmp-billing.md)
 * [Catalog Storage Service (CS2)](product-documentation/catalog-storage-service-cs2/README.md)
   * [Catalogs](product-documentation/catalog-storage-service-cs2/catalogs.md)
   * [Products](product-documentation/catalog-storage-service-cs2/products.md)
