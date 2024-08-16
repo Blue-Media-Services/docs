@@ -26,7 +26,6 @@ You can choose who to show ads to based on where these users are located by eith
   * Operational Systems - By selecting specific operating systems, your ads will be displayed to users navigating the web on those systems.
   * Browsers - By selecting specific browsers, your ads will be displayed to users navigating the web through those browsers.
   * Device Types - By selecting specific device types, your ads will be displayed to users navigating the web on those devices.
-  * Visited URL Keywords / Domains - By defining Visited URL Keywords / Domains, you're tailoring which devices will see your ads based on their recent navigation history. We track the URLs that a device has accessed within the past 24 hours.
   * Cookie Pools - By selecting specific cookie pools, your ads will target only the users who have been added to those selected pools.
 * **Inventory**
   * Exchange - By selecting specific ad exchanges, your ads will be displayed through those platforms.

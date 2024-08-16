@@ -23,7 +23,7 @@ Trackers will gather data about your website's activities, so it must be install
 
 All the trackers' parameters are editable, click on ![](<../../.gitbook/assets/image (95).png>) in the same row of the tracker you want to edit, make your changes, then click on <img src="../../.gitbook/assets/image (93).png" alt="" data-size="line"> to save them.
 
-It's possible to archive trackers for your better organization. Click on ![](<../../.gitbook/assets/image (96).png>) to archive tracker, visualize your archived trackers by turning on the switch "Archived" above the trackers list. To unarchive a tracker by click on ![](<../../.gitbook/assets/image (97).png>).
+It's possible to archive trackers for your better organization. Click on ![](<../../.gitbook/assets/image (96).png>) to archive the selected tracker, visualize your archived trackers by turning on the switch "Archived" above the trackers' list. It is also possible to unarchive a tracker by clicking on ![](<../../.gitbook/assets/image (97).png>).
 
 ### Deleting a Tracker
 

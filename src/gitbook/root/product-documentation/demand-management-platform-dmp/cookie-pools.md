@@ -12,29 +12,30 @@ In the context of digital advertising and marketing, a cookie pool can serve sev
 
 ## Managing Cookie Pools
 
-<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Cookie Pools list</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-15 091558.png" alt=""><figcaption><p>Cookie Pools list</p></figcaption></figure>
 
 ### Creating a Cookie Pool
 
 A cookie pool must be created shortly before using it for a campaign so that it can be populated. Configure how long your cookies should be available before expiring, set how many cookies you want to store at your pool and select the Ad Exchanges you will use to synchronize your cookies with it.
 
-1. Click on <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="cookie pool button" data-size="line"> t[o create a Cookie Pool.](#user-content-fn-1)[^1]
+1. Click on <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="cookie pool button" data-size="line"> to create a cookie pool.
 2.  Fill in the details:\
 
 
-    <figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Cookie Pool Editor</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Captura de tela 2024-08-15 090606.png" alt=""><figcaption><p>Cookie Pool Editor</p></figcaption></figure>
 
     * Name: Insert a name for your cookie pool.
     * Tags: Insert tags for your organization.
-    * Domain: Insert or select the domain in which the cookie pool will be installed.
     * Exchanges: Select ad exchanges to synchronize with your cookies, we recommend selecting only the exchanges you'll use to run your ad campaigns to prevent unnecessary charges.
-    * TTL: Set the number of days after which unused cookies will be deleted from the pool.
-    * Max Size: Set the maximum amount of cookies that will be stored.[^2] After reaching the limit no more cookies will be added to the pool, but the collected cookies will still be available to use, it's also possible to increase your Max Size to allow more cookies to be collected.
+    * TTL: Set the number of days a cookie will be kept on the pool after syncing.
+    * Max Size: Set the maximum amount of cookies that will be stored. After reaching the limit no more cookies will be added to the pool until the old ones expire, but the collected cookies will still be available to use, it's also possible to increase your Max Size to allow more cookies to be collected.
 3. Click on <img src="../../.gitbook/assets/image (6) (1) (1).png" alt="save button" data-size="line"> to save your Cookie Pool.
 
 ### Editing a Cookie Pool
 
-After creating a cookie pool, you can edit it by clicking on the editing button <img src="../../.gitbook/assets/image (7) (1) (1).png" alt="editing button" data-size="line">. Excepting the TTL and the Domain, all parameters are editable. After making your changes, click on <img src="../../.gitbook/assets/image (6) (1) (1).png" alt="save button" data-size="line"> to save them.
+After creating a cookie pool, you can edit it by clicking on the editing button <img src="../../.gitbook/assets/image (7) (1) (1).png" alt="editing button" data-size="line">. All parameters are editable, for the TTL the changes will apply only to newly added cookies. After making your changes, click on <img src="../../.gitbook/assets/image (6) (1) (1).png" alt="save button" data-size="line"> to save them.
+
+It's possible to archive cookie pools for your better organization. Click on ![](<../../.gitbook/assets/image (96).png>) to archive the selected cookie pool, visualize your archived cookie pools by turning on the switch "Archived" above the cookie pools list. It is also possible to unarchive a cookie pool by clicking on ![](<../../.gitbook/assets/image (97).png>).
 
 ### Deleting a Cookie Pool
 
@@ -53,10 +54,3 @@ After creating a cookie pool you\`ll need to install it on your website to start
 
 You can also use a tag manager, such as Google Tag Manager (GTM), to add this code to your website.
 
-
-
-[^1]: Aqui, antes de iniciar as etapas, colocar esse textinho: Attention, please! The cookie pool needs to be created shortly before activating a campaign so that it can be populated. In this space, you can configure the duration for which cookies will remain available in the pool, determine the maximum number of cookies in the pool, and also define the AdExchange from which we will use your cookies to retarget users. The cookie pool can be used in campaigns from any domain, but always within the same account. It's important to mention that no sensitive user data is collected at this stage.
-
-[^2]: Acrescentaria: After the maximum cookie limit is reached, no further cookies will be added to the cookie pool. To continue compiling your cookies, you can edit the Cookie Pool and increase the "Max Size".
-
-    Keep in mind: the cost of this technology depends on the number of stored cookies.

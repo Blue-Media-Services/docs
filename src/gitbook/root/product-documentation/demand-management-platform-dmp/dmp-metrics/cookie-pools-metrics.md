@@ -56,9 +56,9 @@ _**Example:** On this graph, you can observe the number of synchronizations that
 
 ### **Time Until Expiration**
 
-This metric shows the remaining time a cookie is still available in the pool until expiring in the determined time frame.
+This metric shows the median remaining time a cookie is still available in the pool until expiring in the determined time frame.
 
-<figure><img src="../../../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2024-08-15 085159.png" alt=""><figcaption><p>Time Until Expiration</p></figcaption></figure>
 
 _**Example:** When you create your cookie pool you can set the number of days in which a cookie will expire, this metric shows you how much time you have until a cookie expiration. On this graph, the time frame was 1 week, divided into daily periods, represented as dots, you can observe that on June 20th there was less than 1 day until some of the cookies in the pool expired._
 
