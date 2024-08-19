@@ -30,7 +30,7 @@ To start creating your creative, click on <img src="../../.gitbook/assets/image 
 
 Fill in the details:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Creating a Creative</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Creating a Creative</p></figcaption></figure>
 
 * Name - how you want to call this creative;
 * Tags - up to 5 labels that can be used to aid identification and searching;
@@ -45,38 +45,6 @@ To design your creative, you have two options:
   * The image you wish to display. You can either paste a URL for an image you are already hosting or use the integration with the BMS Media Library to find or upload a new one.
     * Note: The BMS Media Library supports uploads of static images or GIFs as long as the file size is 2 MB or less.
   * The link you wish to open when the image is clicked. This can be any HTTPS URL with query strings such as UTMs. Our standard click tracker will be added to show metrics for the creative.
-
-### Editing UTMs
-
-When inserting the link to the website designated for your creative, it is important to set your UTM tags. If you do not have your tags pre-created, you can use the <img src="../../.gitbook/assets/image (2).png" alt="Edit UTMs" data-size="line"> feature to make adjustments to your URL and check a preview in real time to validate your URL. This button can be found in the space named "Link to." After clicking the button, the UTM tag configuration screen will pop up.
-
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption><p>UTM Editor</p></figcaption></figure>
-
-You will be presented with your current website URL and then each UTM tag and its explanation to help you complete them.
-
-{% hint style="warning" %}
-If no URL has been informed, you will **need** to insert the corresponding **URL** to your website's domain, if no URL is presented it will not be possible to configure your UTM's.
-{% endhint %}
-
-When editing UTMs, every time you change a tag, it will automatically update your Link URL, presenting you with the current version of your tags.
-
-*   **UTM Source:** Identifies the source of the traffic. In this case, you would use "BMS" as your source.&#x20;
-
-    * **Example - "BMS"**: To know that the creative has come from the BMS platform.
-
-    **Note:** You can add any kind of source to your UTM, it is up to you to decide with one is better.
-* **UTM Medium:** You can use a campaign medium to identify the medium a visitor found your URL on, such as social media, QR code, cost-per-click (CPC), affiliates, organic/paid ads, newsletters, etc.&#x20;
-  * **Example - "Social":** Since the campaign will target social media, we can set the medium as Social.
-* **UTM Campaign:** As the name suggests, it is used to give a name to your campaign, like "Black Friday Sale," "Thanksgiving Sale," "Launch Campaign," etc.&#x20;
-  * **Example - "YourCampaign":** Here you can simply state the name of your campaign, to better identify the campaign that the creative is being used.
-* **UTM Content:** Campaign content is useful when you are A/B testing ads. It differentiates identical links that direct to the same URL. For example, when you have two links in one email, this parameter distinguishes between them.
-  * **Example - "HomePage":** The content that the user will be presented to, if we are running A/B Tests on different pages, this is a way of configuring the content UTM Tag.
-* **UTM Term:** Identifies paid keywords in ad campaigns (mainly used for paid search campaigns).
-  * **Example - "Sport Shoes":** This identifies the paid search campaign in which the keywords used for the paid search were Sport Shoes.
-
-Once you configure all of your UTM Tags, hit the <img src="../../.gitbook/assets/image (5).png" alt="Save" data-size="line"> button, and your tags will be configured accordingly.
-
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>UTM Tags Configured</p></figcaption></figure>
 
 ### Paste HTML
 

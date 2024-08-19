@@ -35,7 +35,7 @@ Go to our Monitoring tab and click on **Event Pipes**.
 
 <div align="center">
 
-<figure><img src="../.gitbook/assets/image (1) (6) (1).png" alt=""><figcaption><p>Monitoring Tab</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (6) (1) (1).png" alt=""><figcaption><p>Monitoring Tab</p></figcaption></figure>
 
 </div>
 
