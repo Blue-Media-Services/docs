@@ -20,7 +20,7 @@ To access our Check URL Classification tool, check the DSP menu.
 
 <figure><img src="../../.gitbook/assets/image (2) (5).png" alt=""><figcaption><p>Accessing Check URL Classification</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3) (5).png" alt=""><figcaption><p>Check URL Classification</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (5) (1).png" alt=""><figcaption><p>Check URL Classification</p></figcaption></figure>
 
 When you need to confirm a domain's classification, simply enter the URL in the provided field and click on <img src="../../.gitbook/assets/image (4) (5).png" alt="Check URL" data-size="line">.
 

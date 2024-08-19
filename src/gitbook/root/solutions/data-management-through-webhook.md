@@ -41,7 +41,7 @@ Go to our Monitoring tab and click on **Event Pipes**.
 
 There, we will be creating an event pipe by clicking on <img src="../.gitbook/assets/image (2) (5) (1).png" alt="Create Event Pipe" data-size="line">, in this case, we will be creating an ADS - Delivered event, so select the Sample event Template, our ADS - Delivered template.
 
-<figure><img src="../.gitbook/assets/image (3) (5) (1).png" alt="" width="538"><figcaption><p>Event Pipe Screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (5) (1) (1).png" alt="" width="538"><figcaption><p>Event Pipe Screen</p></figcaption></figure>
 
 Then click on <img src="../.gitbook/assets/image (5) (5) (1).png" alt="Add Filter" data-size="line"> to add a filter to collect data from ad-delivered events, by searching events that contain ad-delivered on their Type field.
 

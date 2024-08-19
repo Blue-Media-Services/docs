@@ -33,6 +33,8 @@ To create ads, click on <img src="../../../.gitbook/assets/image (203).png" alt=
 
 On the Select Assets Tab, you will need to fulfill a domain in which your creatives will be representing, you can choose between creating new creatives or using existing creatives.
 
+To configure your UTM Tags, check [here](../../ad-serving/creatives.md#editing-utms) for more information.
+
 ### Creating New Creatives
 
 When creating new creatives through our ads tab, you can click on <img src="../../../.gitbook/assets/image (193).png" alt="Add Images" data-size="line"> to upload images.  You can use existing images from your media library, upload new images directly from your computer, or insert your Web Address (URL).
