@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Creating a Branding Campaign
 
 Branding campaigns aim to increase the awareness of a given brand and bring the user back to your website. All campaigns have 3 main components: a Target (what is the subset of the population that should see your campaign), a Budget (how much do you want to spend daily on the campaign) and a list of Ads (what the users should see).
@@ -36,8 +50,8 @@ With a daily budget allocated, we need to know who you want to target. To create
 You can specify your target audience by using four main filters:
 
 * Location based: You can choose who to show ads to based on where these users are located by either specifying the country and region or by adding geofences around specific addresses.
-* Content based: You can choose what websites to display your ads at based on the content of the website including the language it was written in, the categories that identify what it is about, specific domains and keywords present in the URL.
-* Device based: You can choose what devices to display your ads in based on the device characteristics such as its operating system, browser and device type among others.
+* Content based: You can choose what websites to display your ads at based on the content of the website including the language it was written in, the categories that identify what it is about, specific domains, and keywords present in the URL.
+* Device based: You can choose what devices to display your ads in based on the device characteristics such as its operating system, browser, and device type among others.
 * Inventory based: You can choose what inventory to purchase based on what ad exchange is providing the ad spaces, the position of the ad space on the website, or its past viewability.
 
 Please note that the more filters you apply, the more specific your audience will become. We recommend that you play with these settings until you find the right targeting options that work for your campaign. You can clone existing targets to make it easier to change some aspects and monitor their performances.
@@ -84,7 +98,7 @@ You can learn more about real-time events on the [Real Time Tab Documentation pa
 
 While real-time events are kept for 15 minutes, you can check the campaign metrics for any time interval. Metrics can take up to 5 minutes to display the most recent data.
 
-In the metrics tab you can explore several metrics, grouping values by specific fields, change visualization between charts and tables, change time range and download the data to analyze it in your own device.
+In the metrics tab you can explore several metrics, grouping values by specific fields, change visualization between charts and tables, change time range, and download the data to analyze it in your own device.
 
 Most relevant metrics
 

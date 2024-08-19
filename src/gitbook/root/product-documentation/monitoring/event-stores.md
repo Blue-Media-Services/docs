@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Event Stores
 
 In our Event Stores tab, you can create a store that acts as a database for storing events. You will be able to create a store where your event pipes will be sent. You can then download the events as a .JSON file and import that to your data management file to better organize it.
@@ -18,19 +32,19 @@ After configuring your event store, click on <img src="../../.gitbook/assets/ima
 
 ### Enabling your Event Store
 
-To enable an event store simply flip the toggle <img src="../../.gitbook/assets/image (33).png" alt="Toggle" data-size="line"> and your event store will be enabled.
+To enable an event store simply flip the toggle <img src="../../.gitbook/assets/image (33) (2).png" alt="Toggle" data-size="line"> and your event store will be enabled.
 
 <div align="center">
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt="" width="148"><figcaption><p>Event Store Enabled</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34) (2).png" alt="" width="148"><figcaption><p>Event Store Enabled</p></figcaption></figure>
 
 </div>
 
 ### Editing your Event Store
 
-To edit your event store, click on <img src="../../.gitbook/assets/image (35).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes and then click on <img src="../../.gitbook/assets/image (32) (2).png" alt="Save" data-size="line">.
+To edit your event store, click on <img src="../../.gitbook/assets/image (35) (2).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes and then click on <img src="../../.gitbook/assets/image (32) (2).png" alt="Save" data-size="line">.
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt="" width="360"><figcaption><p>Edit Event Store Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (2).png" alt="" width="360"><figcaption><p>Edit Event Store Screen</p></figcaption></figure>
 
 ### Bulk Actions
 
@@ -42,7 +56,7 @@ You will be capable of Archiving, Deleting, Enabling and Disabling events in bul
 
 ### Archiving and Unarchiving your Event Store
 
-To archive your event store, click on <img src="../../.gitbook/assets/image (37).png" alt="Archive" data-size="line"> and your event store will be sent to the archived list. In order to unarchive your event store, switch your view to archived events by flipping the toggle <img src="../../.gitbook/assets/image (38).png" alt="Archived Toggle" data-size="line">. You will then be presented with the list of archived events. Click on <img src="../../.gitbook/assets/image (39).png" alt="Unarchive" data-size="line"> to unarchive an event store.
+To archive your event store, click on <img src="../../.gitbook/assets/image (37) (2).png" alt="Archive" data-size="line"> and your event store will be sent to the archived list. In order to unarchive your event store, switch your view to archived events by flipping the toggle <img src="../../.gitbook/assets/image (38) (2).png" alt="Archived Toggle" data-size="line">. You will then be presented with the list of archived events. Click on <img src="../../.gitbook/assets/image (39).png" alt="Unarchive" data-size="line"> to unarchive an event store.
 
 ### Deleting your Event Store
 

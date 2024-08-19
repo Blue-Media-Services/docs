@@ -35,19 +35,19 @@ Go to our Monitoring tab and click on **Event Pipes**.
 
 <div align="center">
 
-<figure><img src="../.gitbook/assets/image (1) (6).png" alt=""><figcaption><p>Monitoring Tab</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (6) (1).png" alt=""><figcaption><p>Monitoring Tab</p></figcaption></figure>
 
 </div>
 
-There, we will be creating an event pipe by clicking on <img src="../.gitbook/assets/image (2) (5).png" alt="Create Event Pipe" data-size="line">, in this case, we will be creating an ADS - Delivered event, so select the Sample event Template, our ADS - Delivered template.
+There, we will be creating an event pipe by clicking on <img src="../.gitbook/assets/image (2) (5) (1).png" alt="Create Event Pipe" data-size="line">, in this case, we will be creating an ADS - Delivered event, so select the Sample event Template, our ADS - Delivered template.
 
-<figure><img src="../.gitbook/assets/image (3) (5).png" alt="" width="538"><figcaption><p>Event Pipe Screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (5) (1).png" alt="" width="538"><figcaption><p>Event Pipe Screen</p></figcaption></figure>
 
-Then click on <img src="../.gitbook/assets/image (5) (5).png" alt="Add Filter" data-size="line"> to add a filter to collect data from ad-delivered events, by searching events that contain ad-delivered on their Type field.
+Then click on <img src="../.gitbook/assets/image (5) (5) (1).png" alt="Add Filter" data-size="line"> to add a filter to collect data from ad-delivered events, by searching events that contain ad-delivered on their Type field.
 
-<figure><img src="../.gitbook/assets/image (6) (5).png" alt="" width="529"><figcaption><p>Event Pipe Filter</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (5) (1).png" alt="" width="529"><figcaption><p>Event Pipe Filter</p></figcaption></figure>
 
-Move to the Targets tab, there is where we configure our webhook link, click on <img src="../.gitbook/assets/image (8) (5).png" alt="Add Target" data-size="line"> and then select Call Webhook.
+Move to the Targets tab, there is where we configure our webhook link, click on <img src="../.gitbook/assets/image (8) (5) (1).png" alt="Add Target" data-size="line"> and then select Call Webhook.
 
 <figure><img src="../.gitbook/assets/image (9) (5).png" alt="" width="543"><figcaption><p>Create Target Screen</p></figcaption></figure>
 

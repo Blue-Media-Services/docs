@@ -21,7 +21,7 @@ You have complete control and visualization of the status of your Ad in each of 
 
 ## Managing Ads
 
-On the Ads page, click on the <img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="Create Ad" data-size="line"> button.
+On the Ads page, click on the <img src="../../../.gitbook/assets/image (203).png" alt="Create Ads" data-size="line"> button.
 
 <figure><img src="../../../.gitbook/assets/image (210).png" alt=""><figcaption><p>Ads List</p></figcaption></figure>
 
@@ -29,13 +29,15 @@ On the Ads page, click on the <img src="../../../.gitbook/assets/image (1) (1) (
 
 To create ads, click on <img src="../../../.gitbook/assets/image (203).png" alt="Create Ads" data-size="line"> either in the Ads area or in the Campaigns area to get started.
 
-<figure><img src="../../../.gitbook/assets/image (204).png" alt=""><figcaption><p>Select Assets</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Creating Ads</p></figcaption></figure>
 
 On the Select Assets Tab, you will need to fulfill a domain in which your creatives will be representing, you can choose between creating new creatives or using existing creatives.
 
+To configure your UTM Tags, check [here](../../ad-serving/creatives.md#edit-utms) for more information.
+
 ### Creating New Creatives
 
-When creating new creatives through our ads tab, you can click on <img src="../../../.gitbook/assets/image (193).png" alt="Add Images" data-size="line"> to upload images.  You can use existing images from your media library, upload new images directly from your computer or insert your Web Address (URL).
+When creating new creatives through our ads tab, you can click on <img src="../../../.gitbook/assets/image (193).png" alt="Add Images" data-size="line"> to upload images.  You can use existing images from your media library, upload new images directly from your computer, or insert your Web Address (URL).
 
 After selecting your images, you will be shown your uploaded images.
 
@@ -51,13 +53,13 @@ If you wish to create new Ads based on existing Creatives, select the Use Existi
 
 <figure><img src="../../../.gitbook/assets/image (175).png" alt="" width="540"><figcaption><p>Creatives List</p></figcaption></figure>
 
-* You also have the option to create a creative directly from this screen, by clicking on <img src="../../../.gitbook/assets/image (176).png" alt="Create Creative" data-size="line">.
-* Once you have chosen all necessary creatives, click on <img src="../../../.gitbook/assets/image (177).png" alt="Select" data-size="line"> and all selected creatives will be listed.
+* You also have the option to create a creative directly from this screen, by clicking on <img src="../../../.gitbook/assets/image (34).png" alt="Create Creative" data-size="line">.
+* Once you have chosen all necessary creatives, click on <img src="../../../.gitbook/assets/image (33).png" alt="Select" data-size="line"> and all selected creatives will be listed.
 * You can also Preview your ad by clicking on <img src="../../../.gitbook/assets/image (179).png" alt="" data-size="line">, and if necessary, you can remove any unwanted creatives for your ad by clicking on <img src="../../../.gitbook/assets/image (180).png" alt="Remove" data-size="line">.
 
 <figure><img src="../../../.gitbook/assets/image (178).png" alt=""><figcaption><p>Existing Creatives List</p></figcaption></figure>
 
-* After making all necessary changes, click on <img src="../../../.gitbook/assets/image (188).png" alt="Next" data-size="line"> to move to the next step.
+* After making all necessary changes, click on <img src="../../../.gitbook/assets/image (35).png" alt="Next" data-size="line"> to move to the next step.
 
 ### A/B Test
 
@@ -68,7 +70,7 @@ It is necessary to have more than one creatives selected in order to use the A/B
 <figure><img src="../../../.gitbook/assets/image (205).png" alt=""><figcaption><p>A/B Test</p></figcaption></figure>
 
 * You can select whether you will be using the A/B Test by clicking on the <img src="../../../.gitbook/assets/image (183).png" alt="" data-size="line"> corresponding to your decision, then if necessary, set a custom Suffix to better identify your A/B creatives.
-* After making all necessary changes, click on <img src="../../../.gitbook/assets/image (188).png" alt="Next" data-size="line"> to move to the next step.
+* After making all necessary changes, click on <img src="../../../.gitbook/assets/image (35).png" alt="Next" data-size="line"> to move to the next step.
 
 ### Naming and Tagging
 
@@ -83,7 +85,7 @@ You can check the current status of your settings by checking the Preview Editor
 
 <figure><img src="../../../.gitbook/assets/image (206).png" alt=""><figcaption><p>Naming and Tagging Strategy</p></figcaption></figure>
 
-After making all necessary changes, click on <img src="../../../.gitbook/assets/image (188).png" alt="Next" data-size="line"> to move to the next step.
+After making all necessary changes, click on <img src="../../../.gitbook/assets/image (35).png" alt="Next" data-size="line"> to move to the next step.
 
 ### Rules
 
@@ -104,7 +106,7 @@ _If no schedule is set, all of your ads will be displayed all day long every day
 
 <figure><img src="../../../.gitbook/assets/image (190).png" alt="" width="490"><figcaption><p>Preview Editor - Rules</p></figcaption></figure>
 
-* After making all necessary changes, click on <img src="../../../.gitbook/assets/image (188).png" alt="Next" data-size="line"> to move to the next step.
+* After making all necessary changes, click on <img src="../../../.gitbook/assets/image (35).png" alt="Next" data-size="line"> to move to the next step.
 
 ### Exchanges
 
