@@ -48,7 +48,7 @@ To design your creative, you have two options:
 
 ### Editing UTMs
 
-When inserting the link to the website designated for your creative, it is important to set your UTM tags. If you do not have your tags pre-created, you can use the <img src="../../.gitbook/assets/image (2).png" alt="Edit UTMs" data-size="line"> feature to make adjustments to your URL and check a preview in real time to validate your URL. This button can be found in the space named "Link to." After clicking the button, the UTM tag configuration screen will pop up.
+When inserting the link to the website designated for your creative, it is important to set your UTM tags. If you do not have your tags pre-created, you can use the <img src="../../.gitbook/assets/image (2) (5).png" alt="Edit UTMs" data-size="line"> feature to make adjustments to your URL and check a preview in real time to validate your URL. This button can be found in the space named "Link to." After clicking the button, the UTM tag configuration screen will pop up.
 
 <figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption><p>UTM Editor</p></figcaption></figure>
 

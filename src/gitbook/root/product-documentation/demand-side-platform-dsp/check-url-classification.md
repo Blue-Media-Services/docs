@@ -18,13 +18,13 @@ When configuring your domain targets, you may have uncertainties about the class
 
 To access our Check URL Classification tool, check the DSP menu.
 
-<figure><img src="../../.gitbook/assets/image (2) (5).png" alt=""><figcaption><p>Accessing Check URL Classification</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (5) (1).png" alt=""><figcaption><p>Accessing Check URL Classification</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (3) (5) (1).png" alt=""><figcaption><p>Check URL Classification</p></figcaption></figure>
 
 When you need to confirm a domain's classification, simply enter the URL in the provided field and click on <img src="../../.gitbook/assets/image (4) (5).png" alt="Check URL" data-size="line">.
 
-<figure><img src="../../.gitbook/assets/image (1) (6) (1).png" alt=""><figcaption><p>URL Classified</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (6) (1) (1).png" alt=""><figcaption><p>URL Classified</p></figcaption></figure>
 
 A list of classifications for the URL will be displayed. If you disagree with the given classification, you can click on <img src="../../.gitbook/assets/image (5) (5).png" alt="Suggest New Classification" data-size="line"> to have BMS's team review the URL for the correct classification if necessary.
 

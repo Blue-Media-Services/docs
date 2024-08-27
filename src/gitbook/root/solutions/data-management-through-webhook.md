@@ -35,11 +35,11 @@ Go to our Monitoring tab and click on **Event Pipes**.
 
 <div align="center">
 
-<figure><img src="../.gitbook/assets/image (1) (6) (1) (1).png" alt=""><figcaption><p>Monitoring Tab</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (6) (1) (1) (1).png" alt=""><figcaption><p>Monitoring Tab</p></figcaption></figure>
 
 </div>
 
-There, we will be creating an event pipe by clicking on <img src="../.gitbook/assets/image (2) (5) (1).png" alt="Create Event Pipe" data-size="line">, in this case, we will be creating an ADS - Delivered event, so select the Sample event Template, our ADS - Delivered template.
+There, we will be creating an event pipe by clicking on <img src="../.gitbook/assets/image (2) (5) (1) (1).png" alt="Create Event Pipe" data-size="line">, in this case, we will be creating an ADS - Delivered event, so select the Sample event Template, our ADS - Delivered template.
 
 <figure><img src="../.gitbook/assets/image (3) (5) (1) (1).png" alt="" width="538"><figcaption><p>Event Pipe Screen</p></figcaption></figure>
 
