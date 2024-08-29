@@ -66,8 +66,8 @@ You can delete a media by clicking on <img src="../../.gitbook/assets/image (12)
 
 <figure><img src="../../.gitbook/assets/image (13) (4).png" alt="" width="361"><figcaption><p>Media Deletion Screen</p></figcaption></figure>
 
-{% hint style="warning" %}
-_Attention! We advise users to archive media instead of deleting, this action cannot be undone and you will lose your file if you do not have a backup file._
+{% hint style="danger" %}
+_Attention! We advise users to archive media instead of deleting, this action cannot be undone and you will lose your file if you do not have a backup file, the previously collected metrics data will be deleted as well._
 {% endhint %}
 
 ### Bulk Actions

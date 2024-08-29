@@ -66,7 +66,7 @@ You can delete a creative group by clicking on <img src="../../.gitbook/assets/d
 <figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Delete confirmation screen showing that the creative group is being used.</p></figcaption></figure>
 
 {% hint style="danger" %}
-Attention! If you delete a creative group, all data related to that creative group will also be deleted, this action cannot be undone.
+Attention! If you delete a creative group, all data related to that creative group, including previously collected metrics, will also be deleted, this action cannot be undone.
 {% endhint %}
 
 ## Monitoring Creative Groups

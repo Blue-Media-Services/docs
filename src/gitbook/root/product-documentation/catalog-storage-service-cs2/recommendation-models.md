@@ -78,6 +78,10 @@ All source's details are editable, select the recommendation model containing th
 
 ### Deleting Recommendation Models and Sources
 
+{% hint style="danger" %}
+Attention! Be careful when deleting recommendation models, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted.
+{% endhint %}
+
 You can archive a recommendation model by clicking on <img src="../../.gitbook/assets/image (63).png" alt="" data-size="line"> at the same row as the recommendation model we need archived. It's also possible to delete a recommendation model, however, this will delete all the metrics related to it, this action cannot be undone, so be careful when performing it. Click on <img src="../../.gitbook/assets/image (128).png" alt="" data-size="original"> at the same row as the recommendation model to be deleted. Then confirm the action by clicking on <img src="../../.gitbook/assets/image (129).png" alt="" data-size="line">. This action cannot be undone.&#x20;
 
 It's possible to delete a source; however, this will also delete all the metrics related to this source, so be careful when performing this action. In the sources section of the configuration tab, click on <img src="../../.gitbook/assets/image (128).png" alt="" data-size="original"> at the same row as the source to be deleted. Then confirm the action by clicking on <img src="../../.gitbook/assets/image (129).png" alt="" data-size="line">. This action cannot be undone.

@@ -42,8 +42,8 @@ To delete a catalog, click on <img src="../../.gitbook/assets/image (25) (2) (1)
 
 After clicking on <img src="../../.gitbook/assets/image (27) (2) (1).png" alt="Delete" data-size="line">, your catalog will be **permanently** deleted.
 
-{% hint style="warning" %}
-_Attention! We always advise to deactivate the Catalog instead of deleting it completely. When deleting a Catalog, all data and metrics are lost as well._
+{% hint style="danger" %}
+_Attention! We advise you to deactivate the Catalog instead of completely deleting it. When deleting a Catalog, all data and metrics are lost as well._
 {% endhint %}
 
 ### Metrics

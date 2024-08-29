@@ -24,7 +24,7 @@ Once you have created your creatives and started a campaign, you will be able to
 
 ### **Deliveries**
 
-This metric represents the number of ads served from the Ad Server based on the end user's browser requesting the content. This means your ad will appear in the user's browser.
+This metric represents the number of ads served from the Ad Server based on the end user's browser requesting the content, meaning that your ad was delivered to the publisher.
 
 <figure><img src="../../.gitbook/assets/image (211).png" alt=""><figcaption><p>Deliveries Metic</p></figcaption></figure>
 
@@ -76,7 +76,7 @@ Number of clicks. If your campaign's strategy is based on clicks, pay attention 
 
 </div>
 
-_**Example:** In this graph, you can see that a peak of almost 10 clicks was reached on certain ads. You can review this chart to identify which ads are not receiving the expected clicks and analyze how they differ from the ads that were clicked on. A campaign based on Retargeting or Remarketing focuses on clicks to generate conversions. To achieve this, you need to create compelling creatives and may need to allocate a larger budget to ensure better positioning and target more specific audiences._
+_**Example:** In this graph, you can see that a peak of almost 10 clicks was reached on certain ads. You can review this chart to identify which ads are not receiving the expected clicks and analyze how they differ from the ads that were clicked on, you also have to consider the used targets to understand in what audience your ads are performing better. A campaign based on Retargeting or Remarketing focuses on clicks to generate conversions. To achieve this, you need to create compelling creatives and may need to allocate a larger budget to ensure better positioning and target more specific audiences._
 
 ### **Time to Display**
 

@@ -38,7 +38,7 @@ When the end user's browser makes the ad request, the creative group associated 
 
 ### Creative Builder
 
-To simplify the creation of standardized creatives you can use Blueprints and Builds.
+To simplify the creation of standardized creatives you can use Blueprints and Builds. These features can also be used to generate dynamic banners containing your products.
 
 #### Blueprints
 

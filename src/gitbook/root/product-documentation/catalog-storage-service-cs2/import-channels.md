@@ -93,4 +93,8 @@ We can edit our import channels by clicking on <img src="../../.gitbook/assets/i
 
 ### Deleting an Import Channel
 
+{% hint style="danger" %}
+Attention! Be careful when deleting import channels, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted.
+{% endhint %}
+
 We can delete unused import channels by clicking on <img src="../../.gitbook/assets/image (7) (6) (1).png" alt="" data-size="line"> at the same row that the import channel to be deleted is, however, this will also delete the metrics related to it, so proceed with caution, alternatively we can also archive these import channels by clicking on <img src="../../.gitbook/assets/image (6) (6) (1).png" alt="" data-size="line"> at the same row that the import channel to be archived, to view archived import channels, turn on the option 'Archived' above the import channels' list.

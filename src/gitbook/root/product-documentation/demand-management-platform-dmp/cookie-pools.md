@@ -39,6 +39,10 @@ It's possible to archive cookie pools for your better organization. Click on ![]
 
 ### Deleting a Cookie Pool
 
+{% hint style="danger" %}
+Attention! Be careful when deleting cookie pools, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted.
+{% endhint %}
+
 You can delete a cookie pool by clicking on the delete button <img src="../../.gitbook/assets/image (8) (1).png" alt="delete button" data-size="original">, a warning that this action cannot be undone will be displayed to you, to proceed with the process click on <img src="../../.gitbook/assets/image (9) (1).png" alt="delete button" data-size="line"> to confirm you are deleting it and it's done. Be aware that targets based on these cookie pools will stop working.
 
 ## Installing a Cookie Pool

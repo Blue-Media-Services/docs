@@ -41,7 +41,7 @@ If your ad has been recently created, it might have a <img src="../../.gitbook/a
 If an ad has been mistakenly added or is no longer useful for that campaign, you can delete it from your campaign by clicking on <img src="../../.gitbook/assets/image (47).png" alt="Delete Ad" data-size="line">, a confirming screen will be shown.&#x20;
 
 {% hint style="danger" %}
-_Attention! We always advise users to analyze if it is necessary to delete an Ad, this action cannot be undone._
+_Attention! We always advise users to analyze if it is necessary to delete an Ad, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted._
 {% endhint %}
 
 ### Bulk Actions

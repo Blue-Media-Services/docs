@@ -18,8 +18,6 @@ Creatives are the smallest building block of our Ad Server, representing what wi
 
 Display Creatives are essentially just blocks of HTML code. You can provide this code yourself or utilize our built-in editor to configure a simple creative that has a clickable image.
 
-All creatives need to be approved by BMS to ensure compliance with our policies.
-
 ## Managing Creatives
 
 <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption><p>Creative list</p></figcaption></figure>
@@ -136,7 +134,7 @@ You can delete a creative by clicking on <img src="../../.gitbook/assets/delete.
 <figure><img src="../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption><p>Delete confirmation screen showing that the creative is being used.</p></figcaption></figure>
 
 {% hint style="danger" %}
-Attention! If you delete a creative, all data related to that creative will also be deleted, this action cannot be undone.
+Attention! If you delete a creative, all data related to that creative, including previously collected metrics, will also be deleted, this action cannot be undone.
 {% endhint %}
 
 ## Monitoring Creatives

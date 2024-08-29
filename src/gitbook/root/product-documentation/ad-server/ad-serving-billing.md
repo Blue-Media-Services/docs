@@ -34,7 +34,7 @@ _**Example**:_ _In the picture, there were almost 63 thousand ad hours consumed,
 
 ### Ad Rendering
 
-The ad rendering subsection details the costs related to the ad rendering service. You will be charged per request when retrieving an ad container or ad content. Additionally, the charges for rendering an ad will be based on the number of ad content bytes transferred during the process.
+The ad rendering subsection details the costs associated with the ad rendering service. A rendering is counted each time an ad is displayed on a screen, whether it's shown to a user or previewed during the creation process. You will be charged per request when retrieving an ad container or ad content. Additionally, charges for rendering an ad will be based on the number of ad content bytes transferred during the process.
 
 <figure><img src="../../.gitbook/assets/rendering.jpg" alt=""><figcaption><p>Ad Rendering</p></figcaption></figure>
 
@@ -42,7 +42,7 @@ _**Example**: You will notice that in this picture there were nearly 103 thousan
 
 ### Ad Tracking
 
-This subsection outlines the costs associated with the ad tracking service. Each service in this section includes a free quota of 1,000 requests. You will only incur charges once this quota is exceeded. Fees are based on the number of requests processed during your ad campaign.
+This subsection outlines the costs associated with the ad tracking service. Each tracked action counts as a request, including those performed during the creation process. Every service in this section includes a free quota of 1,000 requests, and charges will only apply once this quota is exceeded. Fees are based on the total number of requests processed during your ad campaign.
 
 <figure><img src="../../.gitbook/assets/tracking.jpg" alt=""><figcaption><p>Ad Tracking</p></figcaption></figure>
 

@@ -143,10 +143,10 @@ It's possible to use an existing blueprint as well. You can duplicate a blueprin
 
 ### Deleting Blueprints
 
-You can delete or archive blueprints according to your needs. To archive blueprints, click on ![](<../../../.gitbook/assets/image (12) (7).png>) at the same row as the blueprint you want to archived. To view your archived blueprints, turn on the ![](<../../../.gitbook/assets/image (10) (7).png>) archived option above the list of blueprints.
+You can delete or archive blueprints according to your needs. To archive blueprints, click on ![](<../../../.gitbook/assets/image (12) (7).png>) at the same row as the blueprint you want to archive. To view your archived blueprints, turn on the ![](<../../../.gitbook/assets/image (10) (7).png>) archived option above the list of blueprints.
 
 {% hint style="danger" %}
-Be careful when deleting blueprints, this action cannot be undone, and builds relying on the deleted blueprint will stop working.
+Be careful when deleting blueprints, this action cannot be undone, and builds relying on the deleted blueprint will stop working, all the related data, including previously collected metrics, will also be deleted.
 {% endhint %}
 
 To delete blueprints click on ![](<../../../.gitbook/assets/image (14) (7).png>) at the same row as the blueprint you need to delete, then confirm the action by clicking on <img src="../../../.gitbook/assets/image (15) (7).png" alt="" data-size="line">.

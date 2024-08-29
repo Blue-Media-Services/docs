@@ -27,6 +27,10 @@ It's possible to archive trackers for your better organization. Click on ![](<..
 
 ### Deleting a Tracker
 
+{% hint style="danger" %}
+Attention! Be careful when deleting trackers, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted.
+{% endhint %}
+
 We can also delete our trackers by clicking on the delete button ![](<../../.gitbook/assets/image (98).png>) in the same row as the tracker you want to delete, then confirming it by clicking on <img src="../../.gitbook/assets/image (99).png" alt="" data-size="line">. This action cannot be undone, so please be careful. Additionally, keep in mind that recommendation models based on the deleted tracker might stop working.
 
 ## Managing Events and Actions
