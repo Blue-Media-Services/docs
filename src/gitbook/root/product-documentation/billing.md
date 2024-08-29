@@ -26,9 +26,9 @@ To access your bills, click on the dropdown menu on your account, and then click
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Accessing Billing</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (7) (9).png" alt=""><figcaption><p>Bills</p></figcaption></figure>
-
 Once you access the bills page, you will be presented with the bills for the current month.
+
+<figure><img src="../.gitbook/assets/image (343).png" alt=""><figcaption><p>Bills</p></figcaption></figure>
 
 BMS has several units to accurately count each service. Each unit works differently to present the correct usage count. Below you can find a table with detailed information on how each unit functions.&#x20;
 
@@ -46,13 +46,6 @@ BMS has several units to accurately count each service. Each unit works differen
 * Period - The period in which the current bills are being selected
 * Last Update - Shows when the charges per service were last updated.
 * Status - The current status of your selected bill. Once the bill for the selected month is closed, it will be presented with the current status.
-
-## Estimated Total
-
-* Total before taxes and discounts - Total cost before including taxes and discounts for the services.
-* Discounts - If BMS provides any discount, it will be shown.
-* Tax - Should any tax be included in your payment.
-* Grand Total - If any discount or tax is included, the grand total will present the sum of all values.
 
 ## Charges per Service
 
