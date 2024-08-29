@@ -74,3 +74,4 @@ Coming up next, there are products that include the metrics service. To learn mo
 * [DMP Metrics](demand-management-platform-dmp/dmp-metrics/)
 * [CS2 Metrics](catalog-storage-service-cs2/cs2-metrics/)
 * [Monitoring Metrics](monitoring/monitoring-metrics/)
+* [Page Load Metrics](ad-server/page-load-tracking-tag/page-load-metrics.md)

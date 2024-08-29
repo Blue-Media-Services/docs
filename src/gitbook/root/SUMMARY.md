@@ -27,6 +27,8 @@
     * [Blueprints](product-documentation/ad-serving/creative-builder/blueprints.md)
     * [Builds](product-documentation/ad-server/creative-builder/builds.md)
   * [Ad Serving Billing](product-documentation/ad-server/ad-serving-billing.md)
+  * [Page Load Tracking Tag](product-documentation/ad-server/page-load-tracking-tag/README.md)
+    * [Page Load Metrics](product-documentation/ad-server/page-load-tracking-tag/page-load-metrics.md)
 * [Demand Side Platform (DSP)](product-documentation/demand-side-platform-dsp/README.md)
   * [Managing Campaigns](product-documentation/demand-side-platform-dsp/campaigns.md)
   * [Managing Budgets](product-documentation/demand-side-platform-dsp/budgets.md)

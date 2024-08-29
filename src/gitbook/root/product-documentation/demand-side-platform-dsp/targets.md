@@ -103,7 +103,7 @@ If a target is no longer useful for your campaign, you can click on <img src="..
 <figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption><p>Target Deletion</p></figcaption></figure>
 
 {% hint style="danger" %}
-_Attention! We always advise disabling the target beforehand and analyze if it is necessary to delete or simply modify it since the action cannot be undone._
+_Attention! We always advise disabling the target beforehand and analyzing if it is necessary to delete or simply modify it since the action cannot be undone._
 {% endhint %}
 
 ### Bulk Actions
