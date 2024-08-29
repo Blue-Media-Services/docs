@@ -14,9 +14,7 @@ layout:
 
 # Creating a Branding Campaign
 
-Branding campaigns aim to increase the awareness of a given brand and bring the user back to your website. All campaigns have 3 main components: a Target (what is the subset of the population that should see your campaign), a Budget (how much do you want to spend daily on the campaign) and a list of Ads (what the users should see).
-
-To create a branding campaign you must already have your ads set up in our Ad Server. [Check how to do that here.](../product-documentation/ad-server/ads/) With the ads ready, here is an overview:
+Branding campaigns aim to increase the awareness of a given brand and bring the user to your website. All campaigns have this main components: a Target (what is the subset of the population that should see your campaign), a Budget (how much do you want to spend daily on the campaign) and a list of Ads (what the users should see). Follow the steps below to create your branding campaign.
 
 1. [Create a new campaign](branding.md#creating-a-new-campaign)
 2. [Define a daily budget](branding.md#defining-a-budget)
@@ -31,8 +29,8 @@ To create a branding campaign you must already have your ads set up in our Ad Se
 In our Home Page, click on <img src="../.gitbook/assets/image (2) (2).png" alt="Campaigns" data-size="line"> and then <img src="../.gitbook/assets/image (255).png" alt="" data-size="line">, fill in the details paying attention to:
 
 * The domain you choose must be the same domain selected when the ads were created.
-* The bid price you choose directly influences the quality of the inventory you will get access to. The more mainstream a website is, the more expensive it becomes. We recommend opting for a variable bid price so that you can get impressions in a wide variety of websites paying the market rate for each. The $0.50 to $1.50 is a good starting point.
-* You can schedule your campaign to begin or finish at specific dates, but if you choose to have it starting in the future, you won't see any metrics or real-time data right away. We recommend setting up and testing the campaign first, then scheduling it for a future time.
+* The bid price you choose directly influences the quality of the inventory you will get access to. The more mainstream a website is, the more expensive it becomes. We recommend opting for a variable bid price so that you can get impressions in a wide variety of websites paying the market rate for each, and optimizing your daily budget. The $0.50 to $1.50 is a good starting point.
+* You can schedule your campaign to begin or finish at specific dates, but if you choose to have it starting in the future, you won't see any metrics or real-time data right away. We recommend setting up and testing the campaign first, then scheduling it for a future time. It's also possible to run a campaign without a finishing date.
 * You can leave the other fields with their default values. More details on how to optimize and further configure the campaign can be [found here](../product-documentation/demand-side-platform-dsp/).
 
 After saving the campaign, select it on the list to continue its configuration.
@@ -41,7 +39,7 @@ After saving the campaign, select it on the list to continue its configuration.
 
 For your campaign to run, we need to know how much you are willing to spend daily. The system will spread your impressions throughout the entire day. In the Configuration > Budget panel, simply type the amount and save it.
 
-New accounts are limited to spending $30 per day per campaign. If you need more than this later, you can submit a Quota Increase Request and after review your limit will be increased.
+New accounts are limited to spending $30 per day per campaign. If you need more than this later, you can submit a Quota Increase Request and after review your limit will be increased. You can learn more about how service quotas work in the [Accounts ](../product-documentation/accounts/#service-quotas)article.
 
 ### Configuring one or more targets
 
@@ -65,6 +63,8 @@ You will be presented with a list of all ads that match the campaign's domain. Y
 Check all the ads you want to select then click on <img src="../.gitbook/assets/image (13) (2).png" alt="" data-size="line"> to confirm.
 
 You can remove or select more ads at any time.
+
+It is also possible to create your ads on this page, after clicking on ![](<../.gitbook/assets/image (341).png>) at the ads panel, click on <img src="../.gitbook/assets/image (342).png" alt="" data-size="line"> to create a new ad, ads created through this process will automatically use the same domain as the campaign. If you have any doubts when configuring your ads, check our [Ads ](../product-documentation/ad-server/ads/)article, it contains more detailed information on how to create ads.
 
 **Note**: If your ad has been recently created, it might have a <img src="../.gitbook/assets/image (16) (2).png" alt="Issue Sign" data-size="line"> sign, it can be related to not having a rule configured or pending approvals on Ad Exchanges. You can check what is the issue by hovering the cursor over the warning sign.
 
@@ -93,6 +93,8 @@ When your campaign is active, you can go to the **Real Time** panel and check yo
 You can click on the <img src="../.gitbook/assets/image (14) (2).png" alt="Preview" data-size="line"> button to get more details about each event.
 
 You can learn more about real-time events on the [Real Time Tab Documentation page](../product-documentation/demand-side-platform-dsp/real-time-tab.md).
+
+The data present on the real-time tab is not stored on the metrics tab, to access this data after the 15 minutes in which the data is kept there, you will need to use our monitoring services, such as event pipes and event stores. You can learn more about these services in the [Monitoring ](../product-documentation/monitoring/)article.
 
 ### Check metrics
 

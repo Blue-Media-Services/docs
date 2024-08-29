@@ -39,7 +39,7 @@ The cookie pool feature collects additional data on audience segmentation and im
 
 ## Catalog Storage Service (CS2)
 
-If you want to promote products from your website in your ad banners, use the catalog. If this is not your goal, you can skip this step and proceed with setting up your  [trackers](retargeting.md#trackers).
+If you want to promote products from your website in your ad banners, use the catalog. If this is not your goal, you can skip this step and proceed with setting up your [trackers](retargeting.md#trackers).
 
 Once you have created a set of cookies, it's time to create your product catalog. This will allow you to use recommendation models that increase ad conversions by presenting your products in dynamic banners.
 
@@ -49,6 +49,13 @@ Once you have created a set of cookies, it's time to create your product catalog
 2. Click on <img src="../.gitbook/assets/image (38) (1) (1).png" alt="Create Catalog Button" data-size="line"> to create a new catalog.
 3. Set a Name and Tags for it.
 4. Click on <img src="../.gitbook/assets/image (34) (1) (1).png" alt="Save Button" data-size="line"> to save your changes.
+5. Follow the instructions on the install instructions tab to install the catalog pixel into your website:
+   * On the install instructions tab, you will have access to image tags, which are necessary to track interactions on your website with the products in your catalog, each tag tracks different actions on your website.
+   * It's also necessary to replace the indicated placeholder with your offer ID, the same ID you use for importing it so metrics can be synced.
+
+{% hint style="danger" %}
+Attention! You must install them very carefully on the correct pages to ensure they only render 1 time per event, since to the platform every render is counted as 1 event.&#x20;
+{% endhint %}
 
 ### Creating an Import Channel
 
@@ -121,7 +128,8 @@ After creating your trackers, events, and actions, you must install them on your
   2. Click on the 'Install Instructions' tab, and choose the event you want to track.
   3. Select the Script option.
   4. If you have configured custom data fields, please use the indicated placeholders to inform the values.\
-     Here's an example of how the indicated placeholder for your custom data fields might look to you: <img src="../.gitbook/assets/image (48) (1) (1).png" alt=" Custom data field example" data-size="original">.
+     Here's an example of how the indicated placeholder for your custom data fields might look to you: <img src="../.gitbook/assets/image (48) (1) (1).png" alt=" Custom data field example" data-size="original">.\
+     _**Example**: You need to track what product color your users are mostly intrested, you will be able to use this field to colect data about the product color._
   5. Click on <img src="../.gitbook/assets/image (49) (1).png" alt="copy button" data-size="line"> to copy the script.
   6. Add this script to your website's code, on the page where the event will be tracked.
   7. You can also use a tag manager, like Google Tag Manager, to add this script to your website.
@@ -326,7 +334,7 @@ In this article, we're approaching the creation of retargeting campaigns, to see
 
 ### Target
 
-After creating your campaign, you'll need to set a target for it, we have some options to help you build your ideal target, including geographic location, language, domains' categories, domains, keywords, cookie pools, and Ad Exchanges. Our targets work on an 'AND' system, which means that every target added to a campaign will work with the others to bring you a more specific and qualified audience.
+After creating your campaign, you'll need to set a target for it, for retargeting campaigns, you must use cookie pools as one of the target options since the objective is to re-engage users that interacted with your website and the cookie pool is the feature that collects this data, you have some other options to help you build your ideal target, including geographic location, language, domains' categories, domains, keywords, and Ad Exchanges. Our targets work on an 'AND' system, which means that every target added to a campaign will work with the others to bring you a more specific and qualified audience.
 
 #### Creating a Target
 
