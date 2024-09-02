@@ -22,7 +22,7 @@ The page load metrics contain data about how your ads are performing when clicke
 
 ### Page Loads
 
-This metric displays the number of page loads you had in the defined time frame.
+This metric displays the number of page loads you had in the defined time frame. The number of clicks and page loads may differ because clicks pass through an anti-fraud filter. A click might be flagged as suspicious and not counted, however, if the page loads up to 15 minutes after the ad delivery, the page load will be counted.
 
 <figure><img src="../../../.gitbook/assets/image (348).png" alt=""><figcaption><p>Page Loads</p></figcaption></figure>
 

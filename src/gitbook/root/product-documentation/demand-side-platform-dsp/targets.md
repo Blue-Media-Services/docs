@@ -48,6 +48,8 @@ You can choose who to show ads to based on where these users are located by eith
 
 AI can assist in setting targets aligned with your objectives. By analyzing target values, you gain insights for campaign adjustments. For instance, AI utilizes data from our [Monitoring ](../monitoring/)product based on your campaign results and objectives. The AI will present potential changes for your campaign. For example, when using an [Event Pipe](../monitoring/event-pipes.md) for ADS - Clicked, you can obtain data related to which domains are being clicked on more often. Additionally, you might gain further insights from this information.
 
+You can use any AI you desire to analyze your data and help you define your target.
+
 ### Creating a Target
 
 In the selected Campaign page, Press <img src="../../.gitbook/assets/image (3) (3).png" alt="Create Target" data-size="line">to start creating your target.
@@ -82,7 +84,7 @@ _**Example**: In the picture above, you will notice that for each language, the 
 
 Once you select multiple options within a filter, the number of impressions will be summed. After closing the editing group, the total sum will be displayed.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Estimated Impressions - Total Sum</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Estimated Impressions - Total Sum</p></figcaption></figure>
 
 _**Example**: In the picture above, you will notice that English and Portuguese were selected as languages for this target, and their number of estimated impressions was summed when the group was closed, resulting in a total estimate of 8.2M impressions for both languages combined._
 
