@@ -6,7 +6,7 @@ In the Catalogs tab, you will be able to create a catalog, and then install a pi
 * Product Added to Cart
 * Product Ordered
 
-By adding those events to your page, we will be able to collect all the data needed to start creating metrics and then use our R**ecommendation Models** to improve your ads.
+By adding those events to your page, we will be able to collect all the data needed to start creating metrics and then use our **Recommendation Models** to improve your ads.
 
 ### Creating a Catalog
 
