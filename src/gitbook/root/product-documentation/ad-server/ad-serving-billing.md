@@ -24,7 +24,7 @@ At BMS, it prioritizes transparency by displaying every detail of your bill. Vis
 
 Below is an explanation of each of these sections with their respective details.
 
-### Ad Management
+### Ad Management <a href="#admanagement" id="admanagement"></a>
 
 The ad management subsection details the costs associated with the ad management process. Storing ads incurs a fee based on the duration of storage and the number of ads stored. Additionally, there is a complimentary quota of 1,000 requests for each of the following services: ad creation, ad requests, ad patching, and ad listing. Charges apply once this free quota is exceeded. Deleting actions are not charged.
 
@@ -32,7 +32,7 @@ The ad management subsection details the costs associated with the ad management
 
 _**Example**:_ _In the picture, there were almost 63 thousand ad hours consumed, which is equivalent to keeping nearly 88 ads active for a month (720 hours). This results in a bill of $8.80. Additionally, there were nearly 73 thousand ad requests; the first thousand were free, and after that, the ad requests were billed at $0.01 per thousand, resulting in a $0.73 bill. Therefore, the total Ad Management bill ($8.80 + $0.73) was $9.52._
 
-### Ad Rendering
+### Ad Rendering <a href="#adrendering" id="adrendering"></a>
 
 The ad rendering subsection details the costs associated with the ad rendering service. A rendering is counted each time an ad is displayed on a screen, whether it's shown to a user or previewed during the creation process. You will be charged per request when retrieving an ad container or ad content. Additionally, charges for rendering an ad will be based on the number of ad content bytes transferred during the process.
 
@@ -40,7 +40,7 @@ The ad rendering subsection details the costs associated with the ad rendering s
 
 _**Example**: You will notice that in this picture there were nearly 103 thousand ad content requests. The charge was $0.10 per 1,000 ad content requests, resulting in a $10.27 bill. It is also possible to notice that 0.57 GB of ad content data was transferred. The charge was $1.00 per GB transferred, costing $0.57 for the ad content data transferred. Since the ad container only has 56 requests and is charged $0.01 per 1,000 requests, it did not contribute to the final result, meaning the total Ad Rendering bill ($10.27 + $0.57) was $10.84._
 
-### Ad Tracking
+### Ad Tracking <a href="#adtracking" id="adtracking"></a>
 
 This subsection outlines the costs associated with the ad tracking service. Each tracked action counts as a request, including those performed during the creation process. Every service in this section includes a free quota of 1,000 requests, and charges will only apply once this quota is exceeded. Fees are based on the total number of requests processed during your ad campaign.
 
