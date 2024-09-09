@@ -72,11 +72,11 @@ You can add as many targets as needed to your campaign, and you can freely turn 
 
 ### Estimated Impressions
 
-{% hint style="info" %}
-This feature only works with inclusions and is not yet available for Geofences, URL Keywords, and Categories.
-{% endhint %}
-
 When creating a target, you will notice that for most of the available target options, there is an estimate of how many impressions can be achieved daily. This estimate represents the median of the daily impressions over the last 7 days.
+
+{% hint style="info" %}
+This feature only works with inclusions and is not yet available for URL Keywords.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-08-21 075508.png" alt=""><figcaption><p>Estimated Impressions</p></figcaption></figure>
 
@@ -84,13 +84,13 @@ _**Example**: In the picture above, you will notice that for each language, the 
 
 Once you select multiple options within a filter, the number of impressions will be summed. After closing the editing group, the total sum will be displayed.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Estimated Impressions - Total Sum</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (350).png" alt=""><figcaption><p>Estimated Impressions - Total Sum</p></figcaption></figure>
 
-_**Example**: In the picture above, you will notice that English and Portuguese were selected as languages for this target, and their number of estimated impressions was summed when the group was closed, resulting in a total estimate of 8.2M impressions for both languages combined._
+_**Example**: In the picture above, you will notice that English and Portuguese were selected as languages for this target, and their estimated impressions were summed when the group was closed, resulting in a total estimate of 101.5M impressions for both languages combined. Categories and Domains have also been selected. In Categories, you will see that multiple categories were selected, resulting in 165.9M impressions when combined. For Domains, each domain you include adds to the total impressions. In this case, only two domains were selected, resulting in an average of 9.2M impressions._
 
 ### Enabling and Disabling a Target
 
-To start a campaign and use your configured target, ensure the targets are enabled. If you need to modify or simply stop using a specific target. You can disable it and the campaign will stop using that target immediately.
+To start a campaign and use your configured target, ensure the targets are enabled if you need to modify or simply stop using a specific target. You can disable it and the campaign will stop using that target immediately.
 
 <figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption><p>Target Toggles</p></figcaption></figure>
 
