@@ -74,7 +74,11 @@ You can edit a recommendation model's name and tags, however, the catalog cannot
 
 #### Sources
 
-All source's details are editable, select the recommendation model containing the source to be edited. Then, in the configuration tab, on the sources section, click on <img src="../../.gitbook/assets/image (116).png" alt="" data-size="line"> at the same as the source to be edited, make your changes, then click on <img src="../../.gitbook/assets/image (54).png" alt="" data-size="line"> to save them. You can also duplicate a source by clicking on <img src="../../.gitbook/assets/image (117).png" alt="" data-size="line">. This is useful if you need another source with only a few changes compared to an existing one while keeping the existing one.&#x20;
+All source details are editable, select the recommendation model containing the source to be edited. Then, in the configuration tab, on the sources section, click on <img src="../../.gitbook/assets/image (116).png" alt="" data-size="line"> at the same as the source to be edited, make your changes, then click on <img src="../../.gitbook/assets/image (54).png" alt="" data-size="line"> to save them. You can also duplicate a source by clicking on <img src="../../.gitbook/assets/image (117).png" alt="" data-size="line">. This is useful if you need another source with only a few changes compared to an existing one while keeping the existing one.&#x20;
+
+### How do Sources Work?
+
+Sources are how you collect data to power your Recommendation Model. The Recommendation Model needs this data to organize products as intended. You must choose between a DMP Tracker or a CS2 Product Ranking; both methods work well, but each requires additional steps for proper configuration. Once you have configured your source correctly, your Recommendation Model will start collecting data and actively updating itself, providing your ad with the most current information.
 
 ### Deleting Recommendation Models and Sources
 
@@ -84,7 +88,7 @@ Attention! Be careful when deleting recommendation models, this action cannot be
 
 You can archive a recommendation model by clicking on <img src="../../.gitbook/assets/image (63).png" alt="" data-size="line"> at the same row as the recommendation model we need archived. It's also possible to delete a recommendation model, however, this will delete all the metrics related to it, this action cannot be undone, so be careful when performing it. Click on <img src="../../.gitbook/assets/image (128).png" alt="" data-size="original"> at the same row as the recommendation model to be deleted. Then confirm the action by clicking on <img src="../../.gitbook/assets/image (129).png" alt="" data-size="line">. This action cannot be undone.&#x20;
 
-It's possible to delete a source; however, this will also delete all the metrics related to this source, so be careful when performing this action. In the sources section of the configuration tab, click on <img src="../../.gitbook/assets/image (128).png" alt="" data-size="original"> at the same row as the source to be deleted. Then confirm the action by clicking on <img src="../../.gitbook/assets/image (129).png" alt="" data-size="line">. This action cannot be undone.
+It's possible to delete a source. However, this will also delete all the metrics related to this source, so be careful when performing this action. In the sources section of the configuration tab, click on <img src="../../.gitbook/assets/image (128).png" alt="" data-size="original"> at the same row as the source to be deleted. Then confirm the action by clicking on <img src="../../.gitbook/assets/image (129).png" alt="" data-size="line">. This action cannot be undone.
 
 
 
