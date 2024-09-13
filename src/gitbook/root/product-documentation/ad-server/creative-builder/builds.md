@@ -47,3 +47,12 @@ You can delete builds as well, this can be done by clicking on ![](<../../../.gi
 Attention: Be careful when deleting builds, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted.
 {% endhint %}
 
+## Builds Metrics
+
+{% hint style="info" %}
+You can learn more about how metrics are handled by visiting the [Metrics page](../../metrics.md).&#x20;
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/Captura de tela 2024-09-13 103846.png" alt=""><figcaption><p>Builds Metrics</p></figcaption></figure>
+
+The metrics displayed on the Metrics tab of the Builds page are the same as those on the Creatives page. To understand how they work and what each one means, please check our [Creatives Metrics](../creatives-metrics.md) article.
