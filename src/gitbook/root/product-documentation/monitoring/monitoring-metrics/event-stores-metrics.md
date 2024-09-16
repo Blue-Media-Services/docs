@@ -51,7 +51,7 @@ _**Example:** Each event stream is uploaded to your selected event store after a
 
 This metric presents the total upload count, related to each event stream's data collected and presented for download, once they expire or get deleted, the count will decrease.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Stream Upload Count Metric</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Stream Upload Count Metric</p></figcaption></figure>
 
 _**Example:** On this graph, it is possible to see that on some dates the count reached nearly zero due to having no active event pipes or because of a cleanup. It is important to check your upload count since it might impact how you are organizing your event streams. Having too many event streams to organize can be confusing, so a cleanup or optimization should be done from time to time._
 

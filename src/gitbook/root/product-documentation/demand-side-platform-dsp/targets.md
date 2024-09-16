@@ -41,16 +41,25 @@ You can choose who to show ads to based on where these users are located by eith
 * **Inventory**
   * Exchange - By selecting specific ad exchanges, your ads will be displayed through those platforms.
   * Position - Select specific inventory positions to strategically place your ads for optimal visibility and engagement.
-  * \*Viewability - Adjust the slider to set the minimum viewability threshold for ad slots. Your ads will only be matched with inventory positions where the viewability percentage is higher than the selected threshold. This allows for precise control over ad placement, ensuring your ads are only displayed in slots with a visibility level that meets or exceeds your criteria for optimal engagement and impact. \
-    \*This target option is in beta and currently is only supported by Google Authorized Buyers.
+  * Viewability - This target option is in beta and currently is only supported by Google Authorized Buyers. Adjust the slider to set the minimum viewability threshold for ad slots. Your ads will only be matched with inventory positions where the viewability percentage is higher than the selected threshold. This allows for precise control over ad placement, ensuring your ads are only displayed in slots with a visibility level that meets or exceeds your criteria for optimal engagement and impact.&#x20;
 
 ### Using AI to define Targets
 
-AI can assist in setting targets aligned with your objectives. By analyzing target values, you gain insights for campaign adjustments. For instance, AI utilizes data from our [Monitoring ](../monitoring/)product based on your campaign results and objectives. The AI will present potential changes for your campaign. For example, when using an [Event Pipe](../monitoring/event-pipes.md) for ADS - Clicked, you can obtain data related to which domains are being clicked on more often. Additionally, you might gain further insights from this information.
+Currently, our platform does not have native AI capabilities. However, feel free to use any AI tool to analyze your data and define your target. Here are a few examples of prompts you can use with your selected AI:
 
-You can use any AI you desire to analyze your data and help you define your target.
+_**Prompt Example 1**: "Based on the provided data, which domains should I focus my campaigns on if my objective is to increase the click-through rate?"_
+
+_**Prompt Example 2**: "Based on the provided data, in which locations will my campaigns be more effective?"_
+
+_**Prompt Example 3**: "Which domains, based on the provided data, should I blacklist to increase my campaigns' click-through rate"_
+
+AI can assist in setting targets aligned with your objectives. By analyzing target values, you gain insights for campaign adjustments. For instance, AI can utilize data from our [Monitoring ](../monitoring/)product based on your campaign results and objectives, presenting potential changes for your optimization. For example, when using an [Event Pipe](../monitoring/event-pipes.md) for ADS - Clicked, you can obtain data about which domains are receiving more clicks, allowing you to gain further insights from this information.
 
 ### Creating a Target
+
+{% hint style="info" %}
+**Before you start**! It's possible to select as many filters as you wish on a single target, however, keep in mind that the difficulty of matching with a publisher will increase as you add more filters, you can also set more than one target with different filters and run your campaign for each one separately.
+{% endhint %}
 
 In the selected Campaign page, Press <img src="../../.gitbook/assets/image (3) (3).png" alt="Create Target" data-size="line">to start creating your target.
 
