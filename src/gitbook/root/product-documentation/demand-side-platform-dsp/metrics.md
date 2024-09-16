@@ -18,15 +18,21 @@ layout:
 You can learn more about how metrics are handled by visiting the [Metrics page](../metrics.md).&#x20;
 {% endhint %}
 
+## Overview Metrics
+
 You can have a more precise view of your campaign by checking the <img src="../../.gitbook/assets/image (32) (1).png" alt="Overview" data-size="line"> tab. Here you will be presented with the most valuable metrics of a campaign, which can be divided by **Targets**, **Ads**, **Creative Groups**, and **Creatives**.
 
 <figure><img src="../../.gitbook/assets/image (34) (1).png" alt=""><figcaption><p>Campaign Overview</p></figcaption></figure>
+
+To better understand the metrics displayed on the overview page, visit our [Campaign Metrics](metrics.md#campaign-metrics) and [Ads Metrics](../ad-server/ads/ads-metrics.md) articles.
 
 It is possible to select a campaign and then choose a specific date to view the overview for that period.
 
 After selecting a campaign and a period, you will be presented with an overview of that campaign, including all targets, ads, creative groups, and creatives that are impacting the campaign, and how they are performing.
 
 <figure><img src="../../.gitbook/assets/image (229).png" alt=""><figcaption><p>Overview Display</p></figcaption></figure>
+
+## Campaign Metrics
 
 Alternatively, in the Campaigns section, a metrics tab is available containing the same data, but following our metrics standard. When not selecting any of your campaigns, this tab will show you an account-wide of all your campaigns. Selecting more than one campaign will show a comparison between the selected campaigns, and selecting only one campaign will enable the group by feature with four options:
 
@@ -37,7 +43,7 @@ Alternatively, in the Campaigns section, a metrics tab is available containing t
 
 <figure><img src="../../.gitbook/assets/image (230).png" alt=""><figcaption><p>Campaign Metrics Tab - Grouped by Campaing</p></figcaption></figure>
 
-The ads metrics are also available on this page, they are: budget spent, bids, bid win, impressions, CPM, deliveries, delivery (%), displays, display (%), views, viewability, clicks, CTR, CPC, time to display, time to view, time to click, bid price effective, impressions price, budget spent on impressions and budget spent on deliveries. You can learn more about these metrics on the [Ads Metrics](../ad-server/ads/ads-metrics.md) page. This article is dedicated to discussing the exclusive campaign metrics:
+The ads metrics are also available on this page, they are: budget spent, bids, bid win, impressions, CPM, deliveries, delivery (%), displays, display (%), views, viewability, clicks, CTR, CPC, time to display, time to view, time to click, bid price effective, impressions price, budget spent on impressions and budget spent on deliveries. You can learn about these metrics on the [Ads Metrics](../ad-server/ads/ads-metrics.md) page. This article is dedicated to discussing the exclusive campaign metrics:
 
 ### Campaign Active
 

@@ -19,13 +19,13 @@ In the Ads area, you will create the Ads for your campaign, adding the group of 
 
 You have complete control and visualization of the status of your Ad in each of the Ad Exchanges and you can also create rules for promoting these Ads.
 
-## Managing Ads
+## Managing Ads <a href="#managingads" id="managingads"></a>
 
 On the Ads page, click on the <img src="../../../.gitbook/assets/image (203).png" alt="Create Ads" data-size="line"> button.
 
 <figure><img src="../../../.gitbook/assets/image (210).png" alt=""><figcaption><p>Ads List</p></figcaption></figure>
 
-## Creating Ads
+## Creating Ads <a href="#creatingads" id="creatingads"></a>
 
 To create ads, click on <img src="../../../.gitbook/assets/image (203).png" alt="Create Ads" data-size="line"> either in the Ads area or in the Campaigns area to get started.
 
@@ -176,7 +176,7 @@ If you did not check the Send for Review on your Ad creation, you will be able t
 
 Should your ad review fail for any reason, you can check more details [here](ad-exchange-review.md) on how to correctly identify the error and how to fix it.
 
-## Checking the status of an Ad
+## Checking the status of an Ad <a href="#checking-the-status-of-anad" id="checking-the-status-of-anad"></a>
 
 On the Ad list, you can check at a glance if there are any issues with your configuration. You can move the mouse over the warning sign to see a description of the issue.
 
