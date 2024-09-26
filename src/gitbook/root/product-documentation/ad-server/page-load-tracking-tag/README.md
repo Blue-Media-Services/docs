@@ -16,6 +16,10 @@ layout:
 
 The Page Load Tracking Tag enables you to measure the effectiveness of your ads by tracking whether users who click on them land on your website. This feature provides insights into how well your ad clicks translate into genuine website visits. It helps you understand and optimize user engagement with your ads.
 
+To access our Page Load Tracking Tag feature, check the Ad Server's tools menu.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Accessing Page Load Tracking Tag</p></figcaption></figure>
+
 <figure><img src="../../../.gitbook/assets/image (344).png" alt=""><figcaption><p>Page Load Tracking Tag</p></figcaption></figure>
 
 Once you add this tag to your website, it begins tracking the entire journey from when a user clicks on your ad to when your webpage fully loads. It records the time taken for this process and gathers crucial metrics, such as the total number of page loads, the conversion rate of clicks to page loads, the average cost per page load, and the average time from click to page load.

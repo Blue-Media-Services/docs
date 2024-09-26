@@ -30,7 +30,7 @@ This option displays your metrics on cards containing graphics. It's possible to
 
 Some metrics such as Bid Price Effective will also have the statistic option on their cards, this option allows you to visualize your data from another perspective, using the same example, for this metric we can see the average, minimum, and maximum bid price effective.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Statistic Option</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Statistic Option</p></figcaption></figure>
 
 ### Data Table
 
