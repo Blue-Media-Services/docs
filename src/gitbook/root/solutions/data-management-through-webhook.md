@@ -43,13 +43,13 @@ There, we will be creating an event pipe by clicking on <img src="../.gitbook/as
 
 <figure><img src="../.gitbook/assets/image (3) (5) (1) (1).png" alt="" width="538"><figcaption><p>Event Pipe Screen</p></figcaption></figure>
 
-Then click on <img src="../.gitbook/assets/image (5) (5) (1).png" alt="Add Filter" data-size="line"> to add a filter to collect data from ad-delivered events, by searching events that contain ad-delivered on their Type field.
+Then click on <img src="../.gitbook/assets/image (5) (5) (1) (1).png" alt="Add Filter" data-size="line"> to add a filter to collect data from ad-delivered events, by searching events that contain ad-delivered on their Type field.
 
-<figure><img src="../.gitbook/assets/image (6) (5) (1).png" alt="" width="529"><figcaption><p>Event Pipe Filter</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (5) (1) (1).png" alt="" width="529"><figcaption><p>Event Pipe Filter</p></figcaption></figure>
 
-Move to the Targets tab, there is where we configure our webhook link, click on <img src="../.gitbook/assets/image (8) (5) (1).png" alt="Add Target" data-size="line"> and then select Call Webhook.
+Move to the Targets tab, there is where we configure our webhook link, click on <img src="../.gitbook/assets/image (8) (5) (1) (1).png" alt="Add Target" data-size="line"> and then select Call Webhook.
 
-<figure><img src="../.gitbook/assets/image (9) (5).png" alt="" width="543"><figcaption><p>Create Target Screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (5) (1).png" alt="" width="543"><figcaption><p>Create Target Screen</p></figcaption></figure>
 
 Insert the URL provided by Zapier or your data management tool, and then **save** your Target and Event Pipe.
 
@@ -73,11 +73,11 @@ If you will be using Zapier as well, this is the link to access: [Zapier](https:
 
 On Zapier, click on <img src="../.gitbook/assets/image (164).png" alt="Create" data-size="line">, then Zaps.
 
-<figure><img src="../.gitbook/assets/image (11) (5).png" alt="" width="221"><figcaption><p>Zapier Creation Menu</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (5) (1).png" alt="" width="221"><figcaption><p>Zapier Creation Menu</p></figcaption></figure>
 
 We will then configure our trigger and action, based on Webhook + Event Pipe + Google Sheets.
 
-<figure><img src="../.gitbook/assets/image (12) (5).png" alt="" width="489"><figcaption><p>Zapier's Trigger and Action</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (5) (1).png" alt="" width="489"><figcaption><p>Zapier's Trigger and Action</p></figcaption></figure>
 
 ### Trigger
 
@@ -85,17 +85,17 @@ This is the most important step, since here you will be getting the Webhook URL 
 
 To configure our trigger, click on Trigger and then Search for Webhooks by Zapier.
 
-<figure><img src="../.gitbook/assets/image (13) (5).png" alt=""><figcaption><p>Webhook Feature</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (5) (1).png" alt=""><figcaption><p>Webhook Feature</p></figcaption></figure>
 
 Then move to the App & Event Tab on your right, there you will configure your event to a Catch Hook event.
 
-<figure><img src="../.gitbook/assets/image (15) (5).png" alt="" width="404"><figcaption><p>Webhook Configuration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (5) (1).png" alt="" width="404"><figcaption><p>Webhook Configuration</p></figcaption></figure>
 
 Move to the Test Tab and get your **Webhook URL**.
 
 This URL will be used on your Event Pipe configuration [here](data-management-through-webhook.md#creating-an-event-pipe).
 
-<figure><img src="../.gitbook/assets/image (16) (5).png" alt="" width="410"><figcaption><p>Webhook URL</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (5) (1).png" alt="" width="410"><figcaption><p>Webhook URL</p></figcaption></figure>
 
 After configuring the webhook URL to your Event Pipe, click on Test Trigger to collect a data sample and use it to configure your Google Sheet.
 

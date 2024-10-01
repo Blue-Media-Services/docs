@@ -28,7 +28,7 @@ To start creating your creative, click on <img src="../../.gitbook/assets/image 
 
 Fill in the details:
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Name - how you want to call this creative;
 * Tags - up to 5 labels that can be used to aid identification and searching;
@@ -72,9 +72,9 @@ When editing UTMs, every time you change a tag, it will automatically update you
 * **UTM Term:** Identifies paid keywords in ad campaigns (mainly used for paid search campaigns).
   * **Example - "Sport Shoes":** This identifies the paid search campaign in which the keywords used for the paid search were Sport Shoes.
 
-Once you configure all of your UTM Tags, hit the <img src="../../.gitbook/assets/image (5).png" alt="Save" data-size="line"> button, and your tags will be configured accordingly.
+Once you configure all of your UTM Tags, hit the <img src="../../.gitbook/assets/image (5) (5).png" alt="Save" data-size="line"> button, and your tags will be configured accordingly.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>UTM Tags Configured</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (5).png" alt=""><figcaption><p>UTM Tags Configured</p></figcaption></figure>
 
 ### Paste HTML
 
@@ -109,7 +109,7 @@ Our Ad Server provides several macros that can be used within your HTML code. Th
 
 To edit a creative use the <img src="../../.gitbook/assets/edit.png" alt="Edit" data-size="line"> button on the corresponding creative. All fields are available for editing except the domain and type selectors.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Editing a Creative</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (5).png" alt=""><figcaption><p>Editing a Creative</p></figcaption></figure>
 
 If you modify the image URL, link or the HTML code the creative will go back to the <img src="../../.gitbook/assets/draft status.png" alt="Draft" data-size="line"> status and you will need to send the creative for review again. While in draft, the creative will not be shown on any campaigns.
 

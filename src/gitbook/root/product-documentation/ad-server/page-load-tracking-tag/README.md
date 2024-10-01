@@ -18,7 +18,7 @@ The Page Load Tracking Tag enables you to measure the effectiveness of your ads 
 
 To access our Page Load Tracking Tag feature, check the Ad Server's tools menu.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Accessing Page Load Tracking Tag</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (13).png" alt=""><figcaption><p>Accessing Page Load Tracking Tag</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (344).png" alt=""><figcaption><p>Page Load Tracking Tag</p></figcaption></figure>
 

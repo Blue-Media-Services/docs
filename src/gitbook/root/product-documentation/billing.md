@@ -22,9 +22,9 @@ _**Example:** when checking the menu in a restaurant, the restaurant typically d
 
 All our products will include detailed information on the cost of each service used. BMS will not charge for features or products you are not using.
 
-To access your bills, click on the dropdown menu on your account, and then click on <img src="../.gitbook/assets/image (3) (1).png" alt="Billing" data-size="line">.
+To access your bills, click on the dropdown menu on your account, and then click on <img src="../.gitbook/assets/image (3) (1) (2).png" alt="Billing" data-size="line">.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Accessing Billing</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption><p>Accessing Billing</p></figcaption></figure>
 
 Once you access the bills page, you will be presented with the bills for the current month.
 

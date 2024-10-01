@@ -29,7 +29,7 @@ On the Ads page, click on the <img src="../../../.gitbook/assets/image (203).png
 
 To create ads, click on <img src="../../../.gitbook/assets/image (203).png" alt="Create Ads" data-size="line"> either in the Ads area or in the Campaigns area to get started.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Creating Ads</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (5).png" alt=""><figcaption><p>Creating Ads</p></figcaption></figure>
 
 On the Select Assets Tab, you will need to fulfill a domain in which your creatives will be representing, you can choose between creating new creatives or using existing creatives.
 

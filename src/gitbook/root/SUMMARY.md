@@ -67,3 +67,5 @@
     * [Event Pipes Metrics](product-documentation/monitoring/monitoring-metrics/event-pipes-metrics.md)
   * [Monitoring Billing](product-documentation/monitoring/monitoring-billing.md)
 * [Billing](product-documentation/billing.md)
+* [Tag Container](product-documentation/tag-container/README.md)
+  * [Tag Container Metrics](product-documentation/tag-container/tag-container-metrics.md)
