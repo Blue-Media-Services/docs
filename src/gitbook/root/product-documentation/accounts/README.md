@@ -97,3 +97,13 @@ Attention! This action cannot be undone, be careful when canceling requests, if 
 {% endhint %}
 
 It is also possible to cancel your requests by clicking on <img src="../../.gitbook/assets/image (31).png" alt="" data-size="original"> and then <img src="../../.gitbook/assets/image (32).png" alt="" data-size="line"> to confirm your action. If the requests were approved before you cancel it, the given quota will be redefined to the default values.
+
+### Account Restrictions
+
+There are some restrictions that might be applied to your account under different circumstances. When your account is restricted, you may be unable to use the platform until the restriction is revoked.
+
+<figure><img src="../../.gitbook/assets/image (368).png" alt=""><figcaption><p>Access Denied - Error</p></figcaption></figure>
+
+The picture above shows the message displayed when your account has been restricted, or when you're trying to access something without the necessary permissions from the account administrator. If you believe this is the case, please contact our support team for more information about the restriction applied and what is needed to revoke it.
+
+You can also check if your account is restricted using our [API](https://api.bluems.com/docs/acc/z2duu26luwyr9-list-account-restrictions).
