@@ -30,7 +30,11 @@ It is possible to select a campaign and then choose a specific date to view the 
 
 After selecting a campaign and a period, you will be presented with an overview of that campaign, including all targets, ads, creative groups, and creatives that are impacting the campaign, and how they are performing.
 
-<figure><img src="../../.gitbook/assets/image (229).png" alt=""><figcaption><p>Overview Display</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (365).png" alt=""><figcaption><p>Overview Display</p></figcaption></figure>
+
+It is also possible to check the top domains, countries and regions for each campaign through the Overview tab. It presents the most relevant metrics and shows how each one is performing, providing you with valuable data to make strategic decisions.
+
+<figure><img src="../../.gitbook/assets/image (366).png" alt=""><figcaption><p>Ranking Display</p></figcaption></figure>
 
 ## Campaign Metrics
 

@@ -26,7 +26,7 @@ Follow the steps below to create your Tag Container. This process will guide you
 We use cookie pools and trackers as script examples to explain this feature, but you can use any script or tag you need.
 {% endhint %}
 
-1.  Click on <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line"> to start creating your Tag Container.\
+1.  Click on <img src="../../.gitbook/assets/image (2) (9).png" alt="" data-size="line"> to start creating your Tag Container.\
 
 
     <figure><img src="../../.gitbook/assets/Captura de tela 2024-10-01 114707.png" alt=""><figcaption><p>Tag Container Editor</p></figcaption></figure>
