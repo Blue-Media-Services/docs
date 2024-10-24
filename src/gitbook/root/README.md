@@ -86,15 +86,15 @@ These are the features available on BMS.
 
 <summary>Data Management Platform (DMP)</summary>
 
-[Overview](product-documentation/demand-management-platform-dmp/)
+[Overview](product-documentation/data-management-platform-dmp/)
 
-[Cookie Pools](product-documentation/demand-management-platform-dmp/cookie-pools.md)
+[Cookie Pools](product-documentation/data-management-platform-dmp/cookie-pools.md)
 
-[Cookie Pools Metrics](product-documentation/demand-management-platform-dmp/dmp-metrics/cookie-pools-metrics.md)
+[Cookie Pools Metrics](product-documentation/data-management-platform-dmp/dmp-metrics/cookie-pools-metrics.md)
 
-[Trackers](product-documentation/demand-management-platform-dmp/trackers.md)
+[Trackers](product-documentation/data-management-platform-dmp/trackers.md)
 
-[Trackers Metrics](product-documentation/demand-management-platform-dmp/dmp-metrics/trackers-metrics.md)
+[Trackers Metrics](product-documentation/data-management-platform-dmp/dmp-metrics/trackers-metrics.md)
 
 </details>
 
