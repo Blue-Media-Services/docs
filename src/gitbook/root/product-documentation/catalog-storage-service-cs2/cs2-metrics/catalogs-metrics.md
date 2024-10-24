@@ -1,7 +1,7 @@
 # Catalogs Metrics
 
 {% hint style="info" %}
-ProdYou can learn more about how metrics are handled by visiting the [Metrics page](../../metrics.md).&#x20;
+You can learn more about how metrics are handled by visiting the [Metrics page](../../metrics.md).&#x20;
 {% endhint %}
 
 The Catalogs' metrics tab presents a compilation of all the metrics available in CS2. In this article, we will discuss only the catalog-specific metrics. You can learn more about the other CS2 metrics in the article dedicated to each of the features: [Products Metrics](products-metrics.md), [Import Channels Metrics](import-channels-metrics.md), and [Recommendation Models Metrics](recommendation-models-metrics.md).
