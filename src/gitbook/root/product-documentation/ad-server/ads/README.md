@@ -196,7 +196,7 @@ To see all archived ads simply turn on the <img src="../../../.gitbook/assets/ar
 
 The metrics tab will display all metrics related to the selected ads or for the whole account if no ads are selected.
 
-Learn more about the [metrics tab](ads-metrics.md).
+Learn more about the [metrics tab](../ad-server-metrics/ads-metrics.md).
 
 ### Real Time Tab
 

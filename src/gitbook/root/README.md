@@ -42,11 +42,11 @@ These are the features available on BMS.
 
 [Creative Groups](product-documentation/ad-serving/creative-groups.md)
 
-[Creative Metrics](product-documentation/ad-server/creatives-metrics.md)
+[Creative Metrics](product-documentation/ad-server/ad-server-metrics/creatives-metrics.md)
 
 [Ads](product-documentation/ad-server/ads/)
 
-[Ads Metrics](product-documentation/ad-server/ads/ads-metrics.md)
+[Ads Metrics](product-documentation/ad-server/ad-server-metrics/ads-metrics.md)
 
 [Ad Exchange Review](product-documentation/ad-server/ads/ad-exchange-review.md)
 

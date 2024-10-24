@@ -55,4 +55,4 @@ You can learn more about how metrics are handled by visiting the [Metrics page](
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-09-13 103846.png" alt=""><figcaption><p>Builds Metrics</p></figcaption></figure>
 
-The metrics displayed on the Metrics tab of the Builds page are the same as those on the Creatives page. To understand how they work and what each one means, please check our [Creatives Metrics](../creatives-metrics.md) article.
+The metrics displayed on the Metrics tab of the Builds page are the same as those on the Creatives page. To understand how they work and what each one means, please check our [Creatives Metrics](../ad-server-metrics/creatives-metrics.md) article.

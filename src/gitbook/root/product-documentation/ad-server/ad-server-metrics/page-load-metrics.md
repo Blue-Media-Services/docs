@@ -52,6 +52,14 @@ This metric shows a median in seconds of how much time was taken until your webs
 
 _**Example**: These metrics provide information on how much time it takes until your page loads, you can use this data to improve your ads and your website to be faster, which can improve your retention rate. In this picture, the defined time frame was 3 days, divided into 6-hour periods, you will notice that on Aug 21, the time to load the page was nearly 10 seconds, after that, this time was reduced to nearly 5 seconds and then increased to a little more than 10 seconds on Aug 23._
 
+### Click to Page Load Rate
+
+This metric displays, in percentage, the ratio between the number of clicks and the number of page loads in the defined time frame.
+
+<figure><img src="../../../.gitbook/assets/Captura de tela 2024-10-24 084411.png" alt=""><figcaption><p>Click to Page Load Rate</p></figcaption></figure>
+
+_**Example**: The data provided by this metric will show you how many clicks on your ads have resulted in a page load. In this picture, the defined time frame was 1 day divided into 6h periods, you will notice that at 6 AM the click to page load rate was nearly 80%, meaning that 20% of the clicks didn't result in a page load, from noon until 6 PM the click to page load rate was nearly 60%, after that it increases at midnight to 100%, meaning every ad click resulted in a page load._&#x20;
+
 ### Additional Information
 
 These are all the metrics available in the Page Load Tracking feature for analyzing the performance of your page loads. Additionally, when checking metrics, you can always check our <img src="../../../.gitbook/assets/image (28) (2).png" alt="Information" data-size="line"> to access additional information about a specific metric.

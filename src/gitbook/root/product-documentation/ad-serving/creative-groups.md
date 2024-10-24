@@ -75,7 +75,7 @@ Attention! If you delete a creative group, all data related to that creative gro
 
 The metrics tab will display all metrics related to the selected creative groups or for the whole account if no creative groups are selected.
 
-Learn more about the [Metrics tab](../ad-server/creatives-metrics.md).
+Learn more about the [Metrics tab](../ad-server/ad-server-metrics/creatives-metrics.md).
 
 #### A/B testing
 

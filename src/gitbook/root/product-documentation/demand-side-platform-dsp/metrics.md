@@ -14,9 +14,7 @@ layout:
 
 # DSP Metrics
 
-{% hint style="info" %}
-You can learn more about how metrics are handled by visiting the [Metrics page](../metrics.md).&#x20;
-{% endhint %}
+{% include "../../.gitbook/includes/you-can-learn-more-about-ho....md" %}
 
 ## Overview Metrics
 
@@ -24,7 +22,7 @@ You can have a more precise view of your campaign by checking the <img src="../.
 
 <figure><img src="../../.gitbook/assets/image (34) (1).png" alt=""><figcaption><p>Campaign Overview</p></figcaption></figure>
 
-To better understand the metrics displayed on the overview page, visit our [Campaign Metrics](metrics.md#campaign-metrics) and [Ads Metrics](../ad-server/ads/ads-metrics.md) articles.
+To better understand the metrics displayed on the overview page, visit our [Campaign Metrics](metrics.md#campaign-metrics) and [Ads Metrics](../ad-server/ad-server-metrics/ads-metrics.md) articles.
 
 It is possible to select a campaign and then choose a specific date to view the overview for that period.
 
@@ -47,7 +45,7 @@ Alternatively, in the Campaigns section, a metrics tab is available containing t
 
 <figure><img src="../../.gitbook/assets/image (230).png" alt=""><figcaption><p>Campaign Metrics Tab - Grouped by Campaing</p></figcaption></figure>
 
-The ads metrics are also available on this page, they are: budget spent, bids, bid win, impressions, CPM, deliveries, delivery (%), displays, display (%), views, viewability, clicks, CTR, CPC, time to display, time to view, time to click, bid price effective, impressions price, budget spent on impressions and budget spent on deliveries. You can learn about these metrics on the [Ads Metrics](../ad-server/ads/ads-metrics.md) page. This article is dedicated to discussing the exclusive campaign metrics:
+The ads metrics are also available on this page, they are: budget spent, bids, bid win, impressions, CPM, deliveries, delivery (%), displays, display (%), views, viewability, clicks, CTR, CPC, time to display, time to view, time to click, bid price effective, impressions price, budget spent on impressions and budget spent on deliveries. You can learn about these metrics on the [Ads Metrics](../ad-server/ad-server-metrics/ads-metrics.md) page. This article is dedicated to discussing the exclusive campaign metrics:
 
 ### Campaign Active
 
@@ -116,6 +114,14 @@ This metric shows how much of your budget is still available for a campaign, it 
 <figure><img src="../../.gitbook/assets/image (226).png" alt=""><figcaption><p>Budget Available Metric</p></figcaption></figure>
 
 _**Example:** In this graph, you can see that there was a daily budget of $30, which was completely spent each day from June 21st until June 24th. By following this metric, you will be able to observe how much of your budget remains available for your campaign._
+
+### Budget Spent Placing Bids
+
+This metric shows how much of your budget the bidding engine has consumed when placing bids for ad spaces.
+
+<figure><img src="../../.gitbook/assets/image (370).png" alt=""><figcaption><p>Budget Spend Placing Bids</p></figcaption></figure>
+
+_**Example:** When you start running a campaign on our platform, the system will start placing bids according to your campaign settings. This metric shows you a sum of how much of your budget has been consumed placing bids. In this picture, you will notice that the defined time frame was 1 week divided into daily periods, from Oct 16 until Oct 18, the consumption related to placing bids was nearly $0.50 per day, after that, you will observe an increase of this value until almost $2.00 on Oct 21, and then it decreases again._
 
 ### Additional Information
 

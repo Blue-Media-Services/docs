@@ -143,7 +143,7 @@ Attention! If you delete a creative, all data related to that creative, includin
 
 The metrics tab will display all metrics related to the selected creatives or for the whole account if no creatives are selected.
 
-Learn more about the [Metrics tab](../ad-server/creatives-metrics.md).
+Learn more about the [Metrics tab](../ad-server/ad-server-metrics/creatives-metrics.md).
 
 ### Real Time Tab
 
