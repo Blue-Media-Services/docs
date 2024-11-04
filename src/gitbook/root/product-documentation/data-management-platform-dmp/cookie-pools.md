@@ -29,11 +29,11 @@ A cookie pool must be created shortly before using it for a campaign so that it 
     * Exchanges: Select ad exchanges to synchronize with your cookies, we recommend selecting only the exchanges you'll use to run your ad campaigns to prevent unnecessary charges.
     * TTL: Set the number of days a cookie will be kept on the pool after syncing.
     * Max Size: Set the maximum amount of cookies that will be stored. After reaching the limit no more cookies will be added to the pool until the old ones expire, but the collected cookies will still be available to use, it's also possible to increase your Max Size to allow more cookies to be collected.
-3. Click on <img src="../../.gitbook/assets/image (6) (1) (1).png" alt="save button" data-size="line"> to save your Cookie Pool.
+3. Click on <img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt="save button" data-size="line"> to save your Cookie Pool.
 
 ### Editing a Cookie Pool
 
-After creating a cookie pool, you can edit it by clicking on the editing button <img src="../../.gitbook/assets/image (7) (1) (1).png" alt="editing button" data-size="line">. All parameters are editable, for the TTL the changes will apply only to newly added cookies. After making your changes, click on <img src="../../.gitbook/assets/image (6) (1) (1).png" alt="save button" data-size="line"> to save them.
+After creating a cookie pool, you can edit it by clicking on the editing button <img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt="editing button" data-size="line">. All parameters are editable, for the TTL the changes will apply only to newly added cookies. After making your changes, click on <img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt="save button" data-size="line"> to save them.
 
 It's possible to archive cookie pools for your better organization. Click on ![](<../../.gitbook/assets/image (96).png>) to archive the selected cookie pool, visualize your archived cookie pools by turning on the switch "Archived" above the cookie pools list. It is also possible to unarchive a cookie pool by clicking on ![](<../../.gitbook/assets/image (97).png>).
 
@@ -43,16 +43,16 @@ It's possible to archive cookie pools for your better organization. Click on ![]
 Attention! Be careful when deleting cookie pools, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted.
 {% endhint %}
 
-You can delete a cookie pool by clicking on the delete button <img src="../../.gitbook/assets/image (8) (1).png" alt="delete button" data-size="original">, a warning that this action cannot be undone will be displayed to you, to proceed with the process click on <img src="../../.gitbook/assets/image (9) (1).png" alt="delete button" data-size="line"> to confirm you are deleting it and it's done. Be aware that targets based on these cookie pools will stop working.
+You can delete a cookie pool by clicking on the delete button <img src="../../.gitbook/assets/image (8) (1) (1).png" alt="delete button" data-size="original">, a warning that this action cannot be undone will be displayed to you, to proceed with the process click on <img src="../../.gitbook/assets/image (9) (1) (1).png" alt="delete button" data-size="line"> to confirm you are deleting it and it's done. Be aware that targets based on these cookie pools will stop working.
 
 ## Installing a Cookie Pool
 
 After creating a cookie pool you\`ll need to install it on your website to start using it, this can be done by following the instructions on the Install Instructions tab of the Cookie Pools page.
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Install Instructions Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption><p>Install Instructions Tab</p></figcaption></figure>
 
 1. Select the cookie pool you will install by marking the checkbox next to its name.
-2. On the Install Instructions tab, click on <img src="../../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> to copy the code.
+2. On the Install Instructions tab, click on <img src="../../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="line"> to copy the code.
 3. Paste the code as high up as possible inside the page\`s \<head> tag.
 4. If you want, it\`s possible to use a unique user id, this is useful if your users log in on multiple devices,  to do this,  uncomment the indicated part of the code and insert the unique user id.
 

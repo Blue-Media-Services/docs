@@ -27,7 +27,7 @@ Select an event store to check the metrics populated by the event pipes, note th
 
 It Is populated by having Event Streams available for download, according to the size of each event stream, this metric will present the sum of all your event streams' bytes.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Stream Bytes Metric</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Stream Bytes Metric</p></figcaption></figure>
 
 _**Example:** After having an event store populated, it will present event streams related to the pipes selected. Then you will be able to check the size and date of each pipe separately. The graph will populate as the stream's size increases. It is possible to see on this graph that it reached nearly 2 MB in size within a week._
 
@@ -43,7 +43,7 @@ _**Example:** When creating event pipes, you must select an event store or a web
 
 Presents the total amount of bytes uploaded to your event streams tab, leaving streams available for download.
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Stream Upload Bytes Metric</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25) (1).png" alt=""><figcaption><p>Stream Upload Bytes Metric</p></figcaption></figure>
 
 _**Example:** Each event stream is uploaded to your selected event store after a few minutes, being available for download as a .JSON file. The metric will present the sum of all uploaded event streams' bytes to your event store. On this graph, we can see that on specific dates, the data was significantly reduced due to the expiration date of each event stream or deletion._
 
@@ -59,7 +59,7 @@ _**Example:** On this graph, it is possible to see that on some dates the count 
 
 This metric represents the sum of all downloaded bytes of your event streams and will be populated only when the event stream has been downloaded.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Stream Download Bytes Metric</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Stream Download Bytes Metric</p></figcaption></figure>
 
 _**Example:** Once you start downloading your event streams' data, you will be informed of the total number of bytes downloaded each day. This helps you keep track of how much data was downloaded. If the data volume is high, it indicates that many events were captured from the event stream. In this graph, you can see that only 2 KB of data was downloaded._
 
@@ -67,7 +67,7 @@ _**Example:** Once you start downloading your event streams' data, you will be i
 
 This metric represents the event streams downloaded, which will be populated every time you download an event stream.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Stream Download Count Metric</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Stream Download Count Metric</p></figcaption></figure>
 
 _**Example:** If you organize yourself to download the collected event pipe data every week or every two weeks, the metric will inform you so that you don't lose track of your established schedule. In this graph, you can see that the event streams were downloaded only after a week._
 
@@ -75,7 +75,7 @@ _**Example:** If you organize yourself to download the collected event pipe data
 
 This metric is populated every time an event stream is deleted by showing you the sum of all bytes deleted, either manually or by the retention date set upon event store creation.
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Stream Delete Bytes Metric</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Stream Delete Bytes Metric</p></figcaption></figure>
 
 _**Example:** Once you start collecting data for your event store, you will set a retention date for the data. Every time the data reaches that date, your event stream will be deleted, or you can also delete it manually. In this graph, you can see that, at some point, nearly all event streams were deleted._
 
@@ -83,7 +83,7 @@ _**Example:** Once you start collecting data for your event store, you will set 
 
 This metric represents the total count of deleted event streams, they are populated either by retention deletion or manual deletion.
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Stream Delete Count Metric</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>Stream Delete Count Metric</p></figcaption></figure>
 
 _**Example:** On this graph, you can see that the delete count follows a pattern, but on some dates, a lower amount was deleted. This could be due to a change in the retention date or fewer event streams being enabled. Deleting data can help you keep it more organized._
 

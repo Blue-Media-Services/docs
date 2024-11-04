@@ -59,33 +59,33 @@ Here you will be deciding where you will send the data to, whether it will be se
 
 To configure a target, click on ![Add Target](<../../.gitbook/assets/image (19) (6).png>).
 
-<figure><img src="../../.gitbook/assets/image (20) (4).png" alt="" width="350"><figcaption><p>Event Store Target</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (4) (1).png" alt="" width="350"><figcaption><p>Event Store Target</p></figcaption></figure>
 
 If you decide to send your data to an event store, simply name your target and choose your already created event store.
 
-<figure><img src="../../.gitbook/assets/image (21) (2).png" alt="" width="357"><figcaption><p>Call Webhook Target</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (2) (1).png" alt="" width="357"><figcaption><p>Call Webhook Target</p></figcaption></figure>
 
 It is possible to send your data to a webhook, provided by your data management tool, this is an option if you already have a data management tool of preference.
 
-After making all necessary changes, click on <img src="../../.gitbook/assets/image (22) (2).png" alt="Save" data-size="line"> to create your target.
+After making all necessary changes, click on <img src="../../.gitbook/assets/image (22) (2) (1).png" alt="Save" data-size="line"> to create your target.
 
-<figure><img src="../../.gitbook/assets/image (23) (2).png" alt="" width="533"><figcaption><p>Event Pipe Target Created</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (2) (1).png" alt="" width="533"><figcaption><p>Event Pipe Target Created</p></figcaption></figure>
 
-Once everything is configured, click on <img src="../../.gitbook/assets/image (22) (2).png" alt="Save" data-size="line"> and your event pipe will be listed.
+Once everything is configured, click on <img src="../../.gitbook/assets/image (22) (2) (1).png" alt="Save" data-size="line"> and your event pipe will be listed.
 
-<figure><img src="../../.gitbook/assets/image (24) (2).png" alt=""><figcaption><p>Event Pipes List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (2) (1).png" alt=""><figcaption><p>Event Pipes List</p></figcaption></figure>
 
 ### Enabling your Event Pipe
 
 To enable an event pipe simply flip the toggle <img src="../../.gitbook/assets/image (33) (2).png" alt="Toggle" data-size="line"> and your event store will be enabled.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Event Pipe Enabled</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Event Pipe Enabled</p></figcaption></figure>
 
 ### Editing your Event Pipe
 
 To edit your event store, click on <img src="../../.gitbook/assets/image (35) (2).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes and then click on <img src="../../.gitbook/assets/image (32) (2).png" alt="Save" data-size="line">.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="527"><figcaption><p>Event Pipe's Edit Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="527"><figcaption><p>Event Pipe's Edit Screen</p></figcaption></figure>
 
 ### Bulk Actions
 

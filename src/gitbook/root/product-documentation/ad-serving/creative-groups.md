@@ -6,7 +6,7 @@ They are very useful if you wish to display several variants of the same banners
 
 ## Managing Creative Groups
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creative Group list</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creative Group list</p></figcaption></figure>
 
 ### Creating a Creative Group
 
@@ -23,7 +23,7 @@ Fill in the details:
 
 Configure the creative group composition:
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creative Group composition</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Creative Group composition</p></figcaption></figure>
 
 Select at least one creative to be a part of this group. To add more creatives, use the <img src="../../.gitbook/assets/add.png" alt="Add" data-size="line"> button. To remove an existing creative, use the <img src="../../.gitbook/assets/remove.png" alt="Remove" data-size="line"> button.
 
@@ -63,7 +63,7 @@ To see all archived creative groups, simply turn on the <img src="../../.gitbook
 
 You can delete a creative group by clicking on <img src="../../.gitbook/assets/delete.png" alt="Delete" data-size="line">. If the creative group is being used, you will be presented with a list of ads that will be affected. If you confirm the deletion, the ads will be modified to remove the deleted creative group from rotation.
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Delete confirmation screen showing that the creative group is being used.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption><p>Delete confirmation screen showing that the creative group is being used.</p></figcaption></figure>
 
 {% hint style="danger" %}
 Attention! If you delete a creative group, all data related to that creative group, including previously collected metrics, will also be deleted, this action cannot be undone.

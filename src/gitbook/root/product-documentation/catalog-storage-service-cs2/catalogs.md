@@ -38,15 +38,15 @@ Then your catalog will be available on your list.
 
 ### Editing a Catalog
 
-If you need to Edit a catalog's name or tags, click on <img src="../../.gitbook/assets/image (20) (4) (1).png" alt="Edit" data-size="line">, after making the necessary changes, click on <img src="../../.gitbook/assets/image (21) (2) (1).png" alt="Save" data-size="line">.
+If you need to Edit a catalog's name or tags, click on <img src="../../.gitbook/assets/image (20) (4) (1) (1).png" alt="Edit" data-size="line">, after making the necessary changes, click on <img src="../../.gitbook/assets/image (21) (2) (1) (1).png" alt="Save" data-size="line">.
 
 ### Archiving a Catalog
 
-To archive a catalog, click on <img src="../../.gitbook/assets/image (22) (2) (1).png" alt="Archive" data-size="line">, then your archived catalog will be shown in the Archived list, to alter your view flip the toggle <img src="../../.gitbook/assets/image (23) (2) (1).png" alt="Toggle" data-size="line">.
+To archive a catalog, click on <img src="../../.gitbook/assets/image (22) (2) (1) (1).png" alt="Archive" data-size="line">, then your archived catalog will be shown in the Archived list, to alter your view flip the toggle <img src="../../.gitbook/assets/image (23) (2) (1) (1).png" alt="Toggle" data-size="line">.
 
 ### Unarchiving a Catalog
 
-To unarchive a catalog, toggle your view to the Archived list then click on <img src="../../.gitbook/assets/image (24) (2) (1).png" alt="Unarchive" data-size="line">, and your catalog will return to the active catalogs.
+To unarchive a catalog, toggle your view to the Archived list then click on <img src="../../.gitbook/assets/image (24) (2) (1) (1).png" alt="Unarchive" data-size="line">, and your catalog will return to the active catalogs.
 
 ### Deleting a Catalog
 

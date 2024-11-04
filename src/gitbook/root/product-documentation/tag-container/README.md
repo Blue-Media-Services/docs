@@ -16,7 +16,7 @@ layout:
 
 This feature allows you to create a customized tag container to install multiple tags and scripts from a single piece of code.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Tag Container List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Tag Container List</p></figcaption></figure>
 
 ### Creating Tag Containers
 
@@ -41,26 +41,26 @@ We use cookie pools and trackers as script examples to explain this feature, but
      * "acc": Refers to the BMS account ID.
      * "cpid": Refers to the cookie pool ID.
    * Preview: This section shows how your tag container will look after you fill in the parameters.
-3. After finishing your editions, click on <img src="../../.gitbook/assets/image (3).png" alt="" data-size="line"> to save your tag container.
+3. After finishing your editions, click on <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> to save your tag container.
 
 ### Installing your Tag Container
 
 Follow the steps on the install instructions tab to correctly install your tag container.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Install Instructions Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Install Instructions Tab</p></figcaption></figure>
 
-1. Copy the script using the copy button <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line">.
+1. Copy the script using the copy button <img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line">.
 2. Replace the parameters with the corresponding values.
 3. Paste it into your website's code.
 
 ### Editing or Deleting Tag Containers
 
-All the fields on the tag container editor are available for edition, click on <img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> to edit your tag container.
+All the fields on the tag container editor are available for edition, click on <img src="../../.gitbook/assets/image (6) (1).png" alt="" data-size="line"> to edit your tag container.
 
 {% hint style="danger" %}
 Attention! Be careful when deleting tag containers, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted.
 {% endhint %}
 
-It is possible to delete tag containers, by clicking on <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line"> at the same row as the tag container you need to delete, and then clicking on <img src="../../.gitbook/assets/image (8).png" alt="" data-size="line"> to confirm this action.&#x20;
+It is possible to delete tag containers, by clicking on <img src="../../.gitbook/assets/image (7) (1).png" alt="" data-size="line"> at the same row as the tag container you need to delete, and then clicking on <img src="../../.gitbook/assets/image (8) (1).png" alt="" data-size="line"> to confirm this action.&#x20;
 
-Alternatively, you can archive tag containers to help with organization. This can be done by clicking on <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> at the same row as the tag container you want to archive. To view archived tag containers, turn the 'Archived' switch on ![](<../../.gitbook/assets/image (10).png>), located right above the tag containers list. To unarchive a tag container, click on <img src="../../.gitbook/assets/image (11).png" alt="" data-size="line"> at the same row as the tag container you want to unarchive.
+Alternatively, you can archive tag containers to help with organization. This can be done by clicking on <img src="../../.gitbook/assets/image (9) (1).png" alt="" data-size="line"> at the same row as the tag container you want to archive. To view archived tag containers, turn the 'Archived' switch on ![](<../../.gitbook/assets/image (10) (1).png>), located right above the tag containers list. To unarchive a tag container, click on <img src="../../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> at the same row as the tag container you want to unarchive.

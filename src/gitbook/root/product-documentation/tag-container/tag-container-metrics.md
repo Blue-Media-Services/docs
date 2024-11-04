@@ -20,7 +20,7 @@ You can learn more about how metrics are handled by visiting the [Metrics page](
 
 Select a Tag Container from the list to display the metrics related to it on the metrics tab. Selecting none will show you account-wide metrics for all your Tag Containers, and selecting more than one will display a comparison between the selected ones.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Tag Containers - Metrics Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Tag Containers - Metrics Tab</p></figcaption></figure>
 
 ### Failure Rate
 
@@ -28,7 +28,7 @@ This metric indicates, as a percentage, the frequency at which a tag container w
 
 <div data-full-width="false">
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt="" width="278"><figcaption><p>Failure Rate Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt="" width="278"><figcaption><p>Failure Rate Metric</p></figcaption></figure>
 
 </div>
 
@@ -40,7 +40,7 @@ This metric represents the number of times the selected tag containers were requ
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt="" width="272"><figcaption><p>Request Count Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt="" width="272"><figcaption><p>Request Count Metric</p></figcaption></figure>
 
 </div>
 

@@ -16,7 +16,7 @@ layout:
 
 The ad serving billing section is available on the billing page. It contains information about every billed item related to ad serving and is divided into 9 sub-sections.
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Ad Serving Billing Section</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (2).png" alt=""><figcaption><p>Ad Serving Billing Section</p></figcaption></figure>
 
 {% hint style="info" %}
 At BMS, it prioritizes transparency by displaying every detail of your bill. Visit our [Billing Home](../billing.md) to understand how the bills are structured.

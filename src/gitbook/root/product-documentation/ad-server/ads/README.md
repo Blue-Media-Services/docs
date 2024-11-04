@@ -54,7 +54,7 @@ If you wish to create new Ads based on existing Creatives, select the Use Existi
 <figure><img src="../../../.gitbook/assets/image (175).png" alt="" width="540"><figcaption><p>Creatives List</p></figcaption></figure>
 
 * You also have the option to create a creative directly from this screen, by clicking on <img src="../../../.gitbook/assets/image (34).png" alt="Create Creative" data-size="line">.
-* Once you have chosen all necessary creatives, click on <img src="../../../.gitbook/assets/image (33).png" alt="Select" data-size="line"> and all selected creatives will be listed.
+* Once you have chosen all necessary creatives, click on <img src="../../../.gitbook/assets/image (33) (1).png" alt="Select" data-size="line"> and all selected creatives will be listed.
 * You can also Preview your ad by clicking on <img src="../../../.gitbook/assets/image (179).png" alt="" data-size="line">, and if necessary, you can remove any unwanted creatives for your ad by clicking on <img src="../../../.gitbook/assets/image (180).png" alt="Remove" data-size="line">.
 
 <figure><img src="../../../.gitbook/assets/image (178).png" alt=""><figcaption><p>Existing Creatives List</p></figcaption></figure>

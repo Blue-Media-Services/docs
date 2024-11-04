@@ -57,11 +57,11 @@ Insert the URL provided by Zapier or your data management tool, and then **save*
 In some tools you **might** already have the webhook link available, if you are using **Zapier**, you will need to start configuring your webhook first in order to get the link.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (17) (5).png" alt="" width="542"><figcaption><p>Zapier Webhook Configured</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (5) (1).png" alt="" width="542"><figcaption><p>Zapier Webhook Configured</p></figcaption></figure>
 
 Make sure to have your Event Pipe enabled and an Active campaign to collect data and send it to your webhook tool.
 
-<figure><img src="../.gitbook/assets/image (18) (5).png" alt=""><figcaption><p>Event Pipe Enabled Tab</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (5) (1).png" alt=""><figcaption><p>Event Pipe Enabled Tab</p></figcaption></figure>
 
 ### Configuring your Webhook Tool
 
@@ -105,7 +105,7 @@ _Attention! Make sure to have an **Active** Campaign and have your Event Pipe **
 
 The data might take a while to be available, once your event pipe sends information to your tool, this is the data you will get from that event.
 
-<figure><img src="../.gitbook/assets/image (19) (5).png" alt="" width="402"><figcaption><p>Zapier Data Collected</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (5) (1).png" alt="" width="402"><figcaption><p>Zapier Data Collected</p></figcaption></figure>
 
 Click on <img src="../.gitbook/assets/image (105) (1).png" alt="" data-size="line"> and then we will move to configure the Action that will be taken after collecting the data.
 

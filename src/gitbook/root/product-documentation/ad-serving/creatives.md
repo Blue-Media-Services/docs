@@ -20,15 +20,15 @@ Display Creatives are essentially just blocks of HTML code. You can provide this
 
 ## Managing Creatives
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption><p>Creative list</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption><p>Creative list</p></figcaption></figure>
 
 ## Creating a Creative
 
-To start creating your creative, click on <img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="Create Creative" data-size="line">.
+To start creating your creative, click on <img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="Create Creative" data-size="line">.
 
 Fill in the details:
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Name - how you want to call this creative;
 * Tags - up to 5 labels that can be used to aid identification and searching;
@@ -117,7 +117,7 @@ Once you have made all necessary changes to your creative, click on ![Save](<../
 
 ### Enabling and Disabling a Creative
 
-![](<../../.gitbook/assets/image (9) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png>)
 
 In order to be displayed in a campaign, a creative must be enabled. If you wish to prevent a creative from being displayed, you can disable it, and it will immediately cease impressions.
 
@@ -131,7 +131,7 @@ To view all archived creatives, simply turn on the <img src="../../.gitbook/asse
 
 You can delete a creative by clicking on <img src="../../.gitbook/assets/delete.png" alt="Delete" data-size="line">. If the creative is being used, you will be presented with a list of creative groups that will be affected. If you confirm the deletion, the creative groups will be modified to remove the deleted creative from the rotation.
 
-<figure><img src="../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption><p>Delete confirmation screen showing that the creative is being used.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1) (1) (1).png" alt=""><figcaption><p>Delete confirmation screen showing that the creative is being used.</p></figcaption></figure>
 
 {% hint style="danger" %}
 Attention! If you delete a creative, all data related to that creative, including previously collected metrics, will also be deleted, this action cannot be undone.

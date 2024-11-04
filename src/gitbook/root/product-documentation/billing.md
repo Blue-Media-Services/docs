@@ -49,7 +49,7 @@ BMS has several units to accurately count each service. Each unit works differen
 
 ## Charges per Service
 
-In this section, all the products will be listed. After clicking on <img src="../.gitbook/assets/image (4) (1) (3).png" alt="Dropdown menu" data-size="line"> , the list will expand to display all charges related to that product. You can check each product separately or click on <img src="../.gitbook/assets/image (5) (9).png" alt="Expand All" data-size="line"> to view all products at once.
+In this section, all the products will be listed. After clicking on <img src="../.gitbook/assets/image (4) (1) (3) (1).png" alt="Dropdown menu" data-size="line"> , the list will expand to display all charges related to that product. You can check each product separately or click on <img src="../.gitbook/assets/image (5) (9).png" alt="Expand All" data-size="line"> to view all products at once.
 
 By expanding a product, you will see a detailed view of each service used within that product. This option provided by BMS allows users to control their expenses and identify areas to avoid unnecessary use. Through BMS's transparency, users can check all services used, the total price, and the amount of usage processed.
 

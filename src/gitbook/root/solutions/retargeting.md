@@ -213,7 +213,7 @@ At first, you will need to choose between creating a blueprint on your own or us
   4. Set tags to make it easier to find it later.
   5. Choose the availability according to your preference, selecting public will make your blueprint available for everyone using the BMS platform, and private makes it available only for you and those with access to your account.
   6. Select the desired banner sizes.
-  7. Click on ![](<../.gitbook/assets/image (25) (1) (1).png>) to add a new parameter group and start coding your banner
+  7. Click on ![](<../.gitbook/assets/image (25) (1) (1) (1).png>) to add a new parameter group and start coding your banner
   8. Feel free to use the given system parameters according to your needs.
   9. You can also use our Macros for better interaction with your ads' viewers.
 * **Using an existing Blueprint model**

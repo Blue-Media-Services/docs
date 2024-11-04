@@ -68,7 +68,7 @@ To check your archived campaigns, click on <img src="../../.gitbook/assets/image
 
 If you need to delete a campaign simply click on ![Delete Campaign](<../../.gitbook/assets/image (81).png>) and a confirmation screen will be displayed, this action cannot be undone and you will have to manually type the campaign name to delete it.
 
-<figure><img src="../../.gitbook/assets/image (31) (1).png" alt=""><figcaption><p>Campaign Delete Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (1) (2).png" alt=""><figcaption><p>Campaign Delete Screen</p></figcaption></figure>
 
 {% hint style="danger" %}
 _Attention! We always advise to deactivate the campaign instead of deleting it completely. When deleting a campaign, all data and metrics are lost as well._
