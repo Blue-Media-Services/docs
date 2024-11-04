@@ -51,17 +51,13 @@ Configure events according to the activities performed by user on your website, 
 3. Click on ![](<../../.gitbook/assets/image (102).png>) to add an action to your event.
 4. Fill in the details:
    * Name: Set a name for your action.
-   * What to do?: Select between these two options:
-     1. Call a Webhook: This option calls a URL when the event is fired.
-        * URL: Fill it with the URL of your webhook, to where you want to send the data.
-        * Available Activity Data: These are default parameters added to the URL to gather specific activity data.
-        * Available Custom Data: Select the previously configured custom data field to gather specific custom data about your users.
-     2. Track In Catalog: This option allows you to track events based on a product catalog.
-        * Catalog: Select the catalog you desire to use.
-        * Track as: Select as this action must be tracked.
-        * Field Containing Offer IDs: Select the custom field that contains the offer ID or use a template.
-        * Template: Insert a specific template that will be used to create a comma-separated list of offer IDs to be tracked.
-        * Available Custom Data: Custom data fields configured on your event will be displayed here to help you build a template.
+   * What to do?:
+     * Track In Catalog: Allows you to track events based on a product catalog.
+       * Catalog: Select the catalog you desire to use.
+       * Track as: Select as this action must be tracked.
+       * Field Containing Offer IDs: Select the custom field that contains the offer ID or use a template.
+       * Template: Insert a specific template that will be used to create a comma-separated list of offer IDs to be tracked.
+       * Available Custom Data: Custom data fields configured on your event will be displayed here to help you build a template.
 5. Click on <img src="../../.gitbook/assets/image (93).png" alt="" data-size="line"> to save your action.
 6. Feel free to add more actions to this event, and when you're done, click on <img src="../../.gitbook/assets/image (93).png" alt="" data-size="line"> to save your event.
 
