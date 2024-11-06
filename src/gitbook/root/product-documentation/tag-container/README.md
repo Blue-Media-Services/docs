@@ -41,15 +41,15 @@ We use cookie pools and trackers as script examples to explain this feature, but
      * "acc": Refers to the BMS account ID.
      * "cpid": Refers to the cookie pool ID.
    * Preview: This section shows how your tag container will look after you fill in the parameters.
-3. After finishing your editions, click on <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> to save your tag container.
+3. After finishing your editions, click on <img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> to save your tag container.
 
 ### Installing your Tag Container
 
 Follow the steps on the install instructions tab to correctly install your tag container.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Install Instructions Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Install Instructions Tab</p></figcaption></figure>
 
-1. Copy the script using the copy button <img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line">.
+1. Copy the script using the copy button <img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line">.
 2. Replace the parameters with the corresponding values.
 3. Paste it into your website's code.
 

@@ -26,18 +26,18 @@ Choose how you want to visualize your data. These are the visualization options 
 
 This option displays your metrics on cards containing graphics. It's possible to export the data contained in each metric card by clicking on the desired card and then clicking on the download button <img src="../.gitbook/assets/image (125).png" alt="" data-size="line">.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Metric Cards Visualization</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Metric Cards Visualization</p></figcaption></figure>
 
 Some metrics such as Bid Price Effective will also have the statistic option on their cards, this option allows you to visualize your data from another perspective, using the same example, for this metric we can see the average, minimum, and maximum bid price effective.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Statistic Option</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Statistic Option</p></figcaption></figure>
 
 ### Data Table
 
 This option will bring the same data that are on the metric cards in table format. This visualization option allows you to export the data by clicking on the download button <img src="../.gitbook/assets/image (125).png" alt="" data-size="line">.  You can also visualize the table in full-screen mode by clicking on ![](<../.gitbook/assets/image (126).png>).\
 
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Data Table Visualization</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Data Table Visualization</p></figcaption></figure>
 
 ### Group-By
 

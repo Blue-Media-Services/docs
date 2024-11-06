@@ -79,13 +79,13 @@ Once everything is configured, click on <img src="../../.gitbook/assets/image (2
 
 To enable an event pipe simply flip the toggle <img src="../../.gitbook/assets/image (33) (2).png" alt="Toggle" data-size="line"> and your event store will be enabled.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Event Pipe Enabled</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Event Pipe Enabled</p></figcaption></figure>
 
 ### Editing your Event Pipe
 
 To edit your event store, click on <img src="../../.gitbook/assets/image (35) (2).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes and then click on <img src="../../.gitbook/assets/image (32) (2).png" alt="Save" data-size="line">.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="527"><figcaption><p>Event Pipe's Edit Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" width="527"><figcaption><p>Event Pipe's Edit Screen</p></figcaption></figure>
 
 ### Bulk Actions
 
