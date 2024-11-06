@@ -84,7 +84,9 @@ Select a Catalog where you want to install your pixels and then move to the Inst
 
 Each event has a correct page to have your pixel installed, check on each event description to know exactly where.
 
-Note: Every website has its own way of defining an offerID, so pay attention to how each product is tagged in yours, if you do not use the correct tag for your products, the event **will not work**.
+{% hint style="info" %}
+Don't forget to replace the placeholder with your offer ID. Every website has its own way of defining an offer ID variable, so pay attention to how this variable was configured in your website. If the correct variable is not used for your products, the event **will not work.** Ensure that the offer ID variable on your website returns the same values that were imported as product identifiers (on our platform, they are called Offer IDs) in your catalog.
+{% endhint %}
 
-_Example: Product ordered event should be installed on your **order confirmation page**._
+_**Example:** The Product ordered event should be installed on your **order confirmation page**._
 
