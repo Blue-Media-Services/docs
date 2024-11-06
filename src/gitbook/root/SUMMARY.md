@@ -8,10 +8,10 @@
 
 ## Solutions
 
-* [Using Tag Managers](solutions/using-tag-managers.md)
 * [Creating a Branding Campaign](solutions/branding.md)
 * [Creating a Retargeting Campaign](solutions/retargeting.md)
 * [Data Management Through Webhook](solutions/data-management-through-webhook.md)
+* [Using Tag Managers](solutions/using-tag-managers.md)
 
 ## Product documentation
 
