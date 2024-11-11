@@ -27,11 +27,11 @@ You will have some public blueprint models available for use, so even if you are
 
 ### **Creating a Blueprint**
 
-1.  Click on <img src="../../../.gitbook/assets/image (24) (1) (1).png" alt="" data-size="line"> to create your blueprint.\
+Click on ![create blueprint](<../../../.gitbook/assets/image (405).png>) to start [creating your blueprint.](#user-content-fn-1)[^1]
 
+<figure><img src="../../../.gitbook/assets/image (402).png" alt=""><figcaption><p>Blueprint Creation</p></figcaption></figure>
 
-    <figure><img src="../../../.gitbook/assets/Captura de tela 2024-06-13 082435.png" alt=""><figcaption><p>Blueprint Editor</p></figcaption></figure>
-2. Fill in the Details:
+1. Fill in the Details:
    * Name: Set a name for your blueprint.
    * Tags: Set tags for your better organization.
    * Availability: Select if you want this blueprint to be public or private. Public blueprints will be available to everyone on BMS.
@@ -43,8 +43,8 @@ You will have some public blueprint models available for use, so even if you are
 
        * Name: Set a name for this parameters group.
        * Description: Set a description of the parameters group.
-       * Click on <img src="../../../.gitbook/assets/image (2) (7).png" alt="" data-size="line"> to save your parameter group.
-3.  After creating the parameters group, you can begin coding your banner on the code box. Then, configure the parameters of your code to align with those in the parameter group. To add a new parameter to the group click on ![](<../../../.gitbook/assets/image (3) (7).png>) and fill in the details:
+       * Click on ![save](<../../../.gitbook/assets/image (408).png>) to save your parameter group.
+2.  After creating the parameters group, you can begin coding your banner on the code box. Then, configure the parameters of your code to align with those in the parameter group. To add a new parameter to the group click on ![](<../../../.gitbook/assets/image (3) (7).png>) and fill in the details:
 
 
 
@@ -83,7 +83,7 @@ You will have some public blueprint models available for use, so even if you are
 
           * Label: Insert the label of your parameter.
           * Value: Insert the value associated with the label.
-          * Add as many labels as you need by clicking on ![](<../../../.gitbook/assets/image (3) (7).png>).
+          * Add as many labels as you need by clicking on ![Add](<../../../.gitbook/assets/image (407).png>).
           * Initial Value: Pick one of the configurated labels as the initial value.
       *   **Code**
 
@@ -123,19 +123,19 @@ You will have some public blueprint models available for use, so even if you are
 
           * Use Image Picker: Check this box to enable the image picker, in which you can pick images from your uploaded creatives, upload a new one if needed, or inform the image URL.
           * Initial Value: Insert the initial value for the image URL.
-    * Click on <img src="../../../.gitbook/assets/image (2) (7).png" alt="" data-size="line"> to save your parameter.
-4. Continue adding parameter groups and parameters until your business needs are satisfied.&#x20;
-5. Use the available system parameters to customize your template:
+    * Click on ![save](<../../../.gitbook/assets/image (408).png>) to save your parameter.
+3. Continue adding parameter groups and parameters until your business needs are satisfied.&#x20;
+4. Use the available system parameters to customize your template:
    * Account ID: This option inserts on your template the account ID of the account where the build is created.
    * Banner Width: Insert the width in which the banner will be rendered.
    * Banner Height: Insert the height at which the banner will be rendered.
-6. Use the available macros with your URLs:
-   * Unescaped Click URL: This macro will be replaced by BMS's unescaped click tracker URL. Use this option when BMS is the first click tracker on the chain.
-   * Escaped Click URL:  This macro will be replaced by BMS's escaped click tracker URL. Use this option when BMS is the second click tracker on the chain.
-   * Double-Escaped Click URL: This macro will be replaced by BMS's double-escaped click tracker URL. Use this option when BMS is the third click tracker on the chain.
-   * Cache Buster: This macro will be replaced by a random number that can be used for cache busting.
-   * Escaped Ad Context: This macro will be replaced by an escaped JSON object containing data about the ad context, such as the campaign ID and users' data.
-7. After finishing all your blueprint settings, click on <img src="../../../.gitbook/assets/image (2) (7).png" alt="" data-size="line"> to save your blueprint.
+5. Use the available **macros** with your URLs, some of them are:
+   * **Unescaped Click URL:** This macro will be replaced by BMS's unescaped click tracker URL. Use this option when BMS is the first click tracker on the chain.
+   * **Escaped Click URL:**  This macro will be replaced by BMS's escaped click tracker URL. Use this option when BMS is the second click tracker on the chain.
+   * **Double-Escaped Click URL:** This macro will be replaced by BMS's double-escaped click tracker URL. Use this option when BMS is the third click tracker on the chain.
+   * **Cache Buster:** This macro will be replaced by a random number that can be used for cache busting.
+   * **Escaped Ad Context:** This macro will be replaced by an escaped JSON object containing data about the ad context, such as the campaign ID and users' data.
+6. After finishing all your blueprint settings, click on <img src="../../../.gitbook/assets/image (2) (7).png" alt="" data-size="line"> to save your blueprint.
 
 ### Using an Existing Blueprint
 
@@ -150,3 +150,5 @@ Be careful when deleting blueprints, this action cannot be undone, and builds re
 {% endhint %}
 
 To delete blueprints click on ![](<../../../.gitbook/assets/image (14) (7).png>) at the same row as the blueprint you need to delete, then confirm the action by clicking on <img src="../../../.gitbook/assets/image (15) (7).png" alt="" data-size="line">.
+
+[^1]: Nesse print, conseguimos deixar preenchido?

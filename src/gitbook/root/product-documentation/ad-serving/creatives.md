@@ -80,7 +80,7 @@ Once you configure all of your UTM Tags, hit the <img src="../../.gitbook/assets
 
 * To use a fully customized creative, switch to the "Paste HTML" tab and insert the final HTML code that will be displayed when the user views your creative.
 
-<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption><p>HTML Code Customization Example</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (397).png" alt=""><figcaption><p>HTML Customization Example</p></figcaption></figure>
 
 * This can be anything and it is entirely up to you to produce a working creative with HTML, CSS, and Javascript.
 * When you provide the HTML code, our click tracker won't be automatically added. You can copy the click tracker macro (or any other macro you wish) from the bottom template assist buttons and paste it on your HTML. For more information, please take a look at the [Macros section](creatives.md#macros).
@@ -93,17 +93,21 @@ After making all necessary adjustments, click on ![Save](<../../.gitbook/assets/
 
 #### Macros
 
-Our Ad Server provides several macros that can be used within your HTML code. They are:
+Our Ad Server provides several macros that can be used within your HTML code, they can be found at the bottom of the Paste HTML tab.
 
-* BMS Click Tracker - these macros will enable BMS to track clicks on your ads. If you don't install any of these, no click event or metric will be registered.
-  * <img src="../../.gitbook/assets/image (17) (1) (1).png" alt="Unescaped Click URL" data-size="line">\
+<figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption><p>Available Macros Section</p></figcaption></figure>
+
+Some of them are:
+
+* **BMS Click Trackers** - These macros will enable BMS to track clicks on your ads. If you don't install any of these, no click event or metric will be registered.
+  * **Unescaped Click URL**\
     This is the most used version. It must be installed at the very beginning of the link, before any other tracker, and before the final URL itself.
-  * <img src="../../.gitbook/assets/image (18) (1) (1).png" alt="Escaped Click URL" data-size="line">\
+  * **Escaped Click URL**\
     This version is similar to the previous but it should only be used if you wish to have an external click tracker that does not support unescaped URLs.
-  * <img src="../../.gitbook/assets/image (19) (1) (1).png" alt="Double-escaped Click URL" data-size="line">\
+  * **Double-escaped Click URL**\
     This version is similar to the previous two but it should only be used if you wish to have a click tracker chain of two or more where the external click tackers do not support unescaped URLs.
-* <img src="../../.gitbook/assets/image (20) (1) (1).png" alt="Cache Buster" data-size="line">\
-  This macro will inject a random sequence of numbers and is most commonly used to ensure that the requests will not be cached.
+  * **Cache Buster**\
+    This macro will inject a random sequence of numbers and is most commonly used to ensure that the requests will not be cached.
 
 ### Editing a Creative
 
