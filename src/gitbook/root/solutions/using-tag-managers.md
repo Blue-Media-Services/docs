@@ -22,7 +22,7 @@ After creating an account on GTM, you must install the GTM code on your website 
 
 Click on the container ID to open the GTM installation instructions. There are two snippets of code that must be installed on your website: the first goes into the `<head>`, and the second into the `<body>.`
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>GTM Install Instructions</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (15).png" alt=""><figcaption><p>GTM Install Instructions</p></figcaption></figure>
 
 After installing the GTM codes, you will be able to test your website to ensure the installation was done correctly.
 

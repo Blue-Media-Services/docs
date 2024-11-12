@@ -123,6 +123,14 @@ This metric shows how much of your budget the bidding engine has consumed when p
 
 _**Example:** When you start running a campaign on our platform, the system will start placing bids according to your campaign settings. This metric shows you a sum of how much of your budget has been consumed placing bids. In this picture, you will notice that the defined time frame was 1 week divided into daily periods, from Oct 16 until Oct 18, the consumption related to placing bids was nearly $0.50 per day, after that, you will observe an increase of this value until almost $2.00 on Oct 21, and then it decreases again._
 
+### Click to Page Load Rate
+
+This metric displays, in percentage, the ratio between the number of clicks and the number of page loads in the defined time frame.
+
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-10-24 084411.png" alt=""><figcaption><p>Click to Page Load Rate</p></figcaption></figure>
+
+_**Example**: The data provided by this metric will show you how many clicks on your ads have resulted in a page load. In this picture, the defined time frame was 1 day divided into 6h periods, you will notice that at 6 AM the click to page load rate was nearly 80%, meaning that 20% of the clicks didn't result in a page load, from noon until 6 PM the click to page load rate was nearly 60%, after that it increases at midnight to 100%, meaning every ad click resulted in a page load._&#x20;
+
 ### Additional Information
 
 These are all the metrics available in the campaign product for analyzing the performance of your campaign.  Additionally, when checking metrics, you can always check our <img src="../../.gitbook/assets/image (28) (2).png" alt="Information" data-size="line"> to access additional information about a specific metric.
