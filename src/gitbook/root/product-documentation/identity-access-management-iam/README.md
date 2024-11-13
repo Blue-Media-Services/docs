@@ -1,6 +1,6 @@
-# IAM
+# Identity Access Management (IAM)
 
-Manage your users and groups on the IAM page. Define policies to restrict access, add and delete users, and create user groups to streamline the policy attachment process.&#x20;
+Manage your users and groups on the Identity Access Management page. Define policies to restrict access, add and delete users, and create user groups to streamline the policy attachment process.&#x20;
 
 The IAM page is accessible by clicking on **Permissions** in the account menu.\
 
