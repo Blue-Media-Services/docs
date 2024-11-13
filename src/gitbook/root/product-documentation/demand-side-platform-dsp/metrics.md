@@ -131,6 +131,14 @@ This metric displays, in percentage, the ratio between the number of clicks and 
 
 _**Example**: The data provided by this metric will show you how many clicks on your ads have resulted in a page load. In this picture, the defined time frame was 1 day divided into 6h periods, you will notice that at 6 AM the click to page load rate was nearly 80%, meaning that 20% of the clicks didn't result in a page load, from noon until 6 PM the click to page load rate was nearly 60%, after that it increases at midnight to 100%, meaning every ad click resulted in a page load._&#x20;
 
+### Budget Daily Limit
+
+This metric displays the value defined as the daily budget within the specified time frame.
+
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-11-13 151343.png" alt=""><figcaption><p>Budget Daily Limit</p></figcaption></figure>
+
+_**Example:**_ Use the data provided in this metric to understand the daily budget limit configured at the time. In this picture, the defined time frame was 3 days, divided into 6h periods. You will notice that the configured daily budget limit was $10.00, and this setting has remained unchanged.
+
 ### Additional Information
 
 These are all the metrics available in the campaign product for analyzing the performance of your campaign.  Additionally, when checking metrics, you can always check our <img src="../../.gitbook/assets/image (28) (2).png" alt="Information" data-size="line"> to access additional information about a specific metric.
