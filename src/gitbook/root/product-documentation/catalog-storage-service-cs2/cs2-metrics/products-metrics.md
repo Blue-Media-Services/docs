@@ -14,7 +14,7 @@ This metric shows the number of times the selected products have been added to t
 
 <figure><img src="../../../.gitbook/assets/image (273) (1).png" alt=""><figcaption><p>Product Added to Cart Count Metric</p></figcaption></figure>
 
-_**Example:** In a context where_ y_ou install an event on your website, intending to track products that have been added to the cart by your users. You also configure an action to track the product in the catalog for when this event happens. This metric shows how many times a product has been added to the cart, use this data to understand in which products your website's audience is more interested. This graph's defined time frame was 3 days, divided into 6h periods, represented as dots. You will notice that on June 24th, between 12 PM and 6 PM, there were nearly 400 products added to the cart._
+_**Example:** In a context where_ &#x79;_&#x6F;u install an event on your website, intending to track products that have been added to the cart by your users. You also configure an action to track the product in the catalog for when this event happens. This metric shows how many times a product has been added to the cart, use this data to understand in which products your website's audience is more interested. This graph's defined time frame was 3 days, divided into 6h periods, represented as dots. You will notice that on June 24th, between 12 PM and 6 PM, there were nearly 400 products added to the cart._
 
 ### **Product Order Count**
 

@@ -28,7 +28,7 @@ You can choose who to show ads to based on where these users are located by eith
   * Domains - By including specific domains, your ads will only appear on those specified websites.
   * URL Keywords - By defining URL keywords, you can refine where your ads appear based on the URL's content.
 
-<figure><img src="../../.gitbook/assets/image (339).png" alt=""><figcaption><p>Device Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (417).png" alt=""><figcaption><p>Device Tab</p></figcaption></figure>
 
 * **Device**
   * Operational Systems - By selecting specific operating systems, your ads will be displayed to users navigating the web on those systems.
@@ -36,12 +36,13 @@ You can choose who to show ads to based on where these users are located by eith
   * Device Types - By selecting specific device types, your ads will be displayed to users navigating the web on those devices.
   * Cookie Pools - By selecting specific cookie pools, your ads will target only the users who have been added to those selected pools.
 
-<figure><img src="../../.gitbook/assets/image (340).png" alt=""><figcaption><p>Inventory Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (416).png" alt=""><figcaption><p>Inventory Tab</p></figcaption></figure>
 
 * **Inventory**
   * Exchange - By selecting specific ad exchanges, your ads will be displayed through those platforms.
   * Position - Select specific inventory positions to strategically place your ads for optimal visibility and engagement.
-  * Viewability - This target option is in beta and currently is only supported by Google Authorized Buyers. Adjust the slider to set the minimum viewability threshold for ad slots. Your ads will only be matched with inventory positions where the viewability percentage is higher than the selected threshold. This allows for precise control over ad placement, ensuring your ads are only displayed in slots with a visibility level that meets or exceeds your criteria for optimal engagement and impact.&#x20;
+  * Viewability - Adjust the slider to set the minimum viewability threshold for ad slots. Your ads will only be matched with inventory positions where the viewability percentage is higher than the selected threshold. This allows for precise control over ad placement, ensuring your ads are only displayed in slots with a visibility level that meets or exceeds your criteria for optimal engagement and impact.
+  * Click-through rate (CTR) - Adjust the slider to set the minimum Click-Through Rate threshold for ad slots. Your ads will only be matched with inventory where the CTR is higher than the selected threshold. This allows for precise control over ad placement, ensuring your ads are displayed in slots with the CTR level that meets or exceeds your criteria for optimal engagement and impact, the information used for this feature is BMS's database according to all campaigns that are running and collecting data, this feature works for all exchange's inventories.
 
 ### Using AI to define Targets
 

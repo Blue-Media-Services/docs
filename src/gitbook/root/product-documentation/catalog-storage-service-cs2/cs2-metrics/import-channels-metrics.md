@@ -14,7 +14,7 @@ This metric shows how many import jobs you have started in the defined time fram
 
 <figure><img src="../../../.gitbook/assets/image (279).png" alt=""><figcaption><p>Import Job Count Metric</p></figcaption></figure>
 
-_**Example:** Use this metric to follow how many import jobs are being started on your account**.** On this graph, the defined time frame was 1 week divided into daily periods, represented as dots. You will notice that there is 1 import job started each day, which means the catalog is being daily updated._
+_**Example:** Use this metric to follow how many import jobs are being started on your accoun&#x74;**.** On this graph, the defined time frame was 1 week divided into daily periods, represented as dots. You will notice that there is 1 import job started each day, which means the catalog is being daily updated._
 
 ### **Import Job Duration**
 
@@ -38,7 +38,7 @@ This metric shows the number of issues with import jobs within the defined time 
 
 <figure><img src="../../../.gitbook/assets/image (282).png" alt=""><figcaption><p>Import Job Issues Metric</p></figcaption></figure>
 
-_**Example:** When an import job has been completed, however, some issues occurred on the process, such as a mapping issue or missing data in the feed file**.** On this graph, the defined time frame is 1 week, divided into daily periods, represented as dots. You will notice that during the first 5 days of the week, there were nearly 10 issues with the import job. Additionally, you will observe that on June 24th and onwards, there were no issues with the import job, indicating that the feed file was fixed_
+_**Example:** When an import job has been completed, however, some issues occurred on the process, such as a mapping issue or missing data in the feed fil&#x65;**.** On this graph, the defined time frame is 1 week, divided into daily periods, represented as dots. You will notice that during the first 5 days of the week, there were nearly 10 issues with the import job. Additionally, you will observe that on June 24th and onwards, there were no issues with the import job, indicating that the feed file was fixed_
 
 ### **Import Job Processed Bytes**
 

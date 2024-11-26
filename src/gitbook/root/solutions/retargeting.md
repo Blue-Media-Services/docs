@@ -129,7 +129,7 @@ After creating your trackers, events, and actions, you must install them on your
   3. Select the Script option.
   4. If you have configured custom data fields, please use the indicated placeholders to inform the values.\
      Here's an example of how the indicated placeholder for your custom data fields might look to you: <img src="../.gitbook/assets/image (48) (1) (1).png" alt=" Custom data field example" data-size="original">.\
-     _**Example**: You need to track what product color your users are mostly intrested, you will be able to use this field to colect data about the product color._
+     &#xNAN;_**Example**: You need to track what product color your users are mostly intrested, you will be able to use this field to colect data about the product color._
   5. Click on <img src="../.gitbook/assets/image (49) (1).png" alt="copy button" data-size="line"> to copy the script.
   6. Add this script to your website's code, on the page where the event will be tracked.
   7. You can also use a tag manager, like Google Tag Manager, to add this script to your website.

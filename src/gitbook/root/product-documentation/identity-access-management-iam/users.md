@@ -22,7 +22,7 @@ This feature allows you to share your BMS account with your partners and colleag
           <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Policies Selector</p></figcaption></figure>
 
           _**Example 1**: The policy " ACC - Account - Full Access" will grant the user full access to the account feature, meaning that the user can edit any information related to the accounts page._ \
-          _**Example 2**: The policy "BMS - All Features - Read Only" will grant the user only reading privileges, to all BMS features._
+          &#xNAN;_**Example 2**: The policy "BMS - All Features - Read Only" will grant the user only reading privileges, to all BMS features._
 3. After finishing your settings click on <img src="../../.gitbook/assets/image (10).png" alt="" data-size="line"> to save them.
 
 The added user will receive an invitation via e-mail to finish the sign-up or sign-in process.
