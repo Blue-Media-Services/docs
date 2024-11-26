@@ -51,12 +51,12 @@ After creating a recommendation model, it's necessary to configure its sources b
           <figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption><p>Recommendation Models' Source Editor - CS2 Product Ranking</p></figcaption></figure>
 
           * Rank by: Select a ranked activity between the options available:
-            * Most Added to Cart
-            * Most Ordered
-            * Most Recommendation Clicked
-            * Most Recommendation Viewed
-            * Most Recommended
-            * Most Viewed
+            * Most Added to Cart: This option will add the most added-to-cart products to your recommendation model.
+            * Most Ordered: This option will add the most ordered products to your recommendation model.
+            * Most Recommendation Clicked: This option can only be used after running a campaign with recommendation models, and it will fill your recommendation model with the products that were recommended before and have been clicked by a user.
+            * Most Recommendation Viewed: This option can only be used after running a campaign with recommendation models, and it will fill your recommendation model with the products that were recommended before and have been viewed by a user.
+            * Most Recommended: This option can only be used after running a campaign with recommendation models, and it will fill your recommendation model with the most recommended products.
+            * Most Viewed: This option will add the most viewed products to your recommendation model
           * In the past hours: Set a number of hours in the past to consider the activity collected during the period for adding products to the recommendation model.
 4. Click on <img src="../../.gitbook/assets/image (54).png" alt="" data-size="line"> to save your source.
 
