@@ -29,7 +29,7 @@
     * [Creatives Metrics](product-documentation/ad-server/ad-server-metrics/creatives-metrics.md)
     * [Ads Metrics](product-documentation/ad-server/ad-server-metrics/ads-metrics.md)
     * [Page Load Metrics](product-documentation/ad-server/ad-server-metrics/page-load-metrics.md)
-  * [Ad Serving Billing](product-documentation/ad-server/ad-serving-billing.md)
+  * [Ad Server Billing](product-documentation/ad-server/ad-server-billing.md)
   * [Page Load Tracking Tag](product-documentation/ad-server/page-load-tracking-tag.md)
 * [Demand Side Platform (DSP)](product-documentation/demand-side-platform-dsp/README.md)
   * [Managing Campaigns](product-documentation/demand-side-platform-dsp/campaigns.md)

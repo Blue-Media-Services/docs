@@ -56,7 +56,7 @@ These are the features available on BMS.
 
 [Builds](product-documentation/ad-server/creative-builder/builds.md)
 
-[Ad Serving Billing](product-documentation/ad-server/ad-serving-billing.md)
+[Ad Serving Billing](product-documentation/ad-server/ad-server-billing.md)
 
 </details>
 
