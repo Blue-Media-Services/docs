@@ -127,9 +127,9 @@ After reviewing all of your ad creation process, click on <img src="../../../.gi
 
 ## Editing an Ad
 
-If you need to make any necessary changes, click on <img src="../../../.gitbook/assets/image (157).png" alt="" data-size="line"> on the ad and you will be able to edit the name and tags for your ad.
+If you need to make any necessary changes, click on <img src="../../../.gitbook/assets/image (157) (1).png" alt="" data-size="line"> on the ad and you will be able to edit the name and tags for your ad.
 
-<figure><img src="../../../.gitbook/assets/image (158).png" alt=""><figcaption><p>Editing an Ad</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (158) (1).png" alt=""><figcaption><p>Editing an Ad</p></figcaption></figure>
 
 After making changes, click on <img src="../../../.gitbook/assets/image (144) (1).png" alt="Save" data-size="line">.
 
@@ -139,11 +139,11 @@ For an Ad to work, it is necessary to create a rule, you will decide when the ad
 
 To start creating an Ad rule, select an ad and move to the <img src="../../../.gitbook/assets/image (145) (1).png" alt="Rules" data-size="line"> tab.
 
-<figure><img src="../../../.gitbook/assets/image (146).png" alt=""><figcaption><p>Rules</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (146) (1).png" alt=""><figcaption><p>Rules</p></figcaption></figure>
 
-To create a rule, click on <img src="../../../.gitbook/assets/image (147).png" alt="Add Rule" data-size="line">
+To create a rule, click on <img src="../../../.gitbook/assets/image (147) (1).png" alt="Add Rule" data-size="line">
 
-<figure><img src="../../../.gitbook/assets/image (148).png" alt="" width="529"><figcaption><p>Editing Rules</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (148) (1).png" alt="" width="529"><figcaption><p>Editing Rules</p></figcaption></figure>
 
 On your rule creation, you will be able to select the time frame in which your ad will be displayed.
 
@@ -154,25 +154,25 @@ On your rule creation, you will be able to select the time frame in which your a
 
 After making all necessary customizations, click on <img src="../../../.gitbook/assets/image (144) (1).png" alt="Save" data-size="line">.
 
-<figure><img src="../../../.gitbook/assets/image (149).png" alt=""><figcaption><p>Rules Configured</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (149) (1).png" alt=""><figcaption><p>Rules Configured</p></figcaption></figure>
 
-Once you configure your rule, a week preview will be shown as well as the hours per week that your ad will be displayed. To make any necessary changes, click on ![](<../../../.gitbook/assets/image (150).png>) and you will be able to make changes.
+Once you configure your rule, a week preview will be shown as well as the hours per week that your ad will be displayed. To make any necessary changes, click on ![](<../../../.gitbook/assets/image (150) (1).png>) and you will be able to make changes.
 
 {% hint style="info" %}
 If you do not change the rule, the platform will understand that your creative will run during the campaign period, on all days of the week, and at any time. This area allows you to create periods for Ads to run within the same campaign, as well as their times and days of the week.
 {% endhint %}
 
-You can create multiple rules for the same Ad, and enable or disable them as you wish. Just flip the<img src="../../../.gitbook/assets/image (151).png" alt="Toggle" data-size="line"> to decide which rules will be used.
+You can create multiple rules for the same Ad, and enable or disable them as you wish. Just flip the<img src="../../../.gitbook/assets/image (151) (1).png" alt="Toggle" data-size="line"> to decide which rules will be used.
 
 Example: _Let's say that in the first half of the month, you have a promotion for a 10% discount on products and in the second half of the month for a 20% discount. You could create two Ads with different creatives and create a period rule so that the platform makes this change automatically for you, without the need to create two different campaigns;_
 
 ## Exchange Reviews
 
-Once you create your ads, it is necessary for certain exchanges to review your ad in order to display it on their inventory, you can check your exchange review status by clicking on <img src="../../../.gitbook/assets/image (152).png" alt="Exchange Reviews" data-size="line">.
+Once you create your ads, it is necessary for certain exchanges to review your ad in order to display it on their inventory, you can check your exchange review status by clicking on <img src="../../../.gitbook/assets/image (152) (1).png" alt="Exchange Reviews" data-size="line">.
 
-<figure><img src="../../../.gitbook/assets/image (153).png" alt=""><figcaption><p>Exchange Reviews</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (153) (1).png" alt=""><figcaption><p>Exchange Reviews</p></figcaption></figure>
 
-If you did not check the Send for Review on your Ad creation, you will be able to send your ad for review by clicking on <img src="../../../.gitbook/assets/image (154).png" alt="Send" data-size="line">.
+If you did not check the Send for Review on your Ad creation, you will be able to send your ad for review by clicking on <img src="../../../.gitbook/assets/image (154) (1).png" alt="Send" data-size="line">.
 
 Should your ad review fail for any reason, you can check more details [here](ad-exchange-review.md) on how to correctly identify the error and how to fix it.
 

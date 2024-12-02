@@ -76,25 +76,25 @@ These data will **only** be displayed if there is an event pipe sending data to 
 
 ### Downloading your Event Streams
 
-You are able to download your event streams by clicking on ![](../../.gitbook/assets/image.png) at the same row as the event stream you want to download. There are two formats of files available:
+You are able to download your event streams by clicking on ![](<../../.gitbook/assets/image (6).png>) at the same row as the event stream you want to download. There are two formats of files available:
 
 #### JSON-line
 
 The JSON-line format offers a raw and unfiltered view of the event stream, capturing all relevant information as events occur. This format ensures that no data is left out, giving you complete visibility into each transaction for detailed analysis or integration into custom workflows.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>JSON-line</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (16).png" alt=""><figcaption><p>JSON-line</p></figcaption></figure>
 
-Select this format and then click on <img src="../../.gitbook/assets/image (3).png" alt="" data-size="line"> to download your event stream.
+Select this format and then click on <img src="../../.gitbook/assets/image (3) (12).png" alt="" data-size="line"> to download your event stream.
 
 #### CSV
 
 The CSV format provides a customizable and organized view of the event stream, enabling you to choose specific data fields for export. This format makes the data easier to analyze in spreadsheet applications or reporting tools while retaining essential information needed for insights into advertising performance and activity.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>CSV</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (9).png" alt=""><figcaption><p>CSV</p></figcaption></figure>
 
-It is possible to add or remove columns to your CSV file. To add a column click on <img src="../../.gitbook/assets/image (6).png" alt="" data-size="line">, and then fill in the details:
+It is possible to add or remove columns to your CSV file. To add a column click on <img src="../../.gitbook/assets/image (6) (11).png" alt="" data-size="line">, and then fill in the details:
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Add Column</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (10).png" alt=""><figcaption><p>Add Column</p></figcaption></figure>
 
 * Label - Inform the desired label for the column
 * Read Data From - Inform the parameter from where you want to read data

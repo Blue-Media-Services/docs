@@ -61,6 +61,7 @@
 * [Identity Access Management (IAM)](product-documentation/identity-access-management-iam/README.md)
   * [Users](product-documentation/identity-access-management-iam/users.md)
   * [Groups](product-documentation/identity-access-management-iam/groups.md)
+  * [API Keys](product-documentation/identity-access-management-iam/api-keys.md)
 * [Media](product-documentation/media/README.md)
   * [Media Metrics](product-documentation/media/media-metrics.md)
   * [Media Billing](product-documentation/media/media-billing.md)
