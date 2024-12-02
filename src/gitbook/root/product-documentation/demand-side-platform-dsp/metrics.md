@@ -32,7 +32,7 @@ After selecting a campaign and a period, you will be presented with an overview 
 
 It is also possible to check the top domains, countries and regions for each campaign through the Overview tab. It presents the most relevant metrics and shows how each one is performing, providing you with valuable data to make strategic decisions.
 
-<figure><img src="../../.gitbook/assets/image (366).png" alt=""><figcaption><p>Ranking Display</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (366) (1).png" alt=""><figcaption><p>Ranking Display</p></figcaption></figure>
 
 ## Campaign Metrics
 

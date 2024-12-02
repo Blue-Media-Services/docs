@@ -60,6 +60,10 @@ To archive a media click on <img src="../../.gitbook/assets/image (9) (4).png" a
 
 To unarchive a media, click on <img src="../../.gitbook/assets/image (11) (4).png" alt="Unarchive" data-size="line"> and your media will be back in the active media library.
 
+### Bulk Actions
+
+If you prefer to take action in bulk, you can select a list of media and then click on <img src="../../.gitbook/assets/image (15) (4).png" alt="Bulk Actions" data-size="line"> to **archive** or **delete** media in bulk.
+
 ### Deleting a Media
 
 You can delete a media by clicking on <img src="../../.gitbook/assets/image (12) (4).png" alt="Delete" data-size="line">, a confirmation screen will be displayed and after pressing ![](<../../.gitbook/assets/image (14) (4).png>), your media will be permanently deleted.
@@ -69,7 +73,3 @@ You can delete a media by clicking on <img src="../../.gitbook/assets/image (12)
 {% hint style="danger" %}
 _Attention! We advise users to archive media instead of deleting, this action cannot be undone and you will lose your file if you do not have a backup file, the previously collected metrics data will be deleted as well._
 {% endhint %}
-
-### Bulk Actions
-
-If you prefer to take action in bulk, you can select a list of media and then click on <img src="../../.gitbook/assets/image (15) (4).png" alt="Bulk Actions" data-size="line"> to **archive** or **delete** media in bulk.

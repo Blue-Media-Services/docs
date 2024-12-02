@@ -22,7 +22,7 @@ After creating an account on GTM, you must install the GTM code on your website 
 
 Click on the container ID to open the GTM installation instructions. There are two snippets of code that must be installed on your website: the first goes into the `<head>`, and the second into the `<body>.`
 
-<figure><img src="../.gitbook/assets/image (1) (15).png" alt=""><figcaption><p>GTM Install Instructions</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (15) (1).png" alt=""><figcaption><p>GTM Install Instructions</p></figcaption></figure>
 
 After installing the GTM codes, you will be able to test your website to ensure the installation was done correctly.
 
@@ -32,7 +32,7 @@ Setting up triggers is crucial for monitoring specific actions or events on your
 
 You can set up triggers on the Triggers page or while creating or editing a tag.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Triggers Page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (10).png" alt=""><figcaption><p>Triggers Page</p></figcaption></figure>
 
 GTM provides several types of triggers to capture different user actions. Here are the most commonly used ones in e-commerce tracking:
 
@@ -58,7 +58,7 @@ _**Example 1:**_ _Setting Up an Add-to-Cart Trigger_
 
     <figure><img src="../.gitbook/assets/image (385).png" alt=""><figcaption><p>Trigger Configuration </p></figcaption></figure>
 
-    * Click on <img src="../.gitbook/assets/image (3).png" alt="" data-size="line"> and then <img src="../.gitbook/assets/image (4).png" alt="" data-size="original"> to start setting up your trigger.
+    * Click on <img src="../.gitbook/assets/image (3) (11).png" alt="" data-size="line"> and then <img src="../.gitbook/assets/image (4) (8).png" alt="" data-size="original"> to start setting up your trigger.
     * Select Click - All Elements if the button isn’t a link, or Click - Just Links if it’s a link.
     * Under Trigger Type, choose Some Clicks.
     * Set the conditions to match the button’s selector or ID. For instance:
@@ -77,7 +77,7 @@ _**Example 2:** Setting Up a Purchase Trigger_
 
     <figure><img src="../.gitbook/assets/image (386).png" alt=""><figcaption><p>Trigger Configuration</p></figcaption></figure>
 
-    * Click on <img src="../.gitbook/assets/image (3).png" alt="" data-size="line"> and then <img src="../.gitbook/assets/image (4).png" alt="" data-size="original"> to start setting up your trigger.
+    * Click on <img src="../.gitbook/assets/image (3) (11).png" alt="" data-size="line"> and then <img src="../.gitbook/assets/image (4) (8).png" alt="" data-size="original"> to start setting up your trigger.
     * Choose Page View as the trigger type.
     * Select Some Page Views.
     * Set the condition to match the Thank You page URL:
@@ -104,7 +104,7 @@ _**Example 3:** Using a Custom Event Trigger for Advanced Actions_
 
     <figure><img src="../.gitbook/assets/Captura de tela 2024-11-05 121903.png" alt=""><figcaption><p>Custom Event Trigger</p></figcaption></figure>
 
-    * Click on <img src="../.gitbook/assets/image (3).png" alt="" data-size="line"> and then <img src="../.gitbook/assets/image (4).png" alt="" data-size="original"> to start setting up your trigger.
+    * Click on <img src="../.gitbook/assets/image (3) (11).png" alt="" data-size="line"> and then <img src="../.gitbook/assets/image (4) (8).png" alt="" data-size="original"> to start setting up your trigger.
     * Select Custom Event as the trigger type.
     * In the Event Name field, enter the event name used in the `dataLayer.push`, like `addToCart`.
     * Save this trigger as an Add to Cart Custom Event Trigger.
@@ -207,7 +207,7 @@ There are many things you can accomplish using tags. GTM offers several types of
 ## Additional Information
 
 Each e-commerce site or website has its own particularities. To configure Google Tag Manager correctly, it is important to be aware of these details. You can learn more about some of these e-commerce platforms in the links below:\
-[How to use GTM on Nuvemshop](https://atendimento.nuvemshop.com.br/pt\_BR/12313-codigos-externos/como-instalar-google-tag-manager-gtm-na-nuvemshop)
+[How to use GTM on Nuvemshop](https://atendimento.nuvemshop.com.br/pt_BR/12313-codigos-externos/como-instalar-google-tag-manager-gtm-na-nuvemshop)
 
 [How to use GTM on Shopfy](https://help.shopify.com/en/manual/promoting-marketing/pixels/custom-pixels/gtm-tutorial)
 

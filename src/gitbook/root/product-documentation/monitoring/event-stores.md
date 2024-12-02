@@ -14,7 +14,7 @@ layout:
 
 # Event Stores
 
-In our Event Stores tab, you can create a store that acts as a database for storing events. You will be able to create a store where your event pipes will be sent. You can then download the events as a .JSON file and import that to your data management file to better organize it.
+In our Event Stores tab, you can create a store that acts as a database for storing events. You will be able to create a store where your event pipes will be sent. You can then download the events as a JSON file and import that to your data management file to organize it better.
 
 <figure><img src="../../.gitbook/assets/image (29) (2).png" alt="" width="563"><figcaption><p>Event Stores Tab</p></figcaption></figure>
 
@@ -34,15 +34,11 @@ After configuring your event store, click on <img src="../../.gitbook/assets/ima
 
 To enable an event store simply flip the toggle <img src="../../.gitbook/assets/image (33) (2).png" alt="Toggle" data-size="line"> and your event store will be enabled.
 
-<div align="center">
-
-<figure><img src="../../.gitbook/assets/image (34) (2).png" alt="" width="148"><figcaption><p>Event Store Enabled</p></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (34) (2).png" alt="" width="148"><figcaption><p>Event Store Enabled</p></figcaption></figure></div>
 
 ### Editing your Event Store
 
-To edit your event store, click on <img src="../../.gitbook/assets/image (35) (2).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes and then click on <img src="../../.gitbook/assets/image (32) (2).png" alt="Save" data-size="line">.
+To edit your event store, click on <img src="../../.gitbook/assets/image (35) (2).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes, and then click on <img src="../../.gitbook/assets/image (32) (2).png" alt="Save" data-size="line">.
 
 <figure><img src="../../.gitbook/assets/image (36) (2).png" alt="" width="360"><figcaption><p>Edit Event Store Screen</p></figcaption></figure>
 
@@ -50,7 +46,7 @@ To edit your event store, click on <img src="../../.gitbook/assets/image (35) (2
 
 When selecting two or more event stores, the Bulk Actions will be enabled, allowing you to make actions in bulk.
 
-You will be capable of Archiving, Deleting, Enabling and Disabling events in bulk.
+You will be capable of Archiving, Deleting, Enabling, and Disabling events in bulk.
 
 <figure><img src="../../.gitbook/assets/image (1) (8).png" alt=""><figcaption><p>Event Stores' Bulk Actions</p></figcaption></figure>
 
@@ -76,17 +72,43 @@ Once you create your event stores and pipes, all triggered events will be presen
 
 These data will **only** be displayed if there is an event pipe sending data to an event store.
 
-<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption><p>Event Streams Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-11-28 072309.png" alt=""><figcaption><p>Event Streams Tab</p></figcaption></figure>
+
+### Downloading your Event Streams
+
+You are able to download your event streams by clicking on ![](../../.gitbook/assets/image.png) at the same row as the event stream you want to download. There are two formats of files available:
+
+#### JSON-line
+
+The JSON-line format offers a raw and unfiltered view of the event stream, capturing all relevant information as events occur. This format ensures that no data is left out, giving you complete visibility into each transaction for detailed analysis or integration into custom workflows.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>JSON-line</p></figcaption></figure>
+
+Select this format and then click on <img src="../../.gitbook/assets/image (3).png" alt="" data-size="line"> to download your event stream.
+
+#### CSV
+
+The CSV format provides a customizable and organized view of the event stream, enabling you to choose specific data fields for export. This format makes the data easier to analyze in spreadsheet applications or reporting tools while retaining essential information needed for insights into advertising performance and activity.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>CSV</p></figcaption></figure>
+
+It is possible to add or remove columns to your CSV file. To add a column click on <img src="../../.gitbook/assets/image (6).png" alt="" data-size="line">, and then fill in the details:
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Add Column</p></figcaption></figure>
+
+* Label - Inform the desired label for the column
+* Read Data From - Inform the parameter from where you want to read data
+* Default Value - Fill this with a default value for the column, this field is optional.
+
+To remove a column, select it in the list and then click at ![](<../../.gitbook/assets/image (7).png>).
+
+After finishing your settings, click on <img src="../../.gitbook/assets/image (8).png" alt="" data-size="line"> to download your CSV file.
 
 ### Bulk Actions
 
-You can choose multiple event streams by checking the <img src="../../.gitbook/assets/image (133).png" alt="Checkbox" data-size="line">, after choosing more than one event, you can click on <img src="../../.gitbook/assets/image (135).png" alt="Bulk Actions" data-size="line"> and you will be able to download and delete all checked events.
+You can select multiple event streams by checking the <img src="../../.gitbook/assets/image (133).png" alt="Checkbox" data-size="line">, after selecting more than one event, the bulk options will enable, you can download the selected event streams by clicking on <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line">, and selecting one of the file formats available.
 
-<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption><p>Bulk Actions Menu</p></figcaption></figure>
-
-### Downloading your Events
-
-To download an event, click on <img src="../../.gitbook/assets/image (137).png" alt="Download" data-size="line"> and your event will be automatically downloaded as a .JSON file, enabling you to send this data to your data management tool.
+It's also possible to bulk delete your event streams, click on <img src="../../.gitbook/assets/image (10).png" alt="" data-size="line">, then select delete, and confirm the deletion when it is asked.
 
 ### Deleting Event Streams
 
@@ -97,5 +119,5 @@ To delete an event, click on ![](<../../.gitbook/assets/image (138).png>) and a 
 After clicking on <img src="../../.gitbook/assets/image (140).png" alt="Delete" data-size="line">, your event data will be permanently deleted.
 
 {% hint style="danger" %}
-_Attention! If you delete an event stream data, it is not possible to restore that data._
+_Attention! Be careful when deleting event streams, this action cannot be undone, meaning, your data is permanently removed._
 {% endhint %}

@@ -80,7 +80,7 @@ This cost is associated with the operational expense of placing bids. Each time 
 
 When using Dynamic Banners, you will be charged for using the API call for a recommendation, due to having an operation cost of linking your targets to a recommendation, if a campaign is not using Dynamic Banners, there will be no costs.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Budget Spent with Recommendations Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (366).png" alt=""><figcaption><p>Budget Spent with Recommendations Metric</p></figcaption></figure>
 
 **Example:** On this metric, it is noticed that the budget spent was over $0.05 up to $0.08 every 12 hours, which value is deducted from the campaign's daily budget.
 
