@@ -14,7 +14,7 @@ The API Keys are available on the permissions page, to access it click on your a
 
 ### Creating an API Key
 
-It's possible to [create new API Keys](api-keys.md#create-new-api-keys) and it is also possible to [link an existing API Key](api-keys.md#link-existing-api-key).
+It is possible to [Create New API Keys](api-keys.md#create-new-api-keys) and it is also possible to [Link an Existing API Key](api-keys.md#link-existing-api-key).
 
 #### Create new API Keys
 
@@ -41,7 +41,7 @@ By linking an existing API Key, you will grant access to your account for the li
 {% endhint %}
 
 1. Click on <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> to add an API Key.
-2.  Select Link existing API Key, then fill in the details
+2.  Select **Link existing API Key**, then fill in the details
 
     <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Linking an Existing API</p></figcaption></figure>
 
