@@ -21,7 +21,7 @@ Built on web design languages, Blueprints offer the flexibility of creating dyna
 
 ## Managing Blueprints
 
-<figure><img src="../../../.gitbook/assets/image (19) (7).png" alt=""><figcaption><p>Blueprints List</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2024-12-05 072802.png" alt=""><figcaption><p>Blueprints List</p></figcaption></figure>
 
 You will have some public blueprint models available for use, so even if you are not familiar with web development languages, you'll be able to create and use blueprints easily. You can also create a blueprint with your parameters by coding it; however, this option might require web development skills.
 

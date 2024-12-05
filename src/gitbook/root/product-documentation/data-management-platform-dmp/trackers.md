@@ -4,7 +4,7 @@ Trackers are small scripts placed on your websites' codes to gather data on your
 
 ## Managing Trackers
 
-<figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption><p>Trackers list</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-12-05 074113.png" alt=""><figcaption><p>Trackers list</p></figcaption></figure>
 
 ### Creating a Tracker
 

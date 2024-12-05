@@ -26,7 +26,7 @@ After filling in all fields, click on ![](<../../.gitbook/assets/image (253).png
 
 This will be your view after successfully creating a campaign.
 
-<figure><img src="../../.gitbook/assets/image (239).png" alt=""><figcaption><p>Campaigns List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-12-05 073504.png" alt=""><figcaption><p>Campaigns List</p></figcaption></figure>
 
 ### Configuring your Campaign
 
@@ -48,11 +48,7 @@ If this notice appears in the status of your creative, ad, or campaign, it means
 
 To enable your campaign simply flip the Enable toggle.
 
-<div align="center">
-
-<figure><img src="../../.gitbook/assets/image (1) (4).png" alt="" width="269"><figcaption><p>Campaign Enabled</p></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (1) (4).png" alt="" width="269"><figcaption><p>Campaign Enabled</p></figcaption></figure></div>
 
 ### Duplicating your Campaign
 
