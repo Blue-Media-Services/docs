@@ -59,6 +59,19 @@ If you own an organization, you will see the charges for each account, with the 
 
 <figure><img src="../.gitbook/assets/image (306).png" alt=""><figcaption><p>Charges per Account Detailed</p></figcaption></figure>
 
+## Free Tiers
+
+On BMS, most services include a certain amount of free usage. After exceeding the established free tier, charges will apply. For example, most requests allow up to 1,000 free requests; beyond that, additional charges will be incurred for every subsequent 1,000 requests.
+
+When creating a campaign, some features include free tiers related to storage, allowing you to run basic campaigns without costs for certain storage items. The details of the free tier are as follows:
+
+* **DSP**&#x20;
+  * **Campaigns:** 5 Campaigns per month (3,600 campaigns-hour) - Free
+* **Ad Server**
+  * **Ads Stored**: Up to 30 ads per month (21,600 ad-hours) - Free
+  * **Creative Groups Stored:** Up to 30 creative groups per month (21,600 creative-group-hours) - Free
+  * **Creative Stored:** Up to 30 creatives per month (21,600 creative-hours) - Free
+
 ## Usage Models
 
 The BMS has two types of usage: **Discrete Billing** and **Continuous Billing**.
