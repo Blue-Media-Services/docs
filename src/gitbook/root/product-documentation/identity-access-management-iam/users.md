@@ -6,15 +6,15 @@ This feature allows you to share your BMS account with your partners and colleag
 
 ## Managing Users
 
-1. Click on <img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> to add a new user.
+1. Click on <img src="../../.gitbook/assets/image (1) (1) (3).png" alt="" data-size="line"> to add a new user.
 2.  Fill in the details:\
 
 
-    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
     * E-mail: Inform the e-mail to which you will grant access to your account.
     * Access: Include this user in a group and/or attach some policies to define what this user can have access to.
-      1. Groups: You can select a previously created group and include users in this group, it's also possible to create groups directly from this form, by clicking on <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> and then on <img src="../../.gitbook/assets/image (4) (1).png" alt="" data-size="line">. To learn more about how to manage your groups, access our [Groups](groups.md) article.
+      1. Groups: You can select a previously created group and include users in this group, it's also possible to create groups directly from this form, by clicking on <img src="../../.gitbook/assets/image (3) (1) (3).png" alt="" data-size="line"> and then on <img src="../../.gitbook/assets/image (4) (1) (4).png" alt="" data-size="line">. To learn more about how to manage your groups, access our [Groups](groups.md) article.
       2.  Policies: You can attach policies to your users to define what they will have access to, click on <img src="../../.gitbook/assets/image (6) (10).png" alt="" data-size="line"> to open the policies selector, search for the policy you will attach to this user, select it and then click on <img src="../../.gitbook/assets/image (7) (10).png" alt="" data-size="line"> to confirm your selection. \
           Each policy grants access to unique features. These policies are named after the features they provide access to and are based on two modes: full access, which allows the user to create, delete, or edit, and read-only, which permits only viewing access.\
 

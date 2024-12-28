@@ -18,19 +18,19 @@ It is possible to [Create New API Keys](api-keys.md#create-new-api-keys) and it 
 
 #### Create new API Keys
 
-1. Click on <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> to add an API Key
+1. Click on <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> to add an API Key
 2.  Select Create API Key, then fill in the details.
 
     <figure><img src="../../.gitbook/assets/Captura de tela 2024-10-08 100509.png" alt=""><figcaption><p>API Keys Editor</p></figcaption></figure>
 
     * Name: Set a name for your API Key.
     * Tags: Set tags for your organization.
-    * Policies: Set access policies that limit what this API Key grants access to, click on <img src="../../.gitbook/assets/image (2).png" alt="" data-size="original"> to add your policies. Every policy has a name and a description of what it gives access to. You can also create the API Key without selecting a policy.
+    * Policies: Set access policies that limit what this API Key grants access to, click on <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="original"> to add your policies. Every policy has a name and a description of what it gives access to. You can also create the API Key without selecting a policy.
 
     <figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption><p>Policies Selection Modal</p></figcaption></figure>
 
     * After selecting all the needed policies, click on <img src="../../.gitbook/assets/image (153).png" alt="" data-size="line"> to confirm your selection.
-3. Click on <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line"> to save your API Key.
+3. Click on <img src="../../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> to save your API Key.
 
 #### Link Existing API Key
 
@@ -40,15 +40,15 @@ This option allows you to link an existing API Key from another BMS account.&#x2
 By linking an existing API Key, you will grant access to your account for the linked API Key users. Use policies to control what can be done through this API Key.
 {% endhint %}
 
-1. Click on <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> to add an API Key.
+1. Click on <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> to add an API Key.
 2.  Select **Link existing API Key**, then fill in the details
 
-    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Linking an Existing API</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (10).png" alt=""><figcaption><p>Linking an Existing API</p></figcaption></figure>
 
     * API Key ID: Inform the API Key ID you want to link.
-    * Policies: Set access policies that limit what this API Key grants access to by clicking on <img src="../../.gitbook/assets/image (2).png" alt="" data-size="original"> to add your policies. Every policy requires a name and a description of the access it provides. When linking API Keys, at least one policy must be selected.
+    * Policies: Set access policies that limit what this API Key grants access to by clicking on <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="original"> to add your policies. Every policy requires a name and a description of the access it provides. When linking API Keys, at least one policy must be selected.
     * After selecting all the necessary policies, click on <img src="../../.gitbook/assets/image (153).png" alt="" data-size="line"> to confirm your selection.
-3. Click on <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line"> to save your API Key.
+3. Click on <img src="../../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> to save your API Key.
 
 ### Access Codes Tab
 
