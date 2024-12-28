@@ -16,6 +16,8 @@ layout:
 
 Every time we create a creative, creative group or Ad, the respective file will be uploaded to your media library, making it available for future use. In the library, you can manage your files.
 
+<figure><img src="../../.gitbook/assets/image (434).png" alt=""><figcaption><p>Media Library</p></figcaption></figure>
+
 ### Details
 
 When checking the Details Tab of each media, you will be provided with all information regarding that selected media.
@@ -36,7 +38,7 @@ For more details on how each metric works, check [here](media-metrics.md).
 
 ### Uploading a Media
 
-To upload media click on <img src="../../.gitbook/assets/image (118).png" alt="Upload Media" data-size="line">, you can then drop images to the screen or manually select files by browsing them.
+To upload media click on ![Upload Media](<../../.gitbook/assets/image (435).png>), you can then drop images to the screen or manually select files by browsing them.
 
 <figure><img src="../../.gitbook/assets/image (1) (5).png" alt="" width="539"><figcaption><p>Upload Media Screen</p></figcaption></figure>
 
@@ -44,7 +46,7 @@ After selecting all media that you want to upload, you have the option to rename
 
 <figure><img src="../../.gitbook/assets/image (2) (4).png" alt="" width="539"><figcaption><p>Selected Media</p></figcaption></figure>
 
-Then after customizing your media, click on <img src="../../.gitbook/assets/image (3) (4).png" alt="Save" data-size="line"> to finish your upload.
+Then after customizing your media, click on ![Save](<../../.gitbook/assets/image (436).png>) to finish your upload.
 
 ### Editing a media
 
@@ -52,7 +54,7 @@ You can alter your view between Grid and List view by selecting the <img src="..
 
 <figure><img src="../../.gitbook/assets/image (8) (4).png" alt=""><figcaption><p>Edit Media Screen</p></figcaption></figure>
 
-You can then edit the name and tags for each media, after making the necessary changes, click on  <img src="../../.gitbook/assets/image (3) (4).png" alt="Save" data-size="line">.
+You can then edit the name and tags for each media, after making the necessary changes, click on  ![Save](<../../.gitbook/assets/image (436).png>).
 
 ### Archiving and Unarchiving a Media
 

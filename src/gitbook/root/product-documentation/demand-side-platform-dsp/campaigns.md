@@ -32,7 +32,7 @@ This will be your view after successfully creating a campaign.
 
 To start configuring your Campaign, check the <img src="../../.gitbook/assets/image (6) (3).png" alt="Check Box" data-size="line"> of your desired campaign and your configuration tab will be displayed accordingly.
 
-<figure><img src="../../.gitbook/assets/image (240).png" alt=""><figcaption><p>Campaign Configuration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (438).png" alt=""><figcaption><p>Campaign Configuration</p></figcaption></figure>
 
 Configure your [Budget](budgets.md), [Targets](targets.md) and [Ads](managing-ads.md).
 
@@ -44,7 +44,7 @@ To enable your campaign, you **must** have at least one Target and Ad added to t
 If this notice appears in the status of your creative, ad, or campaign, it means that the material was not approved by the platform or ad exchanges. In this case, BMS will inform you of the issue in question (in detail) by hovering the cursor on the sign, and you can make the necessary adjustments before activation.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (254).png" alt=""><figcaption><p>Campaign</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (439).png" alt=""><figcaption><p>Campaign</p></figcaption></figure>
 
 To enable your campaign simply flip the Enable toggle.
 

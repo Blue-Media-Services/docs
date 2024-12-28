@@ -32,7 +32,7 @@ The billing data is editable as well, in this case, all the fields available are
 
 <figure><img src="../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption><p>Billing Contact Information Editor</p></figcaption></figure>
 
-You can edit your data by clicking on <img src="../../.gitbook/assets/image (6) (2).png" alt="" data-size="line"> in the section you need to edit, after finishing, click on<img src="../../.gitbook/assets/image (7) (2).png" alt="" data-size="line"> to save your changes.\
+You can edit your data by clicking on ![Edit](<../../.gitbook/assets/image (433).png>) in the section you need to edit, after finishing, click on![](<../../.gitbook/assets/image (253).png>) to save your changes.\
 
 
 ## Organization
@@ -41,15 +41,15 @@ The organization is a feature that allows you to better track your results and i
 
 Only the main account will have access to the organization settings, while the other accounts in the organization will have access only to their own data.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>Organization Page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (427).png" alt=""><figcaption></figcaption></figure>
 
-If you don't have an organization, this page will contain only a button that you can use to start creating your organization. Click on <img src="../../.gitbook/assets/image (9) (2).png" alt="Create Organization" data-size="line"> to create your organization. Set a name for your organization and then click on<img src="../../.gitbook/assets/image (21) (1).png" alt="" data-size="line"> to save it.
+If you don't have an organization, this page will contain only a button that you can use to start creating your organization. Click on ![Create Organization](<../../.gitbook/assets/image (428).png>) to create your organization. Set a name for your organization and then click on ![](<../../.gitbook/assets/image (253).png>) to save it.
 
 <figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption><p>Organization Editor</p></figcaption></figure>
 
-It's possible to edit your organization's name by clicking on <img src="../../.gitbook/assets/image (20) (2).png" alt="" data-size="line">, and then clicking on <img src="../../.gitbook/assets/image (21) (1).png" alt="" data-size="line"> to save your changes.
+It's possible to edit your organization's name by clicking on ![Edit Organization](<../../.gitbook/assets/image (432).png>), and then clicking on ![](<../../.gitbook/assets/image (253).png>) to save your changes.
 
-You can also add more accounts to your organization as you need. Click on <img src="../../.gitbook/assets/image (22) (1).png" alt="" data-size="line"> to create a new account, set a name and tags to make it easier to manage, and then click on <img src="../../.gitbook/assets/image (21) (1).png" alt="" data-size="line"> to save your changes.
+You can also add more accounts to your organization as you need. Click on ![Create Account](<../../.gitbook/assets/image (431).png>) to create a new account, set a name and tags to make it easier to manage, and then click on ![](<../../.gitbook/assets/image (253).png>) to save your changes.
 
 <figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -77,7 +77,7 @@ In the column action, you will find the adjust quota request button <img src="..
 
 <figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Service Quotas Adjustment Request</p></figcaption></figure>
 
-The editable values in the requests are the quota value and the reason for requesting this adjustment. After filling in these details, click on <img src="../../.gitbook/assets/image (26) (1).png" alt="" data-size="line"> to send your request to our support team. Our team will analyze your request, and if everything is in order, they will approve it.
+The editable values in the requests are the quota value and the reason for requesting this adjustment. After filling in these details, click on ![Request](<../../.gitbook/assets/image (429).png>) to send your request to our support team. Our team will analyze your request, and if everything is in order, they will approve it.
 
 There is a 'History' tab on the service quotas page. To view your requests, select the related service quotas from the service quotas list. In this tab, you'll be able to view your request history.:
 
@@ -96,7 +96,7 @@ You can visualize your request at any time, independently of its status, by clic
 Attention! This action cannot be undone, be careful when canceling requests, if you already are using the given extra quota, services relying on this might stop working.
 {% endhint %}
 
-It is also possible to cancel your requests by clicking on <img src="../../.gitbook/assets/image (31) (1).png" alt="" data-size="original"> and then <img src="../../.gitbook/assets/image (32) (1).png" alt="" data-size="line"> to confirm your action. If the requests were approved before you cancel it, the given quota will be redefined to the default values.
+It is also possible to cancel your requests by clicking on <img src="../../.gitbook/assets/image (31) (1).png" alt="" data-size="original"> and then ![Cancel](<../../.gitbook/assets/image (430).png>) to confirm your action. If the requests were approved before you cancel it, the given quota will be redefined to the default values.
 
 ## Account Restrictions
 
