@@ -27,20 +27,17 @@ _Import Channels can import data from HTTP, FTP or SFTP websites. Google Merchan
        * Catalog: Select the catalog you've created to receive the products on the feed.
        * When to create or update products: Set the period in which your products will be created or updated.
        * When to remove products:&#x20;
-         * Never: Created and updated products at the source will be modified and created in the catalog, however deleting products at the source will not delete these products from the catalog.
-         * Before each importation: All products will be deleted from the catalog before each importation and then the products existing on the source will be created in the catalog. Beware! The catalog will be empty until the importation's conclusion, so the ad banners generated during this period might be empty. All product metrics will be preserved.
-         * &#x20;Hours after being imported: Set how long after the importation the products must be deleted from the catalog if not re-imported. As long as the import interval is shorter than the product expiration, the catalog will not be empty. All product metrics are preserved.
+         * Never: Products created or updated at the source will be modified or added to the catalog. However, products deleted at the source will not be removed from the catalog.
+         * Before each importation: All products will be deleted from the catalog before each import process. Then, products that exist at the source will be added to the catalog.\
+           &#xNAN;_&#x42;eware!_ The catalog will remain empty until the importation is completed, which might result in empty ad banners during this period. All product metrics will be preserved.
+         * Hours after being imported: Define how long after importation products should remain in the catalog if not re-imported. As long as the import frequency is shorter than the product expiration time, the catalog will not become empty. All product metrics will be preserved.
     2.  Source Tab\
         This tab contains the source details related to your import channel, use the examples to help you fill in these details according to your source option.
 
-        * Protocol: Select the protocol of your source and fill the details according to your choice.
+        * Protocol: Select the protocol of your source and fill in the details according to your choice.
           1.  HTTP:
 
-              <div align="center" data-full-width="false">
-
-              <figure><img src="../../.gitbook/assets/Captura de tela 2024-08-27 121710.png" alt=""><figcaption><p>Source Tab - HTTP</p></figcaption></figure>
-
-              </div>
+              <div align="center" data-full-width="false"><figure><img src="../../.gitbook/assets/Captura de tela 2024-08-27 121710.png" alt=""><figcaption><p>Source Tab - HTTP</p></figcaption></figure></div>
 
               * URL: Inform your feed's URL
           2.  SFTP and FTP:
@@ -86,6 +83,22 @@ _Import Channels can import data from HTTP, FTP or SFTP websites. Google Merchan
         <figure><img src="../../.gitbook/assets/Captura de tela 2024-09-18 145710.png" alt=""><figcaption><p>Mapping Test Result</p></figcaption></figure>
 
         * Click on <img src="../../.gitbook/assets/image (364).png" alt="" data-size="line"> to proceed.
+    4.  Filters Tab\
+        In this tab, you will be able to set filters to select the products that you need to import. This can be useful for reducing the costs of import jobs by importing only the products you need.
+
+        * Path: Inform a path value, such as one of the feed column labels.
+        * Operator: Select one of the operator values, this value will establish the filter.
+        * Value: Inform the value you need to filter from your catalog's feed, such as a brand name, or range of product ids.
+        * After filling out the fields, you will also need to input the same data into the displayed template. You must change only the values you are filtering, otherwise, it will not work properly.
+
+        You can add as many filters as necessary by clicking on <img src="../../.gitbook/assets/image (441).png" alt="" data-size="original">, and also remove them by clicking on ![](<../../.gitbook/assets/image (442).png>) at the same row as the filter you want to delete.
+
+
+
+        <figure><img src="../../.gitbook/assets/Captura de tela 2024-12-19 110001.png" alt=""><figcaption><p>Filters Tab</p></figcaption></figure>
+
+        * _**Example 1**:_&#x20;_&#x20;In this picture, you will notice that a filter was established using the description column of the feed file as a reference for the path, the chosen operator was 'Contains', and the Value was 'Cerdo', meaning that this import channel will only import products that contain the word 'Cerdo' in their description. You will also notice that on the template, the content of the line 'description' was modified to match the filter value._
+        * _**Example 2**: You will also notice a filter using the 'url' column as a reference for the path; this one was manually added. To manually add new columns to your filters, they must be present in your feed's mapping too. You also need to respect the template semantics: columns are comma-separated, and a colon is used to separate a column label from its value. Column labels and values must be declared between quotation marks._
 3. Once you have finished the steps above, check your settings to ensure everything is correct, then click on <img src="../../.gitbook/assets/image (15) (6) (1).png" alt="" data-size="line"> to save your Import Channel.
 4.  Click on <img src="../../.gitbook/assets/image (2) (1) (2) (1).png" alt="" data-size="original"> to start a manual job for importing your products:\
 
