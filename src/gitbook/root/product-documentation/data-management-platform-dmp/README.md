@@ -22,4 +22,4 @@ A Cookie Pool is a collection or database of users' cookies. Cookies are tiny pi
 
 ## Trackers
 
-Use trackers to gather data about your website's audience's online behavior and configure events and actions to create recommendation models based on this data, allowing you to run retargeting campaigns. [Learn more about Trackers](trackers.md).
+Use trackers to gather data about your website's audience's online behavior and configure events and actions to create recommendation models based on this data, allowing you to run retargeting campaigns. [Learn more about Trackers](trackers/).
