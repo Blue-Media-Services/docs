@@ -106,7 +106,9 @@ After finishing your settings, click on ![Download](<../../.gitbook/assets/image
 
 ### Bulk Actions
 
-You can select multiple event streams by checking the <img src="../../.gitbook/assets/image (133).png" alt="Checkbox" data-size="line">, after selecting more than one event, the bulk options will enable, you can download the selected event streams by clicking on <img src="../../.gitbook/assets/image (9) (10).png" alt="" data-size="line">, and selecting one of the file formats available.
+You can select multiple event streams by checking the <img src="../../.gitbook/assets/image (133).png" alt="Checkbox" data-size="line">, after selecting more than one event, the bulk options will enable, you can download the selected event streams by clicking on <img src="../../.gitbook/assets/image (9) (10).png" alt="" data-size="line">, and selecting one of the file formats available.&#x20;
+
+In order to bulk download event streams you can either select up to 100 individual event streams or select all the event streams.
 
 It's also possible to bulk delete your event streams, click on <img src="../../.gitbook/assets/image (10).png" alt="" data-size="line">, then select delete, and confirm the deletion when it is asked.
 
