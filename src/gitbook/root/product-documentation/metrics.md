@@ -49,15 +49,7 @@ Some services will have more than one way to group the displayed data, for examp
 
 This feature of the metrics' tabs allows you to define a time frame and a period for visualizing the data collected in this time frame.&#x20;
 
-<div align="center">
-
-<figure><img src="../.gitbook/assets/image (119).png" alt=""><figcaption><p>Metrics Tab - Period</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Captura de tela 2024-05-16 081812.png" alt=""><figcaption><p>Metrics Tab - Time Frame</p></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../.gitbook/assets/image (119).png" alt=""><figcaption><p>Metrics Tab - Period</p></figcaption></figure> <figure><img src="../.gitbook/assets/Captura de tela 2024-05-16 081812.png" alt=""><figcaption><p>Metrics Tab - Time Frame</p></figcaption></figure></div>
 
 We can select a time frame to visualize the data gathered by the utilized services within that period. To define a time frame, click on the button that represents the desired period or use the calendar button to set a custom time frame.
 
@@ -69,9 +61,8 @@ To update your results click on the refresh button <img src="../.gitbook/assets/
 
 Coming up next, there are products that include the metrics service. To learn more about the metrics associated with each product, refer to the content below based on your product of interest:
 
-* [Ad Server Metrics](ad-server/ad-server-metrics/ads-metrics.md)
-* [DSP Metrics](demand-side-platform-dsp/metrics.md)
+* [Ad Server Metrics](ad-server/ad-server-metrics.md)
+* [DSP Metrics](demand-side-platform-dsp/dsp-metrics.md)
 * [DMP Metrics](data-management-platform-dmp/dmp-metrics/)
 * [CS2 Metrics](catalog-storage-service-cs2/cs2-metrics/)
 * [Monitoring Metrics](monitoring/monitoring-metrics/)
-* [Page Load Metrics](ad-server/ad-server-metrics/page-load-metrics.md)

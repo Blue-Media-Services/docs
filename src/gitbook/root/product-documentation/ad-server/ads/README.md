@@ -194,9 +194,39 @@ To see all archived ads simply turn on the <img src="../../../.gitbook/assets/ar
 
 ### Metrics Tab
 
-The metrics tab will display all metrics related to the selected ads or for the whole account if no ads are selected.
+The metrics tab will display all metrics related to the selected ads or for the whole account if no ads are selected.&#x20;
 
-Learn more about the [metrics tab](../ad-server-metrics/ads-metrics.md).
+Since the group by feature is available for this metrics tab you will also be able to Group your metrics by:
+
+* Ad - See the performance of each ad separately.
+* Rule - Check which rule is working better for your ads, making it easy to make adjustments.
+* Creative Group - See which creative group is performing better and create strategies accordingly.
+* Exchange - Check the performance of an Ad Exchange and make adjustments based on that data.
+
+Find below all metrics available for your Ads.
+
+* [Deliveries & Delivery Rate](../ad-server-metrics.md#deliveries-and-delivery-rate)
+* [Displays & Display Rate](../ad-server-metrics.md#displays-and-display-rate)
+* [Impressions](../../demand-side-platform-dsp/dsp-metrics.md#impressions)
+* [Impression Price](../../demand-side-platform-dsp/dsp-metrics.md#impression-price)
+* [Views](../ad-server-metrics.md#views)
+* [Viewability](../ad-server-metrics.md#viewability)
+* [Clicks and CTR](../ad-server-metrics.md#clicks-and-ctr)
+* [CPM](../../demand-side-platform-dsp/dsp-metrics.md#cpm)
+* [CPC](../../demand-side-platform-dsp/dsp-metrics.md#cpc)
+* [Time to Display](../ad-server-metrics.md#time-to-display)
+* [Time to Click](../ad-server-metrics.md#time-to-click)
+* [Time to Page Load](../ad-server-metrics.md#time-to-page-load)
+* [Time to View](../ad-server-metrics.md#time-to-view)
+* [Page Loads](../ad-server-metrics.md#page-loads)
+* [Page Load Rate](../ad-server-metrics.md#page-load-rate)
+* [Click to Page Load Rate](../ad-server-metrics.md#click-to-page-load-rate)
+* [Cost per Page Load](../../demand-side-platform-dsp/dsp-metrics.md#cost-per-page-load)
+* [Bids & Bid Win Rate](../../demand-side-platform-dsp/dsp-metrics.md#bids-and-bid-win)
+* [Bid Price Effective](../../demand-side-platform-dsp/dsp-metrics.md#bid-price-effective)
+* [Budget Spent](../../demand-side-platform-dsp/dsp-metrics.md#budget-spent)
+* [Budget Spent on Impressions](../../demand-side-platform-dsp/dsp-metrics.md#budget-spent-on-impressions)
+* [Budget Spent on Deliveries](../../demand-side-platform-dsp/dsp-metrics.md#budget-spent-on-deliveries)
 
 ### Real Time Tab
 

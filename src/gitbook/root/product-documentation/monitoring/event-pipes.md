@@ -10,7 +10,7 @@ We have a solution that may help you understand how a webhook works, check this 
 
 ## Creating an Event Pipe
 
-To create an event store, click on ![Create Event Pipe](<../../.gitbook/assets/image (1).png>) , and an event pipe creation screen will pop up.
+To create an event store, click on ![Create Event Pipe](<../../.gitbook/assets/image (1) (17).png>) , and an event pipe creation screen will pop up.
 
 <figure><img src="../../.gitbook/assets/image (10) (6).png" alt="" width="541"><figcaption><p>Event Pipe Creation</p></figcaption></figure>
 
@@ -70,7 +70,7 @@ Learn more about [Event Stores](event-pipes.md#event-store).
 * Name your target.
 * Select "Send to Event Store".
 * Select the event store you are willing to use.
-* Click on ![Save](../../.gitbook/assets/image.png) to save your target.
+* Click on ![Save](<../../.gitbook/assets/image (3).png>) to save your target.
 
 #### Call Webhook
 
@@ -91,11 +91,11 @@ If your webhook test is successful, your icon will be presented as ![Test Webhoo
 * Request - Request used by BMS to send you the information for this test.
 * Response - Received response from your webhook.
 
-After finishing all configuration and tests, click on ![Save](../../.gitbook/assets/image.png) to save your target.
+After finishing all configuration and tests, click on ![Save](<../../.gitbook/assets/image (3).png>) to save your target.
 
 <figure><img src="../../.gitbook/assets/image (23) (2) (1).png" alt="" width="533"><figcaption><p>Event Pipe Target Created</p></figcaption></figure>
 
-Once everything is configured, click on ![Save](../../.gitbook/assets/image.png) and your event pipe will be listed.
+Once everything is configured, click on ![Save](<../../.gitbook/assets/image (3).png>) and your event pipe will be listed.
 
 <figure><img src="../../.gitbook/assets/image (24) (2) (1).png" alt=""><figcaption><p>Event Pipes List</p></figcaption></figure>
 
@@ -107,7 +107,7 @@ To enable an event pipe simply flip the toggle <img src="../../.gitbook/assets/i
 
 ### Editing your Event Pipe
 
-To edit your event store, click on <img src="../../.gitbook/assets/image (35) (2).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes and then click on ![Save](../../.gitbook/assets/image.png).
+To edit your event store, click on <img src="../../.gitbook/assets/image (35) (2).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes and then click on ![Save](<../../.gitbook/assets/image (3).png>).
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" width="527"><figcaption><p>Event Pipe's Edit Screen</p></figcaption></figure>
 
@@ -129,7 +129,7 @@ To delete an event, click on ![](<../../.gitbook/assets/image (138).png>) and a 
 
 <figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption><p>Event Pipe Deletion</p></figcaption></figure>
 
-After clicking on ![Delete](<../../.gitbook/assets/image (2).png>), your event pipe will be deleted.
+After clicking on ![Delete](<../../.gitbook/assets/image (2) (12).png>), your event pipe will be deleted.
 
 {% hint style="warning" %}
 _We advise users to archive instead of deleting, only delete if you are sure of it, the action cannot be undone._

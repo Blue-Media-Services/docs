@@ -38,4 +38,4 @@ There are 2 installation methods available: Google Tag Manager and  Direct on Th
 
 Installing this tag is crucial for gaining clear insights into your ad performance and user behavior. It also plays a key role in our anti-fraud detection system by automatically blocking sites that generate clicks without delivering users to the intended destination. This protection helps safeguard you from fraudulent activity. By using the data provided, you can make informed decisions, refine your ads, and enhance the user experience. Overall, this tag ensures every click is accurately tracked, making your marketing efforts more effective and secure.
 
-The results of using this feature can be tracked through specific metrics designed for it. You can find an explanation of these metrics on the [Page Load Metrics](ad-server-metrics/page-load-metrics.md) page.
+The results of using this feature can be tracked through specific metrics designed for it. You can find an explanation of these metrics on the [Ad Server Metrics ](ad-server-metrics.md)Page.

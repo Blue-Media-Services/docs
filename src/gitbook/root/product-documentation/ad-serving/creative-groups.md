@@ -73,9 +73,20 @@ Attention! If you delete a creative group, all data related to that creative gro
 
 ### Metrics Tab
 
-The metrics tab will display all metrics related to the selected creative groups or for the whole account if no creative groups are selected.
+The metrics tab will display all metrics related to the selected creatives or for the whole account if no creatives are selected. Find below all metrics available for your creative groups.
 
-Learn more about the [Metrics tab](../ad-server/ad-server-metrics/creatives-metrics.md).
+* [Deliveries](../ad-server/ad-server-metrics.md#deliveries-and-delivery-rate)
+* [Displays & Display Rate](../ad-server/ad-server-metrics.md#displays-and-display-rate)
+* [Views](../ad-server/ad-server-metrics.md#views)
+* [Viewability](../ad-server/ad-server-metrics.md#viewability)
+* [Clicks and CTR](../ad-server/ad-server-metrics.md#clicks-and-ctr)
+* [Click to Page Load Rate](../ad-server/ad-server-metrics.md#click-to-page-load-rate)
+* [Time to Display](../ad-server/ad-server-metrics.md#time-to-display)
+* [Time to View](../ad-server/ad-server-metrics.md#time-to-view)
+* [Time to Click](../ad-server/ad-server-metrics.md#time-to-click)
+* [Time to Page Load](../ad-server/ad-server-metrics.md#time-to-page-load)
+* [Page Loads](../ad-server/ad-server-metrics.md#page-loads)
+* [Page Load Rate](../ad-server/ad-server-metrics.md#page-load-rate)
 
 #### A/B testing
 

@@ -20,7 +20,7 @@ In our Event Stores tab, you can create a store that acts as a database for stor
 
 ## Creating an Event Store
 
-To create an event store, click on ![Create Event Store](<../../.gitbook/assets/image (3).png>) then an event creation screen will pop up.
+To create an event store, click on ![Create Event Store](<../../.gitbook/assets/image (3) (13).png>) then an event creation screen will pop up.
 
 <figure><img src="../../.gitbook/assets/image (31) (2).png" alt="" width="361"><figcaption><p>Event Store Creation</p></figcaption></figure>
 
@@ -28,7 +28,7 @@ To create an event store, click on ![Create Event Store](<../../.gitbook/assets/
 * Tags - Create tags to better identify each event store.
 * Retention - Decide for how long you will be keeping the data collected by this event store, after expiration, the data will be **deleted**.
 
-After configuring your event store, click on ![Save](../../.gitbook/assets/image.png) button to finish your event creation.
+After configuring your event store, click on ![Save](<../../.gitbook/assets/image (3).png>) button to finish your event creation.
 
 ### Enabling your Event Store
 
@@ -38,7 +38,7 @@ To enable an event store simply flip the toggle <img src="../../.gitbook/assets/
 
 ### Editing your Event Store
 
-To edit your event store, click on <img src="../../.gitbook/assets/image (35) (2).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes, and then click on ![Save](../../.gitbook/assets/image.png).
+To edit your event store, click on <img src="../../.gitbook/assets/image (35) (2).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes, and then click on ![Save](<../../.gitbook/assets/image (3).png>).
 
 <figure><img src="../../.gitbook/assets/image (36) (2).png" alt="" width="360"><figcaption><p>Edit Event Store Screen</p></figcaption></figure>
 
@@ -60,7 +60,7 @@ To delete an event store, click on <img src="../../.gitbook/assets/image (40).pn
 
 <figure><img src="../../.gitbook/assets/image (41).png" alt="" width="359"><figcaption><p>Deletion Screen</p></figcaption></figure>
 
-To confirm your deletion click on ![Delete](<../../.gitbook/assets/image (2).png>).
+To confirm your deletion click on ![Delete](<../../.gitbook/assets/image (2) (12).png>).
 
 {% hint style="danger" %}
 _Attention! If you delete an event store, all data related to that event store will be deleted._
@@ -118,7 +118,7 @@ To delete an event, click on ![](<../../.gitbook/assets/image (138).png>) and a 
 
 <figure><img src="../../.gitbook/assets/image (139).png" alt="" width="359"><figcaption><p>Event Deletion</p></figcaption></figure>
 
-After clicking on ![Delete](<../../.gitbook/assets/image (2).png>), your event data will be permanently deleted.
+After clicking on ![Delete](<../../.gitbook/assets/image (2) (12).png>), your event data will be permanently deleted.
 
 {% hint style="danger" %}
 _Attention! Be careful when deleting event streams, this action cannot be undone, meaning, your data is permanently removed._

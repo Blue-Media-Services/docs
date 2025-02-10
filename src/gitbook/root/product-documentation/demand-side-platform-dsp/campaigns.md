@@ -70,12 +70,41 @@ If you need to delete a campaign simply click on ![Delete Campaign](<../../.gitb
 _Attention! We always advise to deactivate the campaign instead of deleting it completely. When deleting a campaign, all data and metrics are lost as well._
 {% endhint %}
 
-### Metrics
+### Metrics Tab
 
-While real-time events are kept for 15 minutes, you can check the campaign metrics for any time interval. Metrics can take up to 5 minutes to display the most recent data.
+While real-time events are kept for 15 minutes, you can check the campaign metrics for any time interval. Metrics can take up to 5 minutes to display the most recent data. Below you can find every metric that is available for your Campaign.
 
-If you need more detailed information on how each metric works, check [here](metrics.md).
-
-In every metric you will have a <img src="../../.gitbook/assets/image (38) (1).png" alt="Info" data-size="line"> which will precisely explain what that metric represents.
+* [Campaign Active](dsp-metrics.md#campaign-active)
+* [Budget Spent](dsp-metrics.md#budget-spent)
+* [Bids & Bid Win Rate](dsp-metrics.md#bids-and-bid-win)
+* [Impressions](dsp-metrics.md#impressions)
+* [Impression Price](dsp-metrics.md#impression-price)
+* [CPM](dsp-metrics.md#cpm)
+* [CPC](dsp-metrics.md#cpc)
+* [Deliveries & Delivery Rate](../ad-server/ad-server-metrics.md#deliveries-and-delivery-rate)
+* [Displays & Display Rate](../ad-server/ad-server-metrics.md#displays-and-display-rate)
+* [Views](../ad-server/ad-server-metrics.md#views)
+* [Viewability](../ad-server/ad-server-metrics.md#viewability)
+* [Clicks & CTR](../ad-server/ad-server-metrics.md#clicks-and-ctr)
+* [Click to Page Load Rate](../ad-server/ad-server-metrics.md#click-to-page-load-rate)
+* [Cost per Page Load](dsp-metrics.md#cost-per-page-load)
+* [Time to Display](../ad-server/ad-server-metrics.md#time-to-display)
+* [Time to View](../ad-server/ad-server-metrics.md#time-to-view)
+* [Time to Click](../ad-server/ad-server-metrics.md#time-to-click)
+* [Time to Page Load](../ad-server/ad-server-metrics.md#time-to-page-load)
+* [Page Loads](../ad-server/ad-server-metrics.md#page-loads)
+* [Page Load Rate](../ad-server/ad-server-metrics.md#page-load-rate)
+* [Bid Price Target](dsp-metrics.md#bid-price-target)
+* [Bid Price Effective](dsp-metrics.md#bid-price-effective)
+* [Device Count](dsp-metrics.md#device-count)
+* [Device Frequency](dsp-metrics.md#device-frequency)
+* [Budget Spent with Recommendations](dsp-metrics.md#budget-spent-with-recommendations)
+* [Budget Spent Placing Bids](dsp-metrics.md#budget-spent-placing-bids)
+* [Budget Spent on Impressions](dsp-metrics.md#budget-spent-on-impressions)
+* [Budget Spent on Deliveries](dsp-metrics.md#budget-spent-on-deliveries)
+* [Budget Pace Target](dsp-metrics.md#budget-pace-target)
+* [Budget Pace Effective](dsp-metrics.md#budget-pace-effective)
+* [Budget Available](dsp-metrics.md#budget-available)
+* [Budget Daily Limit](dsp-metrics.md#budget-daily-limit)
 
 You can also view Real Time events from your Campaign through our [Real Time Tab](real-time-tab.md).
