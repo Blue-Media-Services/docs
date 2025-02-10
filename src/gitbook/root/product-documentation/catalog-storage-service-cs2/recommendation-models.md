@@ -90,5 +90,12 @@ You can archive a recommendation model by clicking on <img src="../../.gitbook/a
 
 It's possible to delete a source. However, this will also delete all the metrics related to this source, so be careful when performing this action. In the sources section of the configuration tab, click on <img src="../../.gitbook/assets/image (128).png" alt="" data-size="original"> at the same row as the source to be deleted. Then confirm the action by clicking on <img src="../../.gitbook/assets/image (129).png" alt="" data-size="line">. This action cannot be undone.
 
+## Metrics Tab
 
+After setting your recommendation models and starting using them for a campaign, you should start receiving data from them, it's possible to follow this process on the metrics tab, these are the available metrics for recommendation models:
 
+* [Product Recommendation Count](cs2-metrics.md#product-recommendation-count)
+* [Recommendation Click Count](cs2-metrics.md#recommendation-click-count)
+* [Recommendation Fulfillment Rate](cs2-metrics.md#recommendation-fulfillment-rate)
+* [Recommendation Request Count](cs2-metrics.md#recommendation-request-count)
+* [Recommendation View Count](cs2-metrics.md#recommendation-view-count)

@@ -22,6 +22,8 @@ In the Catalogs tab, you will be able to create a catalog, and then install a pi
 
 By adding those events to your page, we will be able to collect all the data needed to start creating metrics and then use our **Recommendation Models** to improve your ads.
 
+## Managing Catalogs
+
 ### Creating a Catalog
 
 To create a catalog, click on <img src="../../.gitbook/assets/image (16) (6) (1).png" alt="Create Catalog" data-size="line"> button.
@@ -60,21 +62,7 @@ After clicking on <img src="../../.gitbook/assets/image (27) (2) (1).png" alt="D
 _Attention! We advise you to deactivate the Catalog instead of completely deleting it. When deleting a Catalog, all data and metrics are lost as well._
 {% endhint %}
 
-### How to Track Product Events?
-
-Once you have created your catalog and installed your pixels, and everything is set up correctly, you should start seeing events appear in your metrics. Check our [metrics page](cs2-metrics/) to get a broader view of how events occur and their descriptions.
-
-### Metrics
-
-A broad list of Metrics is available and you can group them by **Catalog**, **Import Channel,** and **Recommendation Model,** each presenting its metrics, should you need any detailed information from a specific metric, hover your cursor over the <img src="../../.gitbook/assets/image (33) (2) (1).png" alt="Information" data-size="line"> and you will have that metric's description.
-
-You can select multiple catalogs for comparison and assess their individual performance.
-
-To have a more broader view on each specific metric go to the [CS2 Metrics](cs2-metrics/#catalog) page.
-
-<figure><img src="../../.gitbook/assets/image (35) (2) (1).png" alt=""><figcaption><p>Catalog Tab Metrics</p></figcaption></figure>
-
-### Install Instructions
+## Installing Catalogs&#x20;
 
 In order to activate our metrics and events, you are required to install a pixel on your website to start collecting data.
 
@@ -85,8 +73,34 @@ Select a Catalog where you want to install your pixels and then move to the Inst
 Each event has a correct page to have your pixel installed, check on each event description to know exactly where.
 
 {% hint style="info" %}
-Don't forget to replace the placeholder with your offer ID. Every website has its own way of defining an offer ID variable, so pay attention to how this variable was configured in your website. If the correct variable is not used for your products, the event **will not work.** Ensure that the offer ID variable on your website returns the same values that were imported as product identifiers (on our platform, they are called Offer IDs) in your catalog.
+Remember to replace the placeholder with your offer ID. Every website has its own way of defining an offer ID variable, so pay attention to how this variable was configured in your website. If the correct variable is not used for your products, the event **will not work.** Ensure that the offer ID variable on your website returns the same values that were imported as product identifiers (on our platform, they are called Offer IDs) in your catalog.
 {% endhint %}
 
 _**Example:** The Product ordered event should be installed on your **order confirmation page**._
 
+## Metrics
+
+Once you have created your catalog and correctly installed your pixels, the metrics will begin to be populated and you will be able to track the events as they happen.
+
+A broad list of Metrics is available and it is possible to group them by **Catalog**, **Import Channel,** and **Recommendation Model,** each presenting its metrics. You can also select multiple catalogs for comparison and assess their performance.
+
+These are all the metrics available for the Catalogs feature:
+
+* [Import Job Count](cs2-metrics.md#import-job-count)
+* [Import Job Duration](cs2-metrics.md#import-job-duration)
+* [Import Job Failure Rate](cs2-metrics.md#import-job-failure-rate)
+* [Import Job Issues](cs2-metrics.md#import-job-issues)
+* [Import Job Processed Bytes](cs2-metrics.md#import-job-processed-bytes)
+* [Import Job Processed Records](cs2-metrics.md#import-job-processed-records)
+* [Product Added To Cart Count](cs2-metrics.md#product-added-to-cart-count)
+* [Product Count](cs2-metrics.md#product-count)
+* [Product Order Count](cs2-metrics.md#product-order-count)
+* [Product Recommendation Count](cs2-metrics.md#product-recommendation-count)
+* [Product View Count](cs2-metrics.md#product-view-count)
+* [Products Added](cs2-metrics.md#products-added)
+* [Products Removed](cs2-metrics.md#products-removed)
+* [Products Updated](cs2-metrics.md#products-updated)
+* [Recommendation Click Count](cs2-metrics.md#recommendation-click-count)
+* [Recommendation Fulfillment Rate](cs2-metrics.md#recommendation-fulfillment-rate)
+* [Recommendation View Count](cs2-metrics.md#recommendation-view-count)
+* [Recommendation Request Count](cs2-metrics.md#recommendation-request-count)

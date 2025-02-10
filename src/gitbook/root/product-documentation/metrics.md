@@ -64,5 +64,5 @@ Coming up next, there are products that include the metrics service. To learn mo
 * [Ad Server Metrics](ad-server/ad-server-metrics.md)
 * [DSP Metrics](demand-side-platform-dsp/dsp-metrics.md)
 * [DMP Metrics](data-management-platform-dmp/dmp-metrics.md)
-* [CS2 Metrics](catalog-storage-service-cs2/cs2-metrics/)
+* [CS2 Metrics](catalog-storage-service-cs2/cs2-metrics.md)
 * [Monitoring Metrics](monitoring/monitoring-metrics.md)

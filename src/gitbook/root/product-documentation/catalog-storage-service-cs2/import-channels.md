@@ -121,3 +121,14 @@ We can edit our import channels by clicking on <img src="../../.gitbook/assets/i
 ### Deleting an Import Channel
 
 We can delete unused import channels by clicking on <img src="../../.gitbook/assets/image (7) (6) (1).png" alt="" data-size="line"> at the same row that the import channel to be deleted is, however, this will also delete the metrics related to it, so proceed with caution, alternatively we can also archive these import channels by clicking on <img src="../../.gitbook/assets/image (6) (6) (1).png" alt="" data-size="line"> at the same row that the import channel to be archived, to view archived import channels, turn on the option 'Archived' above the import channels' list.
+
+## Metrics Tab
+
+The import channels metrics tab contains data about your importing jobs, such as data processing, performance, and failure rate. The metrics tab will display account-wide data for all import channels if no import channel is selected. Selecting a single import channel will show metrics specific to that import channel while selecting multiple import channels will compare their performance. These are the metrics available for import channels:
+
+* [Import Job Count](cs2-metrics.md#import-job-count)
+* [Import Job Duration](cs2-metrics.md#import-job-duration)
+* [Import Job Failure Rate](cs2-metrics.md#import-job-failure-rate)
+* [Import Job Issues](cs2-metrics.md#import-job-issues)
+* [Import Job Processed Bytes](cs2-metrics.md#import-job-processed-bytes)
+* [Import Job Processed Records](cs2-metrics.md#import-job-processed-records)

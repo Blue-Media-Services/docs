@@ -106,15 +106,11 @@ These are the features available on BMS.
 
 [Products](product-documentation/catalog-storage-service-cs2/products.md)
 
-[Products Metrics](product-documentation/catalog-storage-service-cs2/cs2-metrics/products-metrics.md)
-
 [Import Channels](product-documentation/catalog-storage-service-cs2/import-channels.md)
-
-[Import Channels Metrics](product-documentation/catalog-storage-service-cs2/cs2-metrics/import-channels-metrics.md)
 
 [Recommendation Models](product-documentation/catalog-storage-service-cs2/recommendation-models.md)
 
-[Recommendation Models Metrics](product-documentation/catalog-storage-service-cs2/cs2-metrics/recommendation-models-metrics.md)
+[CS2 Metrics](product-documentation/catalog-storage-service-cs2/cs2-metrics.md)
 
 </details>
 
