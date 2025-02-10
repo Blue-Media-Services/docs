@@ -123,3 +123,16 @@ After clicking on ![Delete](<../../.gitbook/assets/image (2) (12).png>), your ev
 {% hint style="danger" %}
 _Attention! Be careful when deleting event streams, this action cannot be undone, meaning, your data is permanently removed._
 {% endhint %}
+
+## Metrics Tab
+
+Select an event store to visualize the metrics populated by the event pipes, note that you must select an event store to populate when creating an event pipe, if you send your events only to a webhook, the event store will not be populated. These are all the metrics available for the event stores:
+
+* [Stream Bytes](monitoring-metrics.md#stream-bytes)
+* [Stream Count](monitoring-metrics.md#stream-count)
+* [Stream Upload Bytes](monitoring-metrics.md#stream-upload-bytes)
+* [Stream Upload Count](monitoring-metrics.md#stream-upload-count)
+* [Stream Download Bytes](monitoring-metrics.md#stream-download-bytes)
+* [Stream Download Count](monitoring-metrics.md#stream-download-count)
+* [Stream Delete Bytes](monitoring-metrics.md#stream-delete-bytes)
+* [Stream Delete Count](monitoring-metrics.md#stream-delete-count)

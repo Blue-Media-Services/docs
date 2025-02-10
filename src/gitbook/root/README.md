@@ -146,13 +146,11 @@ These are the features available on BMS.
 
 [Event Stores](product-documentation/monitoring/event-stores.md)
 
-[Event Stores Metrics](product-documentation/monitoring/monitoring-metrics/event-stores-metrics.md)
-
 [Event Pipes](product-documentation/monitoring/event-pipes.md)
 
-[Event Pipes Metrics](product-documentation/monitoring/monitoring-metrics/event-pipes-metrics.md)
-
 [Monitoring Billing](product-documentation/monitoring/monitoring-billing.md)
+
+[Monitoring Metrics](product-documentation/monitoring/monitoring-metrics.md)
 
 </details>
 

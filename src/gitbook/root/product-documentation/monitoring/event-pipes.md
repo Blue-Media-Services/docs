@@ -134,3 +134,13 @@ After clicking on ![Delete](<../../.gitbook/assets/image (2) (12).png>), your ev
 {% hint style="warning" %}
 _We advise users to archive instead of deleting, only delete if you are sure of it, the action cannot be undone._
 {% endhint %}
+
+## Metrics Tab
+
+Select an event pipe to access its metrics, selecting more than one will show you a comparison between the selected ones, the metrics are populated once you have created event pipes and they are enabled and collecting data.
+
+These are all the metrics for event pipes:
+
+* [Matched Events Count](monitoring-metrics.md#matched-events-count)
+* [Target Execution Call Count](monitoring-metrics.md#target-execution-call-count)
+* [Target Execution Failure Rate](monitoring-metrics.md#target-execution-failure-rate)
