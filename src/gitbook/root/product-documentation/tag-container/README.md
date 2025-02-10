@@ -64,3 +64,10 @@ Attention! Be careful when deleting tag containers, this action cannot be undone
 It is possible to delete tag containers, by clicking on <img src="../../.gitbook/assets/image (7) (1).png" alt="" data-size="line"> at the same row as the tag container you need to delete, and then clicking on <img src="../../.gitbook/assets/image (8) (1).png" alt="" data-size="line"> to confirm this action.&#x20;
 
 Alternatively, you can archive tag containers to help with organization. This can be done by clicking on <img src="../../.gitbook/assets/image (9) (1).png" alt="" data-size="line"> at the same row as the tag container you want to archive. To view archived tag containers, turn the 'Archived' switch on ![](<../../.gitbook/assets/image (10) (1).png>), located right above the tag containers list. To unarchive a tag container, click on <img src="../../.gitbook/assets/image (11) (1).png" alt="" data-size="line"> at the same row as the tag container you want to unarchive.
+
+### Metrics Tab
+
+Upon finishing your Tag Containers' Installation and effectively using them, it will start to fulfill the metrics presented, below you can find all metrics related to Tag Containers.
+
+* [Failure Rate](tag-container-metrics.md#failure-rate)
+* [Request Count](tag-container-metrics.md#request-count)
