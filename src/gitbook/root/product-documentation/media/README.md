@@ -24,7 +24,7 @@ When checking the Details Tab of each media, you will be provided with all infor
 
 <figure><img src="../../.gitbook/assets/image (16) (4).png" alt=""><figcaption><p>Details Tab Screen</p></figcaption></figure>
 
-### Metrics
+### Metrics Tab
 
 We provide a brief metric for each media, by informing how many times has the media been downloaded and how many bytes have been used.
 
@@ -34,7 +34,14 @@ If no media is selected, you will be presented with Account-wide metrics.
 
 <figure><img src="../../.gitbook/assets/image (19) (4).png" alt=""><figcaption><p>Account-Wide Metrics</p></figcaption></figure>
 
-For more details on how each metric works, check [here](media-metrics.md).
+Below you can find all metrics available on our Media Product.
+
+* [Media Count](media-metrics.md#media-count)
+* [Media Download Count](media-metrics.md#media-download-count)
+* [Media Downloaded Bytes](media-metrics.md#media-downloaded-bytes)
+* [Media Stored Bytes](media-metrics.md#media-stored-bytes)
+* [Media Upload Count](media-metrics.md#media-upload-count)
+* [Media Uploaded Bytes](media-metrics.md#media-uploaded-bytes)
 
 ### Uploading a Media
 

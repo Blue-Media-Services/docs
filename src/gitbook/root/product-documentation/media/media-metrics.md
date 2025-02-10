@@ -14,13 +14,13 @@ layout:
 
 # Media Metrics
 
+Once you populate your account with media for creating creatives, our platform will begin providing metrics related to all the media stored in your account. Additionally, when reviewing metrics, you can always use the <img src="../../.gitbook/assets/image.png" alt="" data-size="line">  to access our articles about a specific metric.
+
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-12-10 081603.png" alt=""><figcaption><p>Media Metrics</p></figcaption></figure>
+
 {% hint style="info" %}
 You can learn more about how metrics are handled by visiting the [Metrics page](../metrics.md).
 {% endhint %}
-
-Once you populate your account with media for creating creatives, our platform will begin providing metrics related to all the media stored in your account.
-
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-12-10 081603.png" alt=""><figcaption><p>Media Metrics</p></figcaption></figure>
 
 ### **Media Count**
 
@@ -69,7 +69,3 @@ This metric represents the total amount of data, in bytes, for your uploaded med
 <figure><img src="../../.gitbook/assets/Media Uploaded Bytes.png" alt=""><figcaption><p>Media Uploaded Bytes Metric</p></figcaption></figure>
 
 _**Example**: Between May and June, there was a peak of 4 MB in uploads on a single day. This metric may differ from the Media Upload Count metric because each file varies in size, leading to minor differences, such as those observed during the transition from April to May. It is important to note that the size of a media file impacts how long the end user takes to download it on their browser._
-
-### Additional Information
-
-These are all the metrics available in the Media product for analyzing the storage of your media.  Additionally, when checking metrics, you can always check our <img src="../../.gitbook/assets/image (28) (2).png" alt="Information" data-size="line"> to access additional information about a specific metric.
