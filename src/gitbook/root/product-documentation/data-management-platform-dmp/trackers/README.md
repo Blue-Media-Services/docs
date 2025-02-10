@@ -76,3 +76,15 @@ It's also possible to duplicate events and actions by clicking on ![](<../../../
 It's possible to delete events and actions by clicking on ![](<../../../.gitbook/assets/image (98).png>) at the same row of the event or action that you need to delete, then confirm the action by clicking on <img src="../../../.gitbook/assets/image (99).png" alt="" data-size="line">. This action cannot be undone, so be careful when doing it. Alternatively, it's also possible to disable events and actions by changing the switch position from on <img src="../../../.gitbook/assets/image (89).png" alt="" data-size="original"> to off![](<../../../.gitbook/assets/image (90).png>) in the same row of the event or action you want to disable.
 
 After installing your events' trackers you should start receiving data from them, it's possible to follow this process on the metrics tab.&#x20;
+
+## Metrics Tab
+
+After installing your trackers you should start receiving data from them, it's possible to follow this process on the metrics tab, these are the available metrics for trackers:
+
+* [Action Execution Count](../dmp-metrics.md#action-execution-count)
+* [Action Failure Rate](../dmp-metrics.md#action-failure-rate)
+* [Expiration Count](../dmp-metrics.md#expiration-count-1)
+* [Maximum Users](../dmp-metrics.md#maximum-users)
+* [New Activities](../dmp-metrics.md#new-activities)
+* [Time Until Expiration](../dmp-metrics.md#time-until-expiration-1)
+* [Tracker User Count](../dmp-metrics.md#tracker-user-count)

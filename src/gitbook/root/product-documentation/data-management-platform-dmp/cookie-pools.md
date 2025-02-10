@@ -58,3 +58,12 @@ After creating a cookie pool you\`ll need to install it on your website to start
 
 You can also use a tag manager, such as Google Tag Manager (GTM), to add this code to your website.
 
+## Metrics Tab
+
+After installing your cookie pools you should start receiving data from them, it's possible to follow this process on the metrics tab, these are the available metrics for cookie pools:
+
+* [Expiration Count](dmp-metrics.md#expiration-count)
+* [Max Size](dmp-metrics.md#max-size)
+* [Size](dmp-metrics.md#size)
+* [Sync Count](dmp-metrics.md#sync-count)
+* [Time Until Expiration](dmp-metrics.md#time-until-expiration)
