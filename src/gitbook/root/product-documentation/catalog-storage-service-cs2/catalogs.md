@@ -78,7 +78,7 @@ Remember to replace the placeholder with your offer ID. Every website has its ow
 
 _**Example:** The Product ordered event should be installed on your **order confirmation page**._
 
-## Metrics
+## Metrics Tab <a href="#metrics" id="metrics"></a>
 
 Once you have created your catalog and correctly installed your pixels, the metrics will begin to be populated and you will be able to track the events as they happen.
 
