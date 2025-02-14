@@ -20,11 +20,12 @@ You can choose who to show ads to based on where these users are located by eith
   * Geographies - By selecting specific countries or regions, your ads will only appear to users accessing from those geographic locations.
   * Geo-fences - By selecting specific countries or regions, your ads will only appear to users accessing from those geographic locations.
 
-<figure><img src="../../.gitbook/assets/image (338).png" alt=""><figcaption><p>Contents Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2025-02-07 115000.png" alt=""><figcaption><p>Contents Tab</p></figcaption></figure>
 
 * **Contents**
   * Languages - By including a particular language, your ads will only appear on websites in that language.
   * Categories - By including specific categories, your ads will only appear on websites featuring content in those categories.
+  * Daily Impressions - Define the minimum number of daily impressions a website must receive to display your ads, ensuring they appear only on sites that meet the required traffic threshold.
   * Domains - By including specific domains, your ads will only appear on those specified websites.
   * URL Keywords - By defining URL keywords, you can refine where your ads appear based on the URL's content.
 
