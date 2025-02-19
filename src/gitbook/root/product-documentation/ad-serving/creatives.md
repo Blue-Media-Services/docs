@@ -35,6 +35,10 @@ Fill in the details:
 * Domain - the primary domain to which this creative will direct the user when clicked;
 * Type - the type of creative, such as common IAB size like "Large Leaderboard (970x90)", "Banner (468x60)", etc.
 
+After clicking on the drop-down menu available for selecting a creative type, you will have access to a list containing all types that can be used, these are the available types:
+
+<table data-header-hidden><thead><tr><th width="396"></th><th></th></tr></thead><tbody><tr><td>Super Leaderboard / Pushdown (970x90)</td><td>Medium Rectangle (300x250)</td></tr><tr><td>Leaderboard (728x90)</td><td>Large Rectangle (336x280)</td></tr><tr><td>Banner (468x60)</td><td>Small Square (200x200)</td></tr><tr><td>Smartphone Leaderboard (320x50)</td><td>Square (250x250)</td></tr><tr><td>Smartphone Banner (300x50)</td><td>Mobile Phone Interstitial (640x1136)</td></tr><tr><td>Feature Phone Small Banner (120x20)</td><td>Mobile Phone Interstitial (1080x1920)</td></tr><tr><td>Feature Phone Medium Banner (168x28)</td><td>Mobile Phone Interstitial (750x1334)</td></tr><tr><td>Feature Phone Large Banner (216x36)</td><td>Half-Page (300x600)</td></tr><tr><td>Billboard (970x250)</td><td>Portrait (300x1050)</td></tr><tr><td>Smartphone Large Leaderboard (320x100)</td><td>Wide Skyscraper (160x600)</td></tr><tr><td>Financial (120x60)</td><td>Skyscraper (120x600)</td></tr></tbody></table>
+
 To design your creative, you have two options:
 
 ### Static Image
