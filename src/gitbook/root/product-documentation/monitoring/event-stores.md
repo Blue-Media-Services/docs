@@ -52,13 +52,13 @@ You will be capable of Archiving, Deleting, Enabling, and Disabling events in bu
 
 ### Archiving and Unarchiving your Event Store
 
-To archive your event store, click on <img src="../../.gitbook/assets/image (37) (2).png" alt="Archive" data-size="line"> and your event store will be sent to the archived list. In order to unarchive your event store, switch your view to archived events by flipping the toggle <img src="../../.gitbook/assets/image (38) (2).png" alt="Archived Toggle" data-size="line">. You will then be presented with the list of archived events. Click on <img src="../../.gitbook/assets/image (39).png" alt="Unarchive" data-size="line"> to unarchive an event store.
+To archive your event store, click on <img src="../../.gitbook/assets/image (37) (2).png" alt="Archive" data-size="line"> and your event store will be sent to the archived list. In order to unarchive your event store, switch your view to archived events by flipping the toggle <img src="../../.gitbook/assets/image (38) (2).png" alt="Archived Toggle" data-size="line">. You will then be presented with the list of archived events. Click on <img src="../../.gitbook/assets/image (39) (3).png" alt="Unarchive" data-size="line"> to unarchive an event store.
 
 ### Deleting your Event Store
 
-To delete an event store, click on <img src="../../.gitbook/assets/image (40).png" alt="Delete" data-size="line"> and a confirmation screen will pop up.
+To delete an event store, click on <img src="../../.gitbook/assets/image (40) (3).png" alt="Delete" data-size="line"> and a confirmation screen will pop up.
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt="" width="359"><figcaption><p>Deletion Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41) (3).png" alt="" width="359"><figcaption><p>Deletion Screen</p></figcaption></figure>
 
 To confirm your deletion click on ![Delete](<../../.gitbook/assets/image (2) (12).png>).
 
@@ -110,7 +110,7 @@ You can select multiple event streams by checking the <img src="../../.gitbook/a
 
 In order to bulk download event streams you can either select up to 100 individual event streams or select all the event streams.
 
-It's also possible to bulk delete your event streams, click on <img src="../../.gitbook/assets/image (10).png" alt="" data-size="line">, then select delete, and confirm the deletion when it is asked.
+It's also possible to bulk delete your event streams, click on <img src="../../.gitbook/assets/image (10) (10).png" alt="" data-size="line">, then select delete, and confirm the deletion when it is asked.
 
 ### Deleting Event Streams
 

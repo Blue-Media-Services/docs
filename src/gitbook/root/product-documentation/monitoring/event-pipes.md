@@ -121,7 +121,7 @@ You will be capable of Archiving and Deleting events in bulk.
 
 ### Archiving and Unarchiving your Event Pipe
 
-To archive your event pipe, click on <img src="../../.gitbook/assets/image (37) (2).png" alt="Archive" data-size="line"> and it will be sent to the archived list. In order to unarchive your event pipe, switch your view to archived events by flipping the toggle <img src="../../.gitbook/assets/image (38) (2).png" alt="Archived Toggle" data-size="line">. You will then be presented with the list of archived events. Click on <img src="../../.gitbook/assets/image (39).png" alt="Unarchive" data-size="line"> to unarchive an event pipe.
+To archive your event pipe, click on <img src="../../.gitbook/assets/image (37) (2).png" alt="Archive" data-size="line"> and it will be sent to the archived list. In order to unarchive your event pipe, switch your view to archived events by flipping the toggle <img src="../../.gitbook/assets/image (38) (2).png" alt="Archived Toggle" data-size="line">. You will then be presented with the list of archived events. Click on <img src="../../.gitbook/assets/image (39) (3).png" alt="Unarchive" data-size="line"> to unarchive an event pipe.
 
 ### Deleting your Event Pipe
 

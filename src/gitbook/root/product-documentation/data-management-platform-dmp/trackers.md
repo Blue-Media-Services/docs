@@ -13,7 +13,7 @@ Trackers will gather data about your website's activities, so it must be install
 1. Click on <img src="../../.gitbook/assets/image (92).png" alt="" data-size="line"> to start creating a tracker.
 2.  Fill in the details:
 
-    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Tracker Editor</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (11).png" alt=""><figcaption><p>Tracker Editor</p></figcaption></figure>
 
     * Name: set a name for your tracker.
     * Tags: set tags for your organization.
@@ -24,7 +24,7 @@ Trackers will gather data about your website's activities, so it must be install
 
 ### Editing a Tracker
 
-All the trackers' parameters are editable, click on ![](<../../.gitbook/assets/image (95).png>) in the same row of the tracker you want to edit, make your changes, then click on <img src="../../.gitbook/assets/image (93).png" alt="" data-size="line"> to save them.
+All the trackers' parameters are editable, click on ![](<../../.gitbook/assets/image (95).png>) in the same row of the tracker you want to edit, make your changes, and then click on ![Save](<../../.gitbook/assets/image (39).png>) to save them.
 
 It's possible to archive trackers for your better organization. Click on ![](<../../.gitbook/assets/image (96).png>) to archive the selected tracker, visualize your archived trackers by turning on the switch "Archived" above the trackers' list. It is also possible to unarchive a tracker by clicking on ![](<../../.gitbook/assets/image (97).png>).
 
@@ -34,7 +34,7 @@ It's possible to archive trackers for your better organization. Click on ![](<..
 Attention! Be careful when deleting trackers, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted.
 {% endhint %}
 
-We can also delete our trackers by clicking on the delete button ![](<../../.gitbook/assets/image (98).png>) in the same row as the tracker you want to delete, then confirming it by clicking on <img src="../../.gitbook/assets/image (99).png" alt="" data-size="line">. This action cannot be undone, so please be careful. Additionally, keep in mind that recommendation models based on the deleted tracker might stop working.
+We can also delete our trackers by clicking on the delete button ![](<../../.gitbook/assets/image (98).png>) in the same row as the tracker you want to delete and then confirming it by clicking on ![Delete](<../../.gitbook/assets/image (41).png>). This action cannot be undone, so please be careful. Additionally, keep in mind that recommendation models based on the deleted tracker might stop working.
 
 ## Managing Events and Actions
 
@@ -80,17 +80,19 @@ Configure events according to the activities performed by users on your website,
 
 Edit your events and actions to meet your business needs.
 
-We can edit events by clicking on ![](<../../.gitbook/assets/image (95).png>) at the same row of the event to be edited on the Configuration tab,  all events' parameters are available to be edited, after finishing your changes, click on <img src="../../.gitbook/assets/image (93).png" alt="" data-size="line"> to save them.
+We can edit events by clicking on ![](<../../.gitbook/assets/image (95).png>) at the same row of the event to be edited on the Configuration tab, all events' parameters are available to be edited, after finishing your changes, click on ![Save](<../../.gitbook/assets/image (39).png>) to save them.
 
-Actions' parameters are also editable, you can do this by finding the event that contains the action you want to edit on the Configuration tab, clicking on ![](<../../.gitbook/assets/image (95).png>) at the same row of the event, and then clicking on ![](<../../.gitbook/assets/image (95).png>) at the same row of the action to be edited, make your changes and click on <img src="../../.gitbook/assets/image (93).png" alt="" data-size="line"> to save your changes, then click on <img src="../../.gitbook/assets/image (93).png" alt="" data-size="line"> again to save your changes to the event, and you're done.
+Actions' parameters are also editable, you can do this by finding the event that contains the action you want to edit on the Configuration tab, clicking on ![](<../../.gitbook/assets/image (95).png>) at the same row of the event, and then clicking on ![](<../../.gitbook/assets/image (95).png>) at the same row of the action to be edited, make your changes and click on ![Save](<../../.gitbook/assets/image (39).png>) to save your changes, then click on ![Save](<../../.gitbook/assets/image (39).png>) again to save your changes to the event, and you're done.
 
 It's also possible to duplicate events and actions by clicking on ![](<../../.gitbook/assets/image (104).png>) at the same row of the event or action you need to duplicate, this feature can be useful if you need to create a new action or event while keeping some parameters of an existing one.
 
 ### Deleting Events and Actions
 
-It's possible to delete events and actions by clicking on ![](<../../.gitbook/assets/image (98).png>) at the same row of the event or action that you need to delete, then confirm the action by clicking on <img src="../../.gitbook/assets/image (99).png" alt="" data-size="line">. This action cannot be undone, so be careful when doing it. Alternatively, it's also possible to disable events and actions by changing the switch position from on <img src="../../.gitbook/assets/image (89).png" alt="" data-size="original"> to off![](<../../.gitbook/assets/image (90).png>) in the same row of the event or action you want to disable.
+It's possible to delete events and actions by clicking on ![](<../../.gitbook/assets/image (98).png>) at the same row of the event or action that you need to delete, and then confirm the action by clicking on ![Delete](<../../.gitbook/assets/image (41).png>). This action cannot be undone, so be careful when doing it. Alternatively, it's also possible to disable events and actions by changing the switch position from <img src="../../.gitbook/assets/image (89).png" alt="" data-size="original"> to ![](<../../.gitbook/assets/image (90).png>) in the same row of the event or action you want to disable.
 
-After installing your events' trackers you should start receiving data from them, it's possible to follow this process on the metrics tab.&#x20;
+## Install Instructions
+
+After setting up events and actions for your tracker, you have to install it on your website. This can be done by following the instructions on the install instructions tab. Check our [Install Instructions](trackers.md#install-instructions) article to learn more about our install methods.
 
 ## Metrics Tab
 

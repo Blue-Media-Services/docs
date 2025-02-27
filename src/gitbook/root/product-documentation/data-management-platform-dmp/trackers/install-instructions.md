@@ -94,3 +94,61 @@ URL redirect tracking simplifies performance monitoring by capturing data throug
 <figure><img src="../../../.gitbook/assets/image (446).png" alt=""><figcaption><p>Redirect</p></figcaption></figure>
 
 After installing your events' trackers you should start receiving data from them, it's possible to follow this process on the metrics tab.&#x20;
+
+## Apps Flyer
+
+AppsFlyer is a mobile attribution and marketing analytics platform. It enables businesses to measure and analyze the performance of their mobile advertising campaigns by attributing app installs, in-app events, and conversions to the respective marketing channels or campaigns responsible for generating them.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+The platform also offers precise attribution solutions, allowing marketers to identify the sources of app installs, in-app events, and conversions—whether from the BMS network, other ad channels, or organic sources.&#x20;
+
+These are some advantages of integrating BMS with AppsFlyer:
+
+* **Powerful Insights**: Gain access to detailed data on user behavior, campaign performance, return on investment (ROI), and customer lifetime value (LTV).
+* **Use Cases**: Supports a variety of scenarios, including optimizing marketing campaigns, improving user acquisition strategies, and enhancing retention efforts.
+
+### Use Cases
+
+AppsFlyer is a platform that tracks user interactions and campaign performance for apps, providing key insights to optimize marketing strategies. Here are its main use cases:
+
+* **Attribution of App Installs**: AppsFlyer can track which campaigns drive the most app installs, helping marketers allocate budgets to the most effective channels.
+* **In-App Event Tracking**: AppsFlyer can monitor user actions within the app, such as purchases or content views, providing insights to optimize user engagement.
+* **Fraud Detection**: AppsFlyer’s anti-fraud tools can detect and prevent fraudulent installs or clicks, ensuring reliable campaign performance and protecting ROI.
+
+### How to integrate BMS with your AppsFlyer account
+
+After creating your account and setting up your app in AppsFlyer, it is time to add BMS as a partner marketplace to send your app's data to our platform. On the AppsFlyer homepage, navigate to the menu on the left, click on Collaborate, and then select Partner Marketplace.
+
+<figure><img src="../../../.gitbook/assets/image (492).png" alt=""><figcaption><p>AppsFlyer Partner Marketplace</p></figcaption></figure>
+
+1.  Search for Blue Media Services LTDA using the search bar and select this option in the results list.\
+
+
+    <figure><img src="../../../.gitbook/assets/Captura de tela 2024-12-17 082704.png" alt=""><figcaption><p>BMS Parter Marketplace</p></figcaption></figure>
+2.  Click on <img src="../../../.gitbook/assets/image (493).png" alt="" data-size="line"> to start setting up the integration.\
+
+
+    <figure><img src="../../../.gitbook/assets/image (494).png" alt=""><figcaption><p>Integration Manager</p></figcaption></figure>
+3. Turn the <img src="../../../.gitbook/assets/image (495).png" alt="" data-size="line"> switch on.
+4. Default postbacks are attribution postbacks sent for user actions, such as install, re-install, etc.  Select how to send the configured postbacks to our platform.
+5. In-app event postbacks: Turn this switch on to send us your in-app events data, such as add-to-cart, product-viewed, among others.
+6. In-app event postback window: Define the period following an install, re-attribution, or re-engagement during which in-app event postbacks will be sent to our platform.
+7. Click on <img src="../../../.gitbook/assets/image (496).png" alt="" data-size="line"> to start adding an event.
+8. Fill in the details:
+   * AppsFlyer event: Set a name for your event.
+   * Mapped partner event: Copy and paste the BRN code from the BMS trackers' install instructions tab, in the 3rd step.
+   * For users from: Select "This partner only" at the dropdown menu.
+   * Including: Select "Value & no revenue" at the dropdown menu.
+9. Add as many events as you need to.
+10. Click on <img src="../../../.gitbook/assets/image (497).png" alt="" data-size="line"> to save your integration.
+
+After completing these steps, BMS will be integrated with your AppsFlyer account, and the event data from your app will start being sent to our platform.
+
+### Additional Information
+
+Check out some external references that may help you through the app configuration and partner integration process:
+
+* [Getting started - Onboarding for marketers ](https://support.appsflyer.com/hc/en-us/articles/207033486-Getting-started-Onboarding-for-marketers)
+* [Getting started - Onboarding for agencies](https://support.appsflyer.com/hc/en-us/articles/360002381617-Getting-started-agency-onboarding)
+* [Set up an integrated partner](https://support.appsflyer.com/hc/en-us/articles/4410395957521-Set-up-an-integrated-partner?utm_campaign=active_partners\&utm_medium=ui\&utm_source=hq1)

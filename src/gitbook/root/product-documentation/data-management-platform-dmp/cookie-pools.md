@@ -7,7 +7,7 @@ In the context of digital advertising and marketing, a cookie pool can serve sev
 * **Audience Segmentation:** Segment users into different groups based on their interests, behaviors, demographics, or other criteria. This segmentation allows for more targeted and customized advertising campaigns.
 * **Retargeting:** Collect users' data based on events and actions for tracking purposes, this data can be used later to create recommendation models for your retargeting campaigns, improving your conversions. [Learn more about Retargeting campaigns](../../solutions/retargeting.md).
 * **Ad Customization:** Use the data gathered to display more relevant ads for each user on your target, based on their recent online activity, interests and behavior, customized ads are more engaging and lead the advertiser to get better results.
-* **Analytics and Measurement:** Track your campaigns' performance, measuring click-through rates, conversion rates and user engagement, among other metrics.
+* **Analytics and Measurement:** Track your campaigns' performance, measuring click-through rates, conversion rates, user engagement, among other metrics.
 * **Frequency Capping:** Set frequency caps to limit how often a particular ad is shown to a user within a certain time frame. This prevents displaying the same ad to the same user repeatedly.
 
 ## Managing Cookie Pools
@@ -18,7 +18,7 @@ In the context of digital advertising and marketing, a cookie pool can serve sev
 
 A cookie pool must be created shortly before using it for a campaign so that it can be populated. Configure how long your cookies should be available before expiring, set how many cookies you want to store at your pool and select the Ad Exchanges you will use to synchronize your cookies with it.
 
-1. Click on <img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="cookie pool button" data-size="line"> to create a cookie pool.
+1. Click on ![Create Cookie Pool](<../../.gitbook/assets/image (42).png>) to create a cookie pool.
 2.  Fill in the details:\
 
 
@@ -29,11 +29,11 @@ A cookie pool must be created shortly before using it for a campaign so that it 
     * Exchanges: Select ad exchanges to synchronize with your cookies, we recommend selecting only the exchanges you'll use to run your ad campaigns to prevent unnecessary charges.
     * TTL: Set the number of days a cookie will be kept on the pool after syncing.
     * Max Size: Set the maximum amount of cookies that will be stored. After reaching the limit no more cookies will be added to the pool until the old ones expire, but the collected cookies will still be available to use, it's also possible to increase your Max Size to allow more cookies to be collected.
-3. Click on <img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt="save button" data-size="line"> to save your Cookie Pool.
+3. Click on ![Save](<../../.gitbook/assets/image (39).png>) to save your Cookie Pool.
 
 ### Editing a Cookie Pool
 
-After creating a cookie pool, you can edit it by clicking on the editing button <img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt="editing button" data-size="line">. All parameters are editable, for the TTL the changes will apply only to newly added cookies. After making your changes, click on <img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt="save button" data-size="line"> to save them.
+After creating a cookie pool, you can edit it by clicking on the editing button <img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt="editing button" data-size="line">. All parameters are editable, for the TTL the changes will apply only to newly added cookies. After making your changes, click on ![Save](<../../.gitbook/assets/image (39).png>) to save them.
 
 It's possible to archive cookie pools for your better organization. Click on ![](<../../.gitbook/assets/image (96).png>) to archive the selected cookie pool, visualize your archived cookie pools by turning on the switch "Archived" above the cookie pools list. It is also possible to unarchive a cookie pool by clicking on ![](<../../.gitbook/assets/image (97).png>).
 
@@ -43,7 +43,7 @@ It's possible to archive cookie pools for your better organization. Click on ![]
 Attention! Be careful when deleting cookie pools, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted.
 {% endhint %}
 
-You can delete a cookie pool by clicking on the delete button <img src="../../.gitbook/assets/image (8) (1) (1).png" alt="delete button" data-size="original">, a warning that this action cannot be undone will be displayed to you, to proceed with the process click on <img src="../../.gitbook/assets/image (9) (1) (1).png" alt="delete button" data-size="line"> to confirm you are deleting it and it's done. Be aware that targets based on these cookie pools will stop working.
+You can delete a cookie pool by clicking on the delete button <img src="../../.gitbook/assets/image (8) (1) (1).png" alt="delete button" data-size="original">, a warning that this action cannot be undone will be displayed to you, to proceed with the process click on ![Delete](<../../.gitbook/assets/image (41).png>) to confirm you are deleting it and it's done. Be aware that targets based on these cookie pools will stop working.
 
 ## Installing a Cookie Pool
 
