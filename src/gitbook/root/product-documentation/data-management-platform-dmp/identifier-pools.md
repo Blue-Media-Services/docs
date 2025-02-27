@@ -80,7 +80,7 @@ After creating and selecting a tracker from the trackers' list, follow the steps
       2.  Fill in the details:\
 
 
-          <figure><img src="../../.gitbook/assets/image (490).png" alt=""><figcaption><p>Action Editor</p></figcaption></figure>
+          <figure><img src="../../.gitbook/assets/Captura de tela 2025-02-27 084528.png" alt=""><figcaption><p>Action Editor</p></figcaption></figure>
 
           1. Name: Set a name for your event.
           2. Select Track in Identifier Pool
