@@ -14,7 +14,7 @@ layout:
 
 # Media Metrics
 
-Once you populate your account with media for creating creatives, our platform will begin providing metrics related to all the media stored in your account. Additionally, when reviewing metrics, you can always use the <img src="../../.gitbook/assets/image.png" alt="" data-size="line">  to access our articles about a specific metric.
+Once you populate your account with media for creating creatives, our platform will begin providing metrics related to all the media stored in your account. Additionally, when reviewing metrics, you can always use the <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line">  to access our articles about a specific metric.
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-12-10 081603.png" alt=""><figcaption><p>Media Metrics</p></figcaption></figure>
 

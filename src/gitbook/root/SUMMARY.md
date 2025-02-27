@@ -40,7 +40,7 @@
   * [Check URL Classification](product-documentation/demand-side-platform-dsp/check-url-classification.md)
 * [Data Management Platform (DMP)](product-documentation/data-management-platform-dmp/README.md)
   * [Cookie Pools](product-documentation/data-management-platform-dmp/cookie-pools.md)
-  * [Trackers](product-documentation/data-management-platform-dmp/trackers/README.md)
+  * [Trackers](product-documentation/data-management-platform-dmp/trackers.md)
     * [Install Instructions](product-documentation/data-management-platform-dmp/trackers/install-instructions.md)
   * [DMP Metrics](product-documentation/data-management-platform-dmp/dmp-metrics.md)
   * [DMP Billing](product-documentation/data-management-platform-dmp/dmp-billing.md)

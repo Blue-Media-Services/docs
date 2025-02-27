@@ -1,6 +1,6 @@
 # Ad Server Metrics
 
-Here you will find all metrics related to our Ad Server product, they will appear according to each feature, it will help you understand how the feature is performing and provide valuable insights to make strategic decisions on your campaign. Additionally, when reviewing metrics, you can always use the <img src="../../.gitbook/assets/image.png" alt="" data-size="line">  to access our articles about a specific metric.
+Here you will find all metrics related to our Ad Server product, they will appear according to each feature, it will help you understand how the feature is performing and provide valuable insights to make strategic decisions on your campaign. Additionally, when reviewing metrics, you can always use the <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line">  to access our articles about a specific metric.
 
 {% hint style="info" %}
 You can learn more about how metrics are handled by visiting the [Metrics page](../metrics.md).

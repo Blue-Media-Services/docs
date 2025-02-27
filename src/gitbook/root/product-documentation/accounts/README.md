@@ -67,7 +67,7 @@ These are the services which are limited by quotas:
 * **Media Storage Limit:** This quota limits how much storage your media can use.
 * **Organization Account Limit:** This quota limits how many accounts your organization is allowed to have.
 * **Organization Limit:** This quota limits how many organizations you are allowed to have.&#x20;
-* **Tracker Limit:** This quota limits how many trackers you are allowed to have. To learn more about trackers, access our [Trackers article](../data-management-platform-dmp/trackers/).
+* **Tracker Limit:** This quota limits how many trackers you are allowed to have. To learn more about trackers, access our [Trackers article](../data-management-platform-dmp/trackers.md).
 
 <figure><img src="../../.gitbook/assets/image (222).png" alt=""><figcaption><p>Service Quotas List</p></figcaption></figure>
 

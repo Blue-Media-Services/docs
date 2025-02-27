@@ -90,7 +90,7 @@ These are the features available on BMS.
 
 [Cookie Pools](product-documentation/data-management-platform-dmp/cookie-pools.md)
 
-[Trackers](product-documentation/data-management-platform-dmp/trackers/)
+[Trackers](product-documentation/data-management-platform-dmp/trackers.md)
 
 [DMP Metrics](product-documentation/data-management-platform-dmp/dmp-metrics.md)
 

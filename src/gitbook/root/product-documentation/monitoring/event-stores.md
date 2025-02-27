@@ -84,7 +84,7 @@ The JSON-line format offers a raw and unfiltered view of the event stream, captu
 
 <figure><img src="../../.gitbook/assets/image (1) (16).png" alt=""><figcaption><p>JSON-line</p></figcaption></figure>
 
-Select this format and then click on ![Download](<../../.gitbook/assets/image (4).png>) to download your event stream.
+Select this format and then click on ![Download](<../../.gitbook/assets/image (4) (10).png>) to download your event stream.
 
 #### CSV
 
@@ -102,7 +102,7 @@ It is possible to add or remove columns to your CSV file. To add a column click 
 
 To remove a column, select it in the list and then click at ![](<../../.gitbook/assets/image (7) (11).png>).
 
-After finishing your settings, click on ![Download](<../../.gitbook/assets/image (4).png>) to download your CSV file.
+After finishing your settings, click on ![Download](<../../.gitbook/assets/image (4) (10).png>) to download your CSV file.
 
 ### Bulk Actions
 
