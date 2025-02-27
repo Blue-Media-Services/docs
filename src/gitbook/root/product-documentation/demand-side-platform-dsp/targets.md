@@ -29,13 +29,14 @@ You can choose who to show ads to based on where these users are located by eith
   * Domains - By including specific domains, your ads will only appear on those specified websites.
   * URL Keywords - By defining URL keywords, you can refine where your ads appear based on the URL's content.
 
-<figure><img src="../../.gitbook/assets/image (417).png" alt=""><figcaption><p>Device Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2025-02-27 093800.png" alt=""><figcaption><p>Device Tab</p></figcaption></figure>
 
 * **Device**
   * Operational Systems - By selecting specific operating systems, your ads will be displayed to users navigating the web on those systems.
   * Browsers - By selecting specific browsers, your ads will be displayed to users navigating the web through those browsers.
   * Device Types - By selecting specific device types, your ads will be displayed to users navigating the web on those devices.
   * Cookie Pools - By selecting specific cookie pools, your ads will target only the users who have been added to those selected pools.
+  * Identifier Pools - By selecting specific identifier pools, your ads will target only the users who have been added to those selected pools.
 
 <figure><img src="../../.gitbook/assets/image (416).png" alt=""><figcaption><p>Inventory Tab</p></figcaption></figure>
 

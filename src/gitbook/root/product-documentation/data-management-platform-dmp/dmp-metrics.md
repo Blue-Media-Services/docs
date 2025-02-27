@@ -101,3 +101,59 @@ This metric will show how many users were in the tracker in the defined time fra
 <figure><img src="../../.gitbook/assets/image (456).png" alt=""><figcaption><p>Tracker User Count</p></figcaption></figure>
 
 &#x20;_**Example:** After setting up a tracker on your website, your website's users will begin to be tracked. The number of users tracked within a defined time frame is the data shown in this metric. On this graph, you will notice that the number of tracked users between 4 AM and 6 AM was nearly 400 thousand._
+
+### Identifiers Added Count
+
+This metric displays the total number of identifiers added to the pool, in the defined time frame.
+
+<figure><img src="../../.gitbook/assets/image (463).png" alt=""><figcaption><p>Identifiers Added Count</p></figcaption></figure>
+
+_**Example**: As mobile users navigate through your website pages, or apps, in which you have installed a tracker configured to add users to an identifier pool, they will be added to the pool. On this graph, you can follow your identifier pool's growth as the users' identifiers are being added to it, the defined time frame was 1 week, divided into daily periods, you will notice that on Dec 31, a little more than 20 identifiers were added to the pool, and in the following days this number decreases to 3 per day, and then it increases again, to 5 identifiers added, on Jan 3._
+
+### Identifiers Enabled Count
+
+This metric shows the number of identifiers enabled at least in one exchange, in the defined timeframe.
+
+<figure><img src="../../.gitbook/assets/image (464).png" alt=""><figcaption><p>Identifiers Enabled Count</p></figcaption></figure>
+
+_**Example**: As the identifiers are being added to your pool, the platform will send the identifiers to the selected ad exchanges and verify if the identifiers are enabled in their databases, this syncing process can be valuable for retargeting campaigns._
+
+### Identifiers Expired Count
+
+This metric displays the number of Identifiers in the pool that have expired in the defined time frame.
+
+<figure><img src="../../.gitbook/assets/image (465).png" alt=""><figcaption><p>Identifiers Expired Count</p></figcaption></figure>
+
+_**Example**: You create an identifier pool with a TTL of seven days and install it on your app. The gathered identifiers will be available for targeting for seven days. After this period, the identifiers will expire. This means that in a retargeting campaign, for example, you will impact users who used your app in the last seven days. On this graph, the defined time frame was 1 week, divided into daily periods, you will notice that from Dec 30 until Jan 1, there was 1 expiration per day, then no expirations on Jan 2, and after that, it comes back for 1 expiration per day until Jan 5._
+
+### Identifiers Manually Removed Count
+
+This metric shows the number of identifiers manually removed from the pool, in the defined time frame.
+
+<figure><img src="../../.gitbook/assets/image (466).png" alt=""><figcaption></figcaption></figure>
+
+_**Example**: When setting a tracker for an identifier pool you will be able to select between adding or removing identifiers from your pool, this metric displays the amount of identifiers that are being removed from the pool by this process._
+
+### Max Size
+
+This metric shows the maximum number of users the Identifier Pool was configured to accept, in the defined time frame.
+
+<figure><img src="../../.gitbook/assets/image (467).png" alt=""><figcaption><p>Max Size</p></figcaption></figure>
+
+_**Example:** When creating or editing an identifier pool, you can set the maximum number of identifiers it can contain. This will limit the total number of identifiers your pool can contain. On this graph, the configured time frame was one week, divided into daily periods. You will notice that the maximum size configured for this pool did not change._
+
+### Size
+
+This metric shows the actual size of the pool, meaning it will show the number of identifiers that are or were in the pool within the configured time frame.
+
+<figure><img src="../../.gitbook/assets/image (468).png" alt=""><figcaption><p>Size</p></figcaption></figure>
+
+_**Example**:  On this graph, you can observe the size of an identifiers pool in the defined time frame. This metric can be used for gathering knowledge about how many identifiers are added to your pool within the configured time frame, which will allow you to set a maximum size for the pool that is in the same range as the number of users on your website. In this picture, you will notice that on December 30, there were 12 users in this pool, and in the following days this number decreased to 10 users, and on January 5, there were 8 users in the pool._
+
+### Time Until Expiration
+
+This metric shows the median remaining time an identifier is still available in the pool until expiring in the determined time frame.
+
+<figure><img src="../../.gitbook/assets/image (469).png" alt=""><figcaption><p>Time Until Expiration</p></figcaption></figure>
+
+_**Example**: When creating your identifier pool you can set the number of days in which an identifier added to the pool will expire, this metric shows you the median time you have until an identifier expiration. On this graph, the defined time frame was 1 week, divided into daily periods, you will notice that on Dec 30 the median was around 16 days until the identifiers expire, and in the following days this median kept increasing until Jan 5, when it was around 23 days until the identifiers expire._

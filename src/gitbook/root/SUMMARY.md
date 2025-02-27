@@ -42,6 +42,7 @@
   * [Cookie Pools](product-documentation/data-management-platform-dmp/cookie-pools.md)
   * [Trackers](product-documentation/data-management-platform-dmp/trackers.md)
     * [Install Instructions](product-documentation/data-management-platform-dmp/trackers/install-instructions.md)
+  * [Identifier Pools](product-documentation/data-management-platform-dmp/identifier-pools.md)
   * [DMP Metrics](product-documentation/data-management-platform-dmp/dmp-metrics.md)
   * [DMP Billing](product-documentation/data-management-platform-dmp/dmp-billing.md)
 * [Catalog Storage Service (CS2)](product-documentation/catalog-storage-service-cs2/README.md)
