@@ -1,6 +1,6 @@
 # DMP Metrics
 
-These are all the metrics available in the DMP product for analyzing the performance of your cookie pools and trackers. Additionally, when reviewing metrics, you can always use the <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line">  to access our articles about a specific metric.
+These are all the metrics available in the DMP product for analyzing the performance of your cookie pools and trackers. Additionally, when reviewing metrics, you can always use the <img src="../../.gitbook/assets/image (2) (13).png" alt="" data-size="line">  to access our articles about a specific metric.
 
 {% hint style="info" %}
 You can learn more about how metrics are handled by visiting the [Metrics page](../metrics.md).&#x20;
@@ -18,7 +18,7 @@ _**Example:** You create a cookie pool with a TTL of seven days and install it o
 
 This metric shows the maximum amount of cookies allowed in the pool as configured.
 
-<figure><img src="../../.gitbook/assets/image (2) (13).png" alt=""><figcaption><p>Max Size</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (13) (1).png" alt=""><figcaption><p>Max Size</p></figcaption></figure>
 
 _**Example:** When creating or editing a cookie pool, you can set the maximum amount of cookies in the pool. This will limit the total number of cookies your pool can contain. In this graph, you can observe that a maximum size of 100,000 cookies was defined for this cookie pool._
 

@@ -13,7 +13,7 @@ Trackers will gather data about your website's activities, so it must be install
 1. Click on <img src="../../.gitbook/assets/image (92).png" alt="" data-size="line"> to start creating a tracker.
 2.  Fill in the details:
 
-    <figure><img src="../../.gitbook/assets/image (4) (11).png" alt=""><figcaption><p>Tracker Editor</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (11) (1).png" alt=""><figcaption><p>Tracker Editor</p></figcaption></figure>
 
     * Name: set a name for your tracker.
     * Tags: set tags for your organization.

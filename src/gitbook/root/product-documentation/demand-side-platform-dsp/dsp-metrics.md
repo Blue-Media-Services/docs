@@ -9,7 +9,7 @@ In the Campaigns section, a metrics tab containing data is available, following 
 * **Target:** This option will display a data comparison between your campaign's targets, allowing you to gather information about your audience. This information can be used to configure more precise targets in the future.
 * **Exchange**: This option will display a data comparison between the ad exchanges used to run your campaign, allowing you to gather data on which ad exchange has been more effective for your campaign.
 
-Additionally, when reviewing metrics, you can always use the <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line">  to access our articles about a specific metric.
+Additionally, when reviewing metrics, you can always use the <img src="../../.gitbook/assets/image (2) (13).png" alt="" data-size="line">  to access our articles about a specific metric.
 
 {% hint style="info" %}
 You can learn more about how metrics are handled by visiting the [Metrics page](../metrics.md).

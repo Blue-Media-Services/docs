@@ -16,7 +16,7 @@ layout:
 
 
 
-Select a Tag Container from the list to display the metrics related to it on the metrics tab. Selecting none will show you account-wide metrics for all your Tag Containers, and selecting more than one will display a comparison between the selected ones. Additionally, when reviewing metrics, you can always use the <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line">  to access our articles about a specific metric.
+Select a Tag Container from the list to display the metrics related to it on the metrics tab. Selecting none will show you account-wide metrics for all your Tag Containers, and selecting more than one will display a comparison between the selected ones. Additionally, when reviewing metrics, you can always use the <img src="../../.gitbook/assets/image (2) (13).png" alt="" data-size="line">  to access our articles about a specific metric.
 
 {% hint style="info" %}
 You can learn more about how metrics are handled by visiting the [Metrics page](../metrics.md).

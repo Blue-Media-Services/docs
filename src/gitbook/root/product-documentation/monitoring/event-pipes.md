@@ -12,7 +12,7 @@ We have a solution that may help you understand how a webhook works, check this 
 
 To create an event store, click on ![Create Event Pipe](<../../.gitbook/assets/image (1) (17).png>) , and an event pipe creation screen will pop up.
 
-<figure><img src="../../.gitbook/assets/image (10) (6).png" alt="" width="541"><figcaption><p>Event Pipe Creation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-11-04 073841.png" alt=""><figcaption><p>Event Pipe Creation</p></figcaption></figure>
 
 * Name - Set a name for your Event Store.
 * Tags - Create tags to better identify each event pipe.
@@ -25,7 +25,7 @@ To start configuring your event pipe, pick a template of your choice in our Filt
 
 In this example, we will be creating an event pipe for ADS - Delivered. This event tracks every Ad that is currently running in a campaign and is delivering impressions. Once we create this event pipe, all data will be sent to an Event Store or a Webhook.
 
-<figure><img src="../../.gitbook/assets/image (11) (6).png" alt="" width="529"><figcaption><p>ADS - Ad Delivered Event Pipe</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-11-04 074141.png" alt=""><figcaption><p>ADS - Ad Delivered Event Pipe</p></figcaption></figure>
 
 Once we have the template selected, you can check which data will be collected when creating the corresponding Event Pipe.
 
@@ -34,8 +34,8 @@ To collect the data, we **must** insert a filter, by clicking on ![Add Filter](<
 <figure><img src="../../.gitbook/assets/image (13) (6).png" alt="" width="515"><figcaption><p>Adding Filters</p></figcaption></figure>
 
 * Path - Specific tag in which you can identify the event. Ex: id, type, source, data.accountId.
-* Operator - Rule that will be used on this filter,
-* Value - Which specific value the tag must contain.
+* Operator - Rule that will be used on this filter.
+* Value - The specific value the tag must contain.
 
 In this case, we will be collecting data from ad-delivered events, so this is how the configuration would look.
 
@@ -49,9 +49,21 @@ Once you have fulfilled all fields with the corresponding information based on y
 
 In this case, our filter failed due to verification in our Value field.  These fields are case-sensitive and **must** match the corresponding information.
 
-Once you have added your filters, move to the targets tab.
+Once you have added your filters, click on <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> to save your event pipe.
 
-### Targets
+### Targets tab
+
+Here you will decide where to send the data: whether it will be sent to one or multiple event stores, a webhook, or a Google Sheet.
+
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-11-04 074833.png" alt=""><figcaption><p>Event Pipe's Targets Tab</p></figcaption></figure>
+
+To configure a target, click on ![Add Target](<../../.gitbook/assets/Captura de tela 2024-11-01 083709.png>) and fill out the details according to the chosen target option:
+
+#### Event Store
+
+You must create an event store before using it as a target for your event pipes. Learn more about [Event Stores](event-pipes.md#event-store).
+
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-11-04 074755.png" alt=""><figcaption><p>Event Store Target</p></figcaption></figure>
 
 Here you will decide where to send the data: whether it will be sent to one or multiple event stores or a webhook.
 
@@ -93,11 +105,44 @@ If your webhook test is successful, your icon will be presented as ![Test Webhoo
 
 After finishing all configuration and tests, click on ![Save](<../../.gitbook/assets/image (3).png>) to save your target.
 
-<figure><img src="../../.gitbook/assets/image (23) (2) (1).png" alt="" width="533"><figcaption><p>Event Pipe Target Created</p></figcaption></figure>
+Once everything is configured, click on <img src="../../.gitbook/assets/image (22) (2) (1).png" alt="Save" data-size="line"> and your event pipe will be listed.
 
-Once everything is configured, click on ![Save](<../../.gitbook/assets/image (3).png>) and your event pipe will be listed.
+* Name your target.
+* Select "Send to Event Store".
+* Select the event store you are willing to use.
+* Click on <img src="../../.gitbook/assets/image (5) (11).png" alt="" data-size="line"> to save your target.
 
-<figure><img src="../../.gitbook/assets/image (24) (2) (1).png" alt=""><figcaption><p>Event Pipes List</p></figcaption></figure>
+#### Call Webhook
+
+It is possible to send your data to a webhook provided by your data management tool, select this option to use the data management tool of preference, and then fill out the details.
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Call Webhook Target</p></figcaption></figure>
+
+* Name your target.
+* Select "Call Webhook".
+* Insert your data management tool's webhook URL.
+
+Once you have configured your webhook URL, use our Test Webhook tab to confirm the usability of your webhook tool. Select one of the sample event templates and click on ![Test Webhook](<../../.gitbook/assets/image (7).png>).
+
+If your webhook test is successful, your icon will be presented as ![Test Webhook Successful](<../../.gitbook/assets/image (8).png>) and the tabs for your test will be fulfilled.
+
+* Payload - Information that will be sent to your webhook.
+* Result - Status returned and the latency.
+* Request - Request used by BMS to send you the information for this test.
+* Response - Received response from your webhook.
+
+After finishing all configuration and tests, click on <img src="../../.gitbook/assets/image (5) (11).png" alt="" data-size="line"> to save your target.
+
+#### Google Sheets
+
+You can also send your data to Google Sheets, select this option, and fill out the details.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Google Sheet Target</p></figcaption></figure>
+
+* Name your target.
+* Select "Google Sheets".
+* Connect with your Google Account, and you can access the sheet.
+* Click on <img src="../../.gitbook/assets/image (5) (11).png" alt="" data-size="line"> to save your target.
 
 ### Enabling your Event Pipe
 
