@@ -61,6 +61,7 @@
   * [Media Billing](product-documentation/media/media-billing.md)
 * [Metrics](product-documentation/metrics.md)
 * [Monitoring](product-documentation/monitoring/README.md)
+  * [Looker  Studio](product-documentation/monitoring/looker-studio.md)
   * [Event Stores](product-documentation/monitoring/event-stores.md)
   * [Event Pipes](product-documentation/monitoring/event-pipes.md)
   * [Monitoring Metrics](product-documentation/monitoring/monitoring-metrics.md)

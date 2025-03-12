@@ -49,7 +49,7 @@ Once you have fulfilled all fields with the corresponding information based on y
 
 In this case, our filter failed due to verification in our Value field.  These fields are case-sensitive and **must** match the corresponding information.
 
-Once you have added your filters, click on <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> to save your event pipe.
+Once you have added your filters, click on <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line"> to save your event pipe.
 
 ### Targets tab
 
@@ -137,7 +137,7 @@ After finishing all configuration and tests, click on <img src="../../.gitbook/a
 
 You can also send your data to Google Sheets, select this option, and fill out the details.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Google Sheet Target</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (19).png" alt=""><figcaption><p>Google Sheet Target</p></figcaption></figure>
 
 * Name your target.
 * Select "Google Sheets".
