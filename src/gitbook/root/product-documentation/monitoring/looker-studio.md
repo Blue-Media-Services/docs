@@ -8,6 +8,8 @@ _Attention! Before you continue, it is necessary to create an API Key with permi
 
 ## Connecting BMS with Looker Studio
 
+If you still don't have a BMS account, sign up [here](https://console.bluems.com/#signUp).
+
 BMS has a partner connector in Looker Studio for the metrics API. This connector allows you to send data from your BMS campaigns to a customized report in Looker Studio. Below are the steps to configure BMS as a Data Source.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Looker Studio Homepage</p></figcaption></figure>
@@ -43,3 +45,5 @@ Now your BMS account metrics data is available as a data source for Looker Studi
 
 * [Create a report](https://cloud.google.com/looker/docs/studio/create-a-report)
 * [About connectors, data sources, and credentials](https://cloud.google.com/looker/docs/studio/about-connectors-data-sources-and-credentials)
+* [Our Privacy Policy](https://bluems.com/privacy/home.html)
+* [Our Terms of Use](https://console.bluems.com/assets/docs/signup-terms-and-conditions-20240404.pdf)
