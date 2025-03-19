@@ -1,4 +1,4 @@
-# Data Management Through Webhook
+# Webhook Tool (Zapier)
 
 ### What is a Webhook
 
@@ -19,25 +19,21 @@ The main reason for collecting that specific data is that we want to know the ex
 
 Follow the steps below to successfully manage your data through a webhook.
 
-* [Creating an Event Pipe](data-management-through-webhook.md#creating-an-event-pipe)
-* [Configuring your Webhook Tool](data-management-through-webhook.md#configuring-your-webhook-tool) (Zapier)
-* [Trigger](data-management-through-webhook.md#trigger)
-* [Action](data-management-through-webhook.md#action)
-* [Start Collecting Data!](data-management-through-webhook.md#start-collecting-data)
+* [Creating an Event Pipe](webhook-tool-zapier.md#creating-an-event-pipe)
+* [Configuring your Webhook Tool](webhook-tool-zapier.md#configuring-your-webhook-tool) (Zapier)
+* [Trigger](webhook-tool-zapier.md#trigger)
+* [Action](webhook-tool-zapier.md#action)
+* [Start Collecting Data!](webhook-tool-zapier.md#start-collecting-data)
 
 ### Creating an Event Pipe
 
 To use a webhook, we will be using the Event Pipe feature to gather data from a running campaign.
 
-When using **Zapier's Webhook**, move to the [trigger](data-management-through-webhook.md#trigger) step first in order to get the Webhook link to finish your event pipe configuration.
+When using **Zapier's Webhook**, move to the [trigger](webhook-tool-zapier.md#trigger) step first in order to get the Webhook link to finish your event pipe configuration.
 
 Go to our Monitoring tab and click on **Event Pipes**.
 
-<div align="center">
-
-<figure><img src="../.gitbook/assets/image (1) (6) (1) (1) (1).png" alt=""><figcaption><p>Monitoring Tab</p></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../.gitbook/assets/image (1) (6) (1) (1) (1).png" alt=""><figcaption><p>Monitoring Tab</p></figcaption></figure></div>
 
 There, we will be creating an event pipe by clicking on <img src="../.gitbook/assets/image (2) (5) (1) (1).png" alt="Create Event Pipe" data-size="line">, in this case, we will be creating an ADS - Delivered event, so select the Sample event Template, our ADS - Delivered template.
 
@@ -93,14 +89,14 @@ Then move to the App & Event Tab on your right, there you will configure your ev
 
 Move to the Test Tab and get your **Webhook URL**.
 
-This URL will be used on your Event Pipe configuration [here](data-management-through-webhook.md#creating-an-event-pipe).
+This URL will be used on your Event Pipe configuration [here](webhook-tool-zapier.md#creating-an-event-pipe).
 
 <figure><img src="../.gitbook/assets/image (16) (5) (1).png" alt="" width="410"><figcaption><p>Webhook URL</p></figcaption></figure>
 
 After configuring the webhook URL to your Event Pipe, click on Test Trigger to collect a data sample and use it to configure your Google Sheet.
 
 {% hint style="warning" %}
-_Attention! Make sure to have an **Active** Campaign and have your Event Pipe **enabled**, in order to have data available for that test, note that the test is **necessary** so there is_ _data available for further configuration on the_ [_Action_](data-management-through-webhook.md#action) _step._
+_Attention! Make sure to have an **Active** Campaign and have your Event Pipe **enabled**, in order to have data available for that test, note that the test is **necessary** so there is_ _data available for further configuration on the_ [_Action_](webhook-tool-zapier.md#action) _step._
 {% endhint %}
 
 The data might take a while to be available, once your event pipe sends information to your tool, this is the data you will get from that event.

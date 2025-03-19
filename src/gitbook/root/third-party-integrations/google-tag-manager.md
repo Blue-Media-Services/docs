@@ -1,18 +1,18 @@
-# Using Tag Managers
+# Google Tag Manager
 
 The tag managers are a free tool that makes it easier to add, manage, and update tracking codes (or “tags”) on your website. In this article, we are going to talk about one of them, the most popular and accessible, Google Tag Manager, or GTM, however, they all work similarly, so feel free to use the most convenient tag manager for you.
 
 These are the topics covered in this article:
 
-[Installing GTM](using-tag-managers.md#installing-google-tag-manager)
+[Installing GTM](google-tag-manager.md#installing-google-tag-manager)
 
-[Triggers](using-tag-managers.md#triggers)
+[Triggers](google-tag-manager.md#triggers)
 
-[Variables](using-tag-managers.md#variables)
+[Variables](google-tag-manager.md#variables)
 
-[Tags](using-tag-managers.md#tags)
+[Tags](google-tag-manager.md#tags)
 
-[Additional Information](using-tag-managers.md#additional-information)
+[Additional Information](google-tag-manager.md#additional-information)
 
 ## Installing Google Tag Manager
 

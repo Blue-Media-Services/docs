@@ -10,8 +10,6 @@
 
 * [Creating a Branding Campaign](solutions/branding.md)
 * [Creating a Retargeting Campaign](solutions/retargeting.md)
-* [Data Management Through Webhook](solutions/data-management-through-webhook.md)
-* [Using Tag Managers](solutions/using-tag-managers.md)
 
 ## Product documentation
 
@@ -69,3 +67,9 @@
 * [Billing](product-documentation/billing.md)
 * [Tag Container](product-documentation/tag-container/README.md)
   * [Tag Container Metrics](product-documentation/tag-container/tag-container-metrics.md)
+
+## Third-Party Integrations
+
+* [Webhook Tool (Zapier)](third-party-integrations/webhook-tool-zapier.md)
+* [Google Tag Manager](third-party-integrations/google-tag-manager.md)
+* [Voluum](third-party-integrations/voluum.md)

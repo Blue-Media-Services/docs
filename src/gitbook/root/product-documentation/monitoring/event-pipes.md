@@ -5,7 +5,7 @@ Our Event Pipes are used to collect data from all products on our platform. You 
 All event pipes created will be sent to either an Event Store, or you can use a webhook to send this data directly to your data management tool. We provide templates for every event that we can track so you can pick which you want to collect data.
 
 {% hint style="info" %}
-We have a solution that may help you understand how a webhook works, check this article [here](../../solutions/data-management-through-webhook.md).
+We have a solution that may help you understand how a webhook works, check this article [here](../../third-party-integrations/webhook-tool-zapier.md).
 {% endhint %}
 
 ## Creating an Event Pipe
