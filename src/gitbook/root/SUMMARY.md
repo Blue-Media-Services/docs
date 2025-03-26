@@ -73,3 +73,4 @@
 * [Webhook Tool (Zapier)](third-party-integrations/webhook-tool-zapier.md)
 * [Google Tag Manager](third-party-integrations/google-tag-manager.md)
 * [Voluum](third-party-integrations/voluum.md)
+* [External Data Lake Sync (AWS)](third-party-integrations/external-data-lake-sync-aws.md)

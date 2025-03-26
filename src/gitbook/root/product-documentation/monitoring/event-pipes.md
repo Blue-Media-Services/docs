@@ -49,7 +49,7 @@ Once you have fulfilled all fields with the corresponding information based on y
 
 In this case, our filter failed due to verification in our Value field.  These fields are case-sensitive and **must** match the corresponding information.
 
-Once you have added your filters, click on <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line"> to save your event pipe.
+Once you have added your filters, click on <img src="../../.gitbook/assets/image (4) (11).png" alt="" data-size="line"> to save your event pipe.
 
 ### Targets tab
 
@@ -82,7 +82,7 @@ Learn more about [Event Stores](event-pipes.md#event-store).
 * Name your target.
 * Select "Send to Event Store".
 * Select the event store you are willing to use.
-* Click on ![Save](<../../.gitbook/assets/image (3).png>) to save your target.
+* Click on ![Save](<../../.gitbook/assets/image (3) (13).png>) to save your target.
 
 #### Call Webhook
 
@@ -103,7 +103,7 @@ If your webhook test is successful, your icon will be presented as ![Test Webhoo
 * Request - Request used by BMS to send you the information for this test.
 * Response - Received response from your webhook.
 
-After finishing all configuration and tests, click on ![Save](<../../.gitbook/assets/image (3).png>) to save your target.
+After finishing all configuration and tests, click on ![Save](<../../.gitbook/assets/image (3) (13).png>) to save your target.
 
 Once everything is configured, click on <img src="../../.gitbook/assets/image (22) (2) (1).png" alt="Save" data-size="line"> and your event pipe will be listed.
 
@@ -137,7 +137,7 @@ After finishing all configuration and tests, click on <img src="../../.gitbook/a
 
 You can also send your data to Google Sheets, select this option, and fill out the details.
 
-<figure><img src="../../.gitbook/assets/image (1) (19).png" alt=""><figcaption><p>Google Sheet Target</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (19) (1).png" alt=""><figcaption><p>Google Sheet Target</p></figcaption></figure>
 
 * Name your target.
 * Select "Google Sheets".
@@ -152,7 +152,7 @@ To enable an event pipe simply flip the toggle <img src="../../.gitbook/assets/i
 
 ### Editing your Event Pipe
 
-To edit your event store, click on <img src="../../.gitbook/assets/image (35) (2).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes and then click on ![Save](<../../.gitbook/assets/image (3).png>).
+To edit your event store, click on <img src="../../.gitbook/assets/image (35) (2).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes and then click on ![Save](<../../.gitbook/assets/image (3) (13).png>).
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" width="527"><figcaption><p>Event Pipe's Edit Screen</p></figcaption></figure>
 

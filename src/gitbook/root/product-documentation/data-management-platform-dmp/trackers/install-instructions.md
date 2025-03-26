@@ -99,7 +99,7 @@ After installing your events' trackers you should start receiving data from them
 
 AppsFlyer is a mobile attribution and marketing analytics platform. It enables businesses to measure and analyze the performance of their mobile advertising campaigns by attributing app installs, in-app events, and conversions to the respective marketing channels or campaigns responsible for generating them.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (4) (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 The platform also offers precise attribution solutions, allowing marketers to identify the sources of app installs, in-app events, and conversions—whether from the BMS network, other ad channels, or organic sources.&#x20;
 

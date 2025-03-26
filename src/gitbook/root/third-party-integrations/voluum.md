@@ -52,16 +52,16 @@ You must add BMS as a traffic source into your Voluum campaigns to extract data.
 
 
 7. Here you will find 2 primordial information that will conclude the integration process:
-   * **Campaign URL**: This parameter will allow Voluum to track clicks on your BMS campaigns, use the copy button to copy this link and then use it as your ads link, i.e. paste it into the "Link To" parameter of your ads and creatives.
+   * **Campaign URL**: This parameter will allow Voluum to track clicks on your BMS campaigns. Use the copy button to copy this link and then use it as your ads link, i.e., paste it into the "Link To" parameter of your ads and creatives.
    * **Impression Click URL**: This parameter will allow Voluum to track impressions on your BMS campaigns. You must copy it using the copy button, paste this URL inside a pixel tag as a source and then add this pixel tag to your creative HTML code.
      * _Example:_ This is an example of a pixel tag:\
        `<img src="VOLUUM_IMPRESSION_PIXEL_URL" style="position: absolute; opacity: 0;">`\
-       You must replace the 'src' parameter with the link you copied from Voluum, after replacing it you will have a result like this:\
+       You must replace the 'src' parameter with the link you copied from Voluum. After replacing it, you will have a result like this:\
        `<img src="https://ImpressionURL.copied/from/Voluum" style="position: absolute; opacity: 0;">`
 
 ## Additional Information
 
-After following the steps above you will start to receive your BMS campaigns' data at Voluum and the integration is complete, you can also use the articles below to learn more about our ads creation process and other Voluum features.
+After following the steps above, you will start to receive your BMS campaigns' data at Voluum, and the integration will be complete. You can also use the articles below to learn more about our ads creation process and other Voluum features.
 
 * [Creatives](../product-documentation/ad-serving/creatives.md)
 * [Ads](../product-documentation/ad-server/ads/)
