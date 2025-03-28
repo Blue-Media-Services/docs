@@ -25,7 +25,7 @@ By integrating BMS with Voluum, advertisers can export campaign data, track spec
 ### Tracking Clicks and Impressions
 
 {% hint style="info" %}
-This article focuses on integrating **BMS** as a traffic source in **Voluum**. We will not cover Voluum’s full campaign creation options. For more details on Voluum’s features, visit our [**Additional Information**](voluum.md#additional-information) section or [Voluum’s documentation](https://doc.voluum.com/).
+This article focuses on integrating **BMS** as a traffic source in **Voluum**. We will not cover Voluum’s full campaign creation options. For more details on Voluum’s features, visit our [**Additional Information**](voluum.md#additional-information) section or [Voluum’s documentation](https://doc.voluum.com/).&#x20;
 {% endhint %}
 
 You must add BMS as a traffic source into your Voluum campaigns to extract data.
@@ -51,13 +51,19 @@ You must add BMS as a traffic source into your Voluum campaigns to extract data.
     <figure><img src="../.gitbook/assets/image (4) (14).png" alt=""><figcaption><p>Voluum Campaign Editor - Tracking &#x26; Automizer Tab</p></figcaption></figure>
 
 
-7. Here you will find 2 primordial information that will conclude the integration process:
-   * **Campaign URL**: This parameter will allow Voluum to track clicks on your BMS campaigns. Use the copy button to copy this link and then use it as your ads link, i.e., paste it into the "Link To" parameter of your ads and creatives.
-   * **Impression Click URL**: This parameter will allow Voluum to track impressions on your BMS campaigns. You must copy it using the copy button, paste this URL inside a pixel tag as a source and then add this pixel tag to your creative HTML code.
-     * _Example:_ This is an example of a pixel tag:\
-       `<img src="VOLUUM_IMPRESSION_PIXEL_URL" style="position: absolute; opacity: 0;">`\
-       You must replace the 'src' parameter with the link you copied from Voluum. After replacing it, you will have a result like this:\
-       `<img src="https://ImpressionURL.copied/from/Voluum" style="position: absolute; opacity: 0;">`
+7.  Here, you will find 2 primordial information that will conclude the integration process:
+
+    *   **Campaign URL**: This parameter will allow Voluum to track clicks on your BMS campaigns. Use the copy button to copy this link and then use it as your ad's link, i.e., paste it into the "Link To" parameter of your ads or creatives.\
+
+
+        <figure><img src="../.gitbook/assets/image (508).png" alt=""><figcaption><p>Creatives Editor - Link to</p></figcaption></figure>
+    * **Impression Click URL**: This parameter will allow Voluum to track impressions on your BMS campaigns. You must copy it using the copy button, paste this URL inside a pixel tag as a source and then add this pixel tag to your creative HTML code.
+      * _Example:_ This is an example of a pixel tag:\
+        `<img src="VOLUUM_IMPRESSION_PIXEL_URL" style="position: absolute; opacity: 0;">`\
+        You must replace the 'src' parameter with the link you copied from Voluum. After replacing it, you will have a result like this:\
+        `<img src="https://ImpressionURL.copied/from/Voluum" style="position: absolute; opacity: 0;">`
+
+    <figure><img src="../.gitbook/assets/image (507).png" alt=""><figcaption><p>Creatives Editor - Paste HTML tab</p></figcaption></figure>
 
 ## Additional Information
 
