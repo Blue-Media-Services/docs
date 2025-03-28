@@ -65,9 +65,9 @@ If you wish to create new Ads based on existing Creatives, select the Use Existi
 
 On the A/B Test tab, you can decide if you will be testing your Ads to check their results, by setting different weights on each creative.
 
-It is necessary to have more than one creatives selected in order to use the A/B Test.
+It is necessary to have more than one creative selected in order to use the A/B Test.
 
-<figure><img src="../../../.gitbook/assets/image (205).png" alt=""><figcaption><p>A/B Test</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 074415.png" alt=""><figcaption><p>A/B Test</p></figcaption></figure>
 
 * You can select whether you will be using the A/B Test by clicking on the <img src="../../../.gitbook/assets/image (183).png" alt="" data-size="line"> corresponding to your decision, then if necessary, set a custom Suffix to better identify your A/B creatives.
 * After making all necessary changes, click on <img src="../../../.gitbook/assets/image (35).png" alt="Next" data-size="line"> to move to the next step.
@@ -76,14 +76,14 @@ It is necessary to have more than one creatives selected in order to use the A/B
 
 On the Naming and Tagging Strategy tab, you will be able to customize your ads' names and tags.
 
-* Copy From Assets - Uses the same name or tags from the creative itself.
-* Use New - Creates a new name or tag for all ads.
-  * Append Size - By checking this option, insert the creative's size into the name.
-* Custom - Customize each Ad separately, naming and tagging each one.
+* **Copy From Assets**: Uses the same name or tags from the creative itself.
+* **Use New**: Creates a new name or tag for all ads.
+  * **Append Size**: By checking this option, insert the creative's size into the name.
+* **Custom**: Customize each Ad separately, naming and tagging each one.
 
 You can check the current status of your settings by checking the Preview Editor.
 
-<figure><img src="../../../.gitbook/assets/image (206).png" alt=""><figcaption><p>Naming and Tagging Strategy</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 074521.png" alt=""><figcaption><p>Naming and Tagging Strategy</p></figcaption></figure>
 
 After making all necessary changes, click on <img src="../../../.gitbook/assets/image (35).png" alt="Next" data-size="line"> to move to the next step.
 
@@ -95,16 +95,16 @@ On your Rules tab, you will be able to set a schedule for your Ad, being able to
 _If no schedule is set, all of your ads will be displayed all day long every day._
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (207).png" alt=""><figcaption><p>Configuring Default Rule</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 074620.png" alt=""><figcaption><p>Configuring Default Rule</p></figcaption></figure>
 
-* To set a specific time for each day, or remove a day from your schedule, click on the dropdown <img src="../../../.gitbook/assets/image (185).png" alt="Dropdown" data-size="line">.
+* To set a specific time for each day or remove a day from your schedule, click on the dropdown <img src="../../../.gitbook/assets/image (185).png" alt="Dropdown" data-size="line">.
 
 <figure><img src="../../../.gitbook/assets/image (186).png" alt="" width="364"><figcaption><p>Schedule Settings</p></figcaption></figure>
 
-* You can set a specific time for your Ad to be displayed, if all boxes are unchecked, the selected day will be removed from your schedule.
+* You can set a specific time for your Ad to be displayed. If all boxes are unchecked, the selected day will be removed from your schedule.
 * While making changes to your schedule, our Preview Editor will display how many hours per week the ads will be displayed.
 
-<figure><img src="../../../.gitbook/assets/image (190).png" alt="" width="490"><figcaption><p>Preview Editor - Rules</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 075035.png" alt=""><figcaption><p>Preview Editor - Rules</p></figcaption></figure>
 
 * After making all necessary changes, click on <img src="../../../.gitbook/assets/image (35).png" alt="Next" data-size="line"> to move to the next step.
 
@@ -112,7 +112,7 @@ _If no schedule is set, all of your ads will be displayed all day long every day
 
 All ads are sent for review and need Ad Exchange approval in order to be available in your campaign.
 
-<figure><img src="../../../.gitbook/assets/image (208).png" alt=""><figcaption><p>Exchanges Selection</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 075154.png" alt=""><figcaption><p>Exchanges Selection</p></figcaption></figure>
 
 * Some Ad Exchanges do not require a review, and your Ads will be available for immediate use.
 * After making all necessary changes, click on <img src="../../../.gitbook/assets/image (188).png" alt="Next" data-size="line"> to move to the next step.
@@ -121,7 +121,7 @@ All ads are sent for review and need Ad Exchange approval in order to be availab
 
 Once you have followed every step correctly and made all the necessary changes, you will be able to review all your settings. If there are any adjustments required, click on <img src="../../../.gitbook/assets/image (191).png" alt="Previous" data-size="line"> to fix any issue.
 
-<figure><img src="../../../.gitbook/assets/image (209).png" alt=""><figcaption><p>Ads Review</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 075239.png" alt=""><figcaption><p>Ads Review</p></figcaption></figure>
 
 After reviewing all of your ad creation process, click on <img src="../../../.gitbook/assets/image (192).png" alt="" data-size="line"> to finish your ad creation.
 
@@ -141,16 +141,17 @@ To start creating an Ad rule, select an ad and move to the <img src="../../../.g
 
 <figure><img src="../../../.gitbook/assets/image (146) (1).png" alt=""><figcaption><p>Rules</p></figcaption></figure>
 
-To create a rule, click on <img src="../../../.gitbook/assets/image (147) (1).png" alt="Add Rule" data-size="line">
+To create a rule, click on <img src="../../../.gitbook/assets/image (147) (1).png" alt="Add Rule" data-size="line">.
 
-<figure><img src="../../../.gitbook/assets/image (148) (1).png" alt="" width="529"><figcaption><p>Editing Rules</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 075457.png" alt=""><figcaption><p>Editing Rules</p></figcaption></figure>
 
 On your rule creation, you will be able to select the time frame in which your ad will be displayed.
 
-* Name - Set a name to your Rule, to better identify;
-* Creative Group - Select the creative group in which your rule will be used;
-* Scheduling - You can schedule your ads to be displayed on certain days or time window, making it possible to fully customize when your ads will be displayed.
-* Display - Set a starting date and when the rule stops, you can always edit this date when necessary.
+* **Name**:  Inform a name for the rule.
+* **Use Single Creative**: Select this option to apply this rule to a single creative.
+* **Use Creative Group**: Select this option to apply this rule to a creative group.
+* **Scheduling**: You can schedule your ads to be displayed on certain days or time window, making it possible to fully customize when your ads will be displayed.
+* **Display**: Set a starting date and when the rule stops, you can always edit this date when necessary.
 
 After making all necessary customizations, click on <img src="../../../.gitbook/assets/image (144) (1).png" alt="Save" data-size="line">.
 
@@ -164,11 +165,11 @@ If you do not change the rule, the platform will understand that your creative w
 
 You can create multiple rules for the same Ad, and enable or disable them as you wish. Just flip the<img src="../../../.gitbook/assets/image (151) (1).png" alt="Toggle" data-size="line"> to decide which rules will be used.
 
-Example: _Let's say that in the first half of the month, you have a promotion for a 10% discount on products and in the second half of the month for a 20% discount. You could create two Ads with different creatives and create a period rule so that the platform makes this change automatically for you, without the need to create two different campaigns;_
+_**Example**: Let's say that in the first half of the month, you have a promotion for a 10% discount on products and in the second half of the month for a 20% discount. You could create two Ads with different creatives and create a period rule so that the platform makes this change automatically for you, without the need to create two different campaigns;_
 
 ## Exchange Reviews
 
-Once you create your ads, it is necessary for certain exchanges to review your ad in order to display it on their inventory, you can check your exchange review status by clicking on <img src="../../../.gitbook/assets/image (152) (1).png" alt="Exchange Reviews" data-size="line">.
+Once you create your ads, it is necessary for certain exchanges to review your ad in order to display it on their inventory. You can check your exchange review status by clicking on <img src="../../../.gitbook/assets/image (152) (1).png" alt="Exchange Reviews" data-size="line">.
 
 <figure><img src="../../../.gitbook/assets/image (153) (1).png" alt=""><figcaption><p>Exchange Reviews</p></figcaption></figure>
 
@@ -182,13 +183,13 @@ On the Ad list, you can check at a glance if there are any issues with your conf
 
 <figure><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption><p>Issue being displayed for an ad</p></figcaption></figure>
 
-Once all issues are addressed the ad will display a green check.
+Once all issues are addressed, the ad will display a green check.
 
 ## Archiving and Unarchiving an Ad
 
-Ads that are not being used as often can be archived by clicking on the <img src="../../../.gitbook/assets/archive.png" alt="Archive" data-size="line"> button. Archiving an Ad does not prevent it from being used or displayed, just hides it from the main view.
+Ads that are not being used as often can be archived by clicking on the <img src="../../../.gitbook/assets/archive.png" alt="Archive" data-size="line"> button. Archiving an Ad does not prevent it from being used or displayed; it only hides it from the main view.
 
-To see all archived ads simply turn on the <img src="../../../.gitbook/assets/archive filter.png" alt="Archived" data-size="line"> filter. You can unarchive <img src="../../../.gitbook/assets/unarchive.png" alt="Unarchive" data-size="line"> an Ad to make it show again on the main list.
+To see all archived ads, simply turn on the <img src="../../../.gitbook/assets/archive filter.png" alt="Archived" data-size="line"> filter. You can unarchive <img src="../../../.gitbook/assets/unarchive.png" alt="Unarchive" data-size="line"> an Ad to make it show again on the main list.
 
 ## Monitoring Ads
 
@@ -196,10 +197,11 @@ To see all archived ads simply turn on the <img src="../../../.gitbook/assets/ar
 
 The metrics tab will display all metrics related to the selected ads or for the whole account if no ads are selected.&#x20;
 
-Since the group by feature is available for this metrics tab you will also be able to Group your metrics by:
+Since the group by feature is available for this metrics tab, you will also be able to group your metrics by:
 
 * Ad - See the performance of each ad separately.
 * Rule - Check which rule is working better for your ads, making it easy to make adjustments.
+* Creative - See which creative is performing better and create strategies accordingly.
 * Creative Group - See which creative group is performing better and create strategies accordingly.
 * Exchange - Check the performance of an Ad Exchange and make adjustments based on that data.
 
