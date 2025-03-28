@@ -87,11 +87,11 @@ Once you configure all of your UTM Tags, hit the <img src="../../.gitbook/assets
 <figure><img src="../../.gitbook/assets/image (397).png" alt=""><figcaption><p>HTML Customization Example</p></figcaption></figure>
 
 * This can be anything and it is entirely up to you to produce a working creative with HTML, CSS, and Javascript.
-* When you provide the HTML code, our click tracker won't be automatically added. You can copy the click tracker macro (or any other macro you wish) from the bottom template assist buttons and paste it on your HTML. For more information, please take a look at the [Macros section](creatives.md#macros).
+* When you provide the HTML code, our click tracker won't be automatically added. You can copy the click tracker macro (or any other macro you wish) from the bottom template assist buttons and paste it into your HTML. For more information, please take a look at the [Macros section](creatives.md#macros).
 
 You can use the <img src="../../.gitbook/assets/preview.png" alt="Preview" data-size="line"> button to see how your creative will be displayed and to make sure that it directs users to the correct site when clicked.
 
-If you are ready to send the creative for review ensure that the "Send for review" option is checked. If you wish to continue editing it later, leave it unchecked.
+If you are ready to send the creative for review, ensure that the "Send for review" option is checked. If you wish to continue editing it later, leave it unchecked.
 
 After making all necessary adjustments, click on ![Save](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png>).
 
@@ -109,9 +109,23 @@ Some of them are:
   * **Escaped Click URL**\
     This version is similar to the previous but it should only be used if you wish to have an external click tracker that does not support unescaped URLs.
   * **Double-escaped Click URL**\
-    This version is similar to the previous two but it should only be used if you wish to have a click tracker chain of two or more where the external click tackers do not support unescaped URLs.
+    This version is similar to the previous two, but it should only be used if you wish to have a click tracker chain of two or more where the external click trackers do not support unescaped URLs.
   * **Cache Buster**\
     This macro will inject a random sequence of numbers and is most commonly used to ensure that the requests will not be cached.
+
+### Creative Review
+
+Upon finishing your creative's creation, your creative will be sent to review in order to identify if the creative is inappropriate. Below you can find some statuses that can be displayed for your creative.
+
+* **Queued:** The creative is in the review queue.
+* **In-Progress:** The platform is still reviewing the creative.
+* **Approved:** The creative has been approved without any restrictions.
+* **Partially-Approved:** The creative has been approved with restrictions (specific regions or platforms).
+* **Rejected:** The creative has been rejected and can not be used.
+* **Revoked:** The creative was previously approved but has been revoked.
+* **Skipped:** The review process was skipped and not executed.
+
+If you have any questions for the result of your creative review status, contact our support team.
 
 ### Editing a Creative
 
@@ -119,7 +133,7 @@ To edit a creative use the <img src="../../.gitbook/assets/edit.png" alt="Edit" 
 
 <figure><img src="../../.gitbook/assets/image (7) (5).png" alt=""><figcaption><p>Editing a Creative</p></figcaption></figure>
 
-If you modify the image URL, link or the HTML code the creative will go back to the <img src="../../.gitbook/assets/draft status.png" alt="Draft" data-size="line"> status and you will need to send the creative for review again. While in draft, the creative will not be shown on any campaigns.
+If you modify the image URL, link or the HTML code the creative will go back to the <img src="../../.gitbook/assets/draft status.png" alt="Draft" data-size="line"> status, and you will need to send the creative for review again. While in draft, the creative will not be shown on any campaigns.
 
 Once you have made all necessary changes to your creative, click on ![Save](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png>).
 
