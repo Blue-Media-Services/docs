@@ -10,7 +10,7 @@ We have a solution that may help you understand how a webhook works, check this 
 
 ## Creating an Event Pipe
 
-To create an event store, click on ![Create Event Pipe](<../../.gitbook/assets/image (1) (17).png>) , and an event pipe creation screen will pop up.
+To create an event store, click on <img src="../../.gitbook/assets/image (9) (6).png" alt="Create Event Pipe" data-size="line"> , and an event pipe creation screen will pop up.
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-11-04 073841.png" alt=""><figcaption><p>Event Pipe Creation</p></figcaption></figure>
 
@@ -65,45 +65,13 @@ You must create an event store before using it as a target for your event pipes.
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-11-04 074755.png" alt=""><figcaption><p>Event Store Target</p></figcaption></figure>
 
-Here you will decide where to send the data: whether it will be sent to one or multiple event stores or a webhook.
+If you decide to send your data to an event store, simply name your target and choose your already created event store.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-11-04 074833.png" alt=""><figcaption><p>Event Pipe's Targets Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (2) (1).png" alt="" width="357"><figcaption><p>Call Webhook Target</p></figcaption></figure>
 
-To configure a target, click on ![Add Target](<../../.gitbook/assets/Captura de tela 2024-11-01 083709.png>) and fill out the details according to the chosen target option:
+It is possible to send your data to a webhook, provided by your data management tool, this is an option if you already have a data management tool of preference.
 
-#### Event Store
-
-You must create an event store before using it as a target for your event pipes.&#x20;
-
-Learn more about [Event Stores](event-pipes.md#event-store).
-
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-11-04 074755.png" alt=""><figcaption><p>Event Store Target</p></figcaption></figure>
-
-* Name your target.
-* Select "Send to Event Store".
-* Select the event store you are willing to use.
-* Click on ![Save](<../../.gitbook/assets/image (3) (13).png>) to save your target.
-
-#### Call Webhook
-
-It is possible to send your data to a webhook provided by your data management tool, select this option to use the data management tool of preference, and then fill out the details.
-
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Call Webhook Target</p></figcaption></figure>
-
-* Name your target.
-* Select "Call Webhook".
-* Insert your data management tool's webhook URL.
-
-Once you have configured your webhook URL, use our Test Webhook tab to confirm the usability of your webhook tool. Select one of the sample event templates and click on ![Test Webhook](<../../.gitbook/assets/image (7).png>).
-
-If your webhook test is successful, your icon will be presented as ![Test Webhook Successful](<../../.gitbook/assets/image (8).png>) and the tabs for your test will be fulfilled.
-
-* Payload - Information that will be sent to your webhook.
-* Result - Status returned and the latency.
-* Request - Request used by BMS to send you the information for this test.
-* Response - Received response from your webhook.
-
-After finishing all configuration and tests, click on ![Save](<../../.gitbook/assets/image (3) (13).png>) to save your target.
+After making all necessary changes, click on <img src="../../.gitbook/assets/image (22) (2) (1).png" alt="Save" data-size="line"> to create your target.
 
 Once everything is configured, click on <img src="../../.gitbook/assets/image (22) (2) (1).png" alt="Save" data-size="line"> and your event pipe will be listed.
 
@@ -152,7 +120,7 @@ To enable an event pipe simply flip the toggle <img src="../../.gitbook/assets/i
 
 ### Editing your Event Pipe
 
-To edit your event store, click on <img src="../../.gitbook/assets/image (35) (2).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes and then click on ![Save](<../../.gitbook/assets/image (3) (13).png>).
+To edit your event store, click on <img src="../../.gitbook/assets/image (35) (2).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes and then click on <img src="../../.gitbook/assets/image (32) (2).png" alt="Save" data-size="line">.
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" width="527"><figcaption><p>Event Pipe's Edit Screen</p></figcaption></figure>
 
@@ -174,7 +142,7 @@ To delete an event, click on ![](<../../.gitbook/assets/image (138).png>) and a 
 
 <figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption><p>Event Pipe Deletion</p></figcaption></figure>
 
-After clicking on ![Delete](<../../.gitbook/assets/image (2) (12).png>), your event pipe will be deleted.
+After clicking on <img src="../../.gitbook/assets/image (140).png" alt="Delete" data-size="line">, your event pipe will be deleted.
 
 {% hint style="warning" %}
 _We advise users to archive instead of deleting, only delete if you are sure of it, the action cannot be undone._
@@ -189,3 +157,43 @@ These are all the metrics for event pipes:
 * [Matched Events Count](monitoring-metrics.md#matched-events-count)
 * [Target Execution Call Count](monitoring-metrics.md#target-execution-call-count)
 * [Target Execution Failure Rate](monitoring-metrics.md#target-execution-failure-rate)
+
+Here you will decide where to send the data: whether it will be sent to one or multiple event stores or a webhook.
+
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-11-04 074833.png" alt=""><figcaption><p>Event Pipe's Targets Tab</p></figcaption></figure>
+
+To configure a target, click on ![Add Target](<../../.gitbook/assets/Captura de tela 2024-11-01 083709.png>) and fill out the details according to the chosen target option:
+
+#### Event Store
+
+You must create an event store before using it as a target for your event pipes.&#x20;
+
+Learn more about [Event Stores](event-pipes.md#event-store).
+
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-11-04 074755.png" alt=""><figcaption><p>Event Store Target</p></figcaption></figure>
+
+* Name your target.
+* Select "Send to Event Store".
+* Select the event store you are willing to use.
+* Click on ![Save](<../../.gitbook/assets/image (3) (13).png>) to save your target.
+
+#### Call Webhook
+
+It is possible to send your data to a webhook provided by your data management tool, select this option to use the data management tool of preference, and then fill out the details.
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Call Webhook Target</p></figcaption></figure>
+
+* Name your target.
+* Select "Call Webhook".
+* Insert your data management tool's webhook URL.
+
+Once you have configured your webhook URL, use our Test Webhook tab to confirm the usability of your webhook tool. Select one of the sample event templates and click on ![Test Webhook](<../../.gitbook/assets/image (7).png>).
+
+If your webhook test is successful, your icon will be presented as ![Test Webhook Successful](<../../.gitbook/assets/image (8).png>) and the tabs for your test will be fulfilled.
+
+* Payload - Information that will be sent to your webhook.
+* Result - Status returned and the latency.
+* Request - Request used by BMS to send you the information for this test.
+* Response - Received response from your webhook.
+
+After finishing all configuration and tests, click on ![Save](<../../.gitbook/assets/image (3) (13).png>) to save your target.
