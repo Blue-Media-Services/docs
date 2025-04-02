@@ -175,7 +175,7 @@ Once you create your ads, it is necessary for certain exchanges to review your a
 
 If you did not check the Send for Review on your Ad creation, you will be able to send your ad for review by clicking on <img src="../../../.gitbook/assets/image (154) (1).png" alt="Send" data-size="line">.
 
-Should your ad review fail for any reason, you can check more details [here](ad-exchange-review.md) on how to correctly identify the error and how to fix it.
+Should your ad review fail for any reason, you can check more details [here](ad-exchange-review/) on how to correctly identify the error and how to fix it.
 
 ## Checking the status of an Ad <a href="#checking-the-status-of-anad" id="checking-the-status-of-anad"></a>
 

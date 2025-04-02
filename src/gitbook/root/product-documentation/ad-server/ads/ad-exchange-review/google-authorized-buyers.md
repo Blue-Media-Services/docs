@@ -1,42 +1,16 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+# Google Authorized Buyers
 
-# Ad Exchange Review
+Below are some statuses that may be assigned to your ad, along with guidance on how to identify any issues affecting your ad.
 
-Some ad exchanges require a review of your ad before displaying it in their inventory to ensure compliance with their pre-established rules. Once the review is complete, the ad exchange will inform you whether the ad is approved or rejected, along with the reason for rejection.&#x20;
+* [Adult Content](google-authorized-buyers.md#adult-content)
+* [Destination Not Crawlable](google-authorized-buyers.md#destination-not-crawlable)
+* [Online Gambling](google-authorized-buyers.md#online-gambling)
+* [Inappropriate Content](google-authorized-buyers.md#inappropriate-content)
+* [Ad Network Abuse](./#a-d-network-abuse)
+* [Removed By Google](google-authorized-buyers.md#removed-by-google)
+* [Revoked By Google](google-authorized-buyers.md#revoked-by-google)
 
-Reviewing ads is essential to prevent inappropriate content from being displayed on websites that do not accept such content.&#x20;
-
-Please note that sometimes an ad exchange's rejection might not provide an accurate status for your review. Therefore, make sure to resend your ad for review to double-check the rejection status.
-
-
-
-<figure><img src="../../../.gitbook/assets/image (8) (6).png" alt="" width="125"><figcaption><p>Rejected Status</p></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Status Rejection Example</p></figcaption></figure>
-
-Below are some statuses that Google Authorized Buyers may assign to your ad, along with guidance on how to identify any issues affecting your ad. Here are some statuses that authorized Google Buyers can assign to their ads, along with guidelines on how to identify any problems affecting their ads. The ad exchange statuses shown are specific to Google, as it is currently the only one with a rejection status.
-
-* [Adult Content](ad-exchange-review.md#adult-content)
-* [Destination Not Crawlable](ad-exchange-review.md#destination-not-crawlable)
-* [Online Gambling](ad-exchange-review.md#online-gambling)
-* [Inappropriate Content](ad-exchange-review.md#inappropriate-content)
-* [Ad Network Abuse](ad-exchange-review.md#a-d-network-abuse)
-* [Removed By Google](ad-exchange-review.md#removed-by-google)
-* [Revoked By Google](ad-exchange-review.md#revoked-by-google)
-
-## Adult Content
+### Adult Content
 
 Explicit adult content is not allowed on the ad network. Some adult-oriented ads and landing pages are allowed but will be shown in limited scenarios based on user searches, user age, and local laws.
 
@@ -58,7 +32,7 @@ Once you receive a rejection for your ad, identify which example better suits yo
 
 Should you need any further information, check [here](https://support.google.com/adspolicy/answer/6023699?sjid=1157365488976502743-SA).
 
-## Destination Not Crawlable
+### Destination Not Crawlable
 
 Google requires that the destination and content of ads be accessible to the Google AdsBot web crawlers, ensuring that users are redirected to the correct destination after clicking on the ad.
 
@@ -81,7 +55,7 @@ Check which situation your website fits into; you may need to consult your techn
 
 You can also check [here](https://support.google.com/adspolicy/answer/6368661?sjid=8903565646488334037-SA#674) for a broader view of how to fix that issue.
 
-## Online Gambling
+### Online Gambling
 
 The promotion of online, real-money gambling or sites that contain or link to content related to online gambling is allowed with country-specific restrictions.
 
@@ -108,13 +82,13 @@ Once you identify your method, you must comply with the rules of the country and
 
 Below, you can check the requirements for each country.
 
-<figure><img src="../../../.gitbook/assets/image (170).png" alt="" width="529"><figcaption><p>Restrictions According to each Country.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (170).png" alt="" width="529"><figcaption><p>Restrictions According to each Country.</p></figcaption></figure>
 
 You will need the certificate for each country in which you are interested in publishing Ads.
 
 For further information on how to apply for the certification, check [here](https://support.google.com/authorizedbuyers/answer/7450776).
 
-## Inappropriate Content
+### Inappropriate Content
 
 All ads and landing pages on Authorized Buyers must be designated as "family safe" to ensure they can potentially be shown to all appropriate audiences. It is necessary to identify how your creative fits into each category below.
 
@@ -130,7 +104,7 @@ If your creative matches any of the examples above, you will need to make the ne
 
 For any further information you may need, check [here](https://support.google.com/adspolicy/answer/6015406?sjid=8903565646488334037-SA#360).
 
-## Ad Network Abuse
+### Ad Network Abuse
 
 We want ads across our network to be useful, varied, relevant, and safe for users. Advertisers are not allowed to run ads, content, or destinations that attempt to deceive or bypass our ad review processes.
 
@@ -149,12 +123,12 @@ Violations of this policy are taken very seriously and considered egregious, esp
 
 For any further information you may need, check [here](https://support.google.com/adspolicy/answer/6020954).
 
-## Removed By Google
+### Removed By Google
 
 It is possible for a Google-approved ad to be removed later due to policy changes or errors in Google's daily checks. Google's re-evaluation might determine that your ad now violates a rule, leading to its removal.
 
 A common solution for this situation is to resubmit your ad for review. This allows Google to either approve it again or provide the correct rejection status if it still violates a rule.
 
-## Revoked By Google
+### Revoked By Google
 
 During a campaign, you might stop using some ads, and Google may revoke these ads after a period of inactivity. Google performs daily checks, and if your ad is not being used regularly, it may be revoked. Once you resubmit the ad for review, it should be approved.

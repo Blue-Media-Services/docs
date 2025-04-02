@@ -48,7 +48,7 @@ These are the features available on BMS.
 
 [Ads Metrics](product-documentation/ad-server/ads/#metrics-tab)
 
-[Ad Exchange Review](product-documentation/ad-server/ads/ad-exchange-review.md)
+[Ad Exchange Review](product-documentation/ad-server/ads/ad-exchange-review/)
 
 [Creative Builder](product-documentation/ad-server/creative-builder/)
 
