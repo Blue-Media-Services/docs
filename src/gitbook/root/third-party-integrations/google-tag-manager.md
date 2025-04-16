@@ -4,15 +4,12 @@ The tag managers are a free tool that makes it easier to add, manage, and update
 
 These are the topics covered in this article:
 
-[Installing GTM](google-tag-manager.md#installing-google-tag-manager)
-
-[Triggers](google-tag-manager.md#triggers)
-
-[Variables](google-tag-manager.md#variables)
-
-[Tags](google-tag-manager.md#tags)
-
-[Additional Information](google-tag-manager.md#additional-information)
+* [Installing GTM](google-tag-manager.md#installing-google-tag-manager)
+* [Triggers](google-tag-manager.md#triggers)
+* [Variables](google-tag-manager.md#variables)
+* [Tags](google-tag-manager.md#tags)
+* [Templates](google-tag-manager.md#templates)
+* [Additional Information](google-tag-manager.md#additional-information)
 
 ## Installing Google Tag Manager
 
@@ -204,13 +201,79 @@ There are many things you can accomplish using tags. GTM offers several types of
 7. Click on <img src="../.gitbook/assets/image (395).png" alt="" data-size="line"> to access a preview of your page with the tags installed and debug them if necessary. (This step is optional)
 8. Click on <img src="../.gitbook/assets/image (396).png" alt="" data-size="line"> to submit your changes to the live version of your website.
 
+## Templates
+
+Alternatively, you can use our BMS Universal Tag template to install BMS components into your website easily. This single template contains most of our product tags, and we will discuss the available actions further.
+
+### Configuring BMS Universal Tag
+
+When creating a new tag, you will need to choose the type of your tag, this is where you will find our template after searching for it as "BMS Universal Tag".
+
+<figure><img src="../.gitbook/assets/image (519).png" alt=""><figcaption><p>Choose tag type - Searching for BMS Universal Tag</p></figcaption></figure>
+
+After selecting this template, you will need to fill in some details according to the action you need to execute. These are some of the available actions:
+
+* [Track Page Loaded](google-tag-manager.md#track-page-loaded)
+* [Add User to a Cookie Pool](google-tag-manager.md#add-user-to-a-cookie-pool)
+* [Record User Activity in a Tracker](google-tag-manager.md#record-user-activity-in-a-tracker)
+* [Count Event in Catalog](google-tag-manager.md#count-event-in-a-catalog)&#x20;
+* [Tag Container](google-tag-manager.md#tag-container)
+
+#### Track Page Loaded
+
+<figure><img src="../.gitbook/assets/image (520).png" alt=""><figcaption><p>Track Page Loaded Action</p></figcaption></figure>
+
+When triggered, this action will execute the [Page Load Tracking Tag](../product-documentation/ad-server/page-load-tracking-tag.md). To configure it, you will need to fill in the following details:
+
+* **BMS Account ID**: Your 12-digit BMS account number.
+
+#### Add User to a Cookie Pool
+
+<figure><img src="../.gitbook/assets/image (521).png" alt=""><figcaption><p>Add User to a Cookie Pool Action</p></figcaption></figure>
+
+When triggered, this action will add users to a [Cookie Pool](../product-documentation/data-management-platform-dmp/cookie-pools.md). To configure it, you will need to fill in the following details:
+
+* **BMS Account ID**: Your 12-digit BMS account number.
+* **Cookie Pool ID**: Insert your Cookie Pool ID; it is available when creating or editing a cookie pool at the cookie pools editor.
+
+#### Record User Activity in a Tracker
+
+<figure><img src="../.gitbook/assets/image (522).png" alt=""><figcaption><p>Record User Activity in a Tracker Action</p></figcaption></figure>
+
+When triggered, this action will execute your [Tracker's](../product-documentation/data-management-platform-dmp/trackers.md) actions. To configure it, you will need to fill in the following details:
+
+* **BMS Account ID**: Your 12-digit BMS account number.
+* **Tracker ID**: Insert your Tracker ID; it is available when creating or editing a tracker at the trackers editor. You can also use a variable from your website that brings your Tracker ID when called.
+* **Event ID**: Insert the variable you have identified as the Event ID you want to capture.
+* **Custom Data**: If you have configured custom data fields in your BMS Tracker, add them here.
+
+#### Count Event in a Catalog
+
+<figure><img src="../.gitbook/assets/image (523).png" alt=""><figcaption><p>Count Event in a Catalog Action</p></figcaption></figure>
+
+When triggered, this action will load your [Catalog's](../product-documentation/catalog-storage-service-cs2/catalogs.md) pixel into your website. To configure it, you will need to fill in the following details:
+
+* **BMS Account ID**: Your 12-digit BMS account number.
+* **Event**: Select the event you want to capture from the drop-down menu.
+* **Catalog ID**: You can either insert your catalog's ID or a variable from your website that brings the ID when called.
+* **Product ID**: Insert a variable from your website that brings the product ID when called.
+
+#### Tag Container
+
+<figure><img src="../.gitbook/assets/image (524).png" alt=""><figcaption><p>Tag Container Action</p></figcaption></figure>
+
+When triggered, this action will load a [Tag Container](google-tag-manager.md#tag-container) into your website. To configure it, you will need to fill in the following details:
+
+* **BMS Account ID**: Your 12-digit BMS account number.
+* **Tag Container ID**: Insert the BMS Tag Container ID.
+* **Custom Data**: If you have configured custom data fields for this tag container, add them here.
+
 ## Additional Information
 
-Each e-commerce site or website has its own particularities. To configure Google Tag Manager correctly, it is important to be aware of these details. You can learn more about some of these e-commerce platforms in the links below:\
-[How to use GTM on Nuvemshop](https://atendimento.nuvemshop.com.br/pt_BR/12313-codigos-externos/como-instalar-google-tag-manager-gtm-na-nuvemshop)
+Each e-commerce site or website has its own particularities. To configure Google Tag Manager correctly, it is important to be aware of these details. You can learn more about some of these e-commerce platforms in the links below:
 
-[How to use GTM on Shopfy](https://help.shopify.com/en/manual/promoting-marketing/pixels/custom-pixels/gtm-tutorial)
-
-[How to use GTM on Wix](https://support.wix.com/en/article/connecting-your-google-tag-manager-account-to-your-wix-site)
+* [How to use GTM on Nuvemshop](https://atendimento.nuvemshop.com.br/pt_BR/12313-codigos-externos/como-instalar-google-tag-manager-gtm-na-nuvemshop)
+* [How to use GTM on Shopfy](https://help.shopify.com/en/manual/promoting-marketing/pixels/custom-pixels/gtm-tutorial)
+* [How to use GTM on Wix](https://support.wix.com/en/article/connecting-your-google-tag-manager-account-to-your-wix-site)
 
 Check out these articles to learn more about how your website or e-commerce platform works, and the names they use for events, product identifiers, etc.
