@@ -85,6 +85,7 @@ While real-time events are kept for 15 minutes, you can check the campaign metri
 * [Displays & Display Rate](../ad-server/ad-server-metrics.md#displays-and-display-rate)
 * [Views](../ad-server/ad-server-metrics.md#views)
 * [Viewability](../ad-server/ad-server-metrics.md#viewability)
+* [Viewability Duration](../ad-server/ad-server-metrics.md#viewability-duration)
 * [Clicks & CTR](../ad-server/ad-server-metrics.md#clicks-and-ctr)
 * [Click to Page Load Rate](../ad-server/ad-server-metrics.md#click-to-page-load-rate)
 * [Cost per Page Load](dsp-metrics.md#cost-per-page-load)

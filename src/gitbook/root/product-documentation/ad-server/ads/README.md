@@ -213,6 +213,7 @@ Find below all metrics available for your Ads.
 * [Impression Price](../../demand-side-platform-dsp/dsp-metrics.md#impression-price)
 * [Views](../ad-server-metrics.md#views)
 * [Viewability](../ad-server-metrics.md#viewability)
+* [Viewability Duration](../ad-server-metrics.md#viewability-duration)
 * [Clicks and CTR](../ad-server-metrics.md#clicks-and-ctr)
 * [CPM](../../demand-side-platform-dsp/dsp-metrics.md#cpm)
 * [CPC](../../demand-side-platform-dsp/dsp-metrics.md#cpc)

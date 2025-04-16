@@ -36,7 +36,15 @@ The ratio of views to the total number of deliveries is an important metric to m
 
 <figure><img src="../../.gitbook/assets/Viewability (1).png" alt=""><figcaption><p>Viewability Metric</p></figcaption></figure>
 
-_**Example:** You can see in this graph that the campaign started with an average viewability of 50% to 80%, and after some changes, reached a peak of 100% viewability. If your ads are not being viewed, you might need to check your creative and make changes, or even change the positioning of your ads to make them more visible. Keep in mind that changing the positioning can also increase the bidding price due to the spot being more competitive._
+_**Example:** You can see in this graph that the campaign started with an average viewability of 50% to 80%, and after some changes, it reached a peak of 100% viewability. If your ads are not being viewed, you might need to check your creative and make changes or even change the positioning of your ads to make them more visible. Keep in mind that changing the positioning can also increase the bidding price due to the spot being more competitive._
+
+### **Viewability Duration**
+
+The median amount of time, in seconds, that an ad remained at least 50% visible on the screen. This metric helps assess how long your ads maintain meaningful visibility to users.
+
+<figure><img src="../../.gitbook/assets/image (518).png" alt=""><figcaption><p>Viewability Duration Metric</p></figcaption></figure>
+
+_**Example**: This graph displays viewability duration over a 3-hour time frame, segmented into 30-minute intervals. At 8:30 AM, the average viewability duration was 20 seconds, meaning ads delivered during this period remained at least 50% visible for an average of 20 seconds. In the next interval, the duration dropped to 10 seconds, then fluctuated around 20 seconds for the remainder of the time frame._
 
 ### **Clicks and CTR**
 
