@@ -199,7 +199,7 @@ There are many things you can accomplish using tags. GTM offers several types of
     <figure><img src="../.gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure>
 6. Name and save your tag.
 7. Click on <img src="../.gitbook/assets/image (395).png" alt="" data-size="line"> to access a preview of your page with the tags installed and debug them if necessary. (This step is optional)
-8. Click on <img src="../.gitbook/assets/image (396).png" alt="" data-size="line"> to submit your changes to the live version of your website.
+8. Click on <img src="../.gitbook/assets/Captura de tela 2025-04-24 103600.png" alt="" data-size="line"> to submit your changes to the live version of your website.
 
 ## Templates
 
@@ -221,7 +221,7 @@ After selecting this template, you will need to fill in some details according t
 
 #### Track Page Loaded
 
-<figure><img src="../.gitbook/assets/image (520).png" alt=""><figcaption><p>Track Page Loaded Action</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de tela 2025-04-24 103042.png" alt=""><figcaption><p>Track Page Loaded</p></figcaption></figure>
 
 When triggered, this action will execute the [Page Load Tracking Tag](../product-documentation/ad-server/page-load-tracking-tag.md). To configure it, you will need to fill in the following details:
 
@@ -229,7 +229,7 @@ When triggered, this action will execute the [Page Load Tracking Tag](../product
 
 #### Add User to a Cookie Pool
 
-<figure><img src="../.gitbook/assets/image (521).png" alt=""><figcaption><p>Add User to a Cookie Pool Action</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de tela 2025-04-24 103323.png" alt=""><figcaption><p>Add User to a Cookie Pool</p></figcaption></figure>
 
 When triggered, this action will add users to a [Cookie Pool](../product-documentation/data-management-platform-dmp/cookie-pools.md). To configure it, you will need to fill in the following details:
 
@@ -238,7 +238,7 @@ When triggered, this action will add users to a [Cookie Pool](../product-documen
 
 #### Record User Activity in a Tracker
 
-<figure><img src="../.gitbook/assets/image (522).png" alt=""><figcaption><p>Record User Activity in a Tracker Action</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de tela 2025-04-24 103424.png" alt=""><figcaption><p>Record User Activity in a Tracker</p></figcaption></figure>
 
 When triggered, this action will execute your [Tracker's](../product-documentation/data-management-platform-dmp/trackers.md) actions. To configure it, you will need to fill in the following details:
 
@@ -249,7 +249,7 @@ When triggered, this action will execute your [Tracker's](../product-documentati
 
 #### Count Event in a Catalog
 
-<figure><img src="../.gitbook/assets/image (523).png" alt=""><figcaption><p>Count Event in a Catalog Action</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de tela 2025-04-24 103516.png" alt=""><figcaption><p>Count Event in a Catalog Action</p></figcaption></figure>
 
 When triggered, this action will load your [Catalog's](../product-documentation/catalog-storage-service-cs2/catalogs.md) pixel into your website. To configure it, you will need to fill in the following details:
 
@@ -258,9 +258,9 @@ When triggered, this action will load your [Catalog's](../product-documentation/
 * **Catalog ID**: You can either insert your catalog's ID or a variable from your website that brings the ID when called.
 * **Product ID**: Insert a variable from your website that brings the product ID when called.
 
-#### Tag Container
+#### Include Tag Container
 
-<figure><img src="../.gitbook/assets/image (524).png" alt=""><figcaption><p>Tag Container Action</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de tela 2025-04-22 102738.png" alt=""><figcaption><p>Tag Container Action</p></figcaption></figure>
 
 When triggered, this action will load a [Tag Container](google-tag-manager.md#tag-container) into your website. To configure it, you will need to fill in the following details:
 
