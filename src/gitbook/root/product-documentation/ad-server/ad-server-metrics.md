@@ -38,13 +38,13 @@ The ratio of views to the total number of deliveries is an important metric to m
 
 _**Example:** You can see in this graph that the campaign started with an average viewability of 50% to 80%, and after some changes, it reached a peak of 100% viewability. If your ads are not being viewed, you might need to check your creative and make changes or even change the positioning of your ads to make them more visible. Keep in mind that changing the positioning can also increase the bidding price due to the spot being more competitive._
 
-### **Viewability Duration**
+### **Viewability and Visibility Duration**
 
-The median amount of time, in seconds, that an ad remained at least 50% visible on the screen. This metric helps assess how long your ads maintain meaningful visibility to users.
+Viewability duration represents the median amount of time, in seconds, that an ad remained at least 50% visible on the screen, and visibility duration represents the total time that your ads were at least 1% visible. While visibility duration tracks total exposure time, viewability duration measures the quality of attention. Combine the data on these metrics to understand your engagement depth, to identify fraud or poor ad placement and other insights.
 
-<figure><img src="../../.gitbook/assets/image (518).png" alt=""><figcaption><p>Viewability Duration Metric</p></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/Captura de tela 2025-04-24 112827.png" alt=""><figcaption><p>Viewability Duration Metric</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Captura de tela 2025-04-24 113259.png" alt=""><figcaption><p>Visibility Duration Metric</p></figcaption></figure></div>
 
-_**Example**: This graph displays viewability duration over a 3-hour time frame, segmented into 30-minute intervals. At 8:30 AM, the average viewability duration was 20 seconds, meaning ads delivered during this period remained at least 50% visible for an average of 20 seconds. In the next interval, the duration dropped to 10 seconds, then fluctuated around 20 seconds for the remainder of the time frame._
+_**Example**: These graphs display viewability and visibility duration over a 24-hour time frame, segmented into 6-hour intervals. At 12:00 AM, the average viewability duration was slightly above 20 seconds, meaning ads delivered during this period remained at least 50% visible for an average of 20 seconds. At this same period, the visibility duration was 13 hours and 25 minutes. Considering that this campaign had 8300 deliveries in this same period, a 20s median viewability and 13h25m total visibility show strong engagement—most ads held meaningful screen time, avoiding fleeting exposure while ensuring broad reach. In the next intervals, the duration dropped to 17 seconds, then fluctuated around 10 seconds for the remainder of the time frame, while the visibility also dropped from 13h to 1h at the last period._
 
 ### **Clicks and CTR**
 
