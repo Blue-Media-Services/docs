@@ -23,7 +23,9 @@ You can choose who to show ads to based on where these users are located by eith
 
 ### **Contents - Only Websites**
 
-<figure><img src="../../.gitbook/assets/image (509).png" alt=""><figcaption></figcaption></figure>
+By selecting this target option, your content target will direct your ads only to websites, meaning only website users will receive your ads based on the following content options.
+
+<figure><img src="../../.gitbook/assets/image (509).png" alt=""><figcaption><p>Contents - Only Websites</p></figcaption></figure>
 
 * Languages - By including a particular language, your ads will only appear on websites in that language.
 * Categories - By including specific categories, your ads will only appear on websites featuring content in those categories.
@@ -32,6 +34,8 @@ You can choose who to show ads to based on where these users are located by eith
 * URL Keywords - By defining URL keywords, you can refine where your ads appear based on the URL's content.
 
 ### **Contents - Only Apps**
+
+By selecting this target option, your content target will deliver your ads only to apps, meaning that only app users will receive your ads based on the apps' selection.
 
 <figure><img src="../../.gitbook/assets/image (511).png" alt=""><figcaption><p>Contents - Only Apps</p></figcaption></figure>
 
@@ -43,6 +47,8 @@ Please note that we can only display your ads on apps that are connected to one 
 
 ### **Contents - Apps and Websites**
 
+By selecting this target option, your content target will deliver your ads to users across both websites and apps. No further segmentation options are available on this tab when this option is selected.
+
 <figure><img src="../../.gitbook/assets/image (512).png" alt=""><figcaption><p>Contents - Apps and Websites</p></figcaption></figure>
 
 * The campaign will target users across both websites and apps, ensuring broad reach. Segmentation options are not available, meaning the campaign will be delivered to all websites and apps without audience filtering. If you wish to specify your targeting, please select either websites only or apps only.
@@ -51,7 +57,7 @@ Please note that we can only display your ads on apps that are connected to one 
 
 <figure><img src="../../.gitbook/assets/image (510).png" alt=""><figcaption></figcaption></figure>
 
-* Operational Systems - By selecting specific operating systems, your ads will be displayed to users navigating the web on those systems.
+* Operating Systems - By selecting specific operating systems, your ads will be displayed to users navigating the web on those systems.
 * Browsers - By selecting specific browsers, your ads will be displayed to users navigating the web through those browsers.
 * Device Types - By selecting specific device types, your ads will be displayed to users navigating the web on those devices.
 * Cookie Pools - By selecting specific cookie pools, your ads will target only the users who have been added to those selected pools.
