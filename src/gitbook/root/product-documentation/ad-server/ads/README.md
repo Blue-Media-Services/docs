@@ -21,7 +21,9 @@ You have complete control and visualization of the status of your Ad in each of 
 
 ## Managing Ads <a href="#managingads" id="managingads"></a>
 
-On the Ads page, click on the <img src="../../../.gitbook/assets/image (203).png" alt="Create Ads" data-size="line"> button.
+In the dedicated ads management area, you will be able to manage your ads with ease. It is possible to create, edit, delete, archive or unarchive, and access your archived ads.
+
+Bulk actions are available after selecting 2 or more ads. Use this option to delete, archive or send ads for review in bulk.
 
 <figure><img src="../../../.gitbook/assets/image (210).png" alt=""><figcaption><p>Ads List</p></figcaption></figure>
 
@@ -165,7 +167,7 @@ If you do not change the rule, the platform will understand that your creative w
 
 You can create multiple rules for the same Ad, and enable or disable them as you wish. Just flip the<img src="../../../.gitbook/assets/image (151) (1).png" alt="Toggle" data-size="line"> to decide which rules will be used.
 
-_**Example**: Let's say that in the first half of the month, you have a promotion for a 10% discount on products and in the second half of the month for a 20% discount. You could create two Ads with different creatives and create a period rule so that the platform makes this change automatically for you, without the need to create two different campaigns;_
+_**Example**: Let's say that in the first half of the month, you have a promotion for a 10% discount on products and in the second half of the month for a 20% discount. You could create two Ads with different creatives and create a period rule so that the platform makes this change automatically for you, without the need to create two different campaigns._
 
 ## Exchange Reviews
 
@@ -176,6 +178,12 @@ Once you create your ads, it is necessary for certain exchanges to review your a
 If you did not check the Send for Review on your Ad creation, you will be able to send your ad for review by clicking on <img src="../../../.gitbook/assets/image (154) (1).png" alt="Send" data-size="line">.
 
 Should your ad review fail for any reason, you can check more details [here](ad-exchange-review/) on how to correctly identify the error and how to fix it.
+
+Alternatively, you can use the bulk actions to send ads for exchange review in bulk. This option is available when selecting at least 2 ads, then clicking on <img src="../../../.gitbook/assets/image (528).png" alt="" data-size="line"> and selecting "Send For Review".
+
+<figure><img src="../../../.gitbook/assets/Captura de tela 2025-05-09 140645.png" alt=""><figcaption><p>Send for Review - Bulk Actions</p></figcaption></figure>
+
+You will also be able to select the ad exchanges before sending the ads for review in bulk. After selecting the ad exchanges, click on <img src="../../../.gitbook/assets/image (530).png" alt="" data-size="line"> to send your ads for review.
 
 ## Checking the status of an Ad <a href="#checking-the-status-of-anad" id="checking-the-status-of-anad"></a>
 
