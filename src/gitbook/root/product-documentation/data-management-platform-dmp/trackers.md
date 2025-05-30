@@ -92,7 +92,7 @@ It's possible to delete events and actions by clicking on ![](<../../.gitbook/as
 
 ## Install Instructions
 
-After setting up events and actions for your tracker, you have to install it on your website. This can be done by following the instructions on the install instructions tab. Check our [Install Instructions](trackers.md#install-instructions) article to learn more about our install methods.
+After setting up events and actions for your tracker, you have to install it on your website. This can be done by following the instructions on the install instructions tab. Check our [Install Instructions](trackers/install-instructions.md) article to learn more about our install methods.
 
 ## Metrics Tab
 
