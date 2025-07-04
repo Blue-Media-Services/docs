@@ -1,6 +1,6 @@
 # Trackers
 
-Trackers are small scripts placed on your websites' codes to gather data on your users' activities, then we can use the collected data to build recommendation models for running retargeting campaigns, improving your conversions. Additionally, this data can provide valuable insights into your users' interests, facilitating the creation of more efficient ad campaigns.
+Trackers are small scripts placed on your website's code to gather data on your users' activities, then we can use the collected data to build recommendation models for running retargeting campaigns, improving your conversions. Additionally, this data can provide valuable insights into your users' interests, facilitating the creation of more efficient ad campaigns.
 
 ## Managing Trackers
 
@@ -15,11 +15,11 @@ Trackers will gather data about your website's activities, so it must be install
 
     <figure><img src="../../.gitbook/assets/image (4) (11) (1) (1) (1).png" alt=""><figcaption><p>Tracker Editor</p></figcaption></figure>
 
-    * Name: set a name for your tracker.
-    * Tags: set tags for your organization.
-    * Maximum users: set the maximum number of users that should be tracked, once the limit is reached, no more new users will be added to the tracker, but the users added will still be tracked.
-    * Maximum events per user: set the maximum number of events per user to keep track, once the limit is reached, receiving new events will cause the oldest ones to be expired.
-    * Maximum activity age: set the number of days for the tracked users' data to be stored, after this period this data will be deleted.
+    * Name: Set a name for your tracker.
+    * Tags: Set tags for your organization.
+    * Maximum users: Set the maximum number of users that should be tracked, once the limit is reached, no more new users will be added to the tracker, but the users added will still be tracked.
+    * Maximum events per user: Set the maximum number of events per user to keep track, once the limit is reached, receiving new events will cause the oldest ones to be expired.
+    * Maximum activity age: Set the number of days for the tracked users' data to be stored, after this period this data will be deleted.
 3. Click on <img src="../../.gitbook/assets/image (93).png" alt="" data-size="line"> to save your tracker.
 
 ### Editing a Tracker
@@ -49,11 +49,14 @@ Configure events according to the activities performed by users on your website,
 1. On the Configuration tab, click on <img src="../../.gitbook/assets/image (101).png" alt="" data-size="original"> to start creating an event.
 2.  Fill in the details:
 
-    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Event Editor</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Captura de tela 2025-07-02 095638.png" alt=""><figcaption><p>Event Editor</p></figcaption></figure>
 
     * Name: Set a name for your event.
-    * Event ID: This field can be customized to set a different event ID, however, it is automatically filled with the event's name.
-    * Custom Data Fields: Set data fields to be collected when the event is captured.
+    * Custom Data Fields: Set custom data fields to be collected when the event is captured.
+    * Currency: Use this field to specify the currency reference for the event. This should reflect the currency in use on your website. It helps track the monetary value associated with the user action.
+    * Amount: This field captures the quantity associated with the event. For example, in a purchase event, it represents the number of products purchased in a single transaction. Declare a variable on your website that reflects this amount.
+    * Deduplication ID: This field is used to assign a unique identifier to each event instance. It ensures that duplicated events are not counted multiple times, improving data reliability.
+    * Template: The template option is available for all fields above. It defines how the values from the event will be processed. It accepts a string using variables from the custom data fields, and generates a comma-separated output.
 3. Click on ![](<../../.gitbook/assets/image (102).png>) to add an action to your event.
 4. Fill in the details:
    * Name: Set a name for your action.
@@ -84,7 +87,7 @@ We can edit events by clicking on ![](<../../.gitbook/assets/image (95).png>) at
 
 Actions' parameters are also editable, you can do this by finding the event that contains the action you want to edit on the Configuration tab, clicking on ![](<../../.gitbook/assets/image (95).png>) at the same row of the event, and then clicking on ![](<../../.gitbook/assets/image (95).png>) at the same row of the action to be edited, make your changes and click on ![Save](<../../.gitbook/assets/image (39).png>) to save your changes, then click on ![Save](<../../.gitbook/assets/image (39).png>) again to save your changes to the event, and you're done.
 
-It's also possible to duplicate events and actions by clicking on ![](<../../.gitbook/assets/image (104).png>) at the same row of the event or action you need to duplicate, this feature can be useful if you need to create a new action or event while keeping some parameters of an existing one.
+It's also possible to duplicate events and actions by clicking on ![](<../../.gitbook/assets/image (104).png>) at the same row of the event or action you need to duplicate. This feature can be useful if you need to create a new action or event while keeping some parameters of an existing one.
 
 ### Deleting Events and Actions
 
@@ -96,7 +99,7 @@ After setting up events and actions for your tracker, you have to install it on 
 
 ## Metrics Tab
 
-After installing your trackers you should start receiving data from them, it's possible to follow this process on the metrics tab, these are the available metrics for trackers:
+After installing your trackers, you should start receiving data from them. It's possible to follow this process on the metrics tab; these are the available metrics for trackers:
 
 * [Action Execution Count](dmp-metrics.md#action-execution-count)
 * [Action Failure Rate](dmp-metrics.md#action-failure-rate)

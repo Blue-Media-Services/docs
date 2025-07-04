@@ -122,7 +122,7 @@ _**Example**: In the picture above, you will notice that for each language, the 
 
 Once you select multiple options within a filter, the number of impressions will be summed. After closing the editing group, the total sum will be displayed.
 
-<figure><img src="../../.gitbook/assets/image (350).png" alt=""><figcaption><p>Estimated Impressions - Total Sum</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2025-07-02 112422.png" alt=""><figcaption><p>Estimated Impressions - Total Sum</p></figcaption></figure>
 
 _**Example**: In the picture above, you will notice that English and Portuguese were selected as languages for this target, and their estimated impressions were summed when the group was closed, resulting in a total estimate of 101.5M impressions for both languages combined. Categories and Domains have also been selected. In Categories, you will see that multiple categories were selected, resulting in 165.9M impressions when combined. For Domains, each domain you include adds to the total impressions. In this case, only two domains were selected, resulting in an average of 9.2M impressions._
 
