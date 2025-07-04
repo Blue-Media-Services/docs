@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Identifier Pools
 
 Identifier pools function much like cookie pools but are specifically designed for mobile devices, including Android smartphones, tablets, and iOS products. Each operating system employs its own unique methods to identify users effectively.

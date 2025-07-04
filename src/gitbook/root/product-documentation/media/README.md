@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Media
 
 Every time we create a creative, creative group or Ad, the respective file will be uploaded to your media library, making it available for future use. In the library, you can manage your files.

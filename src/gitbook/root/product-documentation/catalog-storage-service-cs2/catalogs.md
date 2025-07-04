@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Catalogs
 
 In the Catalogs tab, you will be able to create a catalog, and then install a pixel to your page so that BMS can collect data from your page based on the following events:

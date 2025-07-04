@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Media Metrics
 
 Once you populate your account with media for creating creatives, our platform will begin providing metrics related to all the media stored in your account. Additionally, when reviewing metrics, you can always use the <img src="../../.gitbook/assets/image (2) (13).png" alt="" data-size="line">  to access our articles about a specific metric.

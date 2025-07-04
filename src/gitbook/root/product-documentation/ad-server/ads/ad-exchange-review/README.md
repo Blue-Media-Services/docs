@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Ad Exchange Review
 
 Some ad exchanges require a review of your ad before displaying it in their inventory to ensure compliance with their pre-established rules. Once the review is complete, the ad exchange will inform you whether the ad is approved or rejected, along with the reason for rejection.&#x20;

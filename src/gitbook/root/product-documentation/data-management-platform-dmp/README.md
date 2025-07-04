@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Data Management Platform (DMP)
 
 Use DMP to collect and manage large volumes of data about your audience's online behavior, then use this data to track your audience and define targets for customized ad campaigns.

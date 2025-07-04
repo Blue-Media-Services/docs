@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Billing
 
 As BMS is a self-service platform, our billing works differently, offering more transparency in how your bills are presented. Most platforms do not provide detailed information about each service used, which can give the impression that some services are not being charged. However, it is important to understand that every access, API call, and file stored on a platform incurs a cost.

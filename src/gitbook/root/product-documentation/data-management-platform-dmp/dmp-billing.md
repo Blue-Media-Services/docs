@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # DMP Billing
 
 The data management platform billing section details the costs related to this service, divided into up to 6 subsections, depending on the services you have consumed.

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Campaign Billing
 
 The Campaigns billing section will contain all billed items related to campaigns, it is divided into 2 sub-sections.

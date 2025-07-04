@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Monitoring Billing
 
 In the monitoring tab, it will be presented all bills related to monitoring, which are divided into 4 sub-sections.

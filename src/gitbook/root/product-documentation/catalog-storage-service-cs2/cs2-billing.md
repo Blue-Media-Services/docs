@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # CS2 Billing
 
 The catalog storage service billing section is available on the billing page. It contains information about every billed item related to CS2 and is divided into 6 sub-sections.

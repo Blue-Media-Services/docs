@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Creating a Branding Campaign
 
 Branding campaigns aim to increase the awareness of a given brand and bring the user to your website. All campaigns have this main components: a Target (what is the subset of the population that should see your campaign), a Budget (how much do you want to spend daily on the campaign) and a list of Ads (what the users should see). Follow the steps below to create your branding campaign.

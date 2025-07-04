@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Ad Server Billing
 
 The ad server billing section is available on the billing page. It contains information about every billed item related to ad serving and is divided into 9 sub-sections.

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Demand Side Platform (DSP)
 
 In the DSP area, you will be using all features previously created like **Creatives**, **Creative Groups** and **Ads**, to start your campaign and customize it with more features to make it even more effective.&#x20;

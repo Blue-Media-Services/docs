@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Monitoring
 
 In our Monitoring section, you will be able to create event stores and pipes related to all of our products and your currently active campaigns. This will provide you with valuable data to study better solutions for your campaigns and improve your strategy.

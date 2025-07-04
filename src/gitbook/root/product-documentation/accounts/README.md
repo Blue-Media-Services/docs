@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Accounts
 
 The accounts section is available when clicking on your account's name next to the top right corner of our pages, and then clicking on your account ID.

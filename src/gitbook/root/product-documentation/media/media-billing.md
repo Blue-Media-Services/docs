@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Media Billing
 
 The media's bills contain all bills related to media storage and download, it has a single section, in which all information will be detailed.

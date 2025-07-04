@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # External Data Lake Sync (AWS)
 
 The integration between Event Stores and AWS allows the seamless transfer of event data to an S3 bucket, ensuring efficient data archiving, backup, and accessibility. Exporting your data to an external data lake brings you more control over your data, leading you to valuable insights.

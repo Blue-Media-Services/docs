@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Voluum
 
 Voluum is a cloud-based analytics platform that helps marketers monitor, optimize, and analyze their digital campaigns. It manages large data volumes and provides real-time insights into key metrics like clicks, conversions, and ROI.

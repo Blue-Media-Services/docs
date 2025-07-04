@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Page Load Tracking Tag
 
 The Page Load Tracking Tag enables you to measure the effectiveness of your ads by tracking whether users who click on them land on your website. This feature provides insights into how well your ad clicks translate into genuine website visits. It helps you understand and optimize user engagement with your ads.

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Check URL Classification
 
 When configuring your domain targets, you may have uncertainties about the classification of certain domains. To address this, BMS has developed a URL Check tool. By entering a URL, the tool will identify and provide the domain's classification, offering valuable information to the user.

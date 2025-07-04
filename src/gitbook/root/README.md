@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 👋 Welcome to BMS
 
 Blue Media Services is a complete and customizable “self-service” platform that allows users to develop solutions to digital media strategies. Our mission is to democratize the AdTech market, combining cutting-edge technology with respect for privacy to help our clients boost their sales.
