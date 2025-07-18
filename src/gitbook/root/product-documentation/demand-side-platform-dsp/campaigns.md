@@ -107,5 +107,9 @@ While real-time events are kept for 15 minutes, you can check the campaign metri
 * [Budget Pace Effective](dsp-metrics.md#budget-pace-effective)
 * [Budget Available](dsp-metrics.md#budget-available)
 * [Budget Daily Limit](dsp-metrics.md#budget-daily-limit)
+* [Rejected Bids](dsp-metrics.md#rejected-bids)
+* [Losing Bids](dsp-metrics.md#losing-bids)
+* [Losing Bid Prices](dsp-metrics.md#losing-bid-prices)
+* [Minimum Price to Win](dsp-metrics.md#minimum-price-to-win)
 
 You can also view Real Time events from your Campaign through our [Real Time Tab](real-time-tab.md).

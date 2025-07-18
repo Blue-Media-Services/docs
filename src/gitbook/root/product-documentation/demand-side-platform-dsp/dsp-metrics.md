@@ -179,4 +179,36 @@ This metric shows how much of your budget was spent based on recommendations. It
 
 
 
-_**Example:** In a context where you have a retargeting campaign designed to engage users on your website, the budget allocated to recommending products from your catalog to these users is shown in the "Budget spent on recommendations" metric. The graph displays a one-week time period, with each point corresponding to a day and the budget spent on recommendations. You can see that on June 24th, the budget spent on recommendations was almost $0.07, with a considerable drop on June 28th._
+_**Example**: In a context where you have a retargeting campaign designed to engage users on your website, the budget allocated to recommending products from your catalog to these users is shown in the "Budget spent on recommendations" metric. The graph displays a one-week time period, with each point corresponding to a day and the budget spent on recommendations. You can see that on June 24th, the budget spent on recommendations was almost $0.07, with a considerable drop on June 28th._
+
+### Rejected Bids
+
+Bids can be rejected for many reasons, such as the ad not being in compliance with the publisher's ad rules. You can use the real-time tab or our event pipes to obtain more details about the reason your bids are being rejected. This metric shows the number of bids that were rejected within the defined time frame.
+
+<figure><img src="../../.gitbook/assets/image (2) (16).png" alt=""><figcaption><p>Rejected Bids</p></figcaption></figure>
+
+_**Example**: In this graph, you can see a count of the rejected bids within a defined time frame, which here was 1 day, divided into 6-hour periods. At 6 AM, a little more than 5,000 bids were rejected; and then it remains stable between 12 PM and 12 AM, with nearly 2,500 bids rejected per period; and then it goes to nearly 5,000 rejected bids in the next period._
+
+### Losing Bids
+
+Bids are only lost when they are outbid, meaning that someone has made a higher bid for the same opportunity and won the auction. This metric shows the number of bids that were lost.
+
+<figure><img src="../../.gitbook/assets/image (3) (15).png" alt=""><figcaption><p>Losing Bids</p></figcaption></figure>
+
+_**Example**: In this graph, the defined time frame was 1 day, divided into 6-hour periods. It is possible to notice that at 6 AM, nearly 800 bids were lost, and that in the next periods, this number decreases until nearly 100 lost bids at 12 AM; and then, this number increases to almost 500 lost bids in the next period._
+
+### Losing Bid Prices
+
+This metric represents the value of the bids that were lost. Combined with the Minimum Price to Win metric, it provides valuable data about your ideal bid price.
+
+<figure><img src="../../.gitbook/assets/image (4) (15).png" alt=""><figcaption><p>Losing Bid Prices</p></figcaption></figure>
+
+_**Example**: In this graph, the defined time frame was 1 day divided into 6-hour periods. In the first 3 periods, you will notice that the bid price of the bids we lost was nearly $0.40 per mille, and at midnight, this value increases to almost $1.40 per mille, meaning that even higher bids were losing auctions._&#x20;
+
+### Minimum Price to Win
+
+This metric represents the minimum value that would be required to win bids that were lost. Combined with the Losing Bid Prices metric, it provides valuable data about your ideal bid price.
+
+<figure><img src="../../.gitbook/assets/image (5) (12).png" alt=""><figcaption><p>Minimum Price to Win</p></figcaption></figure>
+
+_**Example**: This graph has a defined time frame of 1 day, divided into 6-hour periods. It is possible to notice that in the first period, at 6 AM, the minimum bid price to win was nearly $1.2 per mille. Taking into consideration the previous graph, you will learn that our losing bids at the same period were of nearly $0.40 per mille, meaning a cost difference of $0.80 per mille, which explains why we had so many losses at this period._

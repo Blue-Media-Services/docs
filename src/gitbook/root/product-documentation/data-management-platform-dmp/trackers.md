@@ -103,8 +103,9 @@ After installing your trackers, you should start receiving data from them. It's 
 
 * [Action Execution Count](dmp-metrics.md#action-execution-count)
 * [Action Failure Rate](dmp-metrics.md#action-failure-rate)
+* [Activity Count](dmp-metrics.md#activity-count)
+* [Activity Value](dmp-metrics.md#activity-value)
 * [Expiration Count](dmp-metrics.md#expiration-count-1)
 * [Maximum Users](dmp-metrics.md#maximum-users)
-* [New Activities](dmp-metrics.md#new-activities)
 * [Time Until Expiration](dmp-metrics.md#time-until-expiration-1)
 * [Tracker User Count](dmp-metrics.md#tracker-user-count)

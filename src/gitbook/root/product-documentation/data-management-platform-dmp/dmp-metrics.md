@@ -62,13 +62,29 @@ This metric shows when an event has been tracked, but, the action linked to it h
 
 _**Example:** When a user adds a product to their cart on your website and this event is configured to be tracked, with an action to track it in the catalog, the event itself is tracked successfully. However, the action to update the catalog failed, resulting in the product not being tracked. In the graph, you can observe that the action failure rate is typically 0%. However, there are moments where the action failure rate peaks near 40%. The graph covers a time frame of 3 hours, divided into 5-minute intervals represented as data points._
 
+### Activity Count
+
+Whenever a user performs a tracked activity on your website, it will be tracked. This metric shows the number of new activities tracked within a defined time frame. You can also group the provided data by tracker or by event, according to your needs.
+
+<figure><img src="../../.gitbook/assets/image (1) (21).png" alt=""><figcaption><p>Activity Count</p></figcaption></figure>
+
+_**Example:** You have an 'add to cart' event configured on your tracker. Whenever a user adds a product to the cart, it counts as an activity. On this graph, you will notice that the number of activities increases after 6 AM. You will also observe that this graph covers a time frame of 3 hours, divided into 5-minute intervals represented as data points._
+
+### Activity Value
+
+Some tracked activities, like adding products to the cart or purchasing a product, might have a value associated with them. This metric represents the total value of the activities tracked on your website within a defined time frame.
+
+<figure><img src="../../.gitbook/assets/image (6) (12).png" alt=""><figcaption><p>Activity Value</p></figcaption></figure>
+
+_**Example**: You have a 'purchase' event configured on your tracker. Whenever a user completes a purchase, this metric will be populated with the monetary value of this purchase. The defined time frame for this graph was 3 days, divided into daily periods. In the first period, the total value of the purchase events for this tracker was nearly $1,400.00, and on the following days, this value decreased to nearly $300.00._
+
 ### Expiration Count
 
-This metric shows the amount of users' expirations that occurred in the defined time frame.
+This metric shows the number of users' expirations that occurred in the defined time frame.
 
 <figure><img src="../../.gitbook/assets/image (452).png" alt=""><figcaption><p>Expiration Count</p></figcaption></figure>
 
-_**Example:** When configuring a tracker, you can set a tracking period after which the user will expire. This metric shows the number of expirations that occurred. On this graph, you can observe that between 4 AM and 5 AM, nearly 50 tracked users expired._
+_**Example**: When configuring a tracker, you can set a tracking period after which the user will expire. This metric shows the number of expirations that occurred. On this graph, you can observe that between 4 AM and 5 AM, nearly 50 tracked users expired._
 
 ### Maximum Users
 
@@ -78,21 +94,13 @@ This metric shows the configured maximum number of users to be added to the trac
 
 _**Example:** When creating or editing a tracker, you will set the maximum number of users allowed to be added to your tracker. This metric displays that data. In this graph, you can observe that the tracker was configured to accept up to 1 million users_
 
-### New Activities
-
-Whenever a user performs a new tracked activity on your website, this will be tracked,  this metric will show the number of new activities tracked in a defined time frame, you can also group the provided data by tracker or by event according to your needs.
-
-<figure><img src="../../.gitbook/assets/image (454).png" alt=""><figcaption><p>New Activities</p></figcaption></figure>
-
-_**Example:** You have an 'add to cart' event configured on your tracker. Whenever a user adds a product to the cart, it counts as a new activity. On this graph, you will notice that the number of new activities increases after 6 AM. You will also observe that this graph covers a time frame of 3 hours, divided into 5-minute intervals represented as data points._
-
 ### Time Until Expiration
 
 This metric shows the remaining time a user is still available in the tracker until expiring in the determined time frame.
 
 <figure><img src="../../.gitbook/assets/image (455).png" alt=""><figcaption><p>Tiume Until Expiration</p></figcaption></figure>
 
-_**Example:** When you create your tracker you can set the number of days in which the tracked activity will expire, this metric shows you how much time you have until a user expiration. On this graph, the time frame was of 1 week, divided into daily periods, represented as dots, you can observe that on June 20th there was less than 1 day until some of the users in the tracker expired._
+_**Example:** When you create your tracker, you can set the number of days in which the tracked activity will expire; this metric shows you how much time you have until a user's expiration. On this graph, the time frame was 1 week, divided into daily periods, represented as dots. You can observe that on June 20th, there was less than 1 day until some of the users in the tracker expired._
 
 ### Tracker User Count
 
@@ -104,11 +112,11 @@ This metric will show how many users were in the tracker in the defined time fra
 
 ### Identifiers Added Count
 
-This metric displays the total number of identifiers added to the pool, in the defined time frame.
+This metric displays the total number of identifiers added to the pool in the defined time frame.
 
 <figure><img src="../../.gitbook/assets/image (463).png" alt=""><figcaption><p>Identifiers Added Count</p></figcaption></figure>
 
-_**Example**: As mobile users navigate through your website pages, or apps, in which you have installed a tracker configured to add users to an identifier pool, they will be added to the pool. On this graph, you can follow your identifier pool's growth as the users' identifiers are being added to it, the defined time frame was 1 week, divided into daily periods, you will notice that on Dec 31, a little more than 20 identifiers were added to the pool, and in the following days this number decreases to 3 per day, and then it increases again, to 5 identifiers added, on Jan 3._
+_**Example**: As mobile users navigate through your website pages or apps, in which you have installed a tracker configured to add users to an identifier pool, they will be added to the pool. On this graph, you can follow your identifier pool's growth as the users' identifiers are being added to it, the defined time frame was 1 week, divided into daily periods, you will notice that on Dec 31, a little more than 20 identifiers were added to the pool, and in the following days this number decreases to 3 per day, and then it increases again, to 5 identifiers added, on Jan 3._
 
 ### Identifiers Enabled Count
 
@@ -116,7 +124,7 @@ This metric shows the number of identifiers enabled at least in one exchange, in
 
 <figure><img src="../../.gitbook/assets/image (464).png" alt=""><figcaption><p>Identifiers Enabled Count</p></figcaption></figure>
 
-_**Example**: As the identifiers are being added to your pool, the platform will send the identifiers to the selected ad exchanges and verify if the identifiers are enabled in their databases, this syncing process can be valuable for retargeting campaigns._
+_**Example**: As the identifiers are being added to your pool, the platform will send the identifiers to the selected ad exchanges and verify if the identifiers are enabled in their databases. This syncing process can be valuable for retargeting campaigns._
 
 ### Identifiers Expired Count
 
@@ -124,19 +132,19 @@ This metric displays the number of Identifiers in the pool that have expired in 
 
 <figure><img src="../../.gitbook/assets/image (465).png" alt=""><figcaption><p>Identifiers Expired Count</p></figcaption></figure>
 
-_**Example**: You create an identifier pool with a TTL of seven days and install it on your app. The gathered identifiers will be available for targeting for seven days. After this period, the identifiers will expire. This means that in a retargeting campaign, for example, you will impact users who used your app in the last seven days. On this graph, the defined time frame was 1 week, divided into daily periods, you will notice that from Dec 30 until Jan 1, there was 1 expiration per day, then no expirations on Jan 2, and after that, it comes back for 1 expiration per day until Jan 5._
+_**Example**: You create an identifier pool with a TTL of seven days and install it on your app. The gathered identifiers will be available for targeting for seven days. After this period, the identifiers will expire. This means that in a retargeting campaign, for example, you will impact users who used your app in the last seven days. On this graph, the defined time frame was 1 week, divided into daily periods. You will notice that from Dec 30 until Jan 1, there was 1 expiration per day, then no expirations on Jan 2, and after that, it comes back for 1 expiration per day until Jan 5._
 
 ### Identifiers Manually Removed Count
 
-This metric shows the number of identifiers manually removed from the pool, in the defined time frame.
+This metric shows the number of identifiers manually removed from the pool in the defined time frame.
 
 <figure><img src="../../.gitbook/assets/image (466).png" alt=""><figcaption></figcaption></figure>
 
-_**Example**: When setting a tracker for an identifier pool you will be able to select between adding or removing identifiers from your pool, this metric displays the amount of identifiers that are being removed from the pool by this process._
+_**Example**: When setting a tracker for an identifier pool, you will be able to select between adding or removing identifiers from your pool. This metric displays the number of identifiers that are being removed from the pool by this process._
 
 ### Max Size
 
-This metric shows the maximum number of users the Identifier Pool was configured to accept, in the defined time frame.
+This metric shows the maximum number of users the Identifier Pool was configured to accept in the defined time frame.
 
 <figure><img src="../../.gitbook/assets/image (467).png" alt=""><figcaption><p>Max Size</p></figcaption></figure>
 
