@@ -16,7 +16,7 @@ You will have some public blueprint models available for use, so even if you are
 
 ### **Creating a Blueprint**
 
-Click on ![create blueprint](<../../../.gitbook/assets/image (405).png>) to start [creating your blueprint.](#user-content-fn-1)[^1]
+Click on ![create blueprint](<../../../.gitbook/assets/image (405).png>) to start creating your blueprint.
 
 <figure><img src="../../../.gitbook/assets/image (402).png" alt=""><figcaption><p>Blueprint Creation</p></figcaption></figure>
 
@@ -139,5 +139,3 @@ Be careful when deleting blueprints, this action cannot be undone, and builds re
 {% endhint %}
 
 To delete blueprints click on ![](<../../../.gitbook/assets/image (14) (7).png>) at the same row as the blueprint you need to delete, then confirm the action by clicking on <img src="../../../.gitbook/assets/image (15) (7).png" alt="" data-size="line">.
-
-[^1]: Nesse print, conseguimos deixar preenchido?
