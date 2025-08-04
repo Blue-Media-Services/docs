@@ -185,7 +185,7 @@ _**Example**: In a context where you have a retargeting campaign designed to eng
 
 Bids can be rejected for many reasons, such as the ad not being in compliance with the publisher's ad rules. You can use the real-time tab or our event pipes to obtain more details about the reason your bids are being rejected. This metric shows the number of bids that were rejected within the defined time frame.
 
-<figure><img src="../../.gitbook/assets/image (2) (16).png" alt=""><figcaption><p>Rejected Bids</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (16) (1).png" alt=""><figcaption><p>Rejected Bids</p></figcaption></figure>
 
 _**Example**: In this graph, you can see a count of the rejected bids within a defined time frame, which here was 1 day, divided into 6-hour periods. At 6 AM, a little more than 5,000 bids were rejected; and then it remains stable between 12 PM and 12 AM, with nearly 2,500 bids rejected per period; and then it goes to nearly 5,000 rejected bids in the next period._
 

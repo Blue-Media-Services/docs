@@ -66,7 +66,7 @@ _**Example:** When a user adds a product to their cart on your website and this 
 
 Whenever a user performs a tracked activity on your website, it will be tracked. This metric shows the number of new activities tracked within a defined time frame. You can also group the provided data by tracker or by event, according to your needs.
 
-<figure><img src="../../.gitbook/assets/image (1) (21).png" alt=""><figcaption><p>Activity Count</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (21) (1).png" alt=""><figcaption><p>Activity Count</p></figcaption></figure>
 
 _**Example:** You have an 'add to cart' event configured on your tracker. Whenever a user adds a product to the cart, it counts as an activity. On this graph, you will notice that the number of activities increases after 6 AM. You will also observe that this graph covers a time frame of 3 hours, divided into 5-minute intervals represented as data points._
 
