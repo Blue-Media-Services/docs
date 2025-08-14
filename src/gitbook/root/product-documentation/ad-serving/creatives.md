@@ -68,12 +68,17 @@ Once you configure all of your UTM Tags, hit the <img src="../../.gitbook/assets
 
 ### Paste HTML
 
-* To use a fully customized creative, switch to the "Paste HTML" tab and insert the final HTML code that will be displayed when the user views your creative.
+To use a fully customized creative, switch to the "Paste HTML" tab and insert the final HTML code that will be displayed when the user views your creative.
+
+{% hint style="warning" %}
+Caution! You will be presented with some macros later in this section. You must use them to enable BMS click tracking in your ads; otherwise, clicks **will not be tracked**.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (397).png" alt=""><figcaption><p>HTML Customization Example</p></figcaption></figure>
 
-* This can be anything and it is entirely up to you to produce a working creative with HTML, CSS, and Javascript.
-* When you provide the HTML code, our click tracker won't be automatically added. You can copy the click tracker macro (or any other macro you wish) from the bottom template assist buttons and paste it into your HTML. For more information, please take a look at the [Macros section](creatives.md#macros).
+This can be anything and it is entirely up to you to produce a working creative with HTML, CSS, and Javascript.
+
+When you provide the HTML code, our click tracker won't be automatically added. You can copy the click tracker macro (or any other macro you wish) from the bottom template assist buttons and paste it into your HTML. For more information, please take a look at the [Macros section](creatives.md#macros).
 
 You can use the <img src="../../.gitbook/assets/preview.png" alt="Preview" data-size="line"> button to see how your creative will be displayed and to make sure that it directs users to the correct site when clicked.
 
