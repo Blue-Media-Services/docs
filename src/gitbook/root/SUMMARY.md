@@ -14,6 +14,7 @@
 ## Product documentation
 
 * [Accounts](product-documentation/accounts/README.md)
+  * [Account Creation](product-documentation/accounts/account-creation.md)
   * [Account Billing](product-documentation/accounts/account-billing.md)
 * [Ad Server](product-documentation/ad-server/README.md)
   * [Creatives](product-documentation/ad-serving/creatives.md)

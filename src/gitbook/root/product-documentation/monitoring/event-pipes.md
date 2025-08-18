@@ -49,7 +49,7 @@ Once you have fulfilled all fields with the corresponding information based on y
 
 In this case, our filter failed due to verification in our Value field.  These fields are case-sensitive and **must** match the corresponding information.
 
-Once you have added your filters, click on <img src="../../.gitbook/assets/image (4) (11).png" alt="" data-size="line"> to save your event pipe.
+Once you have added your filters, click on <img src="../../.gitbook/assets/image (4) (11) (1).png" alt="" data-size="line"> to save your event pipe.
 
 ### Targets tab
 
@@ -63,7 +63,7 @@ To configure a target, click on ![Add Target](<../../.gitbook/assets/Captura de 
 
 You must create an event store before using it as a target for your event pipes. Learn more about [Event Stores](event-pipes.md#event-store).
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Send to Event Store Target</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Send to Event Store Target</p></figcaption></figure>
 
 If you decide to send your data to an event store, simply name your target and choose your already created event store.
 
@@ -77,13 +77,13 @@ Once everything is configured, click on <img src="../../.gitbook/assets/image (2
 
 It is possible to send your data to a webhook provided by your data management tool, select this option to use the data management tool of preference, and then fill out the details.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Call Webhook Target</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (12).png" alt=""><figcaption><p>Call Webhook Target</p></figcaption></figure>
 
 * Name your target.
 * Select "Call Webhook".
 * Insert your data management tool's webhook URL.
 
-Once you have configured your webhook URL, use our Test Webhook tab to confirm the usability of your webhook tool. Select one of the sample event templates and click on ![Test Webhook](<../../.gitbook/assets/image (7).png>).
+Once you have configured your webhook URL, use our Test Webhook tab to confirm the usability of your webhook tool. Select one of the sample event templates and click on ![Test Webhook](<../../.gitbook/assets/image (7) (12).png>).
 
 If your webhook test is successful, your icon will be presented as ![Test Webhook Successful](<../../.gitbook/assets/image (8).png>) and the tabs for your test will be fulfilled.
 
@@ -98,7 +98,7 @@ After finishing all configuration and tests, click on <img src="../../.gitbook/a
 
 You can also send your data to Google Sheets, select this option, and fill out the details.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Google Sheet Target</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Google Sheet Target</p></figcaption></figure>
 
 * Name your target.
 * Select "Google Sheets".

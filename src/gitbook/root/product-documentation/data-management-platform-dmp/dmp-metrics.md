@@ -74,7 +74,7 @@ _**Example:** You have an 'add to cart' event configured on your tracker. Whenev
 
 Some tracked activities, like adding products to the cart or purchasing a product, might have a value associated with them. This metric represents the total value of the activities tracked on your website within a defined time frame.
 
-<figure><img src="../../.gitbook/assets/image (6) (12).png" alt=""><figcaption><p>Activity Value</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (12) (1).png" alt=""><figcaption><p>Activity Value</p></figcaption></figure>
 
 _**Example**: You have a 'purchase' event configured on your tracker. Whenever a user completes a purchase, this metric will be populated with the monetary value of this purchase. The defined time frame for this graph was 3 days, divided into daily periods. In the first period, the total value of the purchase events for this tracker was nearly $1,400.00, and on the following days, this value decreased to nearly $300.00._
 
