@@ -98,7 +98,7 @@ After finishing all configuration and tests, click on <img src="../../.gitbook/a
 
 You can also send your data to Google Sheets, select this option, and fill out the details.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Google Sheet Target</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Google Sheet Target</p></figcaption></figure>
 
 * Name your target.
 * Select "Google Sheets".

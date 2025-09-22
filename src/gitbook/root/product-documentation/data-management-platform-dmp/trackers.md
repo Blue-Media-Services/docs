@@ -30,35 +30,37 @@ It's possible to archive trackers for your better organization. Click on ![](<..
 
 ### Deleting a Tracker
 
-{% hint style="danger" %}
-Attention! Be careful when deleting trackers, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted.
-{% endhint %}
-
 We can also delete our trackers by clicking on the delete button ![](<../../.gitbook/assets/image (98).png>) in the same row as the tracker you want to delete and then confirming it by clicking on ![Delete](<../../.gitbook/assets/image (41).png>). This action cannot be undone, so please be careful. Additionally, keep in mind that recommendation models based on the deleted tracker might stop working.
+
+{% hint style="danger" %}
+_Attention! Be careful when deleting trackers, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted._
+{% endhint %}
 
 ## Managing Events and Actions
 
 Configure events to be tracked and actions to be performed by the tracker when the event happens.
 
-<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption><p>Trackers' Configuration Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Trackers' Configuration Tab</p></figcaption></figure>
 
 ### Creating Events and Actions
 
 Configure events according to the activities performed by users on your website, or app, for example adding products to the cart, viewing products, and others.
 
 1. On the Configuration tab, click on <img src="../../.gitbook/assets/image (101).png" alt="" data-size="original"> to start creating an event.
-2.  Fill in the details:
+2. Fill in the details:
 
-    <figure><img src="../../.gitbook/assets/Captura de tela 2025-07-02 095638.png" alt=""><figcaption><p>Event Editor</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Event Editor</p></figcaption></figure>
 
-    * Name: Set a name for your event.
-    * Custom Data Fields: Set custom data fields to be collected when the event is captured.
-    * Currency: Use this field to specify the currency reference for the event. This should reflect the currency in use on your website. It helps track the monetary value associated with the user action.
-    * Amount: This field captures the quantity associated with the event. For example, in a purchase event, it represents the number of products purchased in a single transaction. Declare a variable on your website that reflects this amount.
-    * Deduplication ID: This field is used to assign a unique identifier to each event instance. It ensures that duplicated events are not counted multiple times, improving data reliability.
-    * Template: The template option is available for all fields above. It defines how the values from the event will be processed. It accepts a string using variables from the custom data fields, and generates a comma-separated output.
-3. Click on ![](<../../.gitbook/assets/image (102).png>) to add an action to your event.
-4. Fill in the details:
+* Name: Set a name for your event.
+* Event ID: Set an ID for your event, if no ID is set, the Event Name will be used as default event ID.
+* Custom Data Fields: Set custom data fields to be collected when the event is captured.
+* Currency: Use this field to specify the currency reference for the event. This should reflect the currency in use on your website. It helps track the monetary value associated with the user action.
+* Amount: This field captures the quantity associated with the event. For example, in a purchase event, it represents the number of products purchased in a single transaction. Declare a variable on your website that reflects this amount.
+* Deduplication ID: This field is used to assign a unique identifier to each event instance. It ensures that duplicated events are not counted multiple times, improving data reliability.
+* Template: The template option is available for all fields above. It defines how the values from the event will be processed. It accepts a string using variables from the custom data fields, and generates a comma-separated output.
+
+1. Click on ![](<../../.gitbook/assets/image (102).png>) to add an action to your event, the action is what your tracker will do at BMS once the user access the designed page or perform the specified action.
+2. Fill in the details:
    * Name: Set a name for your action.
    *   What to do?:
 
@@ -76,8 +78,8 @@ Configure events according to the activities performed by users on your website,
        * Track in Identifier Pool: This option allows you to add or remove identifiers from your pools.
          * Identifier Pool: Select the identifier pool you will link to this action.
          * Operation: Select if you want to add or remove identifiers from the pool.
-5. Click on <img src="../../.gitbook/assets/image (93).png" alt="" data-size="line"> to save your action.
-6. Feel free to add more actions to this event, and when you're done, click on <img src="../../.gitbook/assets/image (93).png" alt="" data-size="line"> to save your event.
+3. Click on <img src="../../.gitbook/assets/image (93).png" alt="" data-size="line"> to save your action.
+4. Feel free to add more actions to this event, and when you're done, click on <img src="../../.gitbook/assets/image (93).png" alt="" data-size="line"> to save your event.
 
 ### Editing Events and Actions
 

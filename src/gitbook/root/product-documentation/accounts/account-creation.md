@@ -56,7 +56,7 @@ Complete the required fields, including:
 
 Enter your valid credit card details, which will be used for billing purposes.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 For validation purposes, a small, temporary amount may be charged to your card and then immediately refunded. We accept the following cards:
 

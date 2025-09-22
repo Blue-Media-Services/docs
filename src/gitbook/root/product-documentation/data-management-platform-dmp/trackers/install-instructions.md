@@ -6,7 +6,7 @@ After setting up events and actions for your tracker, you have to install it on 
 
 To access the trackers' instructions tab, select the tracker you need to install in the trackers'  list. You must choose only one tracker at a time to use this tab. The tab will contain one section for each event created for the selected tracker.
 
-There are 4 install methods available for this feature: Script, Pixel, Redirect, and Apps Flyer. After expanding the section of the event you want to install, you can choose from these options:
+There are several install methods available for this feature: Script, Pixel, Redirect,Apps Flyer and Google Ads Tracking Template. After expanding the section of the event you want to install, you can choose from these options:
 
 ## Script
 
@@ -145,7 +145,59 @@ After creating your account and setting up your app in AppsFlyer, it is time to 
 
 After completing these steps, BMS will be integrated with your AppsFlyer account, and the event data from your app will start being sent to our platform.
 
-### Additional Information
+## Google Ads Tracking Template
+
+Google Tag Manager (GTM) is a tool that centralizes and simplifies the installation of tracking codes on a website without requiring direct changes to the site’s source code. Instead of embedding each script manually, you only need to install the GTM container once, and then manage all trackers, pixels, and events through the GTM dashboard.
+
+GTM works by firing snippets of tracking code based on the rules you configure (called _triggers_). This allows you to decide which pages or user actions will activate each tag.
+
+This approach eliminates the need for constant code edits, making the process more efficient and secure.
+
+Here are some advantages of using trackers through GTM:
+
+* **Centralized Management**: All tracking scripts and pixels are handled in one place.
+* **Flexibility**: Configure conditional triggers such as button clicks, page views, or form submissions.
+* **Reduced Technical Dependency**: Marketing teams can manage tags without relying on developers for every update.
+* **Scalability**: Perfect for sites running multiple campaigns, since it simplifies deployment and maintenance.
+
+### Use Cases
+
+Tracking with GTM enhances insights into user behavior and campaign performance, such as:
+
+* **Conversion Tracking**: An online store can set up a GTM event that fires when a purchase is completed, ensuring accurate ROI attribution.
+* **Page Element Testing**: A news site can track which headlines users click on most, optimizing content engagement.
+* **Multi-Channel Campaign Measurement**: A marketing agency can install various ad pixels (Google Ads, Facebook Ads, LinkedIn Ads) via GTM without altering the client’s website code.
+
+### How to Install
+
+1. Access you GTM and click on **Create a New Tag**
+   1. In the left menu, click on **Tags**.
+   2. Click **New** and name your tag as you prefer.
+   3. Click on **Tag Configuration** and choose **Custom HTML.**
+2. Add the Tracking Script
+   1.  Copy and paste the script that is shown on the install instruction:\
+
+
+       <figure><img src="../../../.gitbook/assets/image (539).png" alt=""><figcaption><p>Google Ads Tracking Template Script</p></figcaption></figure>
+
+
+   2. Replace the placeholders with your custom values:
+      * `REPLACE_WITH_PRICE` → the transaction value (if applicable).
+      * `REPLACE_WITH_QUANTITY` → the number of items (if applicable).
+      * `REPLACE_WITH_DEDUPLICATIONID` → a unique transaction or event ID to prevent duplicates.
+      * `{lpurl}` → leave as-is, it will automatically resolve the landing page URL.
+3. Set the Trigger
+   1. Under **Triggering**, click on **+** to add a new trigger.
+   2. Select **Custom Event**.
+   3. Enter the event name that matches the event pushed into the `dataLayer`.
+      * Example: if your developers are pushing `dataLayer.push({ event: "purchase" })`, use `purchase` as the trigger name.
+   4. Save the trigger.
+4. Save and Publish
+   1. Save your new tag.
+   2. Click **Submit** in the top right corner.
+   3. Add a version name (e.g., _Added Tracker Tag_) and click **Publish**.
+
+## Additional Information
 
 Check out some external references that may help you through the app configuration and partner integration process:
 
