@@ -53,7 +53,7 @@ Clique em ![create blueprint](<../../../.gitbook/assets/image (889).png>) para c
           * Mensagem de Validação: Esta mensagem é exibida ao usuário se o padrão de validação não corresponder.
           * Selecione entre as opções:
             * Linha Única: Cria um campo para inserir uma única linha de texto.
-            * Múltiplas Linhas: Cria um campo que permite inserir várias linhas de texto.
+            * Multilinha: Cria um campo que permite inserir várias linhas de texto.
             * Valor Inicial: Este é o valor inicial que o sistema usará ao criar um novo _build_.
       *   Booleano
 
@@ -119,18 +119,18 @@ Clique em ![create blueprint](<../../../.gitbook/assets/image (889).png>) para c
 5. Use as macros disponíveis com suas URLs, algumas delas são:
    * URL de Clique Sem Escape: Esta macro será substituída pela URL do rastreador de cliques sem escape da BMS. Use esta opção quando a BMS for o primeiro rastreador de cliques na cadeia.
    * URL de Clique Com Escape: Esta macro será substituída pela URL do rastreador de cliques com escape da BMS. Use esta opção quando a BMS for o segundo rastreador de cliques na cadeia.
-   * URL de Clique com Escape Duplo: Esta macro será substituída pela URL do rastreador de cliques com escape duplo da BMS. Use esta opção quando a BMS for o terceiro rastreador de cliques na cadeia.
-   * Cache Buster: Esta macro será substituída por um número aleatório que pode ser usado para evitar o cache.
-   * Contexto do Anúncio com Escape: Esta macro será substituída por um objeto JSON com escape contendo dados sobre o contexto do anúncio, como o ID da campanha e dados do usuário.
+   * URL de Clique com Duplo Escape: Esta macro será substituída pela URL do rastreador de cliques com duplo escape da BMS. Use esta opção quando a BMS for o terceiro rastreador de cliques na cadeia.
+   * Quebrador de Cache: Esta macro será substituída por um número aleatório que pode ser usado para evitar o cache.
+   * Contexto de Anúncio com Escape: Esta macro será substituída por um objeto JSON com escape contendo dados sobre o contexto do anúncio, como o ID da campanha e dados do usuário.
 6. Após finalizar todas as configurações do seu _blueprint_, clique em <img src="../../../.gitbook/assets/image (309).png" alt="" data-size="line"> para salvar seu _blueprint_.
 
 ### Usando um Blueprint Existente <a href="#using-an-existing-blueprint" id="using-an-existing-blueprint"></a>
 
-Também é possível usar um _blueprint_ existente. Você pode duplicar um _blueprint_ que já possui para reutilizar alguns de seus parâmetros clicando em <img src="../../../.gitbook/assets/image (21).png" alt="" data-size="line"> na mesma linha do _blueprint_ que deseja duplicar. Além disso, você pode usar um _blueprint_ público. Desligue a opção <img src="../../../.gitbook/assets/image (22).png" alt="" data-size="line"> "próprios", acima da lista de _blueprints_, escolha um dos _blueprints_ disponíveis e clique em <img src="../../../.gitbook/assets/image (23).png" alt="" data-size="line"> na mesma linha do _blueprint_ público que deseja usar. Ligue novamente a opção <img src="../../../.gitbook/assets/image (24).png" alt="" data-size="line"> "próprios" e, em seguida, clique em <img src="../../../.gitbook/assets/image (25).png" alt="" data-size="line"> para editar o _blueprint_ de acordo com as necessidades do seu negócio.
+Também é possível usar um _blueprint_ existente. Você pode duplicar um _blueprint_ que já possui para reutilizar alguns de seus parâmetros clicando em <img src="../../../.gitbook/assets/image (21).png" alt="" data-size="line"> na mesma linha do _blueprint_ que deseja duplicar. Além disso, você pode usar um _blueprint_ público. Desligue a opção <img src="../../../.gitbook/assets/image (22).png" alt="" data-size="line"> "próprio", acima da lista de _blueprints_, escolha um dos _blueprints_ disponíveis e clique em <img src="../../../.gitbook/assets/image (23).png" alt="" data-size="line"> na mesma linha do _blueprint_ público que deseja usar. Ligue novamente a opção <img src="../../../.gitbook/assets/image (24).png" alt="" data-size="line"> "próprio" e, em seguida, clique em <img src="../../../.gitbook/assets/image (25).png" alt="" data-size="line"> para editar o _blueprint_ de acordo com as necessidades do seu negócio.
 
 ### Excluindo Blueprints <a href="#deleting-blueprints" id="deleting-blueprints"></a>
 
-Você pode excluir ou arquivar _blueprints_ de acordo com suas necessidades. Para arquivar _blueprints_, clique em <img src="../../../.gitbook/assets/image (26).png" alt="" data-size="line"> na mesma linha do _blueprint_ que deseja arquivar. Para visualizar seus _blueprints_ arquivados, ative a opção <img src="../../../.gitbook/assets/image (27).png" alt="" data-size="line"> "arquivados" acima da lista de _blueprints_.
+Você pode excluir ou arquivar _blueprints_ de acordo com suas necessidades. Para arquivar _blueprints_, clique em <img src="../../../.gitbook/assets/image (26).png" alt="" data-size="line"> na mesma linha do _blueprint_ que deseja arquivar. Para visualizar seus _blueprints_ arquivados, ative a opção <img src="../../../.gitbook/assets/image (27).png" alt="" data-size="line"> "arquivado" acima da lista de _blueprints_.
 
 {% hint style="danger" %}
 Atenção! Tenha cuidado ao excluir _blueprints_. Esta ação não pode ser desfeita, e os _builds_ que dependem do _blueprint_ excluído deixarão de funcionar. Todos os dados relacionados, incluindo métricas coletadas anteriormente, também serão excluídos.

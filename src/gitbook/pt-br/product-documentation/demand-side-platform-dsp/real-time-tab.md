@@ -36,7 +36,7 @@ Os eventos disponíveis são:
   Este evento é registrado quando o usuário final clica no anúncio. Para que este evento seja rastreado, você deve estar usando o Rastreador de Cliques da BMS (_BMS Click Tracker_), que é habilitado por padrão, mas pode ser desabilitado editando o código HTML do criativo.
 
 {% hint style="info" %}
-Por favor, note que o evento de "impressão" (_impression_) só pode ser rastreado para Campanhas e Anúncios.&#x20;
+Por favor, note que o evento de impressões (_impression_) só pode ser rastreado para Campanhas e Anúncios.&#x20;
 
 Ao verificar eventos em tempo real para Criativos ou Grupos de Criativos, nenhum evento de "impressão" pode ser registrado. As Regras do Anúncio são determinadas apenas no momento da Entrega do Anúncio. Este é o ponto em que o grupo de criativos final é selecionado e, a partir dele, o criativo final é escolhido.
 {% endhint %}
@@ -49,4 +49,4 @@ Para qualquer evento exibido na lista, você pode clicar no botão de detalhes !
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-12-30 090243.png" alt=""><figcaption><p>Tela de Detalhes de Evento</p></figcaption></figure>
 
-Aqui você pode observar todos os detalhes de um evento específico, como a geolocalização do usuário, IP, navegador e tipo de dispositivo. Os parâmetros para o lance (_bid_), _ad exchange_ e domínio, e aqueles relacionados à campanha, segmentação, anúncio, regra do anúncio, grupo de criativos e criativo específicos, juntamente com uma pré-visualização do próprio criativo.
+Aqui você pode observar todos os detalhes de um evento específico, como a geolocalização do usuário, IP, navegador e tipo de dispositivo. Os parâmetros para o lance (_bid_), _ad exchange_ e domínio, e aqueles relacionados à campanha, público-alvo, anúncio, regra do anúncio, grupo de criativos e criativo específicos, juntamente com uma pré-visualização do próprio criativo.

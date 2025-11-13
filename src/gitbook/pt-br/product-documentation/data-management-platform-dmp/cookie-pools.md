@@ -19,7 +19,7 @@ layout:
 
 Um cookie pool é uma coleção ou banco de dados de _cookies_ de usuários. _Cookies_ são pequenos pedaços de dados armazenados no navegador de um usuário quando ele visita um site. Esses _cookies_ registram o comportamento online dos usuários, suas preferências e interações com sites e serviços.
 
-No contexto de publicidade e marketing digital, um _pool_ de cookies pode servir a vários propósitos:
+No contexto de publicidade e marketing digital, um _cookie pool_ pode servir a vários propósitos:
 
 * **Segmentação de Público**: Segmentar usuários em diferentes grupos com base em seus interesses, comportamentos, demografia ou outros critérios. Essa segmentação permite campanhas publicitárias mais direcionadas e personalizadas.
 * **Retargeting**: Coletar dados de usuários com base em eventos e ações para fins de rastreamento. Esses dados podem ser usados posteriormente para criar modelos de recomendação para suas campanhas de _retargeting_, melhorando suas conversões. [Saiba mais sobre campanhas de Retargeting](../../solutions/retargeting.md).
@@ -50,17 +50,17 @@ Um cookie pool deve ser criado pouco antes de ser usado para uma campanha, para 
 
 ### Editando um Cookie Pool <a href="#editing-a-cookie-pool" id="editing-a-cookie-pool"></a>
 
-Após criar um _pool_ de cookies, você pode editá-lo clicando no botão de edição <img src="../../.gitbook/assets/image (175).png" alt="editing button" data-size="line">. Todos os parâmetros são editáveis; para o TTL, as alterações se aplicarão apenas aos cookies recém-adicionados. Após fazer suas alterações, clique em ![Save](<../../.gitbook/assets/image (1132).png>) para salvá-las.
+Após criar um _cookie pool_, você pode editá-lo clicando no botão de edição <img src="../../.gitbook/assets/image (175).png" alt="editing button" data-size="line">. Todos os parâmetros são editáveis; para o TTL, as alterações se aplicarão apenas aos cookies recém adicionados. Após fazer suas alterações, clique em ![Save](<../../.gitbook/assets/image (1132).png>) para salvá-las.
 
-É possível arquivar _pools_ de cookies para sua melhor organização. Clique em ![](<../../.gitbook/assets/image (359).png>) para arquivar o _pool_ de cookies selecionado. Visualize seus _pools_ de cookies arquivados ativando a chave seletora "Arquivados" acima da lista de _pools_ de cookies. Também é possível desarquivar um _pool_ de cookies clicando em ![](<../../.gitbook/assets/image (360).png>).
+É possível arquivar _cookie pools_ para sua melhor organização. Clique em ![](<../../.gitbook/assets/image (359).png>) para arquivar o _cookie pool_ selecionado. Visualize seus _cookie pools_ arquivados ativando a chave seletora "Arquivado" acima da lista de _cookie pools_. Também é possível desarquivar um _cookie pool_ clicando em ![](<../../.gitbook/assets/image (360).png>).
 
 ### Excluindo um Cookie Pool <a href="#deleting-a-cookie-pool" id="deleting-a-cookie-pool"></a>
 
 {% hint style="danger" %}
-Atenção! Tenha cuidado ao excluir _pools_ de cookies. Esta ação não pode ser desfeita e todos os dados relacionados, incluindo métricas coletadas anteriormente, também serão excluídos.
+Atenção! Tenha cuidado ao excluir _cookie pools_. Esta ação não pode ser desfeita e todos os dados relacionados, incluindo métricas coletadas anteriormente, também serão excluídos.
 {% endhint %}
 
-Você pode excluir um pool de cookies clicando no botão de exclusão <img src="../../.gitbook/assets/image (176).png" alt="delete button" data-size="original">. Um aviso de que esta ação não pode ser desfeita será exibido. Para prosseguir com o processo, clique em ![Delete](<../../.gitbook/assets/image (1134).png>) para confirmar que está excluindo, e pronto. Esteja ciente de que as segmentações baseadas nesses _pools_ de cookies deixarão de funcionar.
+Você pode excluir um _cookie pool_ clicando no botão de exclusão <img src="../../.gitbook/assets/image (176).png" alt="delete button" data-size="original">. Um aviso de que esta ação não pode ser desfeita será exibido. Para prosseguir com o processo, clique em ![Delete](<../../.gitbook/assets/image (1134).png>) para confirmar que está excluindo, e pronto. Esteja ciente de que os públicos-alvo baseados nesses _cookie pools_ deixarão de funcionar.
 
 ## Instalando um Cookie Pool <a href="#installing-a-cookie-pool" id="installing-a-cookie-pool"></a>
 
@@ -68,7 +68,7 @@ Após criar um cookie pool, você precisará instalá-lo em seu site para começ
 
 <figure><img src="../../.gitbook/assets/image (178).png" alt=""><figcaption><p>Aba de Instruções de Instalação</p></figcaption></figure>
 
-1. Selecione o _pool_ de cookies que você irá instalar marcando a caixa de seleção ao lado de seu nome.
+1. Selecione o _cookie pool_ que você irá instalar marcando a caixa de seleção ao lado de seu nome.
 2. Na aba Instruções de Instalação, clique em <img src="../../.gitbook/assets/image (179).png" alt="" data-size="line"> para copiar o código.
 3. Cole o código o mais alto possível dentro da tag `<head>` da página.
 4. Se desejar, é possível usar um ID de usuário único. Isso é útil se seus usuários fazem login em múltiplos dispositivos. Para fazer isso, remova a parte indicada do código e insira o ID de usuário único.

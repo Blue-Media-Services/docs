@@ -43,7 +43,7 @@ Os rastreadores coletarão dados sobre as atividades do seu site, portanto, eles
 
 Todos os parâmetros dos rastreadores são editáveis. Clique em ![](<../../../.gitbook/assets/image (358).png>) na mesma linha do rastreador que deseja editar, faça suas alterações e, em seguida, clique em ![Save](<../../../.gitbook/assets/image (1132).png>) para salvá-las.
 
-É possível arquivar rastreadores para uma melhor organização. Clique em ![](<../../../.gitbook/assets/image (359).png>) para arquivar o rastreador selecionado. Visualize seus rastreadores arquivados ativando a chave seletora "Arquivados" acima da lista de rastreadores. Também é possível desarquivar um rastreador clicando em ![](<../../../.gitbook/assets/image (360).png>).
+É possível arquivar rastreadores para uma melhor organização. Clique em ![](<../../../.gitbook/assets/image (359).png>) para arquivar o rastreador selecionado. Visualize seus rastreadores arquivados ativando a chave seletora "Arquivado" acima da lista de rastreadores. Também é possível desarquivar um rastreador clicando em ![](<../../../.gitbook/assets/image (360).png>).
 
 ### Excluindo um Rastreador <a href="#deleting-a-tracker" id="deleting-a-tracker"></a>
 
@@ -73,7 +73,7 @@ Configure eventos de acordo com as atividades realizadas pelos usuários em seu 
     * ID do Evento: Defina um ID para o seu evento. Caso nenhum ID seja definido, o Nome do Evento será usado como ID padrão.
     * Campos de Dados Personalizados: Defina campos de dados personalizados a serem coletados quando o evento for capturado.
     * Moeda: Use este campo para especificar a referência de moeda para o evento. Isso deve refletir a moeda em uso em seu site. Ajuda a rastrear o valor monetário associado à ação do usuário.
-    * Quantidade: Este campo captura a quantidade associada ao evento. Por exemplo, em um evento de compra, representa o número de produtos adquiridos em uma única transação. Declare uma variável em seu site que reflita essa quantidade.
+    * Valor: Este campo captura a quantidade associada ao evento. Por exemplo, em um evento de compra, representa o número de produtos adquiridos em uma única transação. Declare uma variável em seu site que reflita essa quantidade.
     * ID de Deduplicação: Este campo é usado para atribuir um identificador exclusivo a cada instância de evento. Ele garante que eventos duplicados não sejam contados várias vezes, melhorando a confiabilidade dos dados.
     * Modelo: A opção de modelo está disponível para todos os campos acima. Ela define como os valores do evento serão processados. Aceita uma string utilizando variáveis dos campos de dados personalizados e gera uma saída separada por vírgulas.
 3. Clique em ![](<../../../.gitbook/assets/image (365).png>) para adicionar uma ação ao seu evento.
@@ -83,7 +83,7 @@ Configure eventos de acordo com as atividades realizadas pelos usuários em seu 
 
        <figure><img src="../../../.gitbook/assets/Captura de tela 2025-02-27 084243.png" alt=""><figcaption><p>Editor de Ações</p></figcaption></figure>
 
-       * Rastrear em Catálogo: Permite rastrear eventos com base em um catálogo de produtos.
+       * Rastrear no Catálogo: Permite rastrear eventos com base em um catálogo de produtos.
          * Catálogo: Selecione o catálogo que deseja usar.
          * Rastrear como: Selecione como esta ação deve ser rastreada.
          * Campo Contendo IDs de Oferta: Selecione o campo personalizado que contém o ID da oferta ou use um _template_.
@@ -92,7 +92,7 @@ Configure eventos de acordo com as atividades realizadas pelos usuários em seu 
 
        <figure><img src="../../../.gitbook/assets/Captura de tela 2025-02-27 084528.png" alt=""><figcaption><p>Editor de Ações</p></figcaption></figure>
 
-       * Rastrear em Identifier Pool: Esta opção permite adicionar ou remover identificadores de seus _pools_.
+       * Rastrear no Identifier Pool: Esta opção permite adicionar ou remover identificadores de seus _pools_.
          * Identifier Pool: Selecione o identifier pool que você vinculará a esta ação.
          * Operação: Selecione se deseja adicionar ou remover identificadores do _pool._
 5. Clique em <img src="../../../.gitbook/assets/image (356).png" alt="" data-size="line"> para salvar sua ação.

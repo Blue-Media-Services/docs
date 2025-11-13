@@ -30,11 +30,11 @@ Se precisar editar o nome ou as tags de um catálogo, clique em <img src="../../
 
 ### Arquivando um Catálogo <a href="#archiving-a-catalog" id="archiving-a-catalog"></a>
 
-Para arquivar um catálogo, clique em <img src="../../.gitbook/assets/image (133).png" alt="Archive" data-size="line">. Seu catálogo arquivado será então exibido na lista de Arquivados. Para alterar sua visualização, acione a chave seletora <img src="../../.gitbook/assets/image (134).png" alt="Toggle" data-size="line">.
+Para arquivar um catálogo, clique em <img src="../../.gitbook/assets/image (133).png" alt="Archive" data-size="line">. Seu catálogo arquivado será então exibido na lista de Arquivado. Para alterar sua visualização, acione a chave seletora <img src="../../.gitbook/assets/image (134).png" alt="Toggle" data-size="line">.
 
 ### Desarquivando um Catálogo <a href="#unarchiving-a-catalog" id="unarchiving-a-catalog"></a>
 
-Para desarquivar um catálogo, alterne sua visualização para a lista de Arquivados e clique em <img src="../../.gitbook/assets/image (135).png" alt="Unarchive" data-size="line">. Seu catálogo retornará para a lista de catálogos ativos.
+Para desarquivar um catálogo, alterne sua visualização para a lista de Arquivado e clique em <img src="../../.gitbook/assets/image (135).png" alt="Unarchive" data-size="line">. Seu catálogo retornará para a lista de catálogos ativos.
 
 ### Excluindo um Catálogo <a href="#deleting-a-catalog" id="deleting-a-catalog"></a>
 
@@ -59,7 +59,7 @@ Selecione um Catálogo onde deseja instalar seus _pixels_ e, em seguida, vá par
 Cada evento tem uma página correta para ter seu pixel instalado. Verifique a descrição de cada evento para saber exatamente onde.
 
 {% hint style="info" %}
-Lembre-se de substituir o _placeholder_ pelo seu ID da Oferta (_offer ID_). Cada site tem sua própria maneira de definir uma variável de ID da Oferta, então preste atenção em como essa variável foi configurada em seu site. Se a variável correta não for usada para seus produtos, **o evento não funcionará**. Garanta que a variável de ID da Oferta em seu site retorne os mesmos valores que foram importados como identificadores de produto (em nossa plataforma, eles são chamados de IDs de Oferta) em seu catálogo.
+Lembre-se de substituir a seção pelo seu ID da Oferta (_offer ID_). Cada site tem sua própria maneira de definir uma variável de ID da Oferta, então preste atenção em como essa variável foi configurada em seu site. Se a variável correta não for usada para seus produtos, **o evento não funcionará**. Garanta que a variável de ID da Oferta em seu site retorne os mesmos valores que foram importados como identificadores de produto (em nossa plataforma, eles são chamados de IDs de Oferta) em seu catálogo.
 {% endhint %}
 
 _**Exemplo**: O evento de Produto Comprado deve ser instalado em sua **página de confirmação de pedido**._
@@ -72,12 +72,12 @@ Uma ampla lista de Métricas está disponível e é possível agrupá-las por **
 
 Estas são todas as métricas disponíveis para o recurso de Catálogos:
 
-* [Contagem de Jobs de Importação](cs2-metrics.md#contagem-de-jobs-de-importacao)
-* [Duração do Job de Importação](cs2-metrics.md#duracao-do-job-de-importacao)
-* [Taxa de Falha do Job de Importação](cs2-metrics.md#taxa-de-falha-do-job-de-importacao)
-* [Problemas no Job de Importação](cs2-metrics.md#problemas-no-job-de-importacao)
-* [Bytes Processados no Job de Importação](cs2-metrics.md#taxa-de-falha-do-job-de-importacao)
-* [Registros Processados no Job de Importação](cs2-metrics.md#registros-processados-no-job-de-importacao)
+* [Contagem de Jobs (Tarefas) de Importação](cs2-metrics.md#contagem-de-jobs-de-importacao)
+* [Duração do Job (Tarefa) de Importação](cs2-metrics.md#duracao-do-job-de-importacao)
+* [Taxa de Falha do Job (Tarefa) de Importação](cs2-metrics.md#taxa-de-falha-do-job-de-importacao)
+* [Problemas no Job (Tarefa) de Importação](cs2-metrics.md#problemas-no-job-de-importacao)
+* [Bytes Processados no Job (Tarefa) de Importação](cs2-metrics.md#taxa-de-falha-do-job-de-importacao)
+* [Registros Processados no Job (Tarefa) de Importação](cs2-metrics.md#registros-processados-no-job-de-importacao)
 * [Contagem de Adições de Produto ao Carrinho](cs2-metrics.md#contagem-de-adicoes-de-produto-ao-carrinho)
 * [Contagem de Produtos](cs2-metrics.md#contagem-de-produtos)
 * [Contagem de Pedidos de Produto](cs2-metrics.md#contagem-de-pedidos-de-produto)

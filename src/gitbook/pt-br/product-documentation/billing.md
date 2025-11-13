@@ -1,6 +1,6 @@
-# Cobrança
+# Faturamento
 
-Como a BMS é uma plataforma de autoatendimento, nossa cobrança funciona de forma diferente, oferecendo mais transparência na apresentação das suas faturas. A maioria das plataformas não fornece informações detalhadas sobre cada serviço utilizado, o que pode dar a impressão de que alguns serviços não estão sendo cobrados. No entanto, é importante entender que todo acesso, chamada de API e arquivo armazenado em uma plataforma gera um custo.
+Como a BMS é uma plataforma de autoatendimento, nosso faturamento funciona de forma diferente, oferecendo mais transparência na apresentação das suas faturas. A maioria das plataformas não fornece informações detalhadas sobre cada serviço utilizado, o que pode dar a impressão de que alguns serviços não estão sendo cobrados. No entanto, é importante entender que todo acesso, chamada de API e arquivo armazenado em uma plataforma gera um custo.
 
 A BMS acredita que mostrar aos usuários o valor exato que estão pagando por cada serviço é essencial para a transparência. Ao fazer isso, os usuários podem identificar onde a maior parte do dinheiro está sendo gasto e tomar decisões estratégicas com base nessas informações.
 
@@ -24,7 +24,7 @@ A BMS possui várias unidades para contar com precisão cada serviço. Cada unid
 | **Tempo Decorrido (Horas)** | Todos os dados armazenados na BMS, desde campanhas criadas até mídias armazenadas em sua biblioteca, geram um custo. A BMS cobra com base no tempo decorrido para todos os dados, até que sejam excluídos. O tempo decorrido na BMS é medido em **segundos** e depois convertido para **horas**, garantindo que você pague apenas pelo tempo que utiliza os servidores da BMS.                                              |
 | **Bytes**                   | <p>Arquivos armazenados na BMS, que são guardados ou processados assim que um anúncio é baixado no navegador do usuário final, geram um custo porque os arquivos são acessados a partir dos servidores da BMS.<br>Arquivos armazenados são cobrados com base no <strong>tamanho em bytes</strong> e na <strong>duração</strong> em que ficam armazenados.<br>Arquivos baixados são cobrados apenas com base no tamanho.</p> |
 | **Pontos**                  | Esses são baseados em métricas. Cada **ponto** marcado nas suas métricas é registrado e somado com outras métricas, e é assim que as métricas são cobradas.                                                                                                                                                                                                                                                                 |
-| **Eventos**                 | Na aba de monitoramento, existem canais de eventos e stores. Cada **evento registrado** a partir dos stores e canais criados será registrado e depois cobrado com base no **número total** de eventos.                                                                                                                                                                                                                      |
+| **Eventos**                 | Na aba de monitoramento, existem pipelines de eventos e armazenamento de eventos. Cada **evento registrado** a partir dos armazenamentos e pipelines criados será registrado e depois cobrado com base no **número total** de eventos.                                                                                                                                                                                      |
 
 ## Resumo <a href="#summary" id="summary"></a>
 
@@ -53,7 +53,7 @@ Ao criar uma campanha, alguns recursos incluem camadas gratuitas relacionadas ao
 
 * **Plataforma de Demanda (DSP)**
   * **Campanhas:** 5 campanhas por mês (3.600 horas-campanha) — Gratuito
-* **Servidor de Anúncios**
+* _**Ad Server**_**&#x20;(Servidor de Anúncios)**
   * **Anúncios Armazenados**: Até 30 anúncios por mês (21.600 horas-anúncio) — Gratuito
   * **Grupos de Criativos Armazenados:** Até 30 grupos de criativos por mês (21.600 horas-grupo de criativos) — Gratuito
   * **Criativos Armazenados:** Até 30 criativos por mês (21.600 horas-criativo) — Gratuito

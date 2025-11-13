@@ -37,7 +37,7 @@ O GTM oferece diversos tipos de gatilhos para capturar diferentes ações dos us
 2. **Clique:** Ativa quando um elemento específico em uma página é clicado, como um botão "Adicionar ao carrinho".
 3. **Envio de Formulário:** Ativa quando um formulário na página é enviado.
 4. **Evento Personalizado:** Ativa com base em eventos JavaScript personalizados, sendo útil para interações complexas que não possuem gatilhos diretos no GTM.
-5. **DOM Pronto:** Ativa quando o HTML da página é carregado (antes de imagens e outros elementos de mídia).
+5. **Pronto pra DOM:** Ativa quando o HTML da página é carregado (antes de imagens e outros elementos de mídia).
 
 Você pode aprender mais sobre todos os tipos de gatilhos [neste artigo](https://support.google.com/tagmanager/topic/7679108?sjid=9288738402311135972-SA) do GTM.
 
@@ -117,25 +117,25 @@ No GTM, variáveis são usadas para armazenar informações que podem ser utiliz
 
 Existem dois tipos de variáveis disponíveis no GTM:
 
-1. **Variáveis Integradas:** O GTM oferece variáveis integradas para ações comuns, como URL da Página, URL do Clique e ID do Formulário. Você pode ativá-las diretamente no GTM.
+1. **Variáveis Internas:** O GTM oferece variáveis internas para ações comuns, como URL da Página, Clique em URL e ID do Formulário. Você pode ativá-las diretamente no GTM.
 2. **Variáveis Definidas pelo Usuário:** São variáveis personalizadas que você cria para capturar dados específicos, como um ID de produto ou a classe de um botão clicado. Os tipos de variáveis definidas pelo usuário incluem:
-   * **Variáveis do Data Layer:** Recuperam valores enviados para o `dataLayer` (por exemplo, o ID de um produto a partir do código do seu site).
+   * **Variáveis da Camada de Dados:** Recuperam valores enviados para o `dataLayer` (por exemplo, o ID de um produto a partir do código do seu site).
    * **Variáveis de URL:** Capturam dados da URL da página, como parâmetros (por exemplo, parâmetros como `utm_campaign`).
    * **Variáveis JavaScript:** Recuperam valores diretamente de expressões JavaScript (por exemplo, propriedades do objeto _document_).
    * **Variáveis Constantes:** Armazenam valores fixos (por exemplo, um ID de rastreamento estático usado em várias tags).
 
 ### Configurando Variáveis <a href="#setting-up-variables" id="setting-up-variables"></a>
 
-1. **Variáveis Integradas**
-   * Na seção **Variáveis Integradas**, clique em <img src="../.gitbook/assets/image (900).png" alt="" data-size="line">.
-   * Selecione as variáveis que deseja ativar marcando suas caixas (por exemplo, URL da Página, URL do Clique, Texto do Clique, ID do Formulário).
+1. **Variáveis Internas**
+   * Na seção **Variáveis Internas**, clique em <img src="../.gitbook/assets/image (900).png" alt="" data-size="line">.
+   * Selecione as variáveis que deseja ativar marcando suas caixas (por exemplo, URL da Página, Clique em URL, Clique em Texto, ID do Formulário).
 2.  **Variáveis Definidas pelo Usuário**
 
-    *   _**Exemplo 1:** Criando uma Variável do Data Layer_
+    *   _**Exemplo 1:** Criando uma Variável da Camada de Dados_
 
-        Variáveis do Data Layer recuperam dados que foram enviados para o `dataLayer`. Isso é útil ao rastrear ações ou valores específicos, como um ID de produto ou categoria.
+        _Variáveis da Camada de Dados recuperam dados que foram enviados para o `dataLayer`. Isso é útil ao rastrear ações ou valores específicos, como um ID de produto ou categoria._
 
-        1.  **Envie dados para o Data Layer** (se ainda não tiver sido feito):\
+        1.  **Envie dados para a Camada de Dados** (se ainda não tiver sido feito):\
             No seu site, certifique-se de que os dados necessários estão sendo enviados para o `dataLayer`. Aqui está um exemplo para uma página de produto:
 
             ```javascript
@@ -144,13 +144,13 @@ Existem dois tipos de variáveis disponíveis no GTM:
                 productID: '12345'  // Unique identifier for the product
             });
             ```
-        2.  **Crie a Variável do Data Layer no GTM:**
+        2.  **Crie a Variável da Camada de Dados no GTM:**
 
-            <figure><img src="../.gitbook/assets/image (901).png" alt=""><figcaption><p>Configuração da Variável – Exemplo de Data Layer</p></figcaption></figure>
+            <figure><img src="../.gitbook/assets/image (901).png" alt=""><figcaption><p>Configuração da Variável – Exemplo da Camada de Dados</p></figcaption></figure>
 
             * Na seção Variáveis Definidas pelo Usuário, clique em <img src="../.gitbook/assets/image (902).png" alt="" data-size="line">.
-            * Selecione Configuração da Variável e escolha Variável do Data Layer.
-            * Em Nome da Variável do Data Layer, insira o nome usado no push do seu data layer (por exemplo, `productID`).
+            * Selecione Configuração da Variável e escolha Variável da Camada de Dados.
+            * Em Nome da Variável da Camada de Dados, insira o nome usado no push da sua Camada de Dados (por exemplo, `productID`).
             * Opcionalmente, defina um valor padrão caso a variável esteja vazia (por exemplo, `desconhecido`).
             * Dê um nome e salve a variável (por exemplo, DL - ID do Produto).
         3. **Teste:** Use o modo de Visualização do GTM para testar se a variável captura corretamente o ID do produto.
@@ -163,8 +163,8 @@ Variáveis de URL permitem capturar dados da URL da página, como parâmetros de
 1. Na seção Variáveis Definidas pelo Usuário, clique em <img src="../.gitbook/assets/image (902).png" alt="" data-size="line">.
 2. Escolha Configuração da Variável e selecione URL.
 3. No menu suspenso Tipo de Componente, escolha a parte da URL que você precisa:
-   * Caminho da Página: Captura o caminho depois do domínio (por exemplo, `/produtos/sapatos`).
-   * Parâmetro de Consulta: Captura parâmetros de URL específicos como `utm_campaign`.
+   * Caminho: Captura o caminho depois do domínio (por exemplo, `/produtos/sapatos`).
+   * Consulta: Captura parâmetros de URL específicos como `utm_campaign`.
 4. Se você escolher Parâmetro de Consulta, insira a Chave do Parâmetro de Consulta (por exemplo, `utm_campaign`).
 5. Salve a variável com um nome descritivo, como URL - Campanha UTM.
 
@@ -175,7 +175,7 @@ Após criar variáveis, você pode usá-las para tornar as tags e os acionadores
 1. **Em Tags:** Ao configurar uma tag, você pode inserir variáveis selecionando o símbolo \{{\}} ou digitando \{{nome da variável\}}. Por exemplo:
    * Use \{{ID de Rastreamento GA\}} em uma tag do Google Analytics no campo ID de Rastreamento.
    * Use \{{DL - ID do Produto\}} para passar dinamicamente o ID do produto em uma tag de conversão.
-2. **Em Gatilhos:** Variáveis podem ser usadas em acionadores para especificar condições de ativação. Por exemplo:
+2. **Em Gatilhos:** Variáveis podem ser usadas em gatilhos para especificar condições de ativação. Por exemplo:
    * Crie um gatilho para disparar em páginas onde \{{URL - Caminho da Página\}} contenha /checkout
 
 ## Tags
@@ -193,7 +193,7 @@ Há muitas coisas que você pode realizar usando tags. O GTM oferece diversos ti
 1. Na página de Tags, clique em <img src="../.gitbook/assets/image (909).png" alt="" data-size="line"> para adicionar uma nova tag e depois em <img src="../.gitbook/assets/image (913).png" alt="" data-size="line"> para começar a configurá-la.
 2. Selecione HTML Personalizado na lista.
 3. No campo HTML, cole o código do pixel que você precisa instalar; no exemplo, foi usado um pixel de produto adicionado ao carrinho.
-4. Lembre-se de substituir o ID da Oferta pelo identificador do produto usado em seu site ou usar uma variável do GTM previamente configurada vinculada a ele. Você pode saber mais sobre como o OfferID da BMS funciona no nosso artigo sobre [Catálogos](../product-documentation/catalog-storage-service-cs2/catalogs.md#instalando-catalogos).
+4. Lembre-se de substituir o ID da Oferta pelo identificador do produto usado em seu site ou usar uma variável do GTM previamente configurada vinculada a ele. Você pode saber mais sobre como o ID da Oferta da BMS funciona no nosso artigo sobre [Catálogos](../product-documentation/catalog-storage-service-cs2/catalogs.md#instalando-catalogos).
 5.  Selecione os gatilhos que irão controlar quando esta tag será ativada.\
 
 

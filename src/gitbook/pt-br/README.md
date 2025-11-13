@@ -1,6 +1,6 @@
 # 👋 Seja bem-vindo à BMS
 
-**A Blue Media Services** é uma plataforma completa e personalizável de **"self-service"** que permite aos usuários desenvolver soluções para estratégias de mídia digital. Nossa missão é democratizar o mercado de AdTech, combinando tecnologia de ponta com respeito à privacidade para ajudar nossos clientes a impulsionarem suas vendas.
+**A Blue Media Services** é uma plataforma completa e personalizável de _**"self-service"**_ que permite aos usuários desenvolver soluções para estratégias de mídia digital. Nossa missão é democratizar o mercado de AdTech, combinando tecnologia de ponta com respeito à privacidade para ajudar nossos clientes a impulsionarem suas vendas.
 
 Você foca no crescimento da sua empresa e nós fornecemos as tecnologias necessárias, com uma infraestrutura aberta a integrações e equipada com ferramentas avançadas que irão ajudar na criação de campanhas, otimização de operações, redirecionamento de leads e aumento de performance.
 
@@ -16,13 +16,13 @@ Estes são os recursos disponíveis na BMS.
 
 [Geral](product-documentation/accounts/)
 
-[Cobranças de Contas](product-documentation/accounts/account-billing.md)
+[Faturamento de Contas](product-documentation/accounts/account-billing.md)
 
 </details>
 
 <details>
 
-<summary>Servidor de Anúncios</summary>
+<summary>Ad Server</summary>
 
 [Geral](product-documentation/ad-server/)
 
@@ -44,7 +44,7 @@ Estes são os recursos disponíveis na BMS.
 
 [Builds](product-documentation/ad-server/creative-builder/builds.md)
 
-[Cobranças de Servidor de Anúncios](product-documentation/ad-server/ad-server-billing.md)
+[Faturamento de Servidor de Anúncios](product-documentation/ad-server/ad-server-billing.md)
 
 [Tag de Rastreamento de Carregamento de Página](product-documentation/ad-server/page-load-tracking-tag.md)
 
@@ -58,9 +58,9 @@ Estes são os recursos disponíveis na BMS.
 
 [Gerenciando Campanhas](product-documentation/demand-side-platform-dsp/campaigns.md)
 
-[Gerenciando Budget](product-documentation/demand-side-platform-dsp/budgets.md)
+[Gerenciando Orçamento](product-documentation/demand-side-platform-dsp/budgets.md)
 
-[Gerenciando Segmentações](product-documentation/demand-side-platform-dsp/targets.md)
+[Gerenciando Públicos-alvo](product-documentation/demand-side-platform-dsp/targets.md)
 
 [Gerenciando Anúncios](product-documentation/demand-side-platform-dsp/managing-ads.md)
 
@@ -68,7 +68,7 @@ Estes são os recursos disponíveis na BMS.
 
 [Métricas de DSP](product-documentation/demand-side-platform-dsp/dsp-metrics.md)
 
-[Cobranças de DSP](product-documentation/demand-side-platform-dsp/campaign-billing.md)
+[Faturamento de DSP](product-documentation/demand-side-platform-dsp/campaign-billing.md)
 
 [Verificação de Classificação de URL](product-documentation/demand-side-platform-dsp/check-url-classification.md)
 
@@ -88,7 +88,7 @@ Estes são os recursos disponíveis na BMS.
 
 [Métricas de DMP](product-documentation/data-management-platform-dmp/dmp-metrics.md)
 
-[Cobranças de DMP](product-documentation/data-management-platform-dmp/dmp-billing.md)
+[Faturamento de DMP](product-documentation/data-management-platform-dmp/dmp-billing.md)
 
 </details>
 
@@ -108,7 +108,7 @@ Estes são os recursos disponíveis na BMS.
 
 [Métricas de CS2](product-documentation/catalog-storage-service-cs2/cs2-metrics.md)
 
-[Cobranças de CS2](product-documentation/catalog-storage-service-cs2/cs2-billing.md)
+[Faturamento de CS2](product-documentation/catalog-storage-service-cs2/cs2-billing.md)
 
 </details>
 
@@ -120,7 +120,7 @@ Estes são os recursos disponíveis na BMS.
 
 [Métricas de Mídia](product-documentation/media/media-metrics.md)
 
-[Cobranças de Mídia](product-documentation/media/media-billing.md)
+[Faturamento de Mídia](product-documentation/media/media-billing.md)
 
 </details>
 
@@ -138,19 +138,19 @@ Estes são os recursos disponíveis na BMS.
 
 [Geral](product-documentation/monitoring/)
 
-[Event Stores](product-documentation/monitoring/event-stores.md)
+[Armazenamento de Eventos](product-documentation/monitoring/event-stores.md)
 
-[Pipes de Eventos](product-documentation/monitoring/event-pipes.md)
+[Pipelines de Eventos](product-documentation/monitoring/event-pipes.md)
 
 [Métricas de Monitoramento](product-documentation/monitoring/monitoring-metrics.md)
 
-[Cobranças de Monitoramento](product-documentation/monitoring/monitoring-billing.md)
+[Faturamento de Monitoramento](product-documentation/monitoring/monitoring-billing.md)
 
 </details>
 
 <details>
 
-<summary>Cobrança</summary>
+<summary>Faturamento</summary>
 
 [Geral](product-documentation/billing.md)
 
@@ -158,11 +158,11 @@ Estes são os recursos disponíveis na BMS.
 
 <details>
 
-<summary>Contêiner de Tags</summary>
+<summary>Contêineres de Tags</summary>
 
 [Geral](product-documentation/tag-container/)
 
-[Métricas de Contêiner de Tags](product-documentation/tag-container/tag-container-metrics.md)
+[Métricas de Contêineres de Tags](product-documentation/tag-container/tag-container-metrics.md)
 
 </details>
 

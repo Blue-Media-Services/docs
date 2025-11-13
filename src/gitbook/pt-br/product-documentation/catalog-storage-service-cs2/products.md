@@ -1,6 +1,6 @@
 # Produtos
 
-Na aba Produtos, serão apresentados todos os produtos importados através do nosso **canal de importação**. Você pode verificar os detalhes e as métricas de cada produto.
+Na aba Produtos, serão apresentados todos os produtos importados através dos nossos **canais de importação**. Você pode verificar os detalhes e as métricas de cada produto.
 
 Você pode filtrar seus produtos por Catálogo ou pesquisar manualmente por um produto específico.
 

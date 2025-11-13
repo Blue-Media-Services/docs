@@ -23,7 +23,7 @@ Após configurar eventos e ações para o seu rastreador, você deve instalá-lo
 
 Para acessar a aba de instruções dos rastreadores, selecione o rastreador que você precisa instalar na lista de rastreadores. Você deve escolher apenas um rastreador por vez para usar esta aba. A aba conterá uma seção para cada evento criado para o rastreador selecionado.
 
-Existem alguns métodos de instalação disponíveis para este recurso: _Script_, _Pixel_, _Redirect,_ _AppsFlyer e Google Ads Tracking Template_. Após expandir a seção do evento que deseja instalar, você pode escolher uma destas opções:
+Existem alguns métodos de instalação disponíveis para este recurso: _Script_, _Pixel_, _Redirecionamento,_ _AppsFlyer e Template de Rastreamento do Google Ads_. Após expandir a seção do evento que deseja instalar, você pode escolher uma destas opções:
 
 ## Script
 
@@ -47,9 +47,9 @@ O rastreamento por _script_ coleta o comportamento detalhado do usuário diretam
 ### Como Instalar <a href="#how-to-install" id="how-to-install"></a>
 
 1. Na página de Rastreadores da BMS, clique na aba Instruções de Instalação.
-2. Selecione a opção Script.
+2. Selecione a opção Usar Script.
 3. Use o botão ![](<../../../.gitbook/assets/image (3).png>) para copiar o _script_ exibido.
-4. Se você configurou campos de dados personalizados, use o _placeholder_ indicado em vermelho para informar os valores dos dados personalizados.
+4. Se você configurou campos de dados personalizados, use a seção indicada em vermelho para informar os valores dos dados personalizados.
 5. Cole o código em seu site, precisamente na página onde você deseja que este evento seja capturado.
 
 <figure><img src="../../../.gitbook/assets/image (1086).png" alt=""><figcaption><p>Script</p></figcaption></figure>
@@ -76,9 +76,9 @@ O rastreamento por _pixel_ coleta dados de e-mails e sites, permitindo uma anál
 ### Como Instalar <a href="#how-to-install" id="how-to-install"></a>
 
 1. Na página de Rastreadores da BMS, clique na aba Instruções de Instalação.
-2. Selecione a opção Pixel.
+2. Selecione a opção Usar Pixel.
 3. Use o botão <img src="../../../.gitbook/assets/image (4).png" alt="" data-size="line"> para copiar a _tag_ de imagem exibida.
-4. Se você configurou campos de dados personalizados, use o _placeholder_ indicado em vermelho para informar os valores.
+4. Se você configurou campos de dados personalizados, use a seção indicada em vermelho para informar os valores.
 5. Cole o código em seu site, ou e-mail, precisamente onde você deseja que este evento seja capturado.
 
 <figure><img src="../../../.gitbook/assets/image (1087).png" alt=""><figcaption><p>Pixel</p></figcaption></figure>
@@ -87,7 +87,7 @@ O rastreamento por _pixel_ coleta dados de e-mails e sites, permitindo uma anál
 
 O rastreamento por redirecionamento de URL funciona enviando os usuários através de um link intermediário antes de chegarem ao destino final. Este passo intermediário coleta dados valiosos, como fontes de tráfego, parâmetros de campanha e comportamento do usuário. É um método prático para rastrear cliques e entender o desempenho de campanhas externas ou links de afiliados.
 
-Estas são algumas vantagens de usar o método _Redirect_:
+Estas são algumas vantagens de usar o método Redirecionamento:
 
 * **Atribuição Eficaz**: Rastreia com precisão as fontes de tráfego e o desempenho de afiliados.
 * **Insights Específicos da Campanha**: Ideal para medir o sucesso de campanhas externas ou de afiliados.
@@ -103,7 +103,7 @@ O rastreamento por redirecionamento de URL simplifica o monitoramento de desempe
 ### Como Instalar <a href="#how-to-install" id="how-to-install"></a>
 
 1. Na página de Rastreadores da BMS, clique na aba Instruções de Instalação.
-2. Selecione a opção Redirect.
+2. Selecione a opção Usar Redirecionamento.
 3. Informe a URL para onde você deseja redirecionar o usuário após o evento ser capturado.
 4. Use o botão ![](<../../../.gitbook/assets/image (5).png>) para copiar a URL exibida.
 5. Use a URL gerada da mesma forma que usaria a URL que você forneceu.
@@ -162,15 +162,15 @@ Depois de criar sua conta e configurar seu aplicativo no AppsFlyer, é hora de a
 
 Após completar estes passos, a BMS estará integrada com sua conta AppsFlyer, e os dados de eventos do seu aplicativo começarão a ser enviados para nossa plataforma.
 
-## Google Ads Tracking Template
+## Template de Rastreamento do Google Ads
 
-O _Google Tag Manager_ (GTM) é uma ferramenta que centraliza e simplifica a instalação de códigos de rastreamento em um site sem a necessidade de alterações diretas no código-fonte. Em vez de inserir cada script manualmente, você só precisa instalar o contêiner do GTM uma vez e, a partir daí, gerenciar todos os trackers, pixels e eventos pelo painel do GTM.
+O _Google Tag Manager_ (GTM) é uma ferramenta que centraliza e simplifica a instalação de códigos de rastreamento em um site sem a necessidade de alterações diretas no código-fonte. Em vez de inserir cada script manualmente, você só precisa instalar o contêiner do GTM uma vez e, a partir daí, gerenciar todos os rastreamentos, pixels e eventos pelo painel do GTM.
 
 O GTM funciona disparando trechos de código de rastreamento com base nas regras que você configura (chamadas de gatilhos). Isso permite decidir quais páginas ou ações do usuário ativarão cada tag.
 
 Essa abordagem elimina a necessidade de constantes edições no código, tornando o processo mais eficiente e seguro.
 
-Aqui estão algumas vantagens de usar trackers através do GTM:
+Aqui estão algumas vantagens de usar rastreamentos através do GTM:
 
 * **Gerenciamento Centralizado:** Todos os scripts de rastreamento e pixels são controlados em um único lugar.
 * **Flexibilidade:** Configure gatilhos condicionais, como cliques em botões, visualizações de páginas ou envio de formulários.
@@ -187,16 +187,16 @@ O rastreamento com o GTM aprimora os insights sobre o comportamento do usuário 
 
 ### Como Instalar <a href="#how-to-install" id="how-to-install"></a>
 
-1. Acesse seu GTM e clique em **Criar uma Nova Tag**.
+1. Acesse seu GTM e clique em **Adicionar uma Nova Tag**.
    1. No menu à esquerda, clique em **Tags**.
    2. Clique em **Novo** e dê um nome à sua tag como preferir.
-   3. Clique em **Configuração da Tag** e escolha **HTML Personalizado (**_**Custom HTML**_**)**.
+   3. Clique em **Configuração da Tags** e escolha **HTML Personalizado (**_**Custom HTML**_**)**.
 2. Adicione o Script de Rastreamento.
    1.  Copie e cole o script exibido nas instruções de instalação.\
 
 
-       <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Modelo de Script do Google Ads Tracking</p></figcaption></figure>
-   2. Substitua os placeholders pelos seus valores personalizados:
+       <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Modelo de Script do Rastreamento do Google Ads</p></figcaption></figure>
+   2. Substitua as seções pelos seus valores personalizados:
       * `REPLACE_WITH_PRICE` → o valor da transação (se aplicável).
       * `REPLACE_WITH_QUANTITY` → o número de itens (se aplicável).
       * `REPLACE_WITH_DEDUPLICATIONID` → um ID único da transação ou evento para evitar duplicados.
@@ -204,21 +204,21 @@ O rastreamento com o GTM aprimora os insights sobre o comportamento do usuário 
 
 
 3. Definir o Gatilho
-   1. Em **Triggering**, clique em **+** para adicionar um novo gatilho.
-   2. Selecione _**Custom Event**_.
+   1. Em **Desencadeando**, clique em **+** para adicionar um novo gatilho.
+   2. Selecione _**Evento personalizado**_.
    3. Insira o nome do evento que corresponde ao evento enviado para o `dataLayer`.
       * Exemplo: se seus desenvolvedores estiverem enviando `dataLayer.push({ event: "purchase" })`, use `purchase` como nome do gatilho.\
 
    4. Salve o gatilho.
 4. Salvar e Publicar
    1. Salve sua nova tag.
-   2. Clique em **Submit** no canto superior direito.
-   3. Adicione um nome para a versão (ex.: Tag de Rastreador Adicionado) e clique em **Publish**.
+   2. Clique em **Salvar** no canto superior direito.
+   3. Adicione um nome para a versão (ex.: Tag de Rastreador Adicionado) e clique em **Salvar**.
 
 ### Informações Adicionais <a href="#additional-information" id="additional-information"></a>
 
 Confira algumas referências externas que podem ajudá-lo no processo de configuração do aplicativo e integração de parceiros:
 
-* [Começando - Onboarding para profissionais de marketing](https://support.appsflyer.com/hc/pt/articles/207033486-Primeiros-passos-Onboarding-para-profissionais-de-marketing)
-* [Começando - Onboarding para agências](https://support.appsflyer.com/hc/pt/articles/360002381617-Primeiros-passos-integra%C3%A7%C3%A3o-de-ag%C3%AAncias)
+* [Primeiros passos - Onboarding para profissionais de marketing](https://support.appsflyer.com/hc/pt/articles/207033486-Primeiros-passos-Onboarding-para-profissionais-de-marketing)
+* [Primeiros passos - Integraçao de agências](https://support.appsflyer.com/hc/pt/articles/360002381617-Primeiros-passos-integra%C3%A7%C3%A3o-de-ag%C3%AAncias)
 * [Configure um parceiro integrado](https://support.appsflyer.com/hc/pt/articles/4410395957521-Configure-um-parceiro-integrado)

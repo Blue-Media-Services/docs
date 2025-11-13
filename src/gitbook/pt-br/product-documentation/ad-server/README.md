@@ -1,4 +1,4 @@
-# Servidor de Anúncios
+# Ad Server
 
 ## Produtos <a href="#concepts" id="concepts"></a>
 

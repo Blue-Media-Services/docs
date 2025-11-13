@@ -12,7 +12,7 @@ Você tem controle e visualização completos do status do seu Anúncio em cada 
 
 Na área dedicada à gestão de anúncios, você poderá gerenciar seus anúncios com facilidade. É possível criar, editar, excluir, arquivar ou desarquivar, e acessar seus anúncios arquivados.
 
-Ações em massa estão disponíveis após selecionar 2 ou mais anúncios. Use esta opção para excluir, arquivar ou enviar anúncios para revisão em massa.
+Ações em lote estão disponíveis após selecionar 2 ou mais anúncios. Use esta opção para excluir, arquivar ou enviar anúncios para revisão em lote.
 
 <figure><img src="../../../.gitbook/assets/image (572).png" alt=""><figcaption><p>Lista de Anúncios</p></figcaption></figure>
 
@@ -168,11 +168,11 @@ Se você não marcou Enviar para Revisão na criação do seu Anúncio, poderá 
 
 Se a revisão do seu anúncio falhar por qualquer motivo, você pode verificar mais detalhes [aqui](ad-exchange-review/) sobre como identificar corretamente o erro e como corrigi-lo.
 
-Alternativamente, você pode usar as ações em massa para enviar anúncios para revisão em massa. Esta opção está disponível ao selecionar pelo menos 2 anúncios, depois clicando em <img src="../../../.gitbook/assets/image (1190).png" alt="" data-size="line"> e selecionando "Enviar para Revisão".
+Alternativamente, você pode usar as ações em lote para enviar anúncios para revisão em lote. Esta opção está disponível ao selecionar pelo menos 2 anúncios, depois clicando em <img src="../../../.gitbook/assets/image (1190).png" alt="" data-size="line"> e selecionando "Enviar para Revisão".
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2025-05-09 140645.png" alt=""><figcaption><p>Enviar para Revisão em Massa</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2025-05-09 140645.png" alt=""><figcaption><p>Enviar para Revisão em Lote</p></figcaption></figure>
 
-Você também poderá selecionar as _ad exchanges_ antes de enviar os anúncios para revisão em massa. Após selecionar, clique em <img src="../../../.gitbook/assets/image (1192).png" alt="" data-size="line"> para enviar seus anúncios.
+Você também poderá selecionar as _ad exchanges_ antes de enviar os anúncios para revisão em lote. Após selecionar, clique em <img src="../../../.gitbook/assets/image (1192).png" alt="" data-size="line"> para enviar seus anúncios.
 
 ## Verificando o status de um Anúncio <a href="#checking-the-status-of-anad" id="checking-the-status-of-anad"></a>
 
@@ -224,9 +224,9 @@ Abaixo estão todas as métricas disponíveis para seus Anúncios.
 * [Custo por Carregamento de Página](../../demand-side-platform-dsp/dsp-metrics.md#custo-por-carregamento-de-pagina)
 * [Lances e Taxa de Lances Ganhos](../../demand-side-platform-dsp/dsp-metrics.md#lances-e-taxa-de-lances-ganhos)
 * [Preço do Lance Efetivo](../../demand-side-platform-dsp/dsp-metrics.md#preco-do-lance-efetivo)
-* [Budget Gasto](../../demand-side-platform-dsp/dsp-metrics.md#budget-gasto)
-* [Budget Gasto em Impressões](../../demand-side-platform-dsp/dsp-metrics.md#budget-gasto-em-impressoes)
-* [Budget Gasto em Entregas](../../demand-side-platform-dsp/dsp-metrics.md#budget-gasto-em-entregas)
+* [Orçamento Gasto](../../demand-side-platform-dsp/dsp-metrics.md#budget-gasto)
+* [Orçamento Gasto em Impressões](../../demand-side-platform-dsp/dsp-metrics.md#budget-gasto-em-impressoes)
+* [Orçamento Gasto em Entregas](../../demand-side-platform-dsp/dsp-metrics.md#budget-gasto-em-entregas)
 
 ### Aba de Tempo Real <a href="#real-time-tab" id="real-time-tab"></a>
 

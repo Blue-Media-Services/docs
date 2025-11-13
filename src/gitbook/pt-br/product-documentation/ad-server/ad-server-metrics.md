@@ -15,9 +15,9 @@ layout:
     visible: true
 ---
 
-# Métricas de Servidor de Anúncios
+# Métricas de Ad Server
 
-Aqui você encontrará todas as métricas relacionadas ao nosso Servidor de Anúncios. Elas aparecerão de acordo com cada recurso, ajudando você a entender o desempenho do recurso e fornecendo _insights_ valiosos para tomar decisões estratégicas em sua campanha. Além disso, ao revisar as métricas, você sempre pode usar o ícone <img src="../../.gitbook/assets/image (1089).png" alt="" data-size="line"> para acessar nossos artigos sobre uma métrica específica.
+Aqui você encontrará todas as métricas relacionadas ao nosso _Ad Server_ (Servidor de Anúncios). Elas aparecerão de acordo com cada recurso, ajudando você a entender o desempenho do recurso e fornecendo _insights_ valiosos para tomar decisões estratégicas em sua campanha. Além disso, ao revisar as métricas, você sempre pode usar o ícone <img src="../../.gitbook/assets/image (1089).png" alt="" data-size="line"> para acessar nossos artigos sobre uma métrica específica.
 
 {% hint style="info" %}
 Você pode aprender mais sobre como as métricas são tratadas visitando a página de [Métricas](../metrics.md).
@@ -25,7 +25,7 @@ Você pode aprender mais sobre como as métricas são tratadas visitando a pági
 
 ### Entregas e Taxa de Entrega <a href="#deliveries-and-delivery-rate" id="deliveries-and-delivery-rate"></a>
 
-Esta métrica representa o número de anúncios servidos pelo Servidor de Anúncios, com base na solicitação de conteúdo feita pelo navegador do usuário final. Isso significa que seu anúncio estará no navegador do usuário.
+Esta métrica representa o número de anúncios servidos pelo Ad Server, com base na solicitação de conteúdo feita pelo navegador do usuário final. Isso significa que seu anúncio estará no navegador do usuário.
 
 <div><figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Métrica de Entregas</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Deliveries and Delivery.png" alt=""><figcaption><p>Métrica de Taxa de Entregas</p></figcaption></figure></div>
 

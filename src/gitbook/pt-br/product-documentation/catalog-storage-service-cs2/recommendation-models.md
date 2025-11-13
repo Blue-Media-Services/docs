@@ -57,21 +57,21 @@ Após criar um modelo de recomendação, é necessário configurar suas fontes a
     * Tipo: Selecione o tipo de fonte que você deseja usar:
       1. Rastreador DMP: Esta opção adicionará produtos ao modelo de recomendação com base nos dados de atividade coletados em seu site.
          * Rastreador: Selecione o rastreador que deseja usar.
-         * Evento do Rastreador: Selecione o evento rastreado que será considerado para adicionar produtos ao modelo de recomendação.
+         * Evento do _Tracker_ (Rastreador): Selecione o evento rastreado que será considerado para adicionar produtos ao modelo de recomendação.
          * Campo Contendo IDs de Oferta: Informe o campo personalizado que contém o ID da oferta dos produtos que você deseja neste modelo de recomendação.
-         * Template: Especifique um _template_ para produzir uma lista de IDs de oferta separada por vírgulas para rastrear.
-      2.  Classificação de Produtos CS2: Esta opção adicionará produtos ao modelo de recomendação com base na atividade coletada pelo seu catálogo de produtos.
+         * Template: Especifique um _template_ (modelo) para produzir uma lista de IDs de oferta separada por vírgulas para rastrear.
+      2.  Ranking de Produtos CS2: Esta opção adicionará produtos ao modelo de recomendação com base na atividade coletada pelo seu catálogo de produtos.
 
-          <figure><img src="../../.gitbook/assets/image (339).png" alt=""><figcaption><p>Editor de Fontes de Modelos de Recomendação - Classificação de Produtos CS2</p></figcaption></figure>
+          <figure><img src="../../.gitbook/assets/image (339).png" alt=""><figcaption><p>Editor de Fontes de Modelos de Recomendação - Ranking de Produtos CS2</p></figcaption></figure>
 
           * Classificar por: Selecione uma atividade classificada entre as opções disponíveis:
             * Mais Adicionados ao Carrinho: Esta opção adicionará os produtos mais adicionados ao carrinho ao seu modelo de recomendação.
-            * Mais Comprados: Esta opção adicionará os produtos mais comprados ao seu modelo de recomendação.
-            * Mais Clicados em Recomendações: Esta opção só pode ser usada após executar uma campanha com modelos de recomendação e preencherá seu modelo com os produtos que foram recomendados anteriormente e foram clicados por um usuário.
-            * Mais Visualizados em Recomendações: Esta opção só pode ser usada após executar uma campanha com modelos de recomendação e preencherá seu modelo com os produtos que foram recomendados anteriormente e foram visualizados por um usuário.
+            * Mais Pedidos: Esta opção adicionará os produtos mais comprados ao seu modelo de recomendação.
+            * Mais Recomendações Clicadas: Esta opção só pode ser usada após executar uma campanha com modelos de recomendação e preencherá seu modelo com os produtos que foram recomendados anteriormente e foram clicados por um usuário.
+            * Mais Recomendações Visualizadas: Esta opção só pode ser usada após executar uma campanha com modelos de recomendação e preencherá seu modelo com os produtos que foram recomendados anteriormente e foram visualizados por um usuário.
             * Mais Recomendados: Esta opção só pode ser usada após executar uma campanha com modelos de recomendação e preencherá seu modelo com os produtos mais recomendados.
             * Mais Visualizados: Esta opção adicionará os produtos mais visualizados ao seu modelo de recomendação.
-          * Nas últimas horas: Defina um número de horas no passado para considerar a atividade coletada durante o período para adicionar produtos ao modelo de recomendação.
+          * No passado: Defina um número de horas no passado para considerar a atividade coletada durante o período para adicionar produtos ao modelo de recomendação.
 4. Clique em <img src="../../.gitbook/assets/image (342).png" alt="" data-size="line"> para salvar sua fonte.
 
 Logo após criar sua fonte, uma pré-visualização de seus produtos recomendados estará disponível. Para que esta pré-visualização seja gerada, você deve ter seus cookie pools e rastreadores e/ou os eventos do seu catálogo instalados em seu site, pois seus dados serão usados para gerar as recomendações.
@@ -92,7 +92,7 @@ Todos os detalhes da fonte são editáveis. Selecione o modelo de recomendação
 
 ### **Como as Fontes Funcionam**? <a href="#how-do-sources-work" id="how-do-sources-work"></a>
 
-Fontes são como você coleta dados para alimentar seu Modelo de Recomendação. O Modelo de Recomendação precisa desses dados para organizar os produtos conforme o pretendido. Você deve escolher entre um Rastreador DMP ou uma Classificação de Produtos CS2; ambos os métodos funcionam bem, mas cada um requer etapas adicionais para a configuração adequada. Uma vez que você tenha configurado sua fonte corretamente, seu Modelo de Recomendação começará a coletar dados e a se atualizar ativamente, fornecendo ao seu anúncio as informações mais atuais.
+Fontes são como você coleta dados para alimentar seu Modelo de Recomendação. O Modelo de Recomendação precisa desses dados para organizar os produtos conforme o pretendido. Você deve escolher entre um Rastreador DMP ou um Ranking de Produtos CS2; ambos os métodos funcionam bem, mas cada um requer etapas adicionais para a configuração adequada. Uma vez que você tenha configurado sua fonte corretamente, seu Modelo de Recomendação começará a coletar dados e a se atualizar ativamente, fornecendo ao seu anúncio as informações mais atuais.
 
 ### Excluindo Modelos de Recomendação e Fontes <a href="#deleting-recommendation-models-and-sources" id="deleting-recommendation-models-and-sources"></a>
 
@@ -109,7 +109,7 @@ Você pode arquivar um modelo de recomendação clicando em <img src="../../.git
 Após configurar seus modelos de recomendação e começar a usá-los em uma campanha, você deve começar a receber dados deles. É possível acompanhar este processo na aba de métricas. Estas são as métricas disponíveis para modelos de recomendação:
 
 * [Contagem de Recomendações de Produto](cs2-metrics.md#contagem-de-recomendacoes-de-produto)&#x20;
-* [Contagem de Cliques em Recomendação](cs2-metrics.md#contagem-de-cliques-em-recomendacao)&#x20;
+* [Contagem de Cliques em Recomendação](cs2-metrics.md#contagem-de-cliques-em-recomendacao)
 * [Taxa de Preenchimento de Recomendação](cs2-metrics.md#taxa-de-preenchimento-de-recomendacao)&#x20;
 * [Contagem de Requisições de Recomendação](cs2-metrics.md#contagem-de-requisicoes-de-recomendacao)&#x20;
-* [Contagem de Visualizações de Recomendação](cs2-metrics.md#contagem-de-visualizacoes-de-recomendacao)&#x20;
+* [Contagem de Visualizações de Recomendação](cs2-metrics.md#contagem-de-visualizacoes-de-recomendacao)

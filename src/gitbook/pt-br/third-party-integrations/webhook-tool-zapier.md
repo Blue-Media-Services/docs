@@ -12,42 +12,42 @@ O principal motivo para coletar esses dados específicos é que queremos saber e
 
 ## Requisitos <a href="#requirements" id="requirements"></a>
 
-* Canal de eventos ou outro recurso que utilize Webhook
+* _Pipelines_ de eventos ou outro recurso que utilize Webhook
 * Zapier ou qualquer ferramenta que possua recurso de Webhook
 * Google Sheets
 * Campanha Ativa
 
 Siga os passos abaixo para gerenciar seus dados com sucesso por meio de um webhook.
 
-* [Criando um Canal de Eventos](webhook-tool-zapier.md#criando-um-canal-de-eventos)
+* [Criando um Pipeline de Eventos](webhook-tool-zapier.md#criando-um-canal-de-eventos)
 * [Configurando sua Ferramenta de Webhook](webhook-tool-zapier.md#configurando-sua-ferramenta-de-webhook) (Zapier)
 * [Gatilho](webhook-tool-zapier.md#gatilho)
 * [Ação](webhook-tool-zapier.md#acao)
 * [Comece a Receber Dados!](webhook-tool-zapier.md#comece-a-receber-dados)
 
-## Criando um Pipe de Eventos <a href="#creating-an-event-pipe" id="creating-an-event-pipe"></a>
+## Criando um Pipeline de Eventos <a href="#creating-an-event-pipe" id="creating-an-event-pipe"></a>
 
-Para usar um webhook, utilizaremos o recurso Canal de Eventos para coletar dados de uma campanha em andamento.
+Para usar um webhook, utilizaremos o recursoPipeline de Eventos para coletar dados de uma campanha em andamento.
 
-Ao usar o **Webhook do Zapier**, vá primeiro para a etapa do gatilho para obter o link do Webhook necessário para concluir a configuração do seu canal de eventos.\
+Ao usar o **Webhook do Zapier**, vá primeiro para a etapa do gatilho para obter o link do Webhook necessário para concluir a configuração do seu pipeline de eventos.\
 \
-Acesse a aba Monitoramento e clique em _**Event Pipes**_.
+Acesse a aba Monitoramento e clique em _**Pipeline**_**&#x20;de Eventos**.
 
 <div align="center"><figure><img src="../.gitbook/assets/image (491).png" alt=""><figcaption><p>Monitoramento</p></figcaption></figure></div>
 
-Lá, criaremos um _event pipe_ clicando em <img src="../.gitbook/assets/image (492).png" alt="Create Event Pipe" data-size="line">, neste caso, criaremos um evento _ADS - Delivered_, então dentro de _Sample Event Template_ selecione o modelo de evento _ADS - Delivered_.
+Lá, criaremos um pipeline de eventos clicando em <img src="../.gitbook/assets/image (492).png" alt="Create Event Pipe" data-size="line">, neste caso, criaremos um evento _AD - Delivered_, então dentro de Modelo de Evento de Exemplo selecione o modelo de evento _AD - Delivered_.
 
-<figure><img src="../.gitbook/assets/image (493).png" alt="" width="538"><figcaption><p>Tela de Canal de Eventos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (493).png" alt="" width="538"><figcaption><p>Tela de Pipeline de Eventos</p></figcaption></figure>
 
 Em seguida, clique em <img src="../.gitbook/assets/image (495).png" alt="Add Filter" data-size="line"> para adicionar um filtro e coletar dados de eventos _ad-delivered_, buscando por eventos que contenham _ad-delivered_ no campo Tipo.
 
-<figure><img src="../.gitbook/assets/image (496).png" alt="" width="529"><figcaption><p>Filtro de Canal de Eventos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (496).png" alt="" width="529"><figcaption><p>Filtro de Pipeline de Eventos</p></figcaption></figure>
 
 Vá para a aba Alvos, é lá que configuramos o link do webhook. Clique em <img src="../.gitbook/assets/image (498).png" alt="Add Target" data-size="line"> e depois selecione Chamar Webhook.
 
 <figure><img src="../.gitbook/assets/image (499).png" alt="" width="543"><figcaption><p>Tela de Criação de Alvo</p></figcaption></figure>
 
-Insira a URL fornecida pelo Zapier ou pela sua ferramenta de gerenciamento de dados e, em seguida, salve seu Alvo e seu Canal de Eventos.
+Insira a URL fornecida pelo Zapier ou pela sua ferramenta de gerenciamento de dados e, em seguida, salve seu Alvo e seu Pipeline de Eventos.
 
 {% hint style="warning" %}
 Em algumas ferramentas, o link do webhook **pode** já estar disponível. Se você estiver usando o **Zapier**, será necessário começar configurando seu webhook primeiro para obter o link.
@@ -55,9 +55,9 @@ Em algumas ferramentas, o link do webhook **pode** já estar disponível. Se voc
 
 <figure><img src="../.gitbook/assets/image (637).png" alt="" width="542"><figcaption><p>Webhook do Zapier Configurado</p></figcaption></figure>
 
-Certifique-se de que seu Canal de Eventos esteja ativado e que haja uma campanha ativa para coletar dados e enviá-los para sua ferramenta de webhook.
+Certifique-se de que seu Pipeline de Eventos esteja ativado e que haja uma campanha ativa para coletar dados e enviá-los para sua ferramenta de webhook.
 
-<figure><img src="../.gitbook/assets/image (638).png" alt=""><figcaption><p>Canal de Eventos Habilitado</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (638).png" alt=""><figcaption><p>Pipeline de Eventos Habilitado</p></figcaption></figure>
 
 ## Configurando sua Ferramenta de Webhook <a href="#configuring-your-webhook-tool" id="configuring-your-webhook-tool"></a>
 
@@ -71,7 +71,7 @@ No Zapier, clique em <img src="../.gitbook/assets/image (270).png" alt="Create" 
 
 <figure><img src="../.gitbook/assets/image (501).png" alt="" width="221"><figcaption><p>Menu de Criação do Zapier</p></figcaption></figure>
 
-Em seguida, configuraremos nosso gatilho e ação, com base em Webhook + Canal de Eventos + Google Sheets.
+Em seguida, configuraremos nosso gatilho e ação, com base em Webhook + Pipeline de Eventos + Google Sheets.
 
 <figure><img src="../.gitbook/assets/image (502).png" alt="" width="489"><figcaption><p>Gatilhos e Ações no Zapier</p></figcaption></figure>
 
@@ -89,17 +89,17 @@ Em seguida, vá para a aba _App & Event_ à sua direita, onde você configurará
 
 Vá para a aba _Test_ e obtenha sua **URL do Webhook**.
 
-Essa URL será usada na configuração do seu Canal de Eventos [aqui](webhook-tool-zapier.md#criando-um-canal-de-eventos).
+Essa URL será usada na configuração do seu Pipeline de Eventos [aqui](webhook-tool-zapier.md#criando-um-canal-de-eventos).
 
 <figure><img src="../.gitbook/assets/image (506).png" alt="" width="410"><figcaption><p>URL do Webhook</p></figcaption></figure>
 
-Após configurar a URL do webhook no seu Canal de Eventos, clique em _Test Trigger_ para coletar uma amostra de dados e usá-la para configurar sua Google Sheet.
+Após configurar a URL do webhook no seu Pipeline de Eventos, clique em _Test Trigger_ para coletar uma amostra de dados e usá-la para configurar sua Google Sheet.
 
 {% hint style="warning" %}
-_Atenção! Certifique-se de ter uma **Campanha Ativa** e seu Canal de Eventos **ativado** para que os dados estejam disponíveis para esse teste. Note que o teste é **necessário** para garantir que haja dados disponíveis para a configuração posterior na etapa de_ [_Ação_](webhook-tool-zapier.md#acao)_._
+_Atenção! Certifique-se de ter uma **Campanha Ativa** e seu Pipeline de Eventos **ativado** para que os dados estejam disponíveis para esse teste. Note que o teste é **necessário** para garantir que haja dados disponíveis para a configuração posterior na etapa de_ [_Ação_](webhook-tool-zapier.md#acao)_._
 {% endhint %}
 
-Os dados podem demorar um pouco para ficarem disponíveis. Assim que seu Canal de Eventos enviar informações para sua ferramenta, estes serão os dados que você receberá desse evento.
+Os dados podem demorar um pouco para ficarem disponíveis. Assim que seu Pipeline de Eventos enviar informações para sua ferramenta, estes serão os dados que você receberá desse evento.
 
 <figure><img src="../.gitbook/assets/image (639).png" alt="" width="402"><figcaption><p>Dados Coletados pelo Zapier</p></figcaption></figure>
 
@@ -147,11 +147,11 @@ Se todos os passos tiverem sido seguidos com sucesso, seus eventos terão um <im
 
 <figure><img src="../.gitbook/assets/image (946).png" alt="" width="251"><figcaption><p>Eventos Checados</p></figcaption></figure>
 
-Clique em <img src="../.gitbook/assets/image (947).png" alt="" data-size="line"> para ativar seu webhook e todos os dados enviados pelo nosso recurso Canal de Eventos estarão disponíveis no seu Google Sheets!
+Clique em <img src="../.gitbook/assets/image (947).png" alt="" data-size="line"> para ativar seu webhook e todos os dados enviados pelo nosso recurso Pipeline de Eventos estarão disponíveis no seu Google Sheets!
 
 ## Comece a Receber Dados! <a href="#start-collecting-data" id="start-collecting-data"></a>
 
-Assim que você tiver uma Campanha Ativa, Canal de Eventos e Webhook, é assim que seu Google Sheet será atualizado.
+Assim que você tiver uma Campanha Ativa, Pipeline de Eventos e Webhook, é assim que seu Google Sheet será atualizado.
 
 <figure><img src="../.gitbook/assets/Spreadsheetdata Animated.gif" alt="" width="563"><figcaption><p>Atualizações em Tempo Real no Google Sheets</p></figcaption></figure>
 

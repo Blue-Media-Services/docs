@@ -1,22 +1,22 @@
-# Cobranças de DMP
+# Faturamento de DMP
 
-A seção de cobrança da plataforma de gerenciamento de dados detalha os custos relacionados a este serviço, divididos em até 6 subseções, dependendo dos serviços que você consumiu.
+A seção de faturamento da plataforma de gerenciamento de dados detalha os custos relacionados a este serviço, divididos em até 6 subseções, dependendo dos serviços que você consumiu.
 
-<figure><img src="../../.gitbook/assets/image (643).png" alt=""><figcaption><p>Cobrança de DMP</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (643).png" alt=""><figcaption><p>Faturamento de DMP</p></figcaption></figure>
 
 {% hint style="info" %}
-Na BMS, priorizamos a transparência ao exibir cada detalhe de sua fatura. Visite nossa [Página Inicial de Cobrança](../billing.md) para entender como as faturas são estruturadas.
+Na BMS, priorizamos a transparência ao exibir cada detalhe de sua fatura. Visite nossa [Página Inicial de Faturamento](../billing.md) para entender como as faturas são estruturadas.
 {% endhint %}
 
 Abaixo está uma explicação de cada uma dessas seções com seus respectivos detalhes.
 
 ### Gerenciamento de Cookie Pool <a href="#cookie-pool-management" id="cookie-pool-management"></a>
 
-Nesta subseção, você pode encontrar informações sobre os custos associados ao serviço de gerenciamento de _pools_ de cookies. A exclusão de itens não incorre em cobranças e, para qualquer serviço dentro desta seção, exceto _pools_ de cookies armazenados e configurados, há uma cota gratuita de 1.000 requisições. Uma vez que esta cota é excedida, uma cobrança por requisição será aplicada. Quanto aos cookies armazenados e configurados, as cobranças serão baseadas na quantidade de cookies armazenados e configurados, bem como na duração do armazenamento.
+Nesta subseção, você pode encontrar informações sobre os custos associados ao serviço de gerenciamento de _cookie pool_. A exclusão de itens não incorre em cobranças e, para qualquer serviço dentro desta seção, exceto _cookie pools_ armazenados e configurados, há uma cota gratuita de 1.000 requisições. Uma vez que esta cota é excedida, uma cobrança por requisição será aplicada. Quanto aos cookies armazenados e configurados, as cobranças serão baseadas na quantidade de cookies armazenados e configurados, bem como na duração do armazenamento.
 
 <figure><img src="../../.gitbook/assets/image (645).png" alt=""><figcaption><p>Gerenciamento de Cookie Pool</p></figcaption></figure>
 
-_**Exemplo:** Nesta imagem, você pode ver que quase 9.000 horas-cookie foram consumidas. A cobrança não é mostrada, pois é inferior a $0,01. Adicionalmente, quase 825 horas-pool de cookies foram consumidas, resultando em uma fatura de $0,86. A cota gratuita no serviço de obtenção de pool de cookies foi excedida em 7.120 requisições, resultando em uma fatura de $0,07. Como os outros serviços não excederam a cota gratuita, nenhuma cobrança foi aplicada a eles, totalizando uma fatura de $0,93._
+_**Exemplo:** Nesta imagem, você pode ver que quase 9.000 horas-cookie foram consumidas. A cobrança não é mostrada, pois é inferior a $0,01. Adicionalmente, quase 825 horas-cookie pools foram consumidas, resultando em uma fatura de $0,86. A cota gratuita no serviço de obtenção de cookie pools foi excedida em 7.120 requisições, resultando em uma fatura de $0,07. Como os outros serviços não excederam a cota gratuita, nenhuma cobrança foi aplicada a eles, totalizando uma fatura de $0,93._
 
 ### Sincronização de Cookies <a href="#cookie-synchronization" id="cookie-synchronization"></a>
 

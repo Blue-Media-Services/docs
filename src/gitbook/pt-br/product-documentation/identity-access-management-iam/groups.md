@@ -41,7 +41,7 @@ Na aba Usuários, você poderá editar os usuários de seus grupos. Selecione um
     <figure><img src="../../.gitbook/assets/image (869).png" alt=""><figcaption><p>Adicionar Usuário</p></figcaption></figure>
 3. Clique em <img src="../../.gitbook/assets/image (870).png" alt="" data-size="line"> para adicionar o usuário.
 
-Selecione múltiplos usuários para realizar ações em massa que afetarão todos os usuários selecionados.
+Selecione múltiplos usuários para realizar ações em lote que afetarão todos os usuários selecionados.
 
 ### Excluindo Usuários <a href="#deleting-users" id="deleting-users"></a>
 

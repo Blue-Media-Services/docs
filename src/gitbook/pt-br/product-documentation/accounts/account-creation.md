@@ -54,7 +54,7 @@ Complete os campos obrigatórios, incluindo:
 
 ## Cartão de Crédito <a href="#credit-card" id="credit-card"></a>
 
-Insira os dados do seu cartão de crédito válido, que será usado para fins de cobrança.
+Insira os dados do seu cartão de crédito válido, que será usado para fins de faturamento.
 
 <figure><img src="../../.gitbook/assets/image (1197).png" alt=""><figcaption><p>Cartão de Crédito</p></figcaption></figure>
 

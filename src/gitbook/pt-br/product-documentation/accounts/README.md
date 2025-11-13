@@ -4,7 +4,7 @@ A sessão de contas está disponível ao clicar no nome da sua conta, próximo a
 
 <figure><img src="../../.gitbook/assets/image (579).png" alt=""><figcaption><p>Menu de Contas</p></figcaption></figure>
 
-## Ajustes <a href="#settings" id="settings"></a>
+## Configurações <a href="#settings" id="settings"></a>
 
 Na página de contas, você terá acesso às informações da sua conta, incluindo contas BMS as quais você tem acesso e as informações de pagamento registradas.
 
@@ -14,9 +14,9 @@ Alguns dos dados da sua conta são editáveis, você pode modificar o nome da co
 
 <figure><img src="../../.gitbook/assets/image (581).png" alt=""><figcaption><p>Editor de Conta</p></figcaption></figure>
 
-Os dados de cobrança também são editáveis. Neste caso, todos os campos disponíveis podem ser modificados.
+Os dados de faturamento também são editáveis. Neste caso, todos os campos disponíveis podem ser modificados.
 
-<figure><img src="../../.gitbook/assets/image (583).png" alt=""><figcaption><p>Editor das Informações de Cobrança</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (583).png" alt=""><figcaption><p>Editor das Informações de Faturamento</p></figcaption></figure>
 
 Você pode editar seus dados clicando em ![Edit](<../../.gitbook/assets/image (1075).png>) na seção que precisa ser editada. Após terminar, clique em ![](<../../.gitbook/assets/image (762).png>) para salvar suas alterações.\
 
@@ -47,7 +47,7 @@ Estes são os serviços limitados por cotas:
 
 * **Limite de Blueprints:** Limita quantos blueprints, públicos ou privados, você pode criar. Para saber mais sobre blueprints, acesse o artigo [Blueprints](../ad-server/creative-builder/blueprints.md).
 * **Limite de Blueprints Públicos:** Limita quantos blueprints públicos você pode criar.
-* **Limite de Budget Diário por Campanha:** Limita o Budget diário disponível para cada campanha. Para saber mais sobre campanhas, acesse o artigo [Campanhas](../demand-side-platform-dsp/campaigns.md).
+* **Limite de Orçamento Diário por Campanha:** Limita o orçamento diário disponível para cada campanha. Para saber mais sobre campanhas, acesse o artigo [Campanhas](../demand-side-platform-dsp/campaigns.md).
 * **Limite de Campanhas:** Limita quantas campanhas você pode criar.
 * **Limite de Mídia:** Limita quantos arquivos de mídia podem ser enviados. Para saber mais sobre mídia, acesse o artigo [Mídia](../media/).
 * **Limite de Armazenamento de Mídia:** Limita quanto armazenamento sua mídia pode usar.

@@ -1,11 +1,11 @@
-# Cobranças de Contas
+# Faturamento de Contas
 
 Esta seção contém os detalhes de custos relacionados ao serviço de contas e possui apenas uma subseção: organização.
 
-<figure><img src="../../.gitbook/assets/image (669).png" alt=""><figcaption><p>Cobrança de Contas</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (669).png" alt=""><figcaption><p>Faturamento de Contas</p></figcaption></figure>
 
 {% hint style="info" %}
-Na BMS, priorizamos a transparência ao exibir todos os detalhes da sua fatura. Visite nossa [Documentação de Cobrança](../billing.md) para entender como as faturas são estruturadas.
+Na BMS, priorizamos a transparência ao exibir todos os detalhes da sua fatura. Visite nossa [Documentação de Faturamento](../billing.md) para entender como as faturas são estruturadas.
 {% endhint %}
 
 ### Organização <a href="#organization" id="organization"></a>

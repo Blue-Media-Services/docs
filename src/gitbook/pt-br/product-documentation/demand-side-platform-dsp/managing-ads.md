@@ -57,8 +57,8 @@ Se um anúncio foi adicionado por engano ou não é mais útil para essa campanh
 _Atenção! Sempre aconselhamos os usuários a analisar se é necessário excluir um Anúncio. Esta ação não pode ser desfeita e todos os dados relacionados, incluindo métricas coletadas anteriormente, também serão excluídos._
 {% endhint %}
 
-## Ações em Massa <a href="#bulk-actions" id="bulk-actions"></a>
+## Ações em Lote <a href="#bulk-actions" id="bulk-actions"></a>
 
-Se você selecionar mais de um anúncio, é possível realizar ações em massa.
+Se você selecionar mais de um anúncio, é possível realizar ações em lote.
 
-Após selecionar dois ou mais anúncios, o botão de ações em massa será habilitado, <img src="../../.gitbook/assets/image (753).png" alt="Bulk Actions" data-size="line">. Então, após clicar no menu, será possível **excluir** todos os anúncios selecionados de uma só vez.
+Após selecionar dois ou mais anúncios, o botão de ações em lote será habilitado, <img src="../../.gitbook/assets/image (753).png" alt="Bulk Actions" data-size="line">. Então, após clicar no menu, será possível **excluir** todos os anúncios selecionados de uma só vez.

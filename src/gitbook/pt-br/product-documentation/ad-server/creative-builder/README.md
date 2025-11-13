@@ -27,4 +27,4 @@ Construídos com linguagens de web design, os _Blueprints_ podem oferecer a flex
 
 ### Builds
 
-Em _builds_, você usará seu _blueprint_ criado anteriormente para gerar criativos em massa e personalizá-los de acordo com as necessidades da sua campanha.
+Em _builds_, você usará seu _blueprint_ criado anteriormente para gerar criativos em lote e personalizá-los de acordo com as necessidades da sua campanha.

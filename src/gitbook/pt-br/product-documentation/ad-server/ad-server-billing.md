@@ -1,18 +1,18 @@
-# Cobranças de Servidor de Anúncios
+# Faturamento de Servidor de Anúncios
 
-A seção de cobranças do servidor de anúncios está disponível na página de faturamento. Ela contém informações sobre cada item faturado relacionado à veiculação de anúncios e está dividida em 9 subseções.
+A seção de faturamentos do servidor de anúncios está disponível na página de faturas. Ela contém informações sobre cada item faturado relacionado à veiculação de anúncios e está dividida em 9 subseções.
 
 <figure><img src="../../.gitbook/assets/image (961).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Na BMS, priorizamos a transparência ao exibir cada detalhe de sua fatura. Visite nossa página de [Cobranças ](../billing.md)para entender como as faturas são estruturadas.
+Na BMS, priorizamos a transparência ao exibir cada detalhe de sua fatura. Visite nossa página de [Faturamento ](../billing.md)para entender como as faturas são estruturadas.
 {% endhint %}
 
 Abaixo está uma explicação de cada uma dessas seções com seus respectivos detalhes.
 
 ### Gerenciamento de Anúncios <a href="#admanagement" id="admanagement"></a>
 
-A subseção de gerenciamento de anúncios detalha os custos associados ao processo de gerenciamento de anúncios. O armazenamento de anúncios incorre em uma taxa baseada na duração do armazenamento e no número de anúncios armazenados. Além disso, há uma cota de cortesia de 1.000 requisições para cada um dos seguintes serviços: criação de anúncios, requisições de anúncios, atualização de anúncios e listagem de anúncios. As cobranças são aplicadas assim que essa cota gratuita é excedida. Ações de exclusão não são cobradas.
+A subseção de gerenciamento de anúncios detalha os custos associados ao processo de gerenciamento de anúncios. O armazenamento de anúncios incorre em uma taxa baseada na duração do armazenamento e no número de anúncios armazenados. Além disso, há uma cota de cortesia de 1.000 requisições para cada um dos seguintes serviços: criação de anúncios, requisições de anúncios, atualização de anúncios e listagem de anúncios. Os faturamentos são aplicadas assim que essa cota gratuita é excedida. Ações de exclusão não são cobradas.
 
 <figure><img src="../../.gitbook/assets/ad management.jpg" alt=""><figcaption><p>Gerenciamento de Anúncios</p></figcaption></figure>
 
@@ -20,7 +20,7 @@ _**Exemplo**: Na imagem, houve quase 63 mil horas de anúncio consumidas, o que 
 
 ### Renderização de Anúncios <a href="#adrendering" id="adrendering"></a>
 
-A subseção de renderização de anúncios detalha os custos associados ao serviço de renderização de anúncios. Uma renderização é contada cada vez que um anúncio é exibido em uma tela, seja para um usuário ou em uma pré-visualização durante o processo de criação. Você será cobrado por requisição ao recuperar um contêiner de anúncio ou conteúdo de anúncio. Além disso, as cobranças pela renderização de um anúncio serão baseadas no número de bytes de conteúdo do anúncio transferidos durante o processo.
+A subseção de renderização de anúncios detalha os custos associados ao serviço de renderização de anúncios. Uma renderização é contada cada vez que um anúncio é exibido em uma tela, seja para um usuário ou em uma pré-visualização durante o processo de criação. Você será cobrado por requisição ao recuperar um contêiner de anúncio ou conteúdo de anúncio. Além disso, os faturamentos pela renderização de um anúncio serão baseadas no número de bytes de conteúdo do anúncio transferidos durante o processo.
 
 <figure><img src="../../.gitbook/assets/rendering.jpg" alt=""><figcaption><p>Renderização de Anúncios</p></figcaption></figure>
 
@@ -28,7 +28,7 @@ _**Exemplo**: Você notará que nesta imagem houve quase 103 mil requisições d
 
 ### Rastreamento de Anúncios <a href="#adtracking" id="adtracking"></a>
 
-Esta subseção descreve os custos associados ao serviço de rastreamento de anúncios. Cada ação rastreada conta como uma requisição, incluindo aquelas realizadas durante o processo de criação. Todo serviço nesta seção inclui uma cota gratuita de 1.000 requisições, e as cobranças só se aplicam quando essa cota é excedida. As taxas são baseadas no número total de requisições processadas durante sua campanha de anúncios.
+Esta subseção descreve os custos associados ao serviço de rastreamento de anúncios. Cada ação rastreada conta como uma requisição, incluindo aquelas realizadas durante o processo de criação. Todo serviço nesta seção inclui uma cota gratuita de 1.000 requisições, e os faturamentos só se aplicam quando essa cota é excedida. As taxas são baseadas no número total de requisições processadas durante sua campanha de anúncios.
 
 <figure><img src="../../.gitbook/assets/tracking.jpg" alt=""><figcaption><p>Rastreamento de Anúncios</p></figcaption></figure>
 

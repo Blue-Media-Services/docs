@@ -30,9 +30,9 @@ Para arquivar uma mídia, clique em<img src="../../.gitbook/assets/image (372).p
 
 Para desarquivar uma mídia, clique em <img src="../../.gitbook/assets/image (374).png" alt="Unarchive" data-size="line"> e sua mídia retornará para a biblioteca de mídias ativas.
 
-### Ações em Massa <a href="#bulk-actions" id="bulk-actions"></a>
+### Ações em Lote <a href="#bulk-actions" id="bulk-actions"></a>
 
-Se preferir realizar ações em massa, você pode selecionar uma lista de mídias e, em seguida, clicar em  <img src="../../.gitbook/assets/image (378).png" alt="Bulk Actions" data-size="line"> para **arquivar** ou **excluir** mídias em lote.
+Se preferir realizar ações em lote, você pode selecionar uma lista de mídias e, em seguida, clicar em  <img src="../../.gitbook/assets/image (378).png" alt="Bulk Actions" data-size="line"> para **arquivar** ou **excluir** mídias em lote.
 
 ### Excluindo uma Mídia <a href="#deleting-a-media" id="deleting-a-media"></a>
 

@@ -21,7 +21,7 @@ Crie _builds_ com base em seus _blueprints_ para gerar banners dinâmicos para s
 
 ## Gerenciando Builds <a href="#managing-builds" id="managing-builds"></a>
 
-Na página inicial da BMS, clique em Builds, na seção _Ad Serving_, para acessar a página de _Builds_.
+Na página inicial da BMS, clique em Builds, na seção _Ad Server_, para acessar a página de _Builds_.
 
 <figure><img src="../../../.gitbook/assets/image (297).png" alt=""><figcaption><p>Lista de Builds</p></figcaption></figure>
 
@@ -48,7 +48,7 @@ A aba Creatives mostra uma pré-visualização de como os banners dinâmicos est
 
 <figure><img src="../../../.gitbook/assets/image (302).png" alt=""><figcaption><p>Aba de Criativos</p></figcaption></figure>
 
-Para ver uma pré-visualização na aba _Creatives_, selecione pelo menos um _build_ da lista de _builds_ marcando a caixa de seleção à esquerda do nome do _build_. Selecionar mais de um mostrará uma pré-visualização de todos os _builds_ selecionados.
+Para ver uma pré-visualização na aba _Criativos_, selecione pelo menos um _build_ da lista de _builds_ marcando a caixa de seleção à esquerda do nome do _build_. Selecionar mais de um mostrará uma pré-visualização de todos os _builds_ selecionados.
 
 ### Editando, Arquivando e Excluindo Builds <a href="#editing-archiving-and-deleting-builds" id="editing-archiving-and-deleting-builds"></a>
 
@@ -56,7 +56,7 @@ Para ver uma pré-visualização na aba _Creatives_, selecione pelo menos um _bu
 
 Você também pode duplicar _builds_ clicando em <img src="../../../.gitbook/assets/image (31).png" alt="" data-size="line"> na mesma linha do _build_ que precisa duplicar. Isso é útil se você quiser criar um _build_ que altere apenas alguns detalhes em comparação com um existente, mantendo o original.
 
-Arquivar _builds_ é uma opção que ajuda a organizar melhor seus _builds_. Para arquivar um _build_, clique em <img src="../../../.gitbook/assets/image (32).png" alt="" data-size="line"> na mesma linha do _build_ que precisa arquivar. Para visualizar seus _builds_ arquivados, ative a opção "arquivados" acima da lista de _builds_.
+Arquivar _builds_ é uma opção que ajuda a organizar melhor seus _builds_. Para arquivar um _build_, clique em <img src="../../../.gitbook/assets/image (32).png" alt="" data-size="line"> na mesma linha do _build_ que precisa arquivar. Para visualizar seus _builds_ arquivados, ative a opção "arquivado" acima da lista de _builds_.
 
 Você também pode excluir _builds_. Isso pode ser feito clicando em <img src="../../../.gitbook/assets/image (33).png" alt="" data-size="line"> na mesma linha do _build_ que precisa excluir, selecionando o que deve ser feito com os criativos gerados pelo _build_ e, em seguida, clicando em <img src="../../../.gitbook/assets/image (34).png" alt="" data-size="line"> para confirmar a ação.
 

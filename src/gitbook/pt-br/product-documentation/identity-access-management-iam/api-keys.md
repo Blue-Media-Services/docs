@@ -70,7 +70,7 @@ Ao vincular uma Chave de API existente, você concederá acesso à sua conta par
 
 Após criar a Chave de API, você precisa gerar um Código de Acesso antes de poder começar a usá-la. Se você selecionar uma Chave de API vinculada, esta aba permanecerá desabilitada, pois não há necessidade de criar um código de acesso. Nesses casos, você usará o Código de Acesso da API vinculada, que pode ser fornecido por seu criador.
 
-<figure><img src="../../.gitbook/assets/image (1035).png" alt=""><figcaption><p>Access Codes Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1035).png" alt=""><figcaption><p>Aba Códigos de Acesso</p></figcaption></figure>
 
 1. Selecione a Chave de API para a qual o código de acesso precisa ser criado.
 2.  Clique em <img src="../../.gitbook/assets/image (1036).png" alt="" data-size="line"> para criar um código de acesso para a Chave de API selecionada.\
@@ -79,10 +79,10 @@ Após criar a Chave de API, você precisa gerar um Código de Acesso antes de po
     <figure><img src="../../.gitbook/assets/image (983).png" alt=""><figcaption><p>Aba Códigos de Acesso</p></figcaption></figure>
 3. Insira uma descrição para seu código de acesso.
 4. Clique em <img src="../../.gitbook/assets/image (1038).png" alt="" data-size="line"> para salvar seu código de acesso
-5.  Logo após salvar suas alterações, a chave secreta do código de acesso será exibida assim:
+5.  Logo após salvar suas alterações, o segredo do código de acesso será exibido assim:
 
-    <figure><img src="../../.gitbook/assets/Captura de tela 2024-10-09 090427.png" alt=""><figcaption><p>Chave Secreta do Código de Acesso</p></figcaption></figure>
-6. É possível copiar a chave secreta usando o botão de copiar, <img src="../../.gitbook/assets/image (1039).png" alt="" data-size="original">, ou baixá-la em um arquivo .txt.
+    <figure><img src="../../.gitbook/assets/Captura de tela 2024-10-09 090427.png" alt=""><figcaption><p>Segredo do Código de Acesso</p></figcaption></figure>
+6. É possível copiar o segredo usando o botão de copiar, <img src="../../.gitbook/assets/image (1039).png" alt="" data-size="original">, ou baixá-lo em um arquivo .txt.
 
 Você pode criar até 2 códigos de acesso por Chave de API. Cada código é válido por 365 dias. Aconselhamos fortemente que você crie um novo código algumas semanas antes que o código atual expire para garantir que os serviços que dependem desta Chave de API não parem.
 
@@ -105,7 +105,7 @@ Todos os detalhes das Chaves de API estão disponíveis para edição clicando e
 
 Você também pode excluir uma Chave de API clicando em <img src="../../.gitbook/assets/image (1042).png" alt="" data-size="original">, e, em seguida, confirmando a ação em<img src="../../.gitbook/assets/image (1043).png" alt="" data-size="line">. Tenha cuidado - esta ação não pode ser desfeita. Lembre-se de que qualquer API que dependa da Chave de API excluída deixará de funcionar.\
 \
-Em relação aos Códigos de Acesso, você pode visualizar a chave secreta e baixar as credenciais clicando em <img src="../../.gitbook/assets/image (1044).png" alt="" data-size="original">na mesma linha do código de acesso. A descrição do código de acesso também pode ser editada clicando em <img src="../../.gitbook/assets/image (1040).png" alt="" data-size="line">. Quando terminar, clique em <img src="../../.gitbook/assets/image (1041).png" alt="" data-size="line"> para salvar suas mudanças.
+Em relação aos Códigos de Acesso, você pode visualizar o segredo e baixar as credenciais clicando em <img src="../../.gitbook/assets/image (1044).png" alt="" data-size="original">na mesma linha do código de acesso. A descrição do código de acesso também pode ser editada clicando em <img src="../../.gitbook/assets/image (1040).png" alt="" data-size="line">. Quando terminar, clique em <img src="../../.gitbook/assets/image (1041).png" alt="" data-size="line"> para salvar suas mudanças.
 
 {% hint style="danger" %}
 Atenção! Tenha cuidado ao excluir um código de acesso. Esta ação não pode ser desfeita, e todos os serviços que dependem deste código de acesso deixarão de funcionar.

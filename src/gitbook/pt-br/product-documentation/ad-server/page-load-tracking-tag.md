@@ -2,7 +2,7 @@
 
 A Tag de Rastreamento de Carregamento de Página permite que você meça a eficácia de seus anúncios, rastreando se os usuários que clicam neles chegam ao seu site. Este recurso fornece _insights_ sobre o quão bem os cliques em seus anúncios se traduzem em visitas genuínas ao site. Ele ajuda você a entender e otimizar o engajamento do usuário com seus anúncios.
 
-Para acessar nosso recurso de Tag de Rastreamento de Carregamento de Página, verifique o menu de ferramentas do Servidor de Anúncios.
+Para acessar nosso recurso de Tag de Rastreamento de Carregamento de Página, verifique o menu de ferramentas do Ad Server.
 
 <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Acessando a Tag de Rastreamento de Carregamento de Página</p></figcaption></figure>
 

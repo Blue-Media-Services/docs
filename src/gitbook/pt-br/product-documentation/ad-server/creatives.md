@@ -48,18 +48,18 @@ Se nenhuma URL tiver sido informada, você precisará inserir a URL corresponden
 
 Ao editar as UTMs, cada vez que você alterar uma tag, sua URL de Link será atualizada automaticamente, apresentando a versão atual de suas tags.
 
-*   **UTM Source:** Identifica a origem do tráfego. Neste caso, você usaria "BMS" como sua origem..&#x20;
+*   **Fonte UTM:** Identifica a origem do tráfego. Neste caso, você usaria "BMS" como sua origem..&#x20;
 
     * _**Exemplo** - "**BMS**": Para saber que o criativo veio da plataforma BMS._
 
     **Nota**: Você pode adicionar qualquer tipo de origem à sua UTM, a decisão de qual é a melhor é sua.
-* **UTM Medium:** Você pode usar um meio de campanha para identificar o meio pelo qual um visitante encontrou sua URL, como mídias sociais, código QR, custo por clique (CPC), afiliados, anúncios orgânicos/pagos, newsletters, etc.
+* **Meio UTM:** Você pode usar um meio de campanha para identificar o meio pelo qual um visitante encontrou sua URL, como mídias sociais, código QR, custo por clique (CPC), afiliados, anúncios orgânicos/pagos, newsletters, etc.
   * _**Exemplo** - "**Social**": Como a campanha terá como alvo as mídias sociais, podemos definir o meio como Social._
-* **UTM Campaign:** Como o nome sugere, é usado para dar um nome à sua campanha, como "Promoção Black Friday", "Promoção de Ação de Graças", "Campanha de Lançamento", etc
+* **Campanha UTM:** Como o nome sugere, é usado para dar um nome à sua campanha, como "Promoção Black Friday", "Promoção de Ação de Graças", "Campanha de Lançamento", etc
   * _**Exemplo** - "**SuaCampanha**": Aqui você pode simplesmente indicar o nome da sua campanha para identificar melhor a campanha em que o criativo está sendo usado._
-* **UTM Content:** O conteúdo da campanha é útil quando você está fazendo testes A/B com anúncios. Ele diferencia links idênticos que direcionam para a mesma URL. Por exemplo, quando você tem dois links em um e-mail, este parâmetro os distingue.
+* **Conteúdo UTM:** O conteúdo da campanha é útil quando você está fazendo testes A/B com anúncios. Ele diferencia links idênticos que direcionam para a mesma URL. Por exemplo, quando você tem dois links em um e-mail, este parâmetro os distingue.
   * _**Exemplo** - "**PaginaInicial**": O conteúdo que será apresentado ao usuário. Se estivermos rodando testes A/B em páginas diferentes, esta é uma forma de configurar a tag UTM de conteúdo._
-* **UTM Term:** Identifica palavras-chave pagas em campanhas de anúncios (usado principalmente para campanhas de busca paga).
+* **Termo UTM:** Identifica palavras-chave pagas em campanhas de anúncios (usado principalmente para campanhas de busca paga).
   * _**Exemplo** - "**TenisEsportivo**": Isso identifica a campanha de busca paga na qual as palavras-chave usadas para a busca paga foram "Tênis Esportivo"._
 
 Depois de configurar todas as suas Tags UTM, clique no botão <img src="../../.gitbook/assets/image (632).png" alt="Save" data-size="line"> e suas tags serão configuradas adequadamente.
@@ -68,7 +68,7 @@ Depois de configurar todas as suas Tags UTM, clique no botão <img src="../../.g
 
 ### Colar HTML <a href="#paste-html" id="paste-html"></a>
 
-Para usar um criativo totalmente personalizado, mude para a aba "Paste HTML" e insira o código HTML final que será exibido quando o usuário visualizar seu criativo.
+Para usar um criativo totalmente personalizado, mude para a aba "Colar HTML" e insira o código HTML final que será exibido quando o usuário visualizar seu criativo.
 
 {% hint style="warning" %}
 Atenção! Mais adiante nesta seção, você encontrará algumas macros. Você deve usá-las para habilitar o rastreamento de cliques da BMS em seus anúncios; caso contrário, os cliques **não serão rastreados**.
@@ -99,9 +99,9 @@ Algumas delas são:
     Esta é a versão mais utilizada. Deve ser instalada no início do link, antes de qualquer outro rastreador e antes da própria URL final.
   * **URL de Clique Com Escape (Escaped Click URL)**\
     Esta versão é semelhante à anterior, mas só deve ser usada se você desejar ter um rastreador de cliques externo que não suporte URLs sem escape.
-  * **URL de Clique com Escape Duplo (**_**Double-escaped Click URL**_**)**\
+  * **URL de Clique com Duplo Escape (**_**Double-escaped Click URL**_**)**\
     Esta versão é semelhante às duas anteriores, mas só deve ser usada se você desejar ter uma cadeia de rastreadores de cliques de dois ou mais, onde os rastreadores externos não suportam URLs sem escape.
-  * **Cache Buster**\
+  * **Quebrador de Cache (**_**Cache Buster**_**)**\
     Esta macro injetará uma sequência aleatória de números e é mais comumente usada para garantir que as solicitações não sejam armazenadas em cache.
 
 ### Revisão de Criativos <a href="#creative-review" id="creative-review"></a>

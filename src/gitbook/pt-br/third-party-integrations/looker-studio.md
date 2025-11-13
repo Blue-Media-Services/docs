@@ -1,4 +1,4 @@
-# Looker  Studio
+# Looker Studio
 
 Looker Studio é uma plataforma de inteligência empresarial e visualização de dados que permite aos usuários transformar dados brutos em relatórios personalizados. Ela se integra a múltiplas fontes de dados, permitindo a criação de dashboards em tempo real para acompanhar o desempenho e analisar dados.
 

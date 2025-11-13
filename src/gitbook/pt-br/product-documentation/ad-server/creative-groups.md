@@ -57,7 +57,7 @@ Assim que todos os problemas forem resolvidos, o grupo de criativos exibirá o s
 
 Grupos de Criativos que não estão sendo usados com frequência podem ser arquivados clicando no botão <img src="../../.gitbook/assets/archive.png" alt="Archive" data-size="line">. Arquivar um grupo de criativos não impede que ele seja usado ou exibido, apenas o oculta da visualização principal.
 
-Para ver todos os grupos de criativos arquivados, simplesmente ative o filtro <img src="../../.gitbook/assets/archive filter.png" alt="Archived" data-size="line"> filter. . Você pode desarquivar <img src="../../.gitbook/assets/image (18).png" alt="" data-size="line"> um criativo para movê-lo para a visualização principal.
+Para ver todos os grupos de criativos arquivados, simplesmente ative o filtro <img src="../../.gitbook/assets/archive filter.png" alt="Archived" data-size="line">. Você pode desarquivar <img src="../../.gitbook/assets/image (18).png" alt="" data-size="line"> um criativo para movê-lo para a visualização principal.
 
 ### Excluindo um Grupo de Criativos <a href="#deleting-a-creative-group" id="deleting-a-creative-group"></a>
 

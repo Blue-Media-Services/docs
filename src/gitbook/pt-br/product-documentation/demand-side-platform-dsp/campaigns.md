@@ -32,7 +32,7 @@ Preencha as informações:
 * Agendamento - Defina a data de início e término para a Campanha;
 * Preço do Lance – É aqui que você decidirá seu preço de lance para o leilão de anúncios;
   * Fixo - Defina seu preço imutável para um espaço de inventário;
-  * Variável - Ative esta opção para usar nossa tecnologia "_**Bid Shading**_", que é o sistema de lances da própria plataforma; se ativado, ele otimizará o gasto do seu budget, sempre focando no valor mais justo para a compra desses espaços de inventário. Isso gera uma economia significativa, embora a empresa possa optar por não ativar o _Bid Shading_ e deixar que a oferta do lance seja baseada apenas na meta de CPM.
+  * Variável - Ative esta opção para usar nossa tecnologia "_**Bid Shading**_", que é o sistema de lances da própria plataforma; se ativado, ele otimizará o gasto do seu orçamento, sempre focando no valor mais justo para a compra desses espaços de inventário. Isso gera uma economia significativa, embora a empresa possa optar por não ativar o _Bid Shading_ e deixar que a oferta do lance seja baseada apenas na meta de CPM.
 * Limite de Frequência: Quantidade de impressões por dispositivo. Aqui você pode alterar quantas vezes a campanha será mostrada para cada dispositivo;
 
 {% hint style="warning" %}
@@ -51,11 +51,11 @@ Para começar a configurar sua Campanha, marque a <img src="../../.gitbook/asset
 
 <figure><img src="../../.gitbook/assets/image (1080).png" alt=""><figcaption><p>Configuração de Campanha </p></figcaption></figure>
 
-Configure seu [Budget](budgets.md), [Segmentações](targets.md) e [Anúncios](managing-ads.md).
+Configure seu [Orçamento](budgets.md), [Públicos-alvo](targets.md) e [Anúncios](managing-ads.md).
 
 ## Habilitando sua Campanha <a href="#enabling-your-campaign" id="enabling-your-campaign"></a>
 
-Para habilitar sua campanha, você deve ter pelo menos uma Segmentação e um Anúncio adicionados à campanha. Você também pode verificar o sinal de <img src="../../.gitbook/assets/image (463).png" alt="" data-size="line"> para ver se há algum problema impedindo a ativação da campanha.
+Para habilitar sua campanha, você deve ter pelo menos um Público-alvo e um Anúncio adicionados à campanha. Você também pode verificar o sinal de <img src="../../.gitbook/assets/image (463).png" alt="" data-size="line"> para ver se há algum problema impedindo a ativação da campanha.
 
 {% hint style="warning" %}
 Se este aviso aparecer no status do seu criativo, anúncio ou campanha, significa que o material não foi aprovado pela plataforma ou pelas _ad exchanges_. Nesse caso, a BMS informará o problema em questão (em detalhes) ao passar o cursor sobre o sinal, e você poderá fazer os ajustes necessários antes da ativação.
@@ -69,7 +69,7 @@ Para habilitar sua campanha, acione o botão Habilitar.
 
 ## Duplicando sua Campanha <a href="#duplicating-your-campaign" id="duplicating-your-campaign"></a>
 
-Se você deseja reutilizar uma campanha com diferentes configurações sem ter que criar uma nova do zero, tem a opção de duplicar uma campanha. Clique em <img src="../../.gitbook/assets/image (36).png" alt="" data-size="line"> na campanha que deseja duplicar e uma cópia dessa campanha será listada. Ao duplicar uma campanha, você também duplica anúncios, budget e segmentações.
+Se você deseja reutilizar uma campanha com diferentes configurações sem ter que criar uma nova do zero, tem a opção de duplicar uma campanha. Clique em <img src="../../.gitbook/assets/image (36).png" alt="" data-size="line"> na campanha que deseja duplicar e uma cópia dessa campanha será listada. Ao duplicar uma campanha, você também duplica anúncios, orçamento e públicos-alvo.
 
 ## Arquivando e Desarquivando sua Campanha <a href="#archiving-and-unarchiving-your-campaign" id="archiving-and-unarchiving-your-campaign"></a>
 
@@ -92,7 +92,7 @@ _Atenção! Aconselhamos sempre a desativar a campanha em vez de excluí-la comp
 Enquanto os eventos em tempo real são mantidos por 15 minutos, você pode verificar as métricas da campanha para qualquer intervalo de tempo. As métricas podem levar até 5 minutos para exibir os dados mais recentes. Abaixo você encontra todas as métricas disponíveis para sua Campanha.
 
 * [Campanha Ativa](dsp-metrics.md#campanha-ativa)
-* [Budget Gasto](dsp-metrics.md#orcamento-gasto)
+* [Orçamento Gasto](dsp-metrics.md#orcamento-gasto)
 * [Lances e Taxa de Lances Ganhos](dsp-metrics.md#lances-e-taxa-de-lances-ganhos)
 * [Impressões](dsp-metrics.md#impressoes)
 * [Preço da Impressão](dsp-metrics.md#preco-da-impressao)
@@ -116,13 +116,13 @@ Enquanto os eventos em tempo real são mantidos por 15 minutos, você pode verif
 * [Preço do Lance Efetivo](dsp-metrics.md#preco-do-lance-efetivo)
 * [Contagem de Dispositivos](dsp-metrics.md#contagem-de-dispositivos)
 * [Frequência por Dispositivo](dsp-metrics.md#frequencia-por-dispositivo)
-* [Budget Gasto com Recomendações](dsp-metrics.md#budget-gasto-com-recomendacoes)
-* [Budget Gasto Realizando Lances](dsp-metrics.md#budget-gasto-na-realizacao-de-lances)
-* [Budget Gasto em Impressões](dsp-metrics.md#budget-gasto-em-impressoes)
-* [Budget Gasto em Entregas](dsp-metrics.md#budget-gasto-em-entregas)
-* [Ritmo de Budget Alvo](dsp-metrics.md#ritmo-de-budget-alvo)
-* [Ritmo de Budget Efetivo](dsp-metrics.md#ritmo-de-budget-efetivo)
-* [Budget Disponível](dsp-metrics.md#budget-disponivel)
-* [Limite de Budget Diário](dsp-metrics.md#limite-de-budget-diario)
+* [Orçamento Gasto com Recomendações](dsp-metrics.md#budget-gasto-com-recomendacoes)
+* [Orçamento Gasto Realizando Lances](dsp-metrics.md#budget-gasto-na-realizacao-de-lances)
+* [Orçamento Gasto em Impressões](dsp-metrics.md#budget-gasto-em-impressoes)
+* [Orçamento Gasto em Entregas](dsp-metrics.md#budget-gasto-em-entregas)
+* [Ritmo de Orçamento  Alvo](dsp-metrics.md#ritmo-de-budget-alvo)
+* [Ritmo de Orçamento Efetivo](dsp-metrics.md#ritmo-de-budget-efetivo)
+* [Orçamento Disponível](dsp-metrics.md#budget-disponivel)
+* [Limite de Orçamento Diário](dsp-metrics.md#limite-de-budget-diario)
 
 Você também pode visualizar eventos em Tempo Real de sua Campanha através da nossa [Aba de Tempo Real](real-time-tab.md).

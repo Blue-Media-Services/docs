@@ -8,7 +8,7 @@ Além disso, as métricas são essenciais para gerenciar suas despesas na plataf
 
 Escolha como você deseja visualizar seus dados. Estas são as opções de visualização disponíveis para a aba de métricas:
 
-### Cards de Métrica  <a href="#metric-cards" id="metric-cards"></a>
+### Cartões de Métrica  <a href="#metric-cards" id="metric-cards"></a>
 
 Esta opção exibe suas métricas em cartões contendo gráficos. É possível exportar os dados contidos em cada cartão de métrica clicando no cartão desejado e, em seguida, no botão de download <img src="../.gitbook/assets/image (261).png" alt="" data-size="line">.&#x20;
 
@@ -47,7 +47,7 @@ Para atualizar seus resultados, clique no botão de atualizar <img src="../.gitb
 
 A seguir, estão os produtos que incluem o serviço de métricas. Para saber mais sobre as métricas associadas a cada produto, consulte o conteúdo abaixo com base no seu produto de interesse:
 
-* [Métricas de Servidor de Anúncios](ad-server/ad-server-metrics.md)
+* [Métricas de Ad Server](ad-server/ad-server-metrics.md)
 * [Métricas de DSP](demand-side-platform-dsp/dsp-metrics.md)
 * [Métricas de DMP](data-management-platform-dmp/dmp-metrics.md)
 * [Métricas de CS2](catalog-storage-service-cs2/cs2-metrics.md)

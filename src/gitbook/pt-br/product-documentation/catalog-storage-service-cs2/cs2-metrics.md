@@ -58,57 +58,57 @@ _**Exemplo**: No caso em que você instala um evento em seu site com a intençã
 
 Esta métrica mostra o número de vezes que os produtos selecionados foram visualizados no período de tempo definido.
 
-<figure><img src="../../.gitbook/assets/Product View Count.png" alt=""><figcaption><p>Product View Count Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Product View Count.png" alt=""><figcaption><p>Contagem de Visualizações de Produto</p></figcaption></figure>
 
 _**Exemplo**: Suponha que você instalou em seu site um evento de visualização de produto, com uma ação de rastrear no catálogo. Estas métricas mostrarão uma contagem de quantas vezes os produtos selecionados foram vistos em seu site. Use esses dados para entender em quais produtos seu público está mais interessado e, em seguida, crie um modelo de recomendação com base nesses dados. O período definido para este gráfico foi de 3 dias, dividido em períodos de 6 horas. Você notará que em 24 de junho, entre 00h e 6h, os produtos selecionados foram visualizados quase 3.000 vezes._
 
-### Contagem de Jobs de Importação <a href="#import-job-count" id="import-job-count"></a>
+### Contagem de _Jobs_ (Tarefas) de Importação <a href="#import-job-count" id="import-job-count"></a>
 
-Esta métrica mostra quantos _jobs_ de importação você iniciou no período de tempo definido.
+Esta métrica mostra quantas tarefas de importação você iniciou no período de tempo definido.
 
-<figure><img src="../../.gitbook/assets/Import Job Count.png" alt=""><figcaption><p>Contagem de Jobs de Importação</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Import Job Count.png" alt=""><figcaption><p>Contagem de <em>Jobs</em> (Tarefas) de Importação</p></figcaption></figure>
 
-_**Exemplo**: Use esta métrica para acompanhar quantos jobs de importação estão sendo iniciados em sua conta. Neste gráfico, o período definido foi de 1 semana, dividido em períodos diários. Você notará que há 1 job de importação iniciado a cada dia, o que significa que o catálogo está sendo atualizado diariamente._
+_**Exemplo**: Use esta métrica para acompanhar quantas tarefas de importação estão sendo iniciados em sua conta. Neste gráfico, o período definido foi de 1 semana, dividido em períodos diários. Você notará que há 1 tarefa de importação iniciado a cada dia, o que significa que o catálogo está sendo atualizado diariamente._
 
-### Duração do Job de Importação <a href="#import-job-duration" id="import-job-duration"></a>
+### Duração do _Job_ (Tarefa) de Importação <a href="#import-job-duration" id="import-job-duration"></a>
 
-Esta métrica mostra quanto tempo foi necessário até que os jobs de importação fossem concluídos no período de tempo definido.
+Esta métrica mostra quanto tempo foi necessário até que as tarefas de importação fossem concluídos no período de tempo definido.
 
-<figure><img src="../../.gitbook/assets/Import Job Duration.png" alt=""><figcaption><p>Duração do Job de Importação</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Import Job Duration.png" alt=""><figcaption><p>Duração do <em>Job</em> (Tarefa) de Importação</p></figcaption></figure>
 
-_**Exemplo**: Use os dados obtidos nesta métrica para definir a melhor opção de atualização de catálogo de acordo com as necessidades do seu negócio. Neste gráfico, o período definido foi de 1 semana, dividido em períodos diários. Você notará que em 24 de junho, o tempo até a conclusão do job de importação foi de quase 1 segundo._
+_**Exemplo**: Use os dados obtidos nesta métrica para definir a melhor opção de atualização de catálogo de acordo com as necessidades do seu negócio. Neste gráfico, o período definido foi de 1 semana, dividido em períodos diários. Você notará que em 24 de junho, o tempo até a conclusão da tarefa de importação foi de quase 1 segundo._
 
-### Taxa de Falha do Job de Importação <a href="#import-job-failure-rate" id="import-job-failure-rate"></a>
+### Taxa de Falha do _Job_ (Tarefa) de Importação <a href="#import-job-failure-rate" id="import-job-failure-rate"></a>
 
-Esta métrica mostra a taxa de falha dos jobs de importação dentro do período de tempo definido, indicando a porcentagem de jobs de importação que falharam.
+Esta métrica mostra a taxa de falha das tarefas de importação dentro do período de tempo definido, indicando a porcentagem de tarefas de importação que falharam.
 
-<figure><img src="../../.gitbook/assets/Import Job Failure Rate.png" alt=""><figcaption><p>Taxa de Falha do Job de Importação</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Import Job Failure Rate.png" alt=""><figcaption><p>Taxa de Falha do <em>Job</em> (Tarefa) de Importação</p></figcaption></figure>
 
-_**Exemplo**: Quando um job de importação falha, significa que a plataforma não conseguiu recuperar nenhum dado do arquivo de feed. Isso pode ser um problema com o mapeamento ou com o arquivo de feed de origem. Neste gráfico, o período definido foi de 1 semana, dividido em períodos diários. Você notará que a taxa de falha do job de importação foi de 0%, o que significa que nenhum job falhou._
+_**Exemplo**: Quando uma tarefa de importação falha, significa que a plataforma não conseguiu recuperar nenhum dado do arquivo de feed. Isso pode ser um problema com o mapeamento ou com o arquivo de feed de origem. Neste gráfico, o período definido foi de 1 semana, dividido em períodos diários. Você notará que a taxa de falha da tarefa de importação foi de 0%, o que significa que nenhuma tarefa falhou._
 
-### Problemas no Job de Importação <a href="#import-job-issues" id="import-job-issues"></a>
+### Problemas no _Job_ (Tarefa) de Importação <a href="#import-job-issues" id="import-job-issues"></a>
 
-Esta métrica mostra o número de problemas com os jobs de importação dentro do período de tempo definido. Alguns problemas podem ocorrer devido a dados inválidos ou ausentes em seu arquivo de feed. As causas desses problemas podem ser analisadas na aba de jobs.
+Esta métrica mostra o número de problemas com as tarefas de importação dentro do período de tempo definido. Alguns problemas podem ocorrer devido a dados inválidos ou ausentes em seu arquivo de feed. As causas desses problemas podem ser analisadas na aba de tarefas.
 
-<figure><img src="../../.gitbook/assets/Import Job Issues.png" alt=""><figcaption><p>Problemas no Job de Importação</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Import Job Issues.png" alt=""><figcaption><p>Problemas no <em>Job</em> (Tarefa) de Importação</p></figcaption></figure>
 
-_**Exemplo**: Quando um job de importação foi concluído, no entanto, alguns problemas ocorreram no processo, como um problema de mapeamento ou dados ausentes no arquivo de feed. Neste gráfico, o período definido é de 1 semana, dividido em períodos diários. Você notará que durante os primeiros 5 dias da semana, houve quase 10 problemas com o job de importação. Além disso, você observará que a partir de 24 de junho, não houve problemas, indicando que o arquivo de feed foi corrigido._
+_**Exemplo**: Quando uma tarefa de importação foi concluída, no entanto, alguns problemas ocorreram no processo, como um problema de mapeamento ou dados ausentes no arquivo de feed. Neste gráfico, o período definido é de 1 semana, dividido em períodos diários. Você notará que durante os primeiros 5 dias da semana, houve quase 10 problemas com as tarefas de importação. Além disso, você observará que a partir de 24 de junho, não houve problemas, indicando que o arquivo de feed foi corrigido._
 
-### Bytes Processados no Job de Importação <a href="#import-job-processed-bytes" id="import-job-processed-bytes"></a>
+### Bytes Processados no _Job_ (Tarefa) de Importação <a href="#import-job-processed-bytes" id="import-job-processed-bytes"></a>
 
-Esta métrica mostra a quantidade de bytes processados durante os jobs de importação no período de tempo definido.
+Esta métrica mostra a quantidade de bytes processados durante as tarefas de importação no período de tempo definido.
 
-<figure><img src="../../.gitbook/assets/Import Job Processed Bytes.png" alt=""><figcaption><p>Bytes Processados no Job de Importação</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Import Job Processed Bytes.png" alt=""><figcaption><p>Bytes Processados no <em>Job</em> (Tarefa) de Importação</p></figcaption></figure>
 
-_**Exemplo**: Você pode usar isso para acompanhar o tamanho do arquivo de feed importado em um período de tempo. Neste gráfico, o período definido foi de 1 semana, dividido em períodos diários. Você notará que, a cada dia, quase 1 MB foi processado durante os jobs de importação._
+_**Exemplo**: Você pode usar isso para acompanhar o tamanho do arquivo de feed importado em um período de tempo. Neste gráfico, o período definido foi de 1 semana, dividido em períodos diários. Você notará que, a cada dia, quase 1 MB foi processado durante as tarefas de importação._
 
-### Registros Processados no Job de Importação <a href="#import-job-processed-records" id="import-job-processed-records"></a>
+### Registros Processados no _Job_ (Tarefa) de Importação <a href="#import-job-processed-records" id="import-job-processed-records"></a>
 
-Esta métrica mostra a quantidade de registros processados durante os jobs de importação no período de tempo definido.
+Esta métrica mostra a quantidade de registros processados durante as tarefas de importação no período de tempo definido.
 
-<figure><img src="../../.gitbook/assets/Import Job Processed Records.png" alt=""><figcaption><p>Registros Processados no Job de Importação</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Import Job Processed Records.png" alt=""><figcaption><p>Registros Processados no <em>Job</em> (Tarefa) de Importação</p></figcaption></figure>
 
-_**Exemplo**: Você pode usar esta métrica para medir quantos registros estão sendo processados durante seus jobs de importação. Neste gráfico, o período definido foi de 1 semana, dividido em períodos diários. Você notará que nos primeiros 5 dias, o job de importação estava processando quase 100 registros; nos últimos 2 dias, estava processando um pouco mais de 100 registros, o que significa que o arquivo de feed foi modificado._
+_**Exemplo**: Você pode usar esta métrica para medir quantos registros estão sendo processados durante suas tarefas de importação. Neste gráfico, o período definido foi de 1 semana, dividido em períodos diários. Você notará que nos primeiros 5 dias, a tarefa de importação estava processando quase 100 registros; nos últimos 2 dias, estava processando um pouco mais de 100 registros, o que significa que o arquivo de feed foi modificado._
 
 ### Contagem de Recomendações de Produto <a href="#product-recommendation-count" id="product-recommendation-count"></a>
 
@@ -118,13 +118,13 @@ Esta métrica mostra o número de vezes que os produtos selecionados foram inclu
 
 _**Exemplo**: No contexto de usar um modelo de recomendação para uma campanha de retargeting, esta métrica mostrará quantas vezes um produto foi incluído em uma recomendação. Use esses dados para entender quais de seus produtos estão sendo recomendados em seus banners. Neste gráfico, o período definido foi de 1 semana, dividido em períodos de 30 minutos. Você também notará que a contagem de recomendações de produto foi de quase 500 na maior parte do tempo._
 
-### Contagem de Cliques em Recomendação <a href="#recommendation-click-count" id="recommendation-click-count"></a>
+### Contagem de Recomendações Clicadas <a href="#recommendation-click-count" id="recommendation-click-count"></a>
 
 Esta métrica mostra o número de vezes que a recomendação dos produtos selecionados foi clicada no período de tempo definido.
 
-<figure><img src="../../.gitbook/assets/Recommendation Click Count (2).png" alt=""><figcaption><p>Contagem de Cliques em Recomendação</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Recommendation Click Count (2).png" alt=""><figcaption><p>Contagem de Recomendações Clicadas</p></figcaption></figure>
 
-_**Exemplo**: Caso você tenha uma campanha usando um modelo de recomendação, esta métrica mostrará uma contagem de cliques em suas recomendações. Esses dados o ajudarão a medir a eficiência do seu modelo de recomendação, o que permitirá testar diferentes estratégias de marketing e observar como seu público está reagindo. Neste gráfico, o período definido foi de 1 semana, dividido em períodos de 6 horas. Você notará que em 22 de junho, às 12h, houve 4 cliques nos produtos recomendados._
+_**Exemplo**: Caso você tenha uma campanha usando um modelo de recomendação, esta métrica mostrará uma contagem de recomendações clicadas. Esses dados o ajudarão a medir a eficiência do seu modelo de recomendação, o que permitirá testar diferentes estratégias de marketing e observar como seu público está reagindo. Neste gráfico, o período definido foi de 1 semana, dividido em períodos de 6 horas. Você notará que em 22 de junho, às 12h, houve 4 cliques nos produtos recomendados._
 
 ### Taxa de Preenchimento de Recomendação <a href="#recommendation-fulfillment-rate" id="recommendation-fulfillment-rate"></a>
 
@@ -142,10 +142,10 @@ Esta métrica mostra o número de vezes que uma recomendação foi solicitada no
 
 _**Exemplo**: Caso você esteja usando um modelo de recomendação para gerar seus banners, esta métrica mostrará quantas requisições de recomendação foram processadas pela plataforma. Esses dados são úteis para acompanhar seu consumo do recurso de modelos de recomendação. O período definido para este gráfico foi de 1 semana, dividido em períodos de 6 horas. Você notará que em 23 de junho, às 18h, a contagem de requisições de recomendação foi de quase 2.000 requisições._
 
-### Contagem de Visualizações de Recomendação <a href="#recommendation-view-count" id="recommendation-view-count"></a>
+### Contagem de Recomendações Visualizadas <a href="#recommendation-view-count" id="recommendation-view-count"></a>
 
 Esta métrica mostra o número de vezes que a recomendação do produto selecionado foi visualizada no período de tempo definido.
 
-<figure><img src="../../.gitbook/assets/Recommendation View Count (1).png" alt=""><figcaption><p>Contagem de Visualizações de Recomendação</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Recommendation View Count (1).png" alt=""><figcaption><p>Contagem de Recomendações Visualizadas</p></figcaption></figure>
 
-_**Exemplo**: No contexto em que você tem uma campanha que está usando um modelo de recomendação para gerar banners, esta métrica mostrará uma contagem de visualizações em suas recomendações. Os dados que esta métrica fornece são úteis para entender se suas recomendações estão sendo visualizadas. Além disso, comparar esta métrica com a métrica de Contagem de Cliques em Recomendação permitirá que você entenda se seu banner é interessante para seus públicos-alvo. Neste gráfico, o período definido foi de 1 semana, dividido em períodos de 6 horas. Você notará que em 26 de junho, às 12h, houve quase 4.000 visualizações em suas recomendações._
+_**Exemplo**: No contexto em que você tem uma campanha que está usando um modelo de recomendação para gerar banners, esta métrica mostrará uma contagem de visualizações em suas recomendações. Os dados que esta métrica fornece são úteis para entender se suas recomendações estão sendo visualizadas. Além disso, comparar esta métrica com a métrica de Contagem de Recomendações Clicadas permitirá que você entenda se seu banner é interessante para seus públicos-alvo. Neste gráfico, o período definido foi de 1 semana, dividido em períodos de 6 horas. Você notará que em 26 de junho, às 12h, houve quase 4.000 visualizações em suas recomendações._

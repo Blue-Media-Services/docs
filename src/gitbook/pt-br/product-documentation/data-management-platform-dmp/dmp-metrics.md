@@ -1,6 +1,6 @@
 # Métricas de DMP
 
-Estas são todas as métricas disponíveis no produto DMP para analisar o desempenho de seus _pools_ de cookies e rastreadores. Além disso, ao revisar as métricas, você sempre pode usar o <img src="../../.gitbook/assets/image (1089).png" alt="" data-size="line"> para acessar nossos artigos sobre uma métrica específica.
+Estas são todas as métricas disponíveis no produto DMP para analisar o desempenho de seus _cookie pools_ e rastreadores. Além disso, ao revisar as métricas, você sempre pode usar o <img src="../../.gitbook/assets/image (1089).png" alt="" data-size="line"> para acessar nossos artigos sobre uma métrica específica.
 
 {% hint style="info" %}
 Você pode aprender mais sobre como as métricas são tratadas visitando a página de [Métricas](../metrics.md).
@@ -8,11 +8,11 @@ Você pode aprender mais sobre como as métricas são tratadas visitando a pági
 
 ### Contagem de Expirações <a href="#expiration-count" id="expiration-count"></a>
 
-Esta métrica exibe quantos cookies expiraram dentro do período de tempo configurado. Os cookies expiram com base no TTL, que é o número de dias após o qual um cookie expirará, configurado ao criar o _pool_ de cookies.
+Esta métrica exibe quantos cookies expiraram dentro do período de tempo configurado. Os cookies expiram com base no TTL, que é o número de dias após o qual um cookie expirará, configurado ao criar o cookie pool.
 
 <figure><img src="../../.gitbook/assets/image (1090).png" alt=""><figcaption><p>Contagem de Expirações</p></figcaption></figure>
 
-_**Exemplo**: Você cria um pool de cookies com um TTL de sete dias e o instala em sua página inicial. Os cookies gerados pelo acesso dos seus usuários estarão disponíveis para segmentação por sete dias. Após esse período, os cookies expirarão. Isso significa que em uma campanha de retargeting, por exemplo, você impactará usuários que visitaram seu site nos últimos sete dias. Neste gráfico, você pode observar que em 19 de junho, pouco menos de 5 cookies expiraram, em 20 de junho nenhum cookie expirou, e em 21 de junho pouco menos de 5 cookies expiraram, e assim por diante._
+_**Exemplo**: Você cria um cookie pool com um TTL de sete dias e o instala em sua página inicial. Os cookies gerados pelo acesso dos seus usuários estarão disponíveis para segmentação de públicos-alvo por sete dias. Após esse período, os cookies expirarão. Isso significa que em uma campanha de retargeting, por exemplo, você impactará usuários que visitaram seu site nos últimos sete dias. Neste gráfico, você pode observar que em 19 de junho, pouco menos de 5 cookies expiraram, em 20 de junho nenhum cookie expirou, e em 21 de junho pouco menos de 5 cookies expiraram, e assim por diante._
 
 ### Tamanho Máximo de Cookie Pool <a href="#max-size" id="max-size"></a>
 
@@ -20,7 +20,7 @@ Esta métrica mostra a quantidade máxima de cookies permitida no _pool_, confor
 
 <figure><img src="../../.gitbook/assets/image (1091).png" alt=""><figcaption><p>Tamanho Máximo</p></figcaption></figure>
 
-_**Exemplo**: Ao criar ou editar um pool de cookies, você pode definir a quantidade máxima de cookies no pool. Isso limitará o número total de cookies que seu pool pode conter. Neste gráfico, você pode observar que um tamanho máximo de 100.000 cookies foi definido para este pool de cookies._
+_**Exemplo**: Ao criar ou editar um cookie pool, você pode definir a quantidade máxima de cookies no pool. Isso limitará o número total de cookies que seu pool pode conter. Neste gráfico, você pode observar que um tamanho máximo de 100.000 cookies foi definido para este cookie pool._
 
 ### Tamanho de Cookie Pool <a href="#size" id="size"></a>
 
@@ -28,7 +28,7 @@ Esta métrica mostra o tamanho real do pool, ou seja, ela mostrará quantos cook
 
 <figure><img src="../../.gitbook/assets/image (1092).png" alt=""><figcaption><p>Tamanho</p></figcaption></figure>
 
-_**Exemplo**: Neste gráfico, você pode observar o tamanho de um pool de cookies no período de tempo definido. Esta métrica pode ser usada para obter conhecimento sobre quantos cookies são gerados dentro do período configurado, o que permitirá que você defina um tamanho máximo para o pool que esteja na mesma faixa do número de usuários em seu site._
+_**Exemplo**: Neste gráfico, você pode observar o tamanho de um cookie pool no período de tempo definido. Esta métrica pode ser usada para obter conhecimento sobre quantos cookies são gerados dentro do período configurado, o que permitirá que você defina um tamanho máximo para o pool que esteja na mesma faixa do número de usuários em seu site._
 
 ### Contagem de Sincronizações <a href="#sync-count" id="sync-count"></a>
 
@@ -44,7 +44,7 @@ Esta métrica mostra a mediana do tempo restante que um cookie ainda está dispo
 
 <figure><img src="../../.gitbook/assets/image (1094).png" alt=""><figcaption><p>Tempo Até a Expiração</p></figcaption></figure>
 
-_**Exemplo**: Ao criar seu pool de cookies, você pode definir o número de dias em que um cookie irá expirar. Esta métrica mostra quanto tempo você tem até a expiração de um cookie. Neste gráfico, o período de tempo foi de 1 semana, dividido em períodos diários, representados como pontos. Você pode observar que em 20 de junho havia menos de 1 dia até que alguns dos cookies no pool expirassem._
+_**Exemplo**: Ao criar seu cookie pool, você pode definir o número de dias em que um cookie irá expirar. Esta métrica mostra quanto tempo você tem até a expiração de um cookie. Neste gráfico, o período de tempo foi de 1 semana, dividido em períodos diários, representados como pontos. Você pode observar que em 20 de junho havia menos de 1 dia até que alguns dos cookies no pool expirassem._
 
 ### Contagem de Execução de Ação <a href="#action-execution-count" id="action-execution-count"></a>
 
@@ -116,7 +116,7 @@ Esta métrica exibe o número total de identificadores adicionados ao _pool_, no
 
 <figure><img src="../../.gitbook/assets/image (1136).png" alt=""><figcaption><p>Contagem de Identificadores Adicionados</p></figcaption></figure>
 
-_**Exemplo**: À medida que os usuários de dispositivos móveis navegam pelas páginas do seu site ou aplicativos nos quais você instalou um rastreador configurado para adicionar usuários a um pool de identificadores, eles serão adicionados ao pool. Neste gráfico, você pode acompanhar o crescimento do seu pool de identificadores à medida que os identificadores dos usuários são adicionados a ele. O período definido foi de 1 semana, dividido em períodos diários. Você notará que em 31 de dezembro, um pouco mais de 20 identificadores foram adicionados, e nos dias seguintes esse número diminui para 3 por dia, e depois aumenta novamente para 5 em 3 de janeiro._
+_**Exemplo**: À medida que os usuários de dispositivos móveis navegam pelas páginas do seu site ou aplicativos nos quais você instalou um rastreador configurado para adicionar usuários a um identifier pool, eles serão adicionados ao pool. Neste gráfico, você pode acompanhar o crescimento do seu identifier pool à medida que os identificadores dos usuários são adicionados a ele. O período definido foi de 1 semana, dividido em períodos diários. Você notará que em 31 de dezembro, um pouco mais de 20 identificadores foram adicionados, e nos dias seguintes esse número diminui para 3 por dia, e depois aumenta novamente para 5 em 3 de janeiro._
 
 ### Contagem de Identificadores Habilitados <a href="#identifiers-enabled-count" id="identifiers-enabled-count"></a>
 
@@ -144,7 +144,7 @@ _**Exemplo**: Ao configurar um rastreador para um identifier pool, você poderá
 
 ### Tamanho Máximo de Identifier Pool <a href="#max-size" id="max-size"></a>
 
-Esta métrica mostra o número máximo de usuários que o Pool de Identificadores foi configurado para aceitar, no período de tempo definido.
+Esta métrica mostra o número máximo de usuários que o Identifier Pool foi configurado para aceitar, no período de tempo definido.
 
 <figure><img src="../../.gitbook/assets/image (1140).png" alt=""><figcaption><p>Tamanho Máximo</p></figcaption></figure>
 
@@ -164,4 +164,4 @@ Esta métrica mostra a mediana do tempo restante que um identificador ainda est�
 
 <figure><img src="../../.gitbook/assets/image (1142).png" alt=""><figcaption><p>Tempo até a Expiração</p></figcaption></figure>
 
-_**Exemplo**: Ao criar seu pool de identificadores, você pode definir o número de dias em que um identificador adicionado ao pool expirará. Esta métrica mostra a mediana do tempo que você tem até a expiração de um identificador. Neste gráfico, o período definido foi de 1 semana, dividido em períodos diários. Você notará que em 30 de dezembro a mediana era de cerca de 16 dias até a expiração dos identificadores, e nos dias seguintes essa mediana continuou aumentando até 5 de janeiro, quando era de cerca de 23 dias até a expiração._
+_**Exemplo**: Ao criar seu identifier pool, você pode definir o número de dias em que um identificador adicionado ao pool expirará. Esta métrica mostra a mediana do tempo que você tem até a expiração de um identificador. Neste gráfico, o período definido foi de 1 semana, dividido em períodos diários. Você notará que em 30 de dezembro a mediana era de cerca de 16 dias até a expiração dos identificadores, e nos dias seguintes essa mediana continuou aumentando até 5 de janeiro, quando era de cerca de 23 dias até a expiração._

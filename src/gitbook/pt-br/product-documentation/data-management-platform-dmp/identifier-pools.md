@@ -1,6 +1,6 @@
 # Identifier Pools
 
-Identifier Pools funcionam de maneira muito semelhante aos _pools_ de cookies, mas são projetados especificamente para dispositivos móveis, incluindo smartphones Android, tablets e produtos iOS. Cada sistema operacional emprega seus próprios métodos exclusivos para identificar os usuários de forma eficaz.
+Identifier Pools funcionam de maneira muito semelhante aos _cookie pools_, mas são projetados especificamente para dispositivos móveis, incluindo smartphones Android, tablets e produtos iOS. Cada sistema operacional emprega seus próprios métodos exclusivos para identificar os usuários de forma eficaz.
 
 O Android do Google utiliza o GAID (_Google Advertising ID_), um identificador único fornecido pelo Google Play Services para fins publicitários. O GAID permite que desenvolvedores e anunciantes rastreiem a atividade do usuário e entreguem anúncios personalizados, ao mesmo tempo que dá aos usuários controle sobre suas configurações de privacidade.
 
@@ -12,7 +12,7 @@ O iOS da Apple atribui um identificador único e aleatório a cada usuário, con
 
 ### Criando um Identifier Pool <a href="#creating-an-identifier-pool" id="creating-an-identifier-pool"></a>
 
-Um _Pool_ de Identificadores deve ser criado antes de ser usado para uma campanha, para que possa ser populado. Configure por quanto tempo os identificadores devem ficar disponíveis antes de expirarem e defina quantos identificadores você deseja armazenar em seu _pool_. Além disso, selecione uma _Ad Exchange_ para sincronizar seus Identificadores com ela.
+Um Identifier Pool deve ser criado antes de ser usado para uma campanha, para que possa ser populado. Configure por quanto tempo os identificadores devem ficar disponíveis antes de expirarem e defina quantos identificadores você deseja armazenar em seu _pool_. Além disso, selecione uma _Ad Exchange_ para sincronizar seus Identificadores com ela.
 
 1. Clique em ![Create Identifier Pool](<../../.gitbook/assets/image (1148).png>) para criar um novo identifier pool.
 2.  Preencha as informações:
@@ -30,19 +30,19 @@ Um _Pool_ de Identificadores deve ser criado antes de ser usado para uma campanh
 
 Após criar um identifier pool, você pode editá-lo clicando no botão de edição ![Edit](<../../.gitbook/assets/image (1155).png>). Todos os parâmetros são editáveis; para o TTL, as alterações se aplicarão apenas aos identificadores recém-adicionados. Após fazer suas alterações, clique em ![Save](<../../.gitbook/assets/image (1149).png>) para salvá-las.
 
-É possível arquivar identifier pools para uma melhor organização. Clique em <img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> para arquivar o identifier pool selecionado e visualize seus identifier pool arquivados ativando a chave seletora "Arquivados" acima da lista. Também é possível desarquivar um identifier pool clicando em <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">.
+É possível arquivar identifier pools para uma melhor organização. Clique em <img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> para arquivar o identifier pool selecionado e visualize seus identifier pools arquivados ativando a chave seletora "Arquivado" acima da lista. Também é possível desarquivar um identifier pool clicando em <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">.
 
 ### Excluindo um Identifier Pool <a href="#deleting-an-identifier-pool" id="deleting-an-identifier-pool"></a>
 
 Você pode excluir um identifier pool clicando no botão de exclusão <img src="../../.gitbook/assets/image (8).png" alt="" data-size="line">. Para prosseguir com o processo, clique em <img src="../../.gitbook/assets/image (9).png" alt="" data-size="line"> para confirmar. Esteja ciente de que as ações de rastreadores baseadas nesses identifier pools deixarão de funcionar.
 
 {% hint style="danger" %}
-Atenção! Tenha cuidado ao excluir _pools_ de identificadores. Esta ação não pode ser desfeita e todos os dados relacionados, incluindo métricas coletadas anteriormente, também serão excluídos.
+Atenção! Tenha cuidado ao excluir identifier pools. Esta ação não pode ser desfeita e todos os dados relacionados, incluindo métricas coletadas anteriormente, também serão excluídos.
 {% endhint %}
 
 ## Configurando Identifier Pools <a href="#configuring-identifier-pools" id="configuring-identifier-pools"></a>
 
-Após criar um identifier pool, é necessário configurá-lo antes de usá-lo como uma segmentação em uma campanha.
+Após criar um identifier pool, é necessário configurá-lo antes de usá-lo como um público-alvo em uma campanha.
 
 Para usar identifier pools, você precisará configurar um rastreador ou usar um já existente. Este artigo é dedicado ao recurso de identifier pools; acesse nossa [documentação de Rastreadores](trackers/) para saber mais sobre a configuração de um rastreador.
 
@@ -69,13 +69,13 @@ Após criar e selecionar um rastreador da lista de rastreadores, siga os passos 
           <figure><img src="../../.gitbook/assets/Captura de tela 2025-02-27 084528.png" alt=""><figcaption><p>Editor de Ação</p></figcaption></figure>
 
           * Nome: Defina um nome para sua ação.
-          * O que fazer?: Selecione Rastrear em Identifier Pool.
+          * O que fazer?: Selecione Rastrear no Identifier Pool.
           * Identifier Pool: Selecione o identifier pool que você vinculará a esta ação.
           * Operação: Selecione se deseja adicionar ou remover identificadores do _pool_.
       3. Clique em ![Save](<../../.gitbook/assets/image (1149).png>) para salvar sua ação.
 3. Clique em ![Save](<../../.gitbook/assets/image (1149).png>) novamente para salvar seu evento.
 
-O rastreador deve ser instalado em todas as páginas do seu site onde você deseja rastrear a atividade do usuário. Após instalar o rastreador, pode levar um tempo, dependendo do tráfego do seu site, até que o sistema colete identificadores suficientes para usá-lo como uma segmentação em uma campanha.
+O rastreador deve ser instalado em todas as páginas do seu site onde você deseja rastrear a atividade do usuário. Após instalar o rastreador, pode levar um tempo, dependendo do tráfego do seu site, até que o sistema colete identificadores suficientes para usá-lo como um público-alvo em uma campanha.
 
 ## Aba de Métricas <a href="#metrics-tab" id="metrics-tab"></a>
 

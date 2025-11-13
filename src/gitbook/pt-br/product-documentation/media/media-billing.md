@@ -1,11 +1,11 @@
-# Cobranças de Mídia
+# Faturamento de Mídia
 
-As faturas de mídia contêm todas as cobranças relacionadas ao armazenamento e download de mídias. A seção é única e todos os detalhes da cobrança estarão nela.
+As faturas de mídia contêm todas as cobranças relacionadas ao armazenamento e download de mídias. A seção é única e todos os detalhes de faturamento estarão nela.
 
-<figure><img src="../../.gitbook/assets/image (657).png" alt=""><figcaption><p>Seção de Cobrança de Mídia</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (657).png" alt=""><figcaption><p>Seção de Faturamento de Mídia</p></figcaption></figure>
 
 {% hint style="info" %}
-Na BMS, priorizamos a transparência ao exibir cada detalhe de sua fatura. Visite nossa [Página Inicial de Cobrança](../billing.md) para entender como as faturas são estruturadas.
+Na BMS, priorizamos a transparência ao exibir cada detalhe de sua fatura. Visite nossa [Página Inicial de Faturamento](../billing.md) para entender como as faturas são estruturadas.
 {% endhint %}
 
 ### Gerenciamento da Biblioteca de Mídia <a href="#media-library-management" id="media-library-management"></a>

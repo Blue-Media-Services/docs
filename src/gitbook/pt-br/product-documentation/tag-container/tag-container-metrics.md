@@ -1,4 +1,4 @@
-# Métricas de Contêiner de Tags
+# Métricas de Contêineres de Tags
 
 Selecione um Contêiner de Tags na lista para exibir as métricas relacionadas a ele na aba de métricas. Selecionar nenhum mostrará métricas gerais da conta para todos os seus Contêineres de Tags, e selecionar mais de um exibirá uma comparação entre os selecionados. Além disso, ao revisar as métricas, você pode sempre usar o <img src="../../.gitbook/assets/image (1089).png" alt="" data-size="line"> para acessar nossos artigos sobre uma métrica específica.
 

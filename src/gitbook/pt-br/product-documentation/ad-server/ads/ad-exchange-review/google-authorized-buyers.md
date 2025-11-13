@@ -21,9 +21,9 @@ Abaixo está uma tabela onde você pode verificar se o seu criativo apresenta al
 \*Nível de Restriçã&#x6F;**:**
 
 * **Moderado** - Anúncios que apresentam ou promovem os tipos de conteúdo sexual a seguir são moderadamente restritos. Eles só serão veiculados com base nas seguintes condições:
-  * A idade do usuário, as leis locais onde o anúncio está sendo veiculado e as configurações do _Safe Search_ do usuário.
+  * A idade do usuário, as leis locais onde o anúncio está sendo veiculado e as configurações do _SafeSearch_ do usuário.
 * **Alto** - Anúncios que apresentam ou promovem os tipos de conteúdo sexual a seguir são altamente restritos. Eles só serão veiculados com base nas seguintes condições:
-  * A idade do usuário, as leis locais onde o anúncio está sendo veiculado e as configurações do Safe Search do usuário.
+  * A idade do usuário, as leis locais onde o anúncio está sendo veiculado e as configurações do SafeSearch do usuário.
   * As consultas de pesquisa de conteúdo sexual do usuário.
 
 Assim que receber uma rejeição para o seu anúncio, identifique qual exemplo se encaixa melhor no seu criativo e faça as alterações necessárias. Após fazer as alterações, reenvie o anúncio para revisão. Se as alterações feitas estiverem corretas, o anúncio não será rejeitado.
@@ -55,7 +55,7 @@ Você também pode clicar [aqui](https://support.google.com/adspolicy/answer/636
 
 A promoção de jogos de azar online com dinheiro real ou sites que contêm ou se vinculam a conteúdo relacionado a jogos de azar online é permitida com restrições específicas de cada país.
 
-Anúncios de jogos de cassino social são permitidos em Leilões Abertos(_Open Auction)_ e em Acordos (_Deals)_ se estiverem em conformidade com as políticas, que serão apresentadas em breve, e se o anunciante tiver sido certificado. Anúncios de jogos de cassino social devem segmentar países aprovados e não devem apelar para menores de idade. Verifique as regulamentações locais para as áreas que você deseja segmentar.
+Anúncios de jogos de cassino social são permitidos em Leilões Abertos (_Open Auction)_ e em Acordos (_Deals)_ se estiverem em conformidade com as políticas, que serão apresentadas em breve, e se o anunciante tiver sido certificado. Anúncios de jogos de cassino social devem segmentar países aprovados e não devem apelar para menores de idade. Verifique as regulamentações locais para as áreas que você deseja segmentar.
 
 É permitida a promoção de jogos de cassino social, que são jogos de simulação de apostas online onde não há oportunidade de ganhar nada de valor, como dinheiro ou prêmios.
 

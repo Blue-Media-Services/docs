@@ -1,10 +1,10 @@
 # ✨ Recursos
 
-## **Servidor de Anúncios** <a href="#a-d-serving" id="a-d-serving"></a>
+## **Ad Server** <a href="#a-d-serving" id="a-d-serving"></a>
 
-Nossos recursos de Ad Server oferecem opções completas de criação e personalização para seus Criativos, Grupos de Criativos, Construtor de Criativos e Anúncios.
+Nossos recursos de _Ad Server_ (Servidor de Anúncios) oferecem opções completas de criação e personalização para seus Criativos, Grupos de Criativos, Construtor de Criativos e Anúncios.
 
-Nessa área, você poderá personalizar seus creatives e configurar seu domínio e tamanho para atender melhor às suas necessidades. Também é possível criar grupos de creatives, que são muito úteis caso queira exibir várias variantes dos mesmos banners, mantendo uma configuração simples dos anúncios. Os grupos de creatives também permitem realizar testes A/B para determinar quais creatives apresentam melhor desempenho.
+Nessa área, você poderá personalizar seus criativos e configurar seu domínio e tamanho para atender melhor às suas necessidades. Também é possível criar grupos de criativos, que são muito úteis caso queira exibir várias variantes dos mesmos banners, mantendo uma configuração simples dos anúncios. Os grupos de criativos também permitem realizar testes A/B para determinar quais criativos apresentam melhor desempenho.
 
 ## **Campanhas** <a href="#campaigns" id="campaigns"></a>
 

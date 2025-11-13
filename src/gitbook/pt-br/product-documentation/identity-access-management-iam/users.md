@@ -23,8 +23,8 @@ Este recurso permite que você compartilhe sua conta BMS com seus parceiros e co
 
           <figure><img src="../../.gitbook/assets/image (851).png" alt=""><figcaption><p>Seletor de Políticas</p></figcaption></figure>
 
-          _**Exemplo 1**: A política "ACC - Account - Full Access" concederá ao usuário acesso total ao recurso de conta, o que significa que o usuário pode editar qualquer informação relacionada à página de contas._\
-          &#xNAN;_**Exemplo 2**: A política "BMS - All Features - Read Only" concederá ao usuário apenas privilégios de leitura para todos os recursos da BMS._
+          _**Exemplo 1**: A política "ACC - Account - Full Access" (Acesso Completo) concederá ao usuário acesso total ao recurso de conta, o que significa que o usuário pode editar qualquer informação relacionada à página de contas._\
+          &#xNAN;_**Exemplo 2**: A política "BMS - All Features - Read Only" (Somente Leitura) concederá ao usuário apenas privilégios de leitura para todos os recursos da BMS._
 3. Após finalizar suas configurações, clique em <img src="../../.gitbook/assets/image (856).png" alt="" data-size="line"> para salvá-las.
 
 O usuário adicionado receberá um convite por e-mail para finalizar o processo de cadastro ou login.
@@ -34,7 +34,7 @@ O usuário adicionado receberá um convite por e-mail para finalizar o processo 
 É possível editar as políticas e os grupos anexados aos usuários clicando em <img src="../../.gitbook/assets/image (860).png" alt="" data-size="line"> na mesma linha do usuário que você precisa editar. O campo de e-mail não pode ser alterado.
 
 {% hint style="danger" %}
-Atenção! Tenha cuidado ao excluir usuários. Esta ação не pode ser desfeita e o usuário perderá o acesso à sua conta.
+Atenção! Tenha cuidado ao excluir usuários. Esta ação não pode ser desfeita e o usuário perderá o acesso à sua conta.
 {% endhint %}
 
 &#x20;Também é possível excluir usuários clicando em <img src="../../.gitbook/assets/image (861).png" alt="" data-size="line"> na mesma linha do usuário que você precisa excluir e, em seguida, confirmando em <img src="../../.gitbook/assets/image (862).png" alt="" data-size="line">.
