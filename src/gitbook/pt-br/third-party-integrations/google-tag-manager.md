@@ -194,8 +194,7 @@ Há muitas coisas que você pode realizar usando tags. O GTM oferece diversos ti
 2. Selecione HTML Personalizado na lista.
 3. No campo HTML, cole o código do pixel que você precisa instalar; no exemplo, foi usado um pixel de produto adicionado ao carrinho.
 4. Lembre-se de substituir o ID da Oferta pelo identificador do produto usado em seu site ou usar uma variável do GTM previamente configurada vinculada a ele. Você pode saber mais sobre como o ID da Oferta da BMS funciona no nosso artigo sobre [Catálogos](../product-documentation/catalog-storage-service-cs2/catalogs.md#instalando-catalogos).
-5.  Selecione os gatilhos que irão controlar quando esta tag será ativada.\
-
+5.  Selecione os gatilhos que irão controlar quando esta tag será ativada.<br>
 
     <figure><img src="../.gitbook/assets/image (915).png" alt=""><figcaption></figcaption></figure>
 6. Dê um nome e salve sua tag.

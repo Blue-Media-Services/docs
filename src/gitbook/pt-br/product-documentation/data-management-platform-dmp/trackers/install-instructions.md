@@ -139,12 +139,10 @@ Depois de criar sua conta e configurar seu aplicativo no AppsFlyer, é hora de a
 
 <figure><img src="../../../.gitbook/assets/image (1165).png" alt=""><figcaption><p>AppsFlyer Partner Marketplace</p></figcaption></figure>
 
-1.  Procure por Blue Media Services LTDA usando a barra de pesquisa e selecione esta opção na lista de resultados.\
-
+1.  Procure por Blue Media Services LTDA usando a barra de pesquisa e selecione esta opção na lista de resultados.<br>
 
     <figure><img src="../../../.gitbook/assets/Captura de tela 2024-12-17 082704.png" alt=""><figcaption><p>BMS Partner Marketplace</p></figcaption></figure>
-2.  Clique em <img src="../../../.gitbook/assets/image (1166).png" alt="" data-size="line"> para começar a configurar a integração.\
-
+2.  Clique em <img src="../../../.gitbook/assets/image (1166).png" alt="" data-size="line"> para começar a configurar a integração.<br>
 
     <figure><img src="../../../.gitbook/assets/image (1167).png" alt=""><figcaption><p>Gerenciador de Integração</p></figcaption></figure>
 3. Ative a chave seletora <img src="../../../.gitbook/assets/image (1168).png" alt="" data-size="line">.
@@ -192,8 +190,7 @@ O rastreamento com o GTM aprimora os insights sobre o comportamento do usuário 
    2. Clique em **Novo** e dê um nome à sua tag como preferir.
    3. Clique em **Configuração da Tags** e escolha **HTML Personalizado (**_**Custom HTML**_**)**.
 2. Adicione o Script de Rastreamento.
-   1.  Copie e cole o script exibido nas instruções de instalação.\
-
+   1.  Copie e cole o script exibido nas instruções de instalação.<br>
 
        <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Modelo de Script do Rastreamento do Google Ads</p></figcaption></figure>
    2. Substitua as seções pelos seus valores personalizados:
@@ -207,8 +204,7 @@ O rastreamento com o GTM aprimora os insights sobre o comportamento do usuário 
    1. Em **Desencadeando**, clique em **+** para adicionar um novo gatilho.
    2. Selecione _**Evento personalizado**_.
    3. Insira o nome do evento que corresponde ao evento enviado para o `dataLayer`.
-      * Exemplo: se seus desenvolvedores estiverem enviando `dataLayer.push({ event: "purchase" })`, use `purchase` como nome do gatilho.\
-
+      * Exemplo: se seus desenvolvedores estiverem enviando `dataLayer.push({ event: "purchase" })`, use `purchase` como nome do gatilho.<br>
    4. Salve o gatilho.
 4. Salvar e Publicar
    1. Salve sua nova tag.

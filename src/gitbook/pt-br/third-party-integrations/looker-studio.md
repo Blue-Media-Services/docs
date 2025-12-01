@@ -18,15 +18,13 @@ A BMS possui um conector parceiro no Looker Studio para a API de métricas. Esse
 2. Vá para a guia Fontes de Dados, localizada logo abaixo da barra de pesquisa.
 3. Clique em "+ Criar Nova Fonte de Dados"
 4. Para renomear sua fonte de dados, clique no nome padrão no canto superior esquerdo da página.
-5.  Pesquise por "BMS" na barra de pesquisa.\
-
+5.  Pesquise por "BMS" na barra de pesquisa.<br>
 
     <figure><img src="../.gitbook/assets/image (1111).png" alt=""><figcaption><p>Localizando o Conector BMS</p></figcaption></figure>
 
 
 6. Clique em _BMS Monitoring_ para selecioná-la como fonte de dados.
-7.  Preencha com os parâmetros corretos:\
-
+7.  Preencha com os parâmetros corretos:<br>
 
     <figure><img src="../.gitbook/assets/image (1112).png" alt=""><figcaption><p>Parâmetros do Conector BMS</p></figcaption></figure>
 

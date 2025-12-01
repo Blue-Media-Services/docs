@@ -19,11 +19,11 @@ layout:
 
 ## Criando uma Campanha <a href="#creating-a-campaign" id="creating-a-campaign"></a>
 
-Na tela de Campanhas, clique em <img src="../../.gitbook/assets/image (761).png" alt="Create Campaign" data-size="line">.
+Na tela de Campanhas, clique em <img src="../../.gitbook/assets/image (761).png" alt="Criar Campanha" data-size="line">.
 
 Preencha as informações:
 
-<figure><img src="../../.gitbook/assets/image (747).png" alt=""><figcaption><p>Criação de Campanha</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (747).png" alt="Criação de Campanha"><figcaption><p>Criação de Campanha</p></figcaption></figure>
 
 * Nome - Escolha um nome para sua campanha;
 * Tags - Até 5 rótulos que podem ser usados para auxiliar na identificação e busca;
@@ -39,17 +39,17 @@ Preencha as informações:
 Atenção! Quanto maior o Limite de Frequência, mais você aparecerá para o mesmo usuário. Quanto menor o Limite de Frequência, você alcançará mais usuários e aparecerá com menos frequência para cada um deles.
 {% endhint %}
 
-Após preencher todos os campos, clique em ![](<../../.gitbook/assets/image (762).png>). Se houver algum campo inválido, ele será mostrado para que você possa revisar o que está faltando.
+Após preencher todos os campos, clique em ![Save (Salvar)](<../../.gitbook/assets/image (762).png>). Se houver algum campo inválido, ele será mostrado para que você possa revisar o que está faltando.
 
 Esta será sua visualização após criar uma campanha com sucesso.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-12-05 073504.png" alt=""><figcaption><p>Lista de Campanhas</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-12-05 073504.png" alt="Lista de Campanhas"><figcaption><p>Lista de Campanhas</p></figcaption></figure>
 
 ## Configurando sua Campanha <a href="#configuring-your-campaign" id="configuring-your-campaign"></a>
 
 Para começar a configurar sua Campanha, marque a <img src="../../.gitbook/assets/image (35).png" alt="" data-size="line"> da campanha desejada e a aba de configuração será exibida.
 
-<figure><img src="../../.gitbook/assets/image (1080).png" alt=""><figcaption><p>Configuração de Campanha </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Campaigns2.jpeg" alt="Configuração de Campanha"><figcaption><p>Configuração de Campanha</p></figcaption></figure>
 
 Configure seu [Orçamento](budgets.md), [Públicos-alvo](targets.md) e [Anúncios](managing-ads.md).
 
@@ -61,11 +61,31 @@ Para habilitar sua campanha, você deve ter pelo menos um Público-alvo e um An�
 Se este aviso aparecer no status do seu criativo, anúncio ou campanha, significa que o material não foi aprovado pela plataforma ou pelas _ad exchanges_. Nesse caso, a BMS informará o problema em questão (em detalhes) ao passar o cursor sobre o sinal, e você poderá fazer os ajustes necessários antes da ativação.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1081).png" alt=""><figcaption><p>Campanha</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Campaigns.jpeg" alt="Campanha"><figcaption><p>Campanha</p></figcaption></figure>
 
 Para habilitar sua campanha, acione o botão Habilitar.
 
-<div align="center"><figure><img src="../../.gitbook/assets/image (156).png" alt="" width="269"><figcaption><p>Campanha Habilitada</p></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (1) (4).png" alt="Campanha Habilitada" width="269"><figcaption><p>Campanha Habilitada</p></figcaption></figure></div>
+
+## Compartilhar Preview do Ad <a href="#share-a-d-preview" id="share-a-d-preview"></a>
+
+Você pode visualizar o seu anúncio e compartilhar o link de prévia com seus clientes. Com esse recurso, eles podem acessar e ver os anúncios que estão rodando na BMS sem precisar fazer login na plataforma. Isso melhora o processo de revisão, garante maior transparência e mantém todos alinhados quanto às atualizações nos criativos. Além disso, permite que os clientes avaliem os anúncios de qualquer lugar, a qualquer momento.
+
+{% hint style="info" %}
+Observe que esse recurso está disponível apenas na área de DSP, na seção de Campanhas.
+{% endhint %}
+
+Para visualizar o seu anúncio, selecione uma ou mais campanhas e depois clique em <img src="../../.gitbook/assets/Visualização.jpeg" alt="Visualização" data-size="line">.
+
+<figure><img src="../../.gitbook/assets/PreviewCompleta.png" alt="Visualização"><figcaption><p>Visualização</p></figcaption></figure>
+
+Para compartilhar a prévia do seu anúncio, clique em <img src="../../.gitbook/assets/image (1198).png" alt="Share Ad Preview" data-size="original"> e, em seguida, selecione “Copy Link” para copiar o link que deseja enviar ao seu cliente.
+
+<figure><img src="../../.gitbook/assets/ShareAd.jpg" alt="Compartilhar Preview do Ad"><figcaption><p>Compartilhar Preview do Ad</p></figcaption></figure>
+
+Ao selecionar "Ads Preview", você pode ver exatamente como o cliente visualizará os anúncios usando o link antes de enviá-lo.
+
+<figure><img src="../../.gitbook/assets/AdLink.jpeg" alt="Ads Preview"><figcaption><p>Ads Preview</p></figcaption></figure>
 
 ## Duplicando sua Campanha <a href="#duplicating-your-campaign" id="duplicating-your-campaign"></a>
 
@@ -75,13 +95,13 @@ Se você deseja reutilizar uma campanha com diferentes configurações sem ter q
 
 Se uma campanha já cumpriu seu propósito, mas você não deseja excluí-la, tem a opção de arquivá-la. Clique em <img src="../../.gitbook/assets/image (37).png" alt="" data-size="line"> para arquivar.
 
-Para verificar suas campanhas arquivadas, clique em <img src="../../.gitbook/assets/image (38).png" alt="" data-size="line"> para mudar sua visualização para campanhas Arquivadas. Lá você verá todas elas e, se desejar recuperar uma campanha, basta clicar em <img src="../../.gitbook/assets/image (39).png" alt="" data-size="line"> e a campanha estará disponível novamente.
+Para verificar suas campanhas arquivadas, clique em <img src="../../.gitbook/assets/image (38).png" alt="Archived (Arquivado)" data-size="line"> para mudar sua visualização para campanhas Arquivadas. Lá você verá todas elas e, se desejar recuperar uma campanha, basta clicar em <img src="../../.gitbook/assets/image (39).png" alt="" data-size="line"> e a campanha estará disponível novamente.
 
 ## Excluindo uma Campanha <a href="#deleting-a-campaign" id="deleting-a-campaign"></a>
 
 Se precisar excluir uma campanha, basta clicar em <img src="../../.gitbook/assets/image (40).png" alt="" data-size="line"> e uma tela de confirmação será exibida. Esta ação não pode ser desfeita e você terá que digitar manualmente o nome da campanha para excluí-la.
 
-<figure><img src="../../.gitbook/assets/image (198).png" alt=""><figcaption><p>Tela de Exclusão de Campanha</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (198).png" alt="Tela de Exclusão de Campanha"><figcaption><p>Tela de Exclusão de Campanha</p></figcaption></figure>
 
 {% hint style="danger" %}
 _Atenção! Aconselhamos sempre a desativar a campanha em vez de excluí-la completamente. Ao excluir uma campanha, todos os dados e métricas também são perdidos._

@@ -20,8 +20,7 @@ Algumas métricas, como o Preço do Lance Efetivo, também terão a opção de e
 
 ### Tabela de Dados <a href="#data-table" id="data-table"></a>
 
-Esta opção trará os mesmos dados que estão nos cartões de métrica em formato de tabela. Esta opção de visualização permite exportar os dados clicando no botão de download <img src="../.gitbook/assets/image (261).png" alt="" data-size="line">.  Você também pode visualizar a tabela em modo de tela cheia clicando em ![](<../.gitbook/assets/image (262).png>).\
-
+Esta opção trará os mesmos dados que estão nos cartões de métrica em formato de tabela. Esta opção de visualização permite exportar os dados clicando no botão de download <img src="../.gitbook/assets/image (261).png" alt="" data-size="line">.  Você também pode visualizar a tabela em modo de tela cheia clicando em ![](<../.gitbook/assets/image (262).png>).<br>
 
 <figure><img src="../.gitbook/assets/image (552).png" alt=""><figcaption><p>Visualização em Tabela de Dados</p></figcaption></figure>
 

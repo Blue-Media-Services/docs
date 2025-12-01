@@ -18,8 +18,7 @@ Este recurso permite que você compartilhe sua conta BMS com seus parceiros e co
       1. Grupos: Você pode selecionar um grupo criado anteriormente e incluir usuários neste grupo. Também é possível criar grupos diretamente deste formulário, clicando em <img src="../../.gitbook/assets/image (849).png" alt="" data-size="line"> e depois em  <img src="../../.gitbook/assets/image (850).png" alt="" data-size="line">. Para saber mais sobre como gerenciar seus grupos, acesse nosso artigo sobre [Grupos](groups.md).
       2.  Políticas: Você pode anexar políticas aos seus usuários para definir a que eles terão acesso. Clique em <img src="../../.gitbook/assets/image (852).png" alt="" data-size="line"> para abrir o seletor de políticas, procure pela política que deseja anexar a este usuário, selecione-a e clique em <img src="../../.gitbook/assets/image (853).png" alt="" data-size="line"> para confirmar sua seleção.&#x20;
 
-          Cada política concede acesso a recursos únicos. Essas políticas são nomeadas de acordo com os recursos aos quais dão acesso e baseiam-se em dois modos: acesso total, que permite ao usuário criar, excluir ou editar, e somente leitura, que permite apenas o acesso para visualização.\
-
+          Cada política concede acesso a recursos únicos. Essas políticas são nomeadas de acordo com os recursos aos quais dão acesso e baseiam-se em dois modos: acesso total, que permite ao usuário criar, excluir ou editar, e somente leitura, que permite apenas o acesso para visualização.<br>
 
           <figure><img src="../../.gitbook/assets/image (851).png" alt=""><figcaption><p>Seletor de Políticas</p></figcaption></figure>
 

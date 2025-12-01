@@ -18,8 +18,7 @@ Você deve adicionar a BMS como uma fonte de tráfego em suas campanhas do Voluu
 
 1. Selecione a guia "Campanhas".
 2. Clique em "Criar" para criar uma nova campanha.
-3.  Selecione "Simples" como modo de criação.\
-
+3.  Selecione "Simples" como modo de criação.<br>
 
     <figure><img src="../.gitbook/assets/image (1126).png" alt=""><figcaption><p>Editor de Campanha no Voluum - Aba <em>Geral</em></p></figcaption></figure>
 
@@ -31,8 +30,7 @@ Você deve adicionar a BMS como uma fonte de tráfego em suas campanhas do Voluu
      * **Rótulo do País:** Selecione o país onde sua campanha está sendo executada.
      * **Modelo de Custo:** Selecione o modelo de custo aplicado à sua campanha.
 5. Depois de estar satisfeito com os demais parâmetros, clique em Salvar para continuar.
-6.  Selecione a guia Rastreamento e Automação.\
-
+6.  Selecione a guia Rastreamento e Automação.<br>
 
     <figure><img src="../.gitbook/assets/image (4) (3).png" alt=""><figcaption><p>Editor de Campanhas do Voluum – Guia Rastreamento e Automação</p></figcaption></figure>
 

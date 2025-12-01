@@ -12,8 +12,7 @@ Siga os passos abaixo para criar seu Contêiner de Tags. Este processo irá gui�
 Usamos cookie pools e rastreadores como exemplos de scripts para explicar esse recurso, mas você pode usar qualquer script ou tag que precisar.
 {% endhint %}
 
-1.  Clique em <img src="../../.gitbook/assets/image (523).png" alt="" data-size="line"> para começar a criar seu Contêiner de Tags.\
-
+1.  Clique em <img src="../../.gitbook/assets/image (523).png" alt="" data-size="line"> para começar a criar seu Contêiner de Tags.<br>
 
     <figure><img src="../../.gitbook/assets/Captura de tela 2024-10-01 114707.png" alt=""><figcaption><p>Editor de Contêiner de Tags</p></figcaption></figure>
 2. Preencha os detalhes:

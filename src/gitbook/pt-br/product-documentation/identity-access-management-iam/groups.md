@@ -7,8 +7,7 @@ Crie grupos para simplificar o gerenciamento de políticas para múltiplos usuá
 <figure><img src="../../.gitbook/assets/image (859).png" alt=""><figcaption><p>Lista de Grupos</p></figcaption></figure>
 
 1. Clique em <img src="../../.gitbook/assets/image (863).png" alt="" data-size="line"> para adicionar um novo Grupo.
-2.  Preencha as informações:\
-
+2.  Preencha as informações:<br>
 
     <figure><img src="../../.gitbook/assets/image (864).png" alt=""><figcaption><p>Editor de Grupos</p></figcaption></figure>
 
@@ -35,8 +34,7 @@ Na aba Usuários, você poderá editar os usuários de seus grupos. Selecione um
 <figure><img src="../../.gitbook/assets/image (867).png" alt=""><figcaption><p>Aba de Usuários</p></figcaption></figure>
 
 1. Clique em <img src="../../.gitbook/assets/image (868).png" alt="" data-size="line"> para adicionar um novo usuário ao seu grupo.
-2.  Informe o e-mail do usuário:\
-
+2.  Informe o e-mail do usuário:<br>
 
     <figure><img src="../../.gitbook/assets/image (869).png" alt=""><figcaption><p>Adicionar Usuário</p></figcaption></figure>
 3. Clique em <img src="../../.gitbook/assets/image (870).png" alt="" data-size="line"> para adicionar o usuário.

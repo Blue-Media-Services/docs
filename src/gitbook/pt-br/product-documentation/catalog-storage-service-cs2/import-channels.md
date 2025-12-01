@@ -15,8 +15,7 @@ Os Canais de Importação podem importar dados de sites HTTP, FTP ou SFTP. O for
 {% endhint %}
 
 1. Clique em <img src="../../.gitbook/assets/image (121).png" alt="" data-size="line"> para começar a criar seu Canal de Importação.
-2.  Preencha as informações solicitadas nas 3 abas:\
-
+2.  Preencha as informações solicitadas nas 3 abas:<br>
 
     <figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption><p>Editor de Canal de Importação</p></figcaption></figure>
 
@@ -101,17 +100,14 @@ Os Canais de Importação podem importar dados de sites HTTP, FTP ou SFTP. O for
         * _**Exemplo 1**: Nesta imagem, você notará que um filtro foi estabelecido usando a coluna description do arquivo de feed como referência para o caminho, o operador escolhido foi 'Contains, e o Valor foi 'Cerdo', significando que este canal de importação só importará produtos que contenham a palavra 'Cerdo' em sua descrição. Você também notará que no modelo, o conteúdo da linha 'description' foi modificado para corresponder ao valor do filtro._
         * _**Exemplo 2**: Você também notará um filtro usando a coluna 'url' como referência para o caminho; este foi adicionado manualmente. Para adicionar novas colunas manualmente aos seus filtros, elas também devem estar presentes no mapeamento do seu feed. Você também precisa respeitar a semântica do modelo: colunas são separadas por vírgula, e dois pontos são usados para separar o rótulo de uma coluna de seu valor. Rótulos e valores de colunas devem ser declarados entre aspas._
 3. Uma vez que tenha finalizado os passos acima, verifique suas configurações para garantir que tudo está correto, então clique em <img src="../../.gitbook/assets/image (126).png" alt="" data-size="line"> para salvar seu Canal de Importação.
-4.  Clique em <img src="../../.gitbook/assets/image (111).png" alt="" data-size="original"> para iniciar um _job_ (tarefa) manual de importação de seus produtos:\
-
+4.  Clique em <img src="../../.gitbook/assets/image (111).png" alt="" data-size="original"> para iniciar um _job_ (tarefa) manual de importação de seus produtos:<br>
 
     <figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption><p>Tela de Iniciar <em>Jobs</em> (Tarefas) Manuais</p></figcaption></figure>
 5. Clique em <img src="../../.gitbook/assets/image (114).png" alt="" data-size="line"> para começar a importar seus produtos.
-6.  Também é possível importar apenas alguns produtos para testar se tudo funciona bem antes de iniciar a importação completa. Podemos fazer isso marcando a caixa 'Modo de Teste', preenchendo os detalhes e clicando em <img src="../../.gitbook/assets/image (115).png" alt="" data-size="line">.\
-
+6.  Também é possível importar apenas alguns produtos para testar se tudo funciona bem antes de iniciar a importação completa. Podemos fazer isso marcando a caixa 'Modo de Teste', preenchendo os detalhes e clicando em <img src="../../.gitbook/assets/image (115).png" alt="" data-size="line">.<br>
 
     <figure><img src="../../.gitbook/assets/image (484).png" alt=""><figcaption><p>Tela de Iniciar <em>Jobs</em> (Tarefas) Manuais - Modo de Teste</p></figcaption></figure>
-7.  Acompanhe sua importação na aba Tarefas. Nesta aba, podemos ver os problemas com nossa importação ou se foram concluídas. É possível entender o problema clicando em  ![](<../../.gitbook/assets/image (347).png>) ou ![](<../../.gitbook/assets/image (348).png>) na mesma linha da tarefa que falhou.\
-
+7.  Acompanhe sua importação na aba Tarefas. Nesta aba, podemos ver os problemas com nossa importação ou se foram concluídas. É possível entender o problema clicando em  ![](<../../.gitbook/assets/image (347).png>) ou ![](<../../.gitbook/assets/image (348).png>) na mesma linha da tarefa que falhou.<br>
 
     <figure><img src="../../.gitbook/assets/image (345).png" alt=""><figcaption><p>Aba Tarefas</p></figcaption></figure>
 

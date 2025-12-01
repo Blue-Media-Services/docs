@@ -29,8 +29,7 @@ Na página inicial da BMS, clique em Builds, na seção _Ad Server_, para acessa
 
 Antes de criar um _build_, é necessário criar seus _blueprints_. Se você ainda não fez isso, siga as instruções na página de [_Blueprints_](blueprints.md) e depois retorne.
 
-1.  Clique em <img src="../../../.gitbook/assets/image (298).png" alt="" data-size="line"> para começar a criar seu _Build_.\
-
+1.  Clique em <img src="../../../.gitbook/assets/image (298).png" alt="" data-size="line"> para começar a criar seu _Build_.<br>
 
     <figure><img src="../../../.gitbook/assets/image (299).png" alt=""><figcaption><p>Editor de Builds</p></figcaption></figure>
 2. Preencha os detalhes:

@@ -29,8 +29,7 @@ Use modelos de recomendação para exibir seus produtos em banners dinâmicos, q
 Antes de criar um modelo de recomendação, é necessário configurar os catálogos e os serviços da DMP que atuarão como fontes para nossos modelos de recomendação.
 
 1. Clique em <img src="../../.gitbook/assets/image (340).png" alt="" data-size="line"> para começar a criar um modelo de recomendação.
-2.  Preencha as informações:\
-
+2.  Preencha as informações:<br>
 
     <figure><img src="../../.gitbook/assets/image (264).png" alt=""><figcaption><p>Editor de Modelos de Recomendação</p></figcaption></figure>
 
@@ -47,8 +46,7 @@ Após criar um modelo de recomendação, é necessário configurar suas fontes a
 
 1. Selecione um modelo de recomendação na lista.
 2. Clique em <img src="../../.gitbook/assets/image (344).png" alt="" data-size="line"> para adicionar uma fonte para este modelo.
-3.  Preencha as informações:\
-
+3.  Preencha as informações:<br>
 
     <figure><img src="../../.gitbook/assets/image (338).png" alt=""><figcaption><p>Editor de Fontes de Modelos de Recomendação - Rastreador DMP</p></figcaption></figure>
 

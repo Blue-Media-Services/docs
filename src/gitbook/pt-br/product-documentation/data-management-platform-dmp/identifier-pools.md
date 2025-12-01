@@ -53,8 +53,7 @@ Siga os passos abaixo para criar uma ação para um rastreador que adicionará o
 Após criar e selecionar um rastreador da lista de rastreadores, siga os passos abaixo para vinculá-lo ao seu identifier pool:
 
 1. Na aba Configuração, na seção de eventos rastreados, clique em ![Add Event](<../../.gitbook/assets/image (1158).png>) para adicionar um novo evento.
-2.  Preencha as informações:\
-
+2.  Preencha as informações:<br>
 
     <figure><img src="../../.gitbook/assets/image (1161).png" alt=""><figcaption><p>Editor de Evento</p></figcaption></figure>
 
@@ -63,8 +62,7 @@ Após criar e selecionar um rastreador da lista de rastreadores, siga os passos 
     * Campos de dados personalizados: Defina campos de dados a serem coletados quando o evento for capturado.
     * Ações: Defina ações a serem executadas quando este evento for solicitado. Neste artigo, definiremos uma ação que adiciona ou remove identificadores do nosso _pool_ de identificadores.
       1. Clique em ![Add Event](<../../.gitbook/assets/image (1158).png>) para adicionar uma nova ação.
-      2.  Preencha as informações:\
-
+      2.  Preencha as informações:<br>
 
           <figure><img src="../../.gitbook/assets/Captura de tela 2025-02-27 084528.png" alt=""><figcaption><p>Editor de Ação</p></figcaption></figure>
 

@@ -25,8 +25,7 @@ Clique em ![create blueprint](<../../../.gitbook/assets/image (889).png>) para c
    * Tags: Defina tags para uma melhor organização.
    * Disponibilidade: Selecione se você quer que este _blueprint_ seja público ou privado. _Blueprints_ públicos estarão disponíveis para todos na BMS.
    * Gerar Tamanhos: Selecione em quais tamanhos este _blueprint_ irá construir seus criativos.
-   *   Parâmetros: Clique em ![](<../../../.gitbook/assets/image (308).png>) para criar um novo grupo de parâmetros.\
-
+   *   Parâmetros: Clique em ![](<../../../.gitbook/assets/image (308).png>) para criar um novo grupo de parâmetros.<br>
 
        <figure><img src="../../../.gitbook/assets/image (327).png" alt=""><figcaption><p>Criador de Grupo de Parâmetros</p></figcaption></figure>
 

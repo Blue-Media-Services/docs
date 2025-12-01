@@ -73,8 +73,7 @@ Após criar a Chave de API, você precisa gerar um Código de Acesso antes de po
 <figure><img src="../../.gitbook/assets/image (1035).png" alt=""><figcaption><p>Aba Códigos de Acesso</p></figcaption></figure>
 
 1. Selecione a Chave de API para a qual o código de acesso precisa ser criado.
-2.  Clique em <img src="../../.gitbook/assets/image (1036).png" alt="" data-size="line"> para criar um código de acesso para a Chave de API selecionada.\
-
+2.  Clique em <img src="../../.gitbook/assets/image (1036).png" alt="" data-size="line"> para criar um código de acesso para a Chave de API selecionada.<br>
 
     <figure><img src="../../.gitbook/assets/image (983).png" alt=""><figcaption><p>Aba Códigos de Acesso</p></figcaption></figure>
 3. Insira uma descrição para seu código de acesso.

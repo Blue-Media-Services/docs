@@ -18,8 +18,7 @@ Os dados de faturamento também são editáveis. Neste caso, todos os campos dis
 
 <figure><img src="../../.gitbook/assets/image (583).png" alt=""><figcaption><p>Editor das Informações de Faturamento</p></figcaption></figure>
 
-Você pode editar seus dados clicando em ![Edit](<../../.gitbook/assets/image (1075).png>) na seção que precisa ser editada. Após terminar, clique em ![](<../../.gitbook/assets/image (762).png>) para salvar suas alterações.\
-
+Você pode editar seus dados clicando em ![Edit](<../../.gitbook/assets/image (1075).png>) na seção que precisa ser editada. Após terminar, clique em ![](<../../.gitbook/assets/image (762).png>) para salvar suas alterações.<br>
 
 ## Organização <a href="#organization" id="organization"></a>
 

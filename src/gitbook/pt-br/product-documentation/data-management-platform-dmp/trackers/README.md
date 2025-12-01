@@ -64,8 +64,7 @@ Configure eventos a serem rastreados e ações a serem executadas pelo rastreado
 Configure eventos de acordo com as atividades realizadas pelos usuários em seu site ou aplicativo, por exemplo, adicionar produtos ao carrinho, visualizar produtos, entre outros.
 
 1. Na aba Configuração, clique em <img src="../../../.gitbook/assets/image (364).png" alt="" data-size="original"> para começar a criar um evento.
-2.  Preencha as informações:\
-
+2.  Preencha as informações:<br>
 
     <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Editor de Eventos</p></figcaption></figure>
 
