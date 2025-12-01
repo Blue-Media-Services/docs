@@ -16,7 +16,7 @@ You can choose who to show ads to based on where these users are located by eith
 
 ### **Location**
 
-<figure><img src="../../.gitbook/assets/image (740).png" alt=""><figcaption><p>Location Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (824).png" alt=""><figcaption><p>Location Tab</p></figcaption></figure>
 
 * Geographies - By selecting specific countries or regions, your ads will only appear to users accessing from those geographic locations.
 * Geo-fences - By selecting specific countries or regions, your ads will only appear to users accessing from those geographic locations.
@@ -25,7 +25,7 @@ You can choose who to show ads to based on where these users are located by eith
 
 By selecting this target option, your content target will direct your ads only to websites, meaning only website users will receive your ads based on the following content options.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Contents - Only Websites</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (97) (1).png" alt=""><figcaption><p>Contents - Only Websites</p></figcaption></figure>
 
 * Languages - By including a particular language, your ads will only appear on websites in that language.
 * Categories - By including specific categories, your ads will only appear on websites featuring content in those categories.
@@ -37,7 +37,7 @@ By selecting this target option, your content target will direct your ads only t
 
 By selecting this target option, your content target will deliver your ads only to apps, meaning that only app users will receive your ads based on the apps' selection.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Contents - Only Apps</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (99) (1).png" alt=""><figcaption><p>Contents - Only Apps</p></figcaption></figure>
 
 * Apps - By including specific apps, your ads will only appear on those specified apps. Alternatively, excluding certain apps ensures your ads will not be shown on those apps but will remain available on all others. If no app preferences are set, your ads can be displayed on any app, maximizing reach.
 
@@ -55,7 +55,7 @@ By selecting this target option, your content target will deliver your ads to us
 
 ### **Device**
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (98) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Operating Systems - By selecting specific operating systems, your ads will be displayed to users navigating the web on those systems.
 * Browsers - By selecting specific browsers, your ads will be displayed to users navigating the web through those browsers.
@@ -65,7 +65,7 @@ By selecting this target option, your content target will deliver your ads to us
 
 ### **Inventory**
 
-<figure><img src="../../.gitbook/assets/image (839).png" alt=""><figcaption><p>Inventory Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (925).png" alt=""><figcaption><p>Inventory Tab</p></figcaption></figure>
 
 * Exchange - By selecting specific ad exchanges, your ads will be displayed through those platforms.
 * Position - Select specific inventory positions to strategically place your ads for optimal visibility and engagement.
@@ -96,11 +96,11 @@ On the selected Campaign page, Press <img src="../../.gitbook/assets/image (72).
 
 <figure><img src="../../.gitbook/assets/image (71).png" alt="" width="563"><figcaption><p>Create Target Screen</p></figcaption></figure>
 
-When adding targets, pay attention to the <img src="../../.gitbook/assets/image (385).png" alt="Check" data-size="original"> and <img src="../../.gitbook/assets/image (386).png" alt="Exclude" data-size="line"> signs. These indicate whether you are selecting or excluding a filter for your campaign. The filters you choose will be **listed** in your target filter, showing what will be targeted or excluded from that specific target.
+When adding targets, pay attention to the <img src="../../.gitbook/assets/image (84) (1).png" alt="Check" data-size="original"> and <img src="../../.gitbook/assets/image (85) (1).png" alt="Exclude" data-size="line"> signs. These indicate whether you are selecting or excluding a filter for your campaign. The filters you choose will be **listed** in your target filter, showing what will be targeted or excluded from that specific target.
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-08-21 073343.png" alt=""><figcaption><p>Target Selection or Exclusion</p></figcaption></figure>
 
-After selecting and configuring your target, click on ![](<../../.gitbook/assets/image (676).png>).
+After selecting and configuring your target, click on ![](<../../.gitbook/assets/image (762).png>).
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-08-21 073834.png" alt=""><figcaption><p>Configured Target Screen</p></figcaption></figure>
 
@@ -130,23 +130,23 @@ _**Example**: In the picture above, you will notice that English and Portuguese 
 
 To start a campaign and use your configured target, ensure the targets are enabled if you need to modify or simply stop using a specific target. You can disable it and the campaign will stop using that target immediately.
 
-<figure><img src="../../.gitbook/assets/image (669).png" alt=""><figcaption><p>Target Toggles</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (755).png" alt=""><figcaption><p>Target Toggles</p></figcaption></figure>
 
 ## Duplicating a Target
 
-If you want to reutilize a dense target but with few changes, you have the option to duplicate that target and save time, simply click on <img src="../../.gitbook/assets/image (123).png" alt="Duplicate Target" data-size="line"> to duplicate your target and a copy of that target will be instantly created.
+If you want to reutilize a dense target but with few changes, you have the option to duplicate that target and save time, simply click on <img src="../../.gitbook/assets/image (209).png" alt="Duplicate Target" data-size="line"> to duplicate your target and a copy of that target will be instantly created.
 
 ## Bulk Actions
 
 If you select more than one target, it is possible to make bulk actions.
 
-After selecting two or more targets, the bulk actions button will be enabled, <img src="../../.gitbook/assets/image (667).png" alt="Bulk Actions" data-size="line"> then after clicking on the menu, you will be shown three possibilities which are: **Enable**, **Disable** and **Delete** targets in bulk, this helps you make more actions at once.
+After selecting two or more targets, the bulk actions button will be enabled, <img src="../../.gitbook/assets/image (753).png" alt="Bulk Actions" data-size="line"> then after clicking on the menu, you will be shown three possibilities which are: **Enable**, **Disable** and **Delete** targets in bulk, this helps you make more actions at once.
 
 ## Deleting a Target
 
-If a target is no longer useful for your campaign, you can click on <img src="../../.gitbook/assets/image (124).png" alt="Delete Target" data-size="line"> to permanently delete the target, and a confirmation screen will be shown to you.&#x20;
+If a target is no longer useful for your campaign, you can click on <img src="../../.gitbook/assets/image (210).png" alt="Delete Target" data-size="line"> to permanently delete the target, and a confirmation screen will be shown to you.
 
-<figure><img src="../../.gitbook/assets/image (668).png" alt=""><figcaption><p>Target Deletion</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (754).png" alt=""><figcaption><p>Target Deletion</p></figcaption></figure>
 
 {% hint style="danger" %}
 _Attention! We always advise disabling the target beforehand and analyzing if it is necessary to delete or simply modify it since the action cannot be undone._

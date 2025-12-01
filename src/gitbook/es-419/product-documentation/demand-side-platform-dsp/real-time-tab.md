@@ -29,9 +29,9 @@ When checking real time events for Creatives or Creative Groups no "impression" 
 
 You can choose what events to see by toggling the selector:
 
-<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption><p>Event filter</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (231).png" alt=""><figcaption><p>Event filter</p></figcaption></figure>
 
-For any event displayed on the list, you can click on the details button ![](<../../.gitbook/assets/image (452).png>) to see more:
+For any event displayed on the list, you can click on the details button ![](<../../.gitbook/assets/image (538).png>) to see more:
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-12-30 090243.png" alt=""><figcaption><p>Event detail screen</p></figcaption></figure>
 

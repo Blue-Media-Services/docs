@@ -48,13 +48,13 @@ After clicking on <img src="../../.gitbook/assets/image (52).png" alt="Delete" d
 _Attention! We advise you to deactivate the Catalog instead of completely deleting it. When deleting a Catalog, all data and metrics are lost as well._
 {% endhint %}
 
-## Installing Catalogs&#x20;
+## Installing Catalogs
 
 In order to activate our metrics and events, you are required to install a pixel on your website to start collecting data.
 
 Select a Catalog where you want to install your pixels and then move to the Install Instructions tab.
 
-<figure><img src="../../.gitbook/assets/image (389).png" alt=""><figcaption><p>Install Instructions Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption><p>Install Instructions Tab</p></figcaption></figure>
 
 Each event has a correct page to have your pixel installed, check on each event description to know exactly where.
 

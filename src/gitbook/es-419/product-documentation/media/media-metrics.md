@@ -1,6 +1,6 @@
 # Métricas de Medios
 
-Una vez que llenes tu cuenta con medios para crear creativos, nuestra plataforma comenzará a proporcionar métricas relacionadas con todos los medios almacenados en tu cuenta. Además, al revisar las métricas, siempre puedes usar el <img src="../../.gitbook/assets/image (1003).png" alt="" data-size="line"> para acceder a nuestros artículos sobre una métrica específica.
+Una vez que llenes tu cuenta con medios para crear creativos, nuestra plataforma comenzará a proporcionar métricas relacionadas con todos los medios almacenados en tu cuenta. Además, al revisar las métricas, siempre puedes usar el <img src="../../.gitbook/assets/image (462).png" alt="" data-size="line"> para acceder a nuestros artículos sobre una métrica específica.
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-12-10 081603.png" alt=""><figcaption><p>Métricas de Medios</p></figcaption></figure>
 

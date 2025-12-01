@@ -1,16 +1,16 @@
 # Métricas de CS2
 
-These are all the metrics available in the CS2 product for analyzing the performance of your catalogs, products, import channels and recommendation models. Additionally, when reviewing metrics, you can always click the <img src="../../.gitbook/assets/image (1023).png" alt="Information" data-size="line"> to access our articles about it.
+These are all the metrics available in the CS2 product for analyzing the performance of your catalogs, products, import channels and recommendation models. Additionally, when reviewing metrics, you can always click the <img src="../../.gitbook/assets/image (462).png" alt="Information" data-size="line"> to access our articles about it.
 
 {% hint style="info" %}
-You can learn more about how metrics are handled by visiting the [Metrics page](../metricas.md).&#x20;
+You can learn more about how metrics are handled by visiting the [Metrics page](../metricas.md).
 {% endhint %}
 
 ### Product Count
 
 This metric displays the total number of products in your catalog within the specified time frame.
 
-<figure><img src="../../.gitbook/assets/image (1019).png" alt=""><figcaption><p>Product Count</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (458).png" alt=""><figcaption><p>Product Count</p></figcaption></figure>
 
 _**Example**: When importing your catalog's feed it's possible to experience some issues, like a missing product, for example, this metric shows the number of products that are included in your catalog, and this can help you to notice missing products. In this picture, the defined time frame was 8 days, divided into daily periods, you will notice that there are a little more than 1 million products in this catalog, the number of products has changed each day, showing that this catalog is being updated daily._
 
@@ -18,7 +18,7 @@ _**Example**: When importing your catalog's feed it's possible to experience som
 
 This metric shows the number of products added to your catalog in the defined time frame.
 
-<figure><img src="../../.gitbook/assets/image (1020).png" alt=""><figcaption><p>Products Added</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (459).png" alt=""><figcaption><p>Products Added</p></figcaption></figure>
 
 _**Example**: You can have your new products added to your catalog anytime you need, this metric will help you to understand how many new products were added to your catalog. In this picture, you can observe that the defined time frame was 8 days, divided into daily periods, on Sep 2, nearly 3 thousand products were added to the catalog, you can also observe that every day, new products were added._
 
@@ -26,7 +26,7 @@ _**Example**: You can have your new products added to your catalog anytime you n
 
 This metric displays the number of products in your catalog that have been updated in the defined time frame.
 
-<figure><img src="../../.gitbook/assets/image (1021).png" alt=""><figcaption><p>Products Updated</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (460).png" alt=""><figcaption><p>Products Updated</p></figcaption></figure>
 
 _**Example**: When updating the catalog, this metric will help you track the number of products that were updated. Use this data to ensure that all the updates made to your feed file were processed by the platform. In this picture, the defined time frame was 8 days divided into daily periods, you will notice that on Sep 2, nearly 3 million products were updated, then, between Sep 3 and Sep 5, almost 4 million products were updated daily, after that we can observe a decreasing number of products updates._
 
@@ -34,7 +34,7 @@ _**Example**: When updating the catalog, this metric will help you track the num
 
 This metric shows the number of products that were removed from your catalog in the defined time frame.
 
-<figure><img src="../../.gitbook/assets/image (1022).png" alt=""><figcaption><p>Products Removed</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (461).png" alt=""><figcaption><p>Products Removed</p></figcaption></figure>
 
 _**Example**: When updating your catalog, this metric will help you track the number of products removed. Use this data to ensure that all the products you removed from the feed file were also removed from your catalog. In this picture, the defined time frame was 9 days divided into daily periods, you will observe that on Sep 9, almost 1 million products were removed from this catalog, and no product was removed between Sep 11 and Sep 15, on Sep 16 a few products were removed from the catalog, and then on Sep 18, we have another huge catalog update, removing almost 1 million products again._
 
@@ -60,7 +60,7 @@ This metric shows the number of times the selected products were visualized in t
 
 <figure><img src="../../.gitbook/assets/Product View Count.png" alt=""><figcaption><p>Product View Count Metric</p></figcaption></figure>
 
-_**Example:** Suppose you have installed on your website a product view event, with an action of track in the catalog, these metrics will show you a count of how many times the selected products were viewed on your website. Use this data to understand which products your audience is more interested in, then create a recommendation model based on this data. This graph's defined time frame was 3 days, divided into 6h  periods, represented as dots. You will notice that on June 24th, between 12 AM and 6 AM the selected products were visualized nearly 3000 times._
+_**Example:** Suppose you have installed on your website a product view event, with an action of track in the catalog, these metrics will show you a count of how many times the selected products were viewed on your website. Use this data to understand which products your audience is more interested in, then create a recommendation model based on this data. This graph's defined time frame was 3 days, divided into 6h periods, represented as dots. You will notice that on June 24th, between 12 AM and 6 AM the selected products were visualized nearly 3000 times._
 
 ### **Import Job Count**
 
@@ -96,7 +96,7 @@ _**Example:** When an import job has been completed, however, some issues occur 
 
 ### **Import Job Processed Bytes**
 
-This metric shows the amount of bytes processed during the import jobs in the defined time frame.&#x20;
+This metric shows the amount of bytes processed during the import jobs in the defined time frame.
 
 <figure><img src="../../.gitbook/assets/Import Job Processed Bytes.png" alt=""><figcaption><p>Import Job Processed Bytes</p></figcaption></figure>
 

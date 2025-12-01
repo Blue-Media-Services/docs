@@ -4,7 +4,7 @@ description: Learn how to create, edit and analyze your Ads' metrics here.
 
 # Anuncios
 
-In the Ads area, you will create the Ads for your campaign, adding the group of creatives you want to send to the Ad Exchanges for approval.&#x20;
+In the Ads area, you will create the Ads for your campaign, adding the group of creatives you want to send to the Ad Exchanges for approval.
 
 You have complete control and visualization of the status of your Ad in each of the Ad Exchanges and you can also create rules for promoting these Ads.
 
@@ -14,13 +14,13 @@ In the dedicated ads management area, you will be able to manage your ads with e
 
 Bulk actions are available after selecting 2 or more ads. Use this option to delete, archive or send ads for review in bulk.
 
-<figure><img src="../../../.gitbook/assets/image (486).png" alt=""><figcaption><p>Ads List</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (572).png" alt=""><figcaption><p>Ads List</p></figcaption></figure>
 
 ## Creating Ads <a href="#creatingads" id="creatingads"></a>
 
-To create ads, click on <img src="../../../.gitbook/assets/image (479).png" alt="Create Ads" data-size="line"> either in the Ads area or in the Campaigns area to get started.
+To create ads, click on <img src="../../../.gitbook/assets/image (565).png" alt="Create Ads" data-size="line"> either in the Ads area or in the Campaigns area to get started.
 
-<figure><img src="../../../.gitbook/assets/image (549).png" alt=""><figcaption><p>Creating Ads</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (635).png" alt=""><figcaption><p>Creating Ads</p></figcaption></figure>
 
 On the Select Assets Tab, you will need to fulfill a domain in which your creatives will be representing, you can choose between creating new creatives or using existing creatives.
 
@@ -28,29 +28,29 @@ To configure your UTM Tags, check [here](../creatives.md#editing-utms) for more 
 
 ### Creating New Creatives
 
-When creating new creatives through our ads tab, you can click on <img src="../../../.gitbook/assets/image (937).png" alt="Add Images" data-size="line"> to upload images.  You can use existing images from your media library, upload new images directly from your computer, or insert your Web Address (URL).
+When creating new creatives through our ads tab, you can click on <img src="../../../.gitbook/assets/image (193).png" alt="Add Images" data-size="line"> to upload images. You can use existing images from your media library, upload new images directly from your computer, or insert your Web Address (URL).
 
 After selecting your images, you will be shown your uploaded images.
 
-<figure><img src="../../../.gitbook/assets/image (915).png" alt=""><figcaption><p>New Creatives List</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (171).png" alt=""><figcaption><p>New Creatives List</p></figcaption></figure>
 
 ### Use Existing Creatives
 
 If you wish to create new Ads based on existing Creatives, select the Use Existing Creatives tab, note that if you have previously selected any images on the Create New Creatives tab, all of your images will be discarded.
 
-<figure><img src="../../../.gitbook/assets/image (917).png" alt=""><figcaption><p>Existing Creatives</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (173).png" alt=""><figcaption><p>Existing Creatives</p></figcaption></figure>
 
-* To use existing creatives, click on <img src="../../../.gitbook/assets/image (918).png" alt="Add Creatives" data-size="line"> and you will be presented with a list of all created creatives.
+* To use existing creatives, click on <img src="../../../.gitbook/assets/image (174).png" alt="Add Creatives" data-size="line"> and you will be presented with a list of all created creatives.
 
-<figure><img src="../../../.gitbook/assets/image (919).png" alt="" width="540"><figcaption><p>Creatives List</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (175).png" alt="" width="540"><figcaption><p>Creatives List</p></figcaption></figure>
 
-* You also have the option to create a creative directly from this screen, by clicking on <img src="../../../.gitbook/assets/image (554).png" alt="Create Creative" data-size="line">.
-* Once you have chosen all necessary creatives, click on <img src="../../../.gitbook/assets/image (550).png" alt="Select" data-size="line"> and all selected creatives will be listed.
-* You can also Preview your ad by clicking on <img src="../../../.gitbook/assets/image (923).png" alt="" data-size="line">, and if necessary, you can remove any unwanted creatives for your ad by clicking on <img src="../../../.gitbook/assets/image (924).png" alt="Remove" data-size="line">.
+* You also have the option to create a creative directly from this screen, by clicking on <img src="../../../.gitbook/assets/image (34) (1).png" alt="Create Creative" data-size="line">.
+* Once you have chosen all necessary creatives, click on <img src="../../../.gitbook/assets/image (636).png" alt="Select" data-size="line"> and all selected creatives will be listed.
+* You can also Preview your ad by clicking on <img src="../../../.gitbook/assets/image (179).png" alt="" data-size="line">, and if necessary, you can remove any unwanted creatives for your ad by clicking on <img src="../../../.gitbook/assets/image (180).png" alt="Remove" data-size="line">.
 
-<figure><img src="../../../.gitbook/assets/image (922).png" alt=""><figcaption><p>Existing Creatives List</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (178).png" alt=""><figcaption><p>Existing Creatives List</p></figcaption></figure>
 
-* After making all necessary changes, click on <img src="../../../.gitbook/assets/image (555).png" alt="Next" data-size="line"> to move to the next step.
+* After making all necessary changes, click on <img src="../../../.gitbook/assets/image (35).png" alt="Next" data-size="line"> to move to the next step.
 
 ### A/B Test
 
@@ -60,8 +60,8 @@ It is necessary to have more than one creative selected in order to use the A/B 
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 074415.png" alt=""><figcaption><p>A/B Test</p></figcaption></figure>
 
-* You can select whether you will be using the A/B Test by clicking on the <img src="../../../.gitbook/assets/image (927).png" alt="" data-size="line"> corresponding to your decision, then if necessary, set a custom Suffix to better identify your A/B creatives.
-* After making all necessary changes, click on <img src="../../../.gitbook/assets/image (555).png" alt="Next" data-size="line"> to move to the next step.
+* You can select whether you will be using the A/B Test by clicking on the <img src="../../../.gitbook/assets/image (183).png" alt="" data-size="line"> corresponding to your decision, then if necessary, set a custom Suffix to better identify your A/B creatives.
+* After making all necessary changes, click on <img src="../../../.gitbook/assets/image (35).png" alt="Next" data-size="line"> to move to the next step.
 
 ### Naming and Tagging
 
@@ -76,7 +76,7 @@ You can check the current status of your settings by checking the Preview Editor
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 074521.png" alt=""><figcaption><p>Naming and Tagging Strategy</p></figcaption></figure>
 
-After making all necessary changes, click on <img src="../../../.gitbook/assets/image (555).png" alt="Next" data-size="line"> to move to the next step.
+After making all necessary changes, click on <img src="../../../.gitbook/assets/image (35).png" alt="Next" data-size="line"> to move to the next step.
 
 ### Rules
 
@@ -88,16 +88,16 @@ _If no schedule is set, all of your ads will be displayed all day long every day
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 074620.png" alt=""><figcaption><p>Configuring Default Rule</p></figcaption></figure>
 
-* To set a specific time for each day or remove a day from your schedule, click on the dropdown <img src="../../../.gitbook/assets/image (929).png" alt="Dropdown" data-size="line">.
+* To set a specific time for each day or remove a day from your schedule, click on the dropdown <img src="../../../.gitbook/assets/image (185).png" alt="Dropdown" data-size="line">.
 
-<figure><img src="../../../.gitbook/assets/image (930).png" alt="" width="364"><figcaption><p>Schedule Settings</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (186).png" alt="" width="364"><figcaption><p>Schedule Settings</p></figcaption></figure>
 
 * You can set a specific time for your Ad to be displayed. If all boxes are unchecked, the selected day will be removed from your schedule.
 * While making changes to your schedule, our Preview Editor will display how many hours per week the ads will be displayed.
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 075035.png" alt=""><figcaption><p>Preview Editor - Rules</p></figcaption></figure>
 
-* After making all necessary changes, click on <img src="../../../.gitbook/assets/image (555).png" alt="Next" data-size="line"> to move to the next step.
+* After making all necessary changes, click on <img src="../../../.gitbook/assets/image (35).png" alt="Next" data-size="line"> to move to the next step.
 
 ### Exchanges
 
@@ -106,15 +106,15 @@ All ads are sent for review and need Ad Exchange approval in order to be availab
 <figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 075154.png" alt=""><figcaption><p>Exchanges Selection</p></figcaption></figure>
 
 * Some Ad Exchanges do not require a review, and your Ads will be available for immediate use.
-* After making all necessary changes, click on <img src="../../../.gitbook/assets/image (932).png" alt="Next" data-size="line"> to move to the next step.
+* After making all necessary changes, click on <img src="../../../.gitbook/assets/image (188).png" alt="Next" data-size="line"> to move to the next step.
 
 ### Review
 
-Once you have followed every step correctly and made all the necessary changes, you will be able to review all your settings. If there are any adjustments required, click on <img src="../../../.gitbook/assets/image (935).png" alt="Previous" data-size="line"> to fix any issue.
+Once you have followed every step correctly and made all the necessary changes, you will be able to review all your settings. If there are any adjustments required, click on <img src="../../../.gitbook/assets/image (191).png" alt="Previous" data-size="line"> to fix any issue.
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 075239.png" alt=""><figcaption><p>Ads Review</p></figcaption></figure>
 
-After reviewing all of your ad creation process, click on <img src="../../../.gitbook/assets/image (936).png" alt="" data-size="line"> to finish your ad creation.
+After reviewing all of your ad creation process, click on <img src="../../../.gitbook/assets/image (192).png" alt="" data-size="line"> to finish your ad creation.
 
 ## Editing an Ad
 
@@ -122,13 +122,13 @@ If you need to make any necessary changes, click on <img src="../../../.gitbook/
 
 <figure><img src="../../../.gitbook/assets/image (973).png" alt=""><figcaption><p>Editing an Ad</p></figcaption></figure>
 
-After making changes, click on <img src="../../../.gitbook/assets/image (433).png" alt="Save" data-size="line">.
+After making changes, click on <img src="../../../.gitbook/assets/image (519).png" alt="Save" data-size="line">.
 
 ## Creating Ad Rules
 
 For an Ad to work, it is necessary to create a rule, you will decide when the ad will be displayed, if you have not created the rule through our Ad Creation steps, follow the steps below.
 
-To start creating an Ad rule, select an ad and move to the <img src="../../../.gitbook/assets/image (434).png" alt="Rules" data-size="line"> tab.
+To start creating an Ad rule, select an ad and move to the <img src="../../../.gitbook/assets/image (520).png" alt="Rules" data-size="line"> tab.
 
 <figure><img src="../../../.gitbook/assets/image (961).png" alt=""><figcaption><p>Rules</p></figcaption></figure>
 
@@ -138,13 +138,13 @@ To create a rule, click on <img src="../../../.gitbook/assets/image (962).png" a
 
 On your rule creation, you will be able to select the time frame in which your ad will be displayed.
 
-* **Name**:  Inform a name for the rule.
+* **Name**: Inform a name for the rule.
 * **Use Single Creative**: Select this option to apply this rule to a single creative.
 * **Use Creative Group**: Select this option to apply this rule to a creative group.
 * **Scheduling**: You can schedule your ads to be displayed on certain days or time window, making it possible to fully customize when your ads will be displayed.
 * **Display**: Set a starting date and when the rule stops, you can always edit this date when necessary.
 
-After making all necessary customizations, click on <img src="../../../.gitbook/assets/image (433).png" alt="Save" data-size="line">.
+After making all necessary customizations, click on <img src="../../../.gitbook/assets/image (519).png" alt="Save" data-size="line">.
 
 <figure><img src="../../../.gitbook/assets/image (964).png" alt=""><figcaption><p>Rules Configured</p></figcaption></figure>
 
@@ -168,17 +168,17 @@ If you did not check the Send for Review on your Ad creation, you will be able t
 
 Should your ad review fail for any reason, you can check more details [here](ad-exchange-review/) on how to correctly identify the error and how to fix it.
 
-Alternatively, you can use the bulk actions to send ads for exchange review in bulk. This option is available when selecting at least 2 ads, then clicking on <img src="../../../.gitbook/assets/image (1104).png" alt="" data-size="line"> and selecting "Send For Review".
+Alternatively, you can use the bulk actions to send ads for exchange review in bulk. This option is available when selecting at least 2 ads, then clicking on <img src="../../../.gitbook/assets/image (528).png" alt="" data-size="line"> and selecting "Send For Review".
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2025-05-09 140645.png" alt=""><figcaption><p>Send for Review - Bulk Actions</p></figcaption></figure>
 
-You will also be able to select the ad exchanges before sending the ads for review in bulk. After selecting the ad exchanges, click on <img src="../../../.gitbook/assets/image (1106).png" alt="" data-size="line"> to send your ads for review.
+You will also be able to select the ad exchanges before sending the ads for review in bulk. After selecting the ad exchanges, click on <img src="../../../.gitbook/assets/image (530).png" alt="" data-size="line"> to send your ads for review.
 
 ## Checking the status of an Ad <a href="#checking-the-status-of-anad" id="checking-the-status-of-anad"></a>
 
 On the Ad list, you can check at a glance if there are any issues with your configuration. You can move the mouse over the warning sign to see a description of the issue.
 
-<figure><img src="../../../.gitbook/assets/image (156).png" alt=""><figcaption><p>Issue being displayed for an ad</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (242).png" alt=""><figcaption><p>Issue being displayed for an ad</p></figcaption></figure>
 
 Once all issues are addressed, the ad will display a green check.
 
@@ -192,7 +192,7 @@ To see all archived ads, simply turn on the <img src="../../../.gitbook/assets/a
 
 ### Metrics Tab
 
-The metrics tab will display all metrics related to the selected ads or for the whole account if no ads are selected.&#x20;
+The metrics tab will display all metrics related to the selected ads or for the whole account if no ads are selected.
 
 Since the group by feature is available for this metrics tab, you will also be able to group your metrics by:
 

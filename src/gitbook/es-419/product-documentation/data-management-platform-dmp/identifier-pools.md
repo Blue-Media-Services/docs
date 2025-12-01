@@ -8,33 +8,33 @@ Apple's iOS assigns a unique and random identifier to each user, known as the ID
 
 ## Managing Identifier Pools
 
-<figure><img src="../../.gitbook/assets/image (1058).png" alt=""><figcaption><p>Identifier Pools List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (470).png" alt=""><figcaption><p>Identifier Pools List</p></figcaption></figure>
 
 ### Creating an Identifier Pool
 
 An Identifier Pool must be created before being used for a campaign so that it can be populated. Configure how long the identifiers should be available before expiring, and set how many identifiers you want to store at your pool. Also, select an Ad Exchange to synchronize your Identifiers with it.
 
-1. Click on ![Create Identifier Pool](<../../.gitbook/assets/image (1062).png>) to create a new identifier pool.
+1. Click on ![Create Identifier Pool](<../../.gitbook/assets/image (475).png>) to create a new identifier pool.
 2.  Fill in the details:
 
-    <figure><img src="../../.gitbook/assets/image (1060).png" alt=""><figcaption><p>Identifier Pool Editor</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (473).png" alt=""><figcaption><p>Identifier Pool Editor</p></figcaption></figure>
 
     * Name: Inform how you want to name your identifier pool.
     * Tags: Set tags for organizing your identifier pools.
     * Exchanges: Select the desired Ad Exchanges.
     * TTL: Set the number of days you want to keep the identifiers on the pool after added.
     * Max Size: Define how many identifiers can be added to the pool.
-3. Click on ![Save](<../../.gitbook/assets/image (1063).png>) to save your Identifier Pool.
+3. Click on ![Save](<../../.gitbook/assets/image (476).png>) to save your Identifier Pool.
 
 ### Editing an Identifier Pool
 
-After creating an identifier pool, you can edit it by clicking on the editing button ![Edit](<../../.gitbook/assets/image (1069).png>). All parameters are editable, for the TTL the changes will apply only to newly added identifiers. After making your changes, click on ![Save](<../../.gitbook/assets/image (1063).png>) to save them.
+After creating an identifier pool, you can edit it by clicking on the editing button ![Edit](<../../.gitbook/assets/image (482).png>). All parameters are editable, for the TTL the changes will apply only to newly added identifiers. After making your changes, click on ![Save](<../../.gitbook/assets/image (476).png>) to save them.
 
-It's possible to archive identifier pools for your better organization. Click on ![Archive](<../../.gitbook/assets/image (1067).png>) to archive the selected identifier pool, and visualize your archived identifier pools by turning on the switch "Archived" above the identifier pools list. It is also possible to unarchive an identifier pool by clicking on ![Unarchive](<../../.gitbook/assets/image (1068).png>).
+It's possible to archive identifier pools for your better organization. Click on ![Archive](<../../.gitbook/assets/image (6) (2).png>) to archive the selected identifier pool, and visualize your archived identifier pools by turning on the switch "Archived" above the identifier pools list. It is also possible to unarchive an identifier pool by clicking on ![Unarchive](<../../.gitbook/assets/image (7).png>).
 
 ### Deleting an Identifier Pool
 
-You can delete an identifier pool by clicking on the delete button ![Delete](<../../.gitbook/assets/image (1070).png>), to proceed with the process click on ![Delete](<../../.gitbook/assets/image (1071).png>) to confirm. Be aware that tracker actions based on these identifier pools will stop working.
+You can delete an identifier pool by clicking on the delete button ![Delete](<../../.gitbook/assets/image (8).png>), to proceed with the process click on ![Delete](<../../.gitbook/assets/image (9).png>) to confirm. Be aware that tracker actions based on these identifier pools will stop working.
 
 {% hint style="danger" %}
 Attention! Be careful when deleting identifier pools, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted.
@@ -52,19 +52,17 @@ Follow the steps below in order to create an action for a tracker that will add 
 
 After creating and selecting a tracker from the trackers' list, follow the steps below to link it to your identifier pool:
 
-1. On the Configuration tab, in the events tracked section, click on ![Add Event](<../../.gitbook/assets/image (1072).png>) to add a new event.
-2.  Fill in the details:\
+1. On the Configuration tab, in the events tracked section, click on ![Add Event](<../../.gitbook/assets/image (485).png>) to add a new event.
+2.  Fill in the details:\\
 
-
-    <figure><img src="../../.gitbook/assets/image (1075).png" alt=""><figcaption><p>Event Editor</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (488).png" alt=""><figcaption><p>Event Editor</p></figcaption></figure>
 
     * Name: Inform how you want to name this event.
     * Event ID: This field can be customized to set a different event ID, however, it is automatically filled with the event's name.
     * Custom data fields: Set data fields to be collected when the event is captured.
     * Actions: Set actions to be executed when this event is requested, in this article, we will set an action that adds or removes identifiers from our identifiers pool.
-      1. Click on ![Add Event](<../../.gitbook/assets/image (1072).png>) to add a new action.
-      2.  Fill in the details:\
-
+      1. Click on ![Add Event](<../../.gitbook/assets/image (485).png>) to add a new action.
+      2.  Fill in the details:\\
 
           <figure><img src="../../.gitbook/assets/Captura de tela 2025-02-27 084528.png" alt=""><figcaption><p>Action Editor</p></figcaption></figure>
 
@@ -72,8 +70,8 @@ After creating and selecting a tracker from the trackers' list, follow the steps
           2. Select Track in Identifier Pool
           3. Identifier Pool: Select the identifier pool you will link to this action.
           4. Track as: Select if you want to add or remove identifiers from the pool.
-      3. Click on ![Save](<../../.gitbook/assets/image (1063).png>) to save your action.
-3. Click on ![Save](<../../.gitbook/assets/image (1063).png>) again to save your event.
+      3. Click on ![Save](<../../.gitbook/assets/image (476).png>) to save your action.
+3. Click on ![Save](<../../.gitbook/assets/image (476).png>) again to save your event.
 
 The tracker must be installed on all your website pages where you desire to track user activity, after installing the tracker it might take a while, depending on your website's traffic, until the system gathers identifiers enough for using it as a target in a campaign.
 

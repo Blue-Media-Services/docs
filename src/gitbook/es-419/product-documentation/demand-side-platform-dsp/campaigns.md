@@ -2,11 +2,11 @@
 
 ### Creating a Campaign
 
-In the Campaigns Area click on <img src="../../.gitbook/assets/image (675).png" alt="Create Campaign" data-size="line">.
+In the Campaigns Area click on <img src="../../.gitbook/assets/image (761).png" alt="Crear Campaña" data-size="line">.
 
 Fill in the details.
 
-<figure><img src="../../.gitbook/assets/image (661).png" alt=""><figcaption><p>Campaign Creation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (747).png" alt="Creación de la Campaña"><figcaption><p>Creación de la Campaña</p></figcaption></figure>
 
 * Name - Choose a name for your campaign;
 * Tags - up to 5 labels that can be used to aid identification and searching;
@@ -22,49 +22,69 @@ Fill in the details.
 _Attention! The higher the Frequency Cap, the more you'll appear to the same user. The lower the Frequency Cap, you'll reach more users and appear less often to each of them._
 {% endhint %}
 
-After filling in all fields, click on ![](<../../.gitbook/assets/image (676).png>), if there is any invalid field, it will be shown so you can review what is missing.
+After filling in all fields, click on ![Guardar](<../../.gitbook/assets/image (762).png>), if there is any invalid field, it will be shown so you can review what is missing.
 
 This will be your view after successfully creating a campaign.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-12-05 073504.png" alt=""><figcaption><p>Campaigns List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-12-05 073504.png" alt="Lista de Campañas"><figcaption><p>Lista de Campañas</p></figcaption></figure>
 
 ### Configuring your Campaign
 
 To start configuring your Campaign, check the <img src="../../.gitbook/assets/image (75).png" alt="Check Box" data-size="line"> of your desired campaign and your configuration tab will be displayed accordingly.
 
-<figure><img src="../../.gitbook/assets/image (994).png" alt=""><figcaption><p>Campaign Configuration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Campaña.jpeg" alt="Configuración de la Campaña"><figcaption><p>Configuración de la Campaña</p></figcaption></figure>
 
 Configure your [Budget](budgets.md), [Targets](targets.md) and [Ads](managing-ads.md).
 
 ### Enabling your Campaign
 
-To enable your campaign, you **must** have at least one Target and Ad added to the campaign, you can also check the <img src="../../.gitbook/assets/image (377).png" alt="" data-size="line"> sign to see whether there is any issue preventing you from enabling the campaign.
+To enable your campaign, you **must** have at least one Target and Ad added to the campaign, you can also check the <img src="../../.gitbook/assets/image (76) (1).png" alt="" data-size="line"> sign to see whether there is any issue preventing you from enabling the campaign.
 
 {% hint style="warning" %}
 If this notice appears in the status of your creative, ad, or campaign, it means that the material was not approved by the platform or ad exchanges. In this case, BMS will inform you of the issue in question (in detail) by hovering the cursor on the sign, and you can make the necessary adjustments before activation.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (995).png" alt=""><figcaption><p>Campaign</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Campaña3.jpeg" alt="Campaña"><figcaption><p>Campaña</p></figcaption></figure>
 
 To enable your campaign simply flip the Enable toggle.
 
-<div align="center"><figure><img src="../../.gitbook/assets/image (70).png" alt="" width="269"><figcaption><p>Campaign Enabled</p></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/Campaña2.jpeg" alt="Campaña Habilitada"><figcaption><p>Campaña Habilitada</p></figcaption></figure></div>
+
+### Compartir Preview del Ad <a href="#share-a-d-preview" id="share-a-d-preview"></a>
+
+Puedes previsualizar tu anuncio y compartir el enlace de vista previa con tus clientes. Con esta función, ellos pueden acceder y ver los anuncios que se están ejecutando en BMS sin necesidad de iniciar sesión en la plataforma. Esto mejora el proceso de revisión, garantiza una mayor transparencia y mantiene a todos alineados con las actualizaciones en los creativos. Además, permite a los clientes evaluar los anuncios desde cualquier lugar, en cualquier momento.
+
+{% hint style="info" %}
+Ten en cuenta que esta función solo está disponible dentro del área de DSP, en la sección de Campañas.
+{% endhint %}
+
+Para previsualizar tu anuncio, selecciona una o más campañas y luego haz clic en <img src="../../.gitbook/assets/Vista.jpeg" alt="Vista Previa" data-size="line">.
+
+<figure><img src="../../.gitbook/assets/VistaPrevia.jpeg" alt="Vista Previa"><figcaption><p>Vista Previa</p></figcaption></figure>
+
+Para compartir la vista previa de tu anuncio, haz clic en ![Share Ad Preview](../../.gitbook/assets/image.png), y luego selecciona “Copy Link” para copiar el enlace que deseas enviar a tu cliente.
+
+<figure><img src="../../.gitbook/assets/ShareAd.jpg" alt="Compartir Preview del Ad"><figcaption><p>Compartir Preview del Ad</p></figcaption></figure>
+
+Al seleccionar "Ads Preview", puedes ver exactamente cómo el cliente verá los anuncios usando el enlace antes de enviarlo.
+
+<figure><img src="../../.gitbook/assets/AdLink.jpeg" alt="Ads Preview"><figcaption><p>Ads Preview</p></figcaption></figure>
 
 ### Duplicating your Campaign
 
-If you wish to reutilize a campaign with different configurations without having to create a new one from scratch, you have the option of duplicating a campaign, simply click on <img src="../../.gitbook/assets/image (378).png" alt="" data-size="line"> at the campaign you want to duplicate and a copy of that campaign will be listed, when duplicating a campaign, you also duplicate ads, budget, and targets.
+If you wish to reutilize a campaign with different configurations without having to create a new one from scratch, you have the option of duplicating a campaign, simply click on <img src="../../.gitbook/assets/image (77).png" alt="" data-size="line"> at the campaign you want to duplicate and a copy of that campaign will be listed, when duplicating a campaign, you also duplicate ads, budget, and targets.
 
 ### Archiving and Unarchiving Your Campaign
 
-If a campaign has served its purpose but you do not wish to delete the campaign, you have the option of archiving it, click on <img src="../../.gitbook/assets/image (379).png" alt="Archive" data-size="line"> to archive.
+If a campaign has served its purpose but you do not wish to delete the campaign, you have the option of archiving it, click on <img src="../../.gitbook/assets/image (78) (1).png" alt="Archive" data-size="line"> to archive.
 
-To check your archived campaigns, click on <img src="../../.gitbook/assets/image (380).png" alt="Archive Toggle" data-size="line"> to toggle your view to Archived campaigns, there you will see all of them and if you wish to retrieve a campaign simply click on ![Disarchive](<../../.gitbook/assets/image (381).png>) and the campaign will be available again.
+To check your archived campaigns, click on <img src="../../.gitbook/assets/image (79) (1).png" alt="Archive (Archivado)" data-size="line"> to toggle your view to Archived campaigns, there you will see all of them and if you wish to retrieve a campaign simply click on ![Disarchive](<../../.gitbook/assets/image (80) (1).png>) and the campaign will be available again.
 
 ### Deleting a Campaign
 
-If you need to delete a campaign simply click on ![Delete Campaign](<../../.gitbook/assets/image (382).png>) and a confirmation screen will be displayed, this action cannot be undone and you will have to manually type the campaign name to delete it.
+If you need to delete a campaign simply click on ![Delete Campaign](<../../.gitbook/assets/image (81) (1).png>) and a confirmation screen will be displayed, this action cannot be undone and you will have to manually type the campaign name to delete it.
 
-<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption><p>Campaign Delete Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (198).png" alt="Pantalla de Eliminación de Campaña"><figcaption><p>Pantalla de Eliminación de Campaña</p></figcaption></figure>
 
 {% hint style="danger" %}
 _Attention! We always advise to deactivate the campaign instead of deleting it completely. When deleting a campaign, all data and metrics are lost as well._

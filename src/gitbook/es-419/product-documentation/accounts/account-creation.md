@@ -13,10 +13,9 @@ Esta guía ofrece una visión completa de cada paso, asegurando un registro flui
 ## Información del Usuario <a href="#user-information" id="user-information"></a>
 
 * Accede a la Plataforma: Navega a la plataforma BMS en [https://console.bluems.com/](https://console.bluems.com/).
-*   Inicia el Proceso de Registro: En la página de inicio de sesión, haz clic en el botón "Sign Up".\
+*   Inicia el Proceso de Registro: En la página de inicio de sesión, haz clic en el botón "Sign Up".\\
 
-
-    <figure><img src="../../.gitbook/assets/Captura de tela 2025-08-18 094601.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1195).png" alt=""><figcaption></figcaption></figure>
 * Completa tus Datos: Rellena el formulario de registro con la siguiente información:
   * Nombre
   * Apellido

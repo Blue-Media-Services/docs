@@ -2,9 +2,9 @@
 
 ## Overview Metrics
 
-You can have a more precise view of your campaign by checking the <img src="../../.gitbook/assets/image (113).png" alt="Overview" data-size="line"> tab. Here you will be presented with the most valuable metrics of a campaign, which can be divided by **Targets**, **Ads**, **Creative Groups**, and **Creatives**.
+You can have a more precise view of your campaign by checking the <img src="../../.gitbook/assets/image (199).png" alt="Overview" data-size="line"> tab. Here you will be presented with the most valuable metrics of a campaign, which can be divided by **Targets**, **Ads**, **Creative Groups**, and **Creatives**.
 
-<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption><p>Campaign Overview</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption><p>Campaign Overview</p></figcaption></figure>
 
 To better understand the metrics displayed on the overview page, visit our [Campaign Metrics Tab](campaigns.md#metrics-tab).
 

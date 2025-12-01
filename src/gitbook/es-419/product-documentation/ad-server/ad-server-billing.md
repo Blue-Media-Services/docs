@@ -2,7 +2,7 @@
 
 The ad server billing section is available on the billing page. It contains information about every billed item related to ad serving and is divided into 9 sub-sections.
 
-<figure><img src="../../.gitbook/assets/image (875).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (418).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 At BMS, it prioritizes transparency by displaying every detail of your bill. Visit our [Billing Home](../billing.md) to understand how the bills are structured.
@@ -46,7 +46,7 @@ _**Example**: As you can observe in the image, except for storage, all other ser
 
 This subsection details the costs related to the Builds management process. There is a free quota of 1,000 requests for all listed services, except for storage. After exceeding this quota, you will be charged per request. Storage is charged based on the number of builds you have stored and the duration of storage on the platform. Deleting actions are not charged.
 
-<figure><img src="../../.gitbook/assets/image (582).png" alt=""><figcaption><p>Creative Builder Build Management</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (668).png" alt=""><figcaption><p>Creative Builder Build Management</p></figcaption></figure>
 
 _**Example**: You will notice that in this picture, except for the storage, there were no charges as the listed services had a free quota of 1,000 requests, which was not exceeded. The storage was charged $0.01 per build per month (720 hours). Nearly 5,000 build-hours were consumed, which is equivalent to keeping almost 7 builds stored for a month, resulting in a $0.07 bill._
 

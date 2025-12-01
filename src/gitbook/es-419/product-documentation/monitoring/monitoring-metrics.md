@@ -3,7 +3,7 @@
 These are all the metrics available in the Monitoring feature for analyzing the data provided by your configured events. The Event Stores metrics tab will present events related to all event pipes that have occurred and will be available for download. The Event Pipes tab will present metrics related to all your created pipes, letting you know if the pipes are working correctly.
 
 {% hint style="info" %}
-You can learn more about how metrics are handled by visiting the [Metrics page](../metricas.md).&#x20;
+You can learn more about how metrics are handled by visiting the [Metrics page](../metricas.md).
 {% endhint %}
 
 ### Stream Bytes
@@ -58,7 +58,7 @@ _**Example:** If you organize yourself to download the collected event pipe data
 
 This metric is populated every time an event stream is deleted by showing you the sum of all bytes deleted, either manually or by the retention date set upon event store creation.
 
-<figure><img src="../../.gitbook/assets/Stream Delete Bytes (1).png" alt=""><figcaption><p>Stream Delete Bytes Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Stream Delete Bytes.png" alt=""><figcaption><p>Stream Delete Bytes Metric</p></figcaption></figure>
 
 _**Example:** Once you start collecting data for your event store, you will set a retention date for the data. Every time the data reaches that date, your event stream will be deleted, or you can also delete it manually. In this graph, you can see that, at some point, nearly all event streams were deleted._
 
@@ -66,11 +66,9 @@ _**Example:** Once you start collecting data for your event store, you will set 
 
 This metric represents the total count of deleted event streams, they are populated either by retention deletion or manual deletion.
 
-<figure><img src="../../.gitbook/assets/Stream Delete Count (1).png" alt=""><figcaption><p>Stream Delete Count Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Stream Delete Count.png" alt=""><figcaption><p>Stream Delete Count Metric</p></figcaption></figure>
 
 _**Example:** On this graph, you can see that the delete count follows a pattern, but on some dates, a lower amount was deleted. This could be due to a change in the retention date or fewer event streams being enabled. Deleting data can help you keep it more organized._
-
-
 
 ### Matched Events Count
 

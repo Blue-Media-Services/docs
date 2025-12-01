@@ -2,7 +2,7 @@
 
 The catalog storage service billing section is available on the billing page. It contains information about every billed item related to CS2 and is divided into 6 sub-sections.
 
-<figure><img src="../../.gitbook/assets/image (729).png" alt=""><figcaption><p>CS2 Billing Section</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (815).png" alt=""><figcaption><p>CS2 Billing Section</p></figcaption></figure>
 
 {% hint style="info" %}
 At BMS, it prioritizes transparency by displaying every detail of your bill. Visit our [Billing Home](../billing.md) to understand how the bills are structured.
@@ -38,13 +38,13 @@ _**Example**: You will notice that, in this picture, most of the services consum
 
 This subsection details the costs related to the use of the recommendation engine, there is a free quota of 1,000 requests, after exceeding this quota, the charge is applied per product recommendation request.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-09 140715 (1).png" alt=""><figcaption><p>Recommendation Engine</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-09 140715.png" alt=""><figcaption><p>Recommendation Engine</p></figcaption></figure>
 
 _**Example**: In this picture, the free quota was not exceeded, and therefore no charges will incur for the services._
 
 ### Product Management
 
-This subsection contains the cost details related to product management. Deletions are free of charge,    except for the storage, every service on this section has a free quota of 1,000 requests, after which you will be charged per request, the storage is billed based on the number of products you have stored and the duration of their storage.
+This subsection contains the cost details related to product management. Deletions are free of charge, except for the storage, every service on this section has a free quota of 1,000 requests, after which you will be charged per request, the storage is billed based on the number of products you have stored and the duration of their storage.
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-08-09 140958.png" alt=""><figcaption><p>Product Management</p></figcaption></figure>
 

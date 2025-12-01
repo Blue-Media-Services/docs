@@ -9,7 +9,7 @@ In the Campaigns section, a metrics tab containing data is available, following 
 * **Target:** This option will display a data comparison between your campaign's targets, allowing you to gather information about your audience. This information can be used to configure more precise targets in the future.
 * **Exchange**: This option will display a data comparison between the ad exchanges used to run your campaign, allowing you to gather data on which ad exchange has been more effective for your campaign.
 
-Additionally, when reviewing metrics, you can always use the <img src="../../.gitbook/assets/image (1003).png" alt="" data-size="line">  to access our articles about a specific metric.
+Additionally, when reviewing metrics, you can always use the <img src="../../.gitbook/assets/image (462).png" alt="" data-size="line"> to access our articles about a specific metric.
 
 {% hint style="info" %}
 You can learn more about how metrics are handled by visiting the [Metrics page](../metricas.md).
@@ -101,7 +101,7 @@ _**Example:** In this metric, you can observe that the cost per click varies for
 
 This metric shows a median of how much of your budget has been spent for each page loaded.
 
-<figure><img src="../../.gitbook/assets/Cost Per Page Load.png" alt=""><figcaption><p>Cost Per Page Load </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cost Per Page Load.png" alt=""><figcaption><p>Cost Per Page Load</p></figcaption></figure>
 
 _**Example**: After installing the page loading tracking tag, this metric will show you a median of how much each page load has cost you in the defined time frame. In this picture, the defined time frame was 3 days, divided into 6-hour periods, you will notice that on Aug 21, at 12:00 PM the average cost per page load was nearly $1.60, this was the maximum cost on the period, after that there is an oscillation that stays between $0.50 and $1.50._
 
@@ -143,8 +143,6 @@ This metric shows you the actual race at which your budget is being consumed. It
 
 <figure><img src="../../.gitbook/assets/Budget Pace effective.png" alt=""><figcaption><p>Budget Pace Effective Metric</p></figcaption></figure>
 
-
-
 _**Example:** In this graph, you can observe the budget pace adjusted to spend all the budget defined for that period (June 21-24). The budget pace effective metric will show you how this budget is being spent effectively and during which hours or days it has been spent._
 
 ### **Budget Spent on Impressions**
@@ -177,8 +175,6 @@ This metric shows how much of your budget was spent based on recommendations. It
 
 <figure><img src="../../.gitbook/assets/Budget Spent with Recommendations.png" alt=""><figcaption><p>Budget Spent with Recommendations Metric</p></figcaption></figure>
 
-
-
 _**Example**: In a context where you have a retargeting campaign designed to engage users on your website, the budget allocated to recommending products from your catalog to these users is shown in the "Budget spent on recommendations" metric. The graph displays a one-week time period, with each point corresponding to a day and the budget spent on recommendations. You can see that on June 24th, the budget spent on recommendations was almost $0.07, with a considerable drop on June 28th._
 
 ### Rejected Bids
@@ -203,7 +199,7 @@ This metric represents the value of the bids that were lost. Combined with the M
 
 <figure><img src="../../.gitbook/assets/image (4) (4).png" alt=""><figcaption><p>Losing Bid Prices</p></figcaption></figure>
 
-_**Example**: In this graph, the defined time frame was 1 day divided into 6-hour periods. In the first 3 periods, you will notice that the bid price of the bids we lost was nearly $0.40 per mille, and at midnight, this value increases to almost $1.40 per mille, meaning that even higher bids were losing auctions._&#x20;
+_**Example**: In this graph, the defined time frame was 1 day divided into 6-hour periods. In the first 3 periods, you will notice that the bid price of the bids we lost was nearly $0.40 per mille, and at midnight, this value increases to almost $1.40 per mille, meaning that even higher bids were losing auctions._
 
 ### Minimum Price to Win
 

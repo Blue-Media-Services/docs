@@ -8,15 +8,15 @@ _**Example:** when checking the menu in a restaurant, the restaurant typically d
 
 All our products will include detailed information on the cost of each service used. BMS will not charge for features or products you are not using.
 
-To access your bills, click on the dropdown menu on your account, and then click on <img src="../.gitbook/assets/image (519).png" alt="Billing" data-size="line">.
+To access your bills, click on the dropdown menu on your account, and then click on <img src="../.gitbook/assets/image (605).png" alt="Billing" data-size="line">.
 
-<figure><img src="../.gitbook/assets/image (518).png" alt=""><figcaption><p>Accessing Billing</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (604).png" alt=""><figcaption><p>Accessing Billing</p></figcaption></figure>
 
 Once you access the bills page, you will be presented with the bills for the current month.
 
-<figure><img src="../.gitbook/assets/image (746).png" alt=""><figcaption><p>Bills</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (832).png" alt=""><figcaption><p>Bills</p></figcaption></figure>
 
-BMS has several units to accurately count each service. Each unit works differently to present the correct usage count. Below you can find a table with detailed information on how each unit functions.&#x20;
+BMS has several units to accurately count each service. Each unit works differently to present the correct usage count. Below you can find a table with detailed information on how each unit functions.
 
 | Charged Units            | Description                                                                                                                                                                                                                                                                                                                                |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -35,7 +35,7 @@ BMS has several units to accurately count each service. Each unit works differen
 
 ## Charges per Service
 
-In this section, all the products will be listed. After clicking on <img src="../.gitbook/assets/image (520).png" alt="Dropdown menu" data-size="line"> , the list will expand to display all charges related to that product. You can check each product separately or click on <img src="../.gitbook/assets/image (521).png" alt="Expand All" data-size="line"> to view all products at once.
+In this section, all the products will be listed. After clicking on <img src="../.gitbook/assets/image (606).png" alt="Dropdown menu" data-size="line"> , the list will expand to display all charges related to that product. You can check each product separately or click on <img src="../.gitbook/assets/image (607).png" alt="Expand All" data-size="line"> to view all products at once.
 
 By expanding a product, you will see a detailed view of each service used within that product. This option provided by BMS allows users to control their expenses and identify areas to avoid unnecessary use. Through BMS's transparency, users can check all services used, the total price, and the amount of usage processed.
 
@@ -43,7 +43,7 @@ By expanding a product, you will see a detailed view of each service used within
 
 If you own an organization, you will see the charges for each account, with the possibility to review all items listed for each account. This provides you with full transparency and information on each account within the organization.
 
-<figure><img src="../.gitbook/assets/image (565).png" alt=""><figcaption><p>Charges per Account Detailed</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (651).png" alt=""><figcaption><p>Charges per Account Detailed</p></figcaption></figure>
 
 ## Free Tiers
 
@@ -51,7 +51,7 @@ On BMS, most services include a certain amount of free usage. After exceeding th
 
 When creating a campaign, some features include free tiers related to storage, allowing you to run basic campaigns without costs for certain storage items. The details of the free tier are as follows:
 
-* **DSP**&#x20;
+* **DSP**
   * **Campaigns:** 5 Campaigns per month (3,600 campaigns-hour) - Free
 * **Ad Server**
   * **Ads Stored**: Up to 30 ads per month (21,600 ad-hours) - Free
@@ -74,7 +74,7 @@ _**Example:** If you access the media library and upload media, it will count as
 
 Below you can find some requests that fit our discrete usage model.
 
-<figure><img src="../.gitbook/assets/image (524).png" alt=""><figcaption><p>Requests Example</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (610).png" alt=""><figcaption><p>Requests Example</p></figcaption></figure>
 
 _**Example:** The lines "Get Ad - First 1,000 - free" and "Get Ad - After 1,000 - $0.01 per 1,000" refer to the same service, meaning that you will have 1,000 requests for free and, after that, you will be billed on USD 0.01 per 1,000 requests._
 

@@ -1,16 +1,16 @@
 # Instrucciones de Instalación
 
-After setting up events and actions for your tracker, you have to install it on your website. This can be done by following the instructions on the install instructions tab.&#x20;
+After setting up events and actions for your tracker, you have to install it on your website. This can be done by following the instructions on the install instructions tab.
 
-<figure><img src="../../../.gitbook/assets/image (999).png" alt=""><figcaption><p>Install Instructions Tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (443) (1).png" alt=""><figcaption><p>Install Instructions Tab</p></figcaption></figure>
 
-To access the trackers' instructions tab, select the tracker you need to install in the trackers'  list. You must choose only one tracker at a time to use this tab. The tab will contain one section for each event created for the selected tracker.
+To access the trackers' instructions tab, select the tracker you need to install in the trackers' list. You must choose only one tracker at a time to use this tab. The tab will contain one section for each event created for the selected tracker.
 
 There are several install methods available for this feature: Script, Pixel, Redirect,Apps Flyer and Google Ads Tracking Template. After expanding the section of the event you want to install, you can choose from these options:
 
 ## Script
 
-Script-based tracking uses code snippets embedded in a website’s pages to capture user interactions. The script collects data on clicks, time spent on pages, and specific actions taken by visitors. However, it requires that users' browsers have JavaScript enabled; otherwise, it will not function.&#x20;
+Script-based tracking uses code snippets embedded in a website’s pages to capture user interactions. The script collects data on clicks, time spent on pages, and specific actions taken by visitors. However, it requires that users' browsers have JavaScript enabled; otherwise, it will not function.
 
 Events and actions are counted every time the script loads, so it must be installed on specific pages based on what you intend to track. To simplify the installation process, you can also use tag managers like Google Tag Manager (GTM).
 
@@ -31,15 +31,15 @@ Script tracking gathers detailed user behavior directly from your website, helpi
 
 1. On the BMS Trackers page, click on the Install Instructions Tab.
 2. Select the Script option.
-3. Use the copy button ![](<../../../.gitbook/assets/image (265).png>) to copy the script displayed.
+3. Use the copy button ![](<../../../.gitbook/assets/image (88) (1).png>) to copy the script displayed.
 4. If you have configured custom data fields, use the indicated placeholder to inform the custom data values.
 5. Paste the code into your website, precisely on the page where you want this event to be captured.
 
-<figure><img src="../../../.gitbook/assets/image (1000).png" alt=""><figcaption><p>Script</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (444) (1).png" alt=""><figcaption><p>Script</p></figcaption></figure>
 
 ## Pixel
 
-Pixel tracking involves using an invisible image or embedded code in web pages or emails. When a user accesses the content, the pixel renders and sends back information such as the user’s IP address, device type, and actions taken. This method is widely used in marketing campaigns to measure conversions and ad performance.&#x20;
+Pixel tracking involves using an invisible image or embedded code in web pages or emails. When a user accesses the content, the pixel renders and sends back information such as the user’s IP address, device type, and actions taken. This method is widely used in marketing campaigns to measure conversions and ad performance.
 
 Events and actions are tracked each time the pixel renders, so it must be installed on specific pages or emails based on what you intend to monitor. To simplify the installation process, you can use tag managers like Google Tag Manager (GTM).
 
@@ -60,11 +60,11 @@ Pixel tracking collects data from emails and websites, enabling precise campaign
 
 1. On the BMS Trackers page, click on the Install Instructions Tab.
 2. Select the Pixel option.
-3. Use the copy button ![](<../../../.gitbook/assets/image (265).png>) to copy the image tag displayed.
+3. Use the copy button ![](<../../../.gitbook/assets/image (88) (1).png>) to copy the image tag displayed.
 4. If you have configured custom data fields, use the indicated placeholder to inform the values.
 5. Paste the code into your website, or email, precisely where you want this event to be captured.
 
-<figure><img src="../../../.gitbook/assets/image (1001).png" alt=""><figcaption><p>Pixel</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (445) (1).png" alt=""><figcaption><p>Pixel</p></figcaption></figure>
 
 ## Redirect
 
@@ -88,20 +88,20 @@ URL redirect tracking simplifies performance monitoring by capturing data throug
 1. On the BMS Trackers page, click on the Install Instructions Tab.
 2. Select the Redirect option.
 3. Inform the URL to where you want to redirect the user after the event is captured.
-4. Use the copy button ![](<../../../.gitbook/assets/image (265).png>) to copy the displayed URL.
+4. Use the copy button ![](<../../../.gitbook/assets/image (88) (1).png>) to copy the displayed URL.
 5. Use the generated URL just as you would use the URL you provided.
 
-<figure><img src="../../../.gitbook/assets/image (1002).png" alt=""><figcaption><p>Redirect</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (446) (1).png" alt=""><figcaption><p>Redirect</p></figcaption></figure>
 
-After installing your events' trackers you should start receiving data from them, it's possible to follow this process on the metrics tab.&#x20;
+After installing your events' trackers you should start receiving data from them, it's possible to follow this process on the metrics tab.
 
 ## Apps Flyer
 
-AppsFlyer is a mobile attribution and marketing analytics platform. It enables businesses to measure and analyze the performance of their mobile advertising campaigns by attributing app installs, in-app events, and conversions to the respective marketing channels or campaigns responsible for generating them.&#x20;
+AppsFlyer is a mobile attribution and marketing analytics platform. It enables businesses to measure and analyze the performance of their mobile advertising campaigns by attributing app installs, in-app events, and conversions to the respective marketing channels or campaigns responsible for generating them.
 
-<figure><img src="../../../.gitbook/assets/image (1030).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1116) (1).png" alt=""><figcaption></figcaption></figure>
 
-The platform also offers precise attribution solutions, allowing marketers to identify the sources of app installs, in-app events, and conversions—whether from the BMS network, other ad channels, or organic sources.&#x20;
+The platform also offers precise attribution solutions, allowing marketers to identify the sources of app installs, in-app events, and conversions—whether from the BMS network, other ad channels, or organic sources.
 
 These are some advantages of integrating BMS with AppsFlyer:
 
@@ -120,28 +120,26 @@ AppsFlyer is a platform that tracks user interactions and campaign performance f
 
 After creating your account and setting up your app in AppsFlyer, it is time to add BMS as a partner marketplace to send your app's data to our platform. On the AppsFlyer homepage, navigate to the menu on the left, click on Collaborate, and then select Partner Marketplace.
 
-<figure><img src="../../../.gitbook/assets/image (1079).png" alt=""><figcaption><p>AppsFlyer Partner Marketplace</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (492).png" alt=""><figcaption><p>AppsFlyer Partner Marketplace</p></figcaption></figure>
 
-1.  Search for Blue Media Services LTDA using the search bar and select this option in the results list.\
-
+1.  Search for Blue Media Services LTDA using the search bar and select this option in the results list.\\
 
     <figure><img src="../../../.gitbook/assets/Captura de tela 2024-12-17 082704.png" alt=""><figcaption><p>BMS Parter Marketplace</p></figcaption></figure>
-2.  Click on <img src="../../../.gitbook/assets/image (1080).png" alt="" data-size="line"> to start setting up the integration.\
+2.  Click on <img src="../../../.gitbook/assets/image (493).png" alt="" data-size="line"> to start setting up the integration.\\
 
-
-    <figure><img src="../../../.gitbook/assets/image (1081).png" alt=""><figcaption><p>Integration Manager</p></figcaption></figure>
-3. Turn the <img src="../../../.gitbook/assets/image (1082).png" alt="" data-size="line"> switch on.
-4. Default postbacks are attribution postbacks sent for user actions, such as install, re-install, etc.  Select how to send the configured postbacks to our platform.
+    <figure><img src="../../../.gitbook/assets/image (494).png" alt=""><figcaption><p>Integration Manager</p></figcaption></figure>
+3. Turn the <img src="../../../.gitbook/assets/image (495).png" alt="" data-size="line"> switch on.
+4. Default postbacks are attribution postbacks sent for user actions, such as install, re-install, etc. Select how to send the configured postbacks to our platform.
 5. In-app event postbacks: Turn this switch on to send us your in-app events data, such as add-to-cart, product-viewed, among others.
 6. In-app event postback window: Define the period following an install, re-attribution, or re-engagement during which in-app event postbacks will be sent to our platform.
-7. Click on <img src="../../../.gitbook/assets/image (1083).png" alt="" data-size="line"> to start adding an event.
+7. Click on <img src="../../../.gitbook/assets/image (496).png" alt="" data-size="line"> to start adding an event.
 8. Fill in the details:
    * AppsFlyer event: Set a name for your event.
    * Mapped partner event: Copy and paste the BRN code from the BMS trackers' install instructions tab, in the 3rd step.
    * For users from: Select "This partner only" at the dropdown menu.
    * Including: Select "Value & no revenue" at the dropdown menu.
 9. Add as many events as you need to.
-10. Click on <img src="../../../.gitbook/assets/image (1084).png" alt="" data-size="line"> to save your integration.
+10. Click on <img src="../../../.gitbook/assets/image (497).png" alt="" data-size="line"> to save your integration.
 
 After completing these steps, BMS will be integrated with your AppsFlyer account, and the event data from your app will start being sent to our platform.
 
@@ -175,12 +173,9 @@ Tracking with GTM enhances insights into user behavior and campaign performance,
    2. Click **New** and name your tag as you prefer.
    3. Click on **Tag Configuration** and choose **Custom HTML.**
 2. Add the Tracking Script
-   1.  Copy and paste the script that is shown on the install instruction:\
+   1.  Copy and paste the script that is shown on the install instruction:\\
 
-
-       <figure><img src="../../../.gitbook/assets/image (1115).png" alt=""><figcaption><p>Google Ads Tracking Template Script</p></figcaption></figure>
-
-
+       <figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Google Ads Tracking Template Script</p></figcaption></figure>
    2. Replace the placeholders with your custom values:
       * `REPLACE_WITH_PRICE` → the transaction value (if applicable).
       * `REPLACE_WITH_QUANTITY` → the number of items (if applicable).
@@ -201,6 +196,6 @@ Tracking with GTM enhances insights into user behavior and campaign performance,
 
 Check out some external references that may help you through the app configuration and partner integration process:
 
-* [Getting started - Onboarding for marketers ](https://support.appsflyer.com/hc/en-us/articles/207033486-Getting-started-Onboarding-for-marketers)
+* [Getting started - Onboarding for marketers](https://support.appsflyer.com/hc/en-us/articles/207033486-Getting-started-Onboarding-for-marketers)
 * [Getting started - Onboarding for agencies](https://support.appsflyer.com/hc/en-us/articles/360002381617-Getting-started-agency-onboarding)
 * [Set up an integrated partner](https://support.appsflyer.com/hc/en-us/articles/4410395957521-Set-up-an-integrated-partner?utm_campaign=active_partners\&utm_medium=ui\&utm_source=hq1)

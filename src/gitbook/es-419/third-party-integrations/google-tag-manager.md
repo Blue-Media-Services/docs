@@ -19,7 +19,7 @@ After creating an account on GTM, you must install the GTM code on your website 
 
 Click on the container ID to open the GTM installation instructions. There are two snippets of code that must be installed on your website: the first goes into the `<head>`, and the second into the `<body>.`
 
-<figure><img src="../.gitbook/assets/image (808).png" alt=""><figcaption><p>GTM Install Instructions</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (894).png" alt=""><figcaption><p>GTM Install Instructions</p></figcaption></figure>
 
 After installing the GTM codes, you will be able to test your website to ensure the installation was done correctly.
 
@@ -29,7 +29,7 @@ Setting up triggers is crucial for monitoring specific actions or events on your
 
 You can set up triggers on the Triggers page or while creating or editing a tag.
 
-<figure><img src="../.gitbook/assets/image (809).png" alt=""><figcaption><p>Triggers Page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (895).png" alt=""><figcaption><p>Triggers Page</p></figcaption></figure>
 
 GTM provides several types of triggers to capture different user actions. Here are the most commonly used ones in e-commerce tracking:
 
@@ -53,9 +53,9 @@ _**Example 1:**_ _Setting Up an Add-to-Cart Trigger_
    * Right-click on the "Add to Cart" button on your website and select "**Inspect**." Find the unique CSS selector, ID, or class for the button (like `.example` or `#example`).
 2.  Create the Trigger in GTM:
 
-    <figure><img src="../.gitbook/assets/image (820).png" alt=""><figcaption><p>Trigger Configuration </p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (906).png" alt=""><figcaption><p>Trigger Configuration</p></figcaption></figure>
 
-    * Click on <img src="../.gitbook/assets/image (810).png" alt="" data-size="line"> and then <img src="../.gitbook/assets/image (811).png" alt="" data-size="original"> to start setting up your trigger.
+    * Click on <img src="../.gitbook/assets/image (896).png" alt="" data-size="line"> and then <img src="../.gitbook/assets/image (897).png" alt="" data-size="original"> to start setting up your trigger.
     * Select Click - All Elements if the button isn’t a link, or Click - Just Links if it’s a link.
     * Under Trigger Type, choose Some Clicks.
     * Set the conditions to match the button’s selector or ID. For instance:
@@ -72,9 +72,9 @@ _**Example 2:** Setting Up a Purchase Trigger_
    * Find the unique URL or URL pattern of the order confirmation page (e.g., `/thank-you` or `/order-confirmation`).
 2.  Create a Page View Trigger:
 
-    <figure><img src="../.gitbook/assets/image (821).png" alt=""><figcaption><p>Trigger Configuration</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (907).png" alt=""><figcaption><p>Trigger Configuration</p></figcaption></figure>
 
-    * Click on <img src="../.gitbook/assets/image (810).png" alt="" data-size="line"> and then <img src="../.gitbook/assets/image (811).png" alt="" data-size="original"> to start setting up your trigger.
+    * Click on <img src="../.gitbook/assets/image (896).png" alt="" data-size="line"> and then <img src="../.gitbook/assets/image (897).png" alt="" data-size="original"> to start setting up your trigger.
     * Choose Page View as the trigger type.
     * Select Some Page Views.
     * Set the condition to match the Thank You page URL:
@@ -101,7 +101,7 @@ _**Example 3:** Using a Custom Event Trigger for Advanced Actions_
 
     <figure><img src="../.gitbook/assets/Captura de tela 2024-11-05 121903.png" alt=""><figcaption><p>Custom Event Trigger</p></figcaption></figure>
 
-    * Click on <img src="../.gitbook/assets/image (810).png" alt="" data-size="line"> and then <img src="../.gitbook/assets/image (811).png" alt="" data-size="original"> to start setting up your trigger.
+    * Click on <img src="../.gitbook/assets/image (896).png" alt="" data-size="line"> and then <img src="../.gitbook/assets/image (897).png" alt="" data-size="original"> to start setting up your trigger.
     * Select Custom Event as the trigger type.
     * In the Event Name field, enter the event name used in the `dataLayer.push`, like `addToCart`.
     * Save this trigger as an Add to Cart Custom Event Trigger.
@@ -110,7 +110,7 @@ _**Example 3:** Using a Custom Event Trigger for Advanced Actions_
 
 In GTM, variables are used to store information that can be utilized within tags, triggers, and other variables. They enhance the functionality of your tags and triggers by enabling them to adjust dynamically based on user actions or data present on the page.
 
-<figure><img src="../.gitbook/assets/image (812).png" alt=""><figcaption><p>Variables Page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (898).png" alt=""><figcaption><p>Variables Page</p></figcaption></figure>
 
 ### Understanding Variable Types
 
@@ -126,7 +126,7 @@ There are two variable types available in GTM:
 ### Setting Up Variables
 
 1. **Built-in Variables**
-   * In the **Built-in Variables** section, click on <img src="../.gitbook/assets/image (814).png" alt="" data-size="line">.
+   * In the **Built-in Variables** section, click on <img src="../.gitbook/assets/image (900).png" alt="" data-size="line">.
    * Select the variables you want to enable by checking their boxes (e.g., Page URL, Click URL, Click Text, Form ID).
 2.  **User-Defined Variables**
 
@@ -145,9 +145,9 @@ There are two variable types available in GTM:
             ```
         2.  **Create the Data Layer Variable in GTM**:
 
-            <figure><img src="../.gitbook/assets/image (815).png" alt=""><figcaption><p>Variable Configuration - Data Layer Example</p></figcaption></figure>
+            <figure><img src="../.gitbook/assets/image (901).png" alt=""><figcaption><p>Variable Configuration - Data Layer Example</p></figcaption></figure>
 
-            * In the User-Defined Variables section, click on <img src="../.gitbook/assets/image (816).png" alt="" data-size="line">.
+            * In the User-Defined Variables section, click on <img src="../.gitbook/assets/image (902).png" alt="" data-size="line">.
             * Select Variable Configuration and choose Data Layer Variable.
             * In Data Layer Variable Name, enter the name used in your data layer push (e.g., `productID`).
             * Optionally, set a default value if the variable is empty (e.g., `unknown`).
@@ -155,11 +155,11 @@ There are two variable types available in GTM:
         3. **Test**: Use GTM’s Preview mode to test that the variable correctly captures the product ID.
     * **Example 2:** _Creating a URL Variable_
 
-    <figure><img src="../.gitbook/assets/image (817).png" alt=""><figcaption><p>Variable Configuration - URL Example</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (382).png" alt=""><figcaption><p>Variable Configuration - URL Example</p></figcaption></figure>
 
 URL Variables allow you to capture data from the URL of the page, such as tracking parameters (`utm_campaign`) or specific page paths.
 
-1. In the User-Defined Variables section, click on <img src="../.gitbook/assets/image (816).png" alt="" data-size="line">.
+1. In the User-Defined Variables section, click on <img src="../.gitbook/assets/image (902).png" alt="" data-size="line">.
 2. Choose Variable Configuration and select URL.
 3. In the Component Type dropdown, choose the part of the URL you need:
    * Page Path: Captures the path after the domain (e.g., `/products/shoes`).
@@ -181,24 +181,23 @@ After creating variables, you can use them to make tags and triggers more dynami
 
 Tags are snippets of code used to collect data and monitor user interactions for marketing and analytics platforms. Instead of manually inserting each tag into your site’s code, GTM serves as a central hub, allowing you to manage all your tags in one place.
 
-<figure><img src="../.gitbook/assets/image (822).png" alt=""><figcaption><p>Tags Page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (908).png" alt=""><figcaption><p>Tags Page</p></figcaption></figure>
 
 ### Creating Tags
 
 There are many things you can accomplish using tags. GTM offers several types of tags. Here is an example of how to create a tag using BMS's pixel codes.
 
-<figure><img src="../.gitbook/assets/image (826).png" alt=""><figcaption><p>Tag Configuration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (910).png" alt=""><figcaption><p>Tag Configuration</p></figcaption></figure>
 
-1. On the Tags Page click on <img src="../.gitbook/assets/image (823).png" alt="" data-size="line"> to add a new tag and then on <img src="../.gitbook/assets/image (827).png" alt="" data-size="line"> to start configuring it.
+1. On the Tags Page click on <img src="../.gitbook/assets/image (909).png" alt="" data-size="line"> to add a new tag and then on <img src="../.gitbook/assets/image (913).png" alt="" data-size="line"> to start configuring it.
 2. Select Custom HTML from the list.
 3. On the HTML field, paste the pixel code you need to install, on the example, a product added to cart pixel was used.
 4. Remember to replace the Offer ID with the product identifier variable used on your website or use a previously configured GTM variable linked to it. You can learn more about how the BMS OfferID works in our [Catalogs](../product-documentation/catalog-storage-service-cs2/catalogs.md#install-instructions) article.
-5.  Select the triggers that will control when this tag will be activated.\
+5.  Select the triggers that will control when this tag will be activated.\\
 
-
-    <figure><img src="../.gitbook/assets/image (829).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (914).png" alt=""><figcaption></figcaption></figure>
 6. Name and save your tag.
-7. Click on <img src="../.gitbook/assets/image (830).png" alt="" data-size="line"> to access a preview of your page with the tags installed and debug them if necessary. (This step is optional)
+7. Click on <img src="../.gitbook/assets/image (916).png" alt="" data-size="line"> to access a preview of your page with the tags installed and debug them if necessary. (This step is optional)
 8. Click on <img src="../.gitbook/assets/Captura de tela 2025-04-24 103600.png" alt="" data-size="line"> to submit your changes to the live version of your website.
 
 ## Templates
@@ -209,14 +208,14 @@ Alternatively, you can use our BMS Universal Tag template to install BMS compone
 
 When creating a new tag, you will need to choose the type of your tag, this is where you will find our template after searching for it as "BMS Universal Tag".
 
-<figure><img src="../.gitbook/assets/image (1092).png" alt=""><figcaption><p>Choose tag type - Searching for BMS Universal Tag</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (519) (1).png" alt=""><figcaption><p>Choose tag type - Searching for BMS Universal Tag</p></figcaption></figure>
 
 After selecting this template, you will need to fill in some details according to the action you need to execute. These are some of the available actions:
 
 * [Track Page Loaded](google-tag-manager.md#track-page-loaded)
 * [Add User to a Cookie Pool](google-tag-manager.md#add-user-to-a-cookie-pool)
 * [Record User Activity in a Tracker](google-tag-manager.md#record-user-activity-in-a-tracker)
-* [Count Event in Catalog](google-tag-manager.md#count-event-in-a-catalog)&#x20;
+* [Count Event in Catalog](google-tag-manager.md#count-event-in-a-catalog)
 * [Tag Container](google-tag-manager.md#tag-container)
 
 #### Track Page Loaded

@@ -1,6 +1,6 @@
 # Métricas de Ad Server
 
-Here you will find all metrics related to our Ad Server product, they will appear according to each feature, it will help you understand how the feature is performing and provide valuable insights to make strategic decisions on your campaign. Additionally, when reviewing metrics, you can always use the <img src="../../.gitbook/assets/image (1003).png" alt="" data-size="line">  to access our articles about a specific metric.
+Here you will find all metrics related to our Ad Server product, they will appear according to each feature, it will help you understand how the feature is performing and provide valuable insights to make strategic decisions on your campaign. Additionally, when reviewing metrics, you can always use the <img src="../../.gitbook/assets/image (462).png" alt="" data-size="line"> to access our articles about a specific metric.
 
 {% hint style="info" %}
 You can learn more about how metrics are handled by visiting the [Metrics page](../metricas.md).
@@ -28,7 +28,7 @@ Number of views according to the **Media Ratings Council Guidelines**, 50% of th
 
 <figure><img src="../../.gitbook/assets/Viewws.png" alt=""><figcaption><p>Views Metric</p></figcaption></figure>
 
-_**Example:** In this graph, a peak of nearly 400 Views can be seen on June 11th. If the views are close to the delivery and display numbers, you can analyze that your Ad is attractive and is achieving a branding result, since people are effectively seeing your ad. The ad must be displayed in the user's browser, and the user needs to see at least 50% of the ad for at least 1 second.  If only  40% of the ad is shown, it will not count as a view._
+_**Example:** In this graph, a peak of nearly 400 Views can be seen on June 11th. If the views are close to the delivery and display numbers, you can analyze that your Ad is attractive and is achieving a branding result, since people are effectively seeing your ad. The ad must be displayed in the user's browser, and the user needs to see at least 50% of the ad for at least 1 second. If only 40% of the ad is shown, it will not count as a view._
 
 ### **Viewability**
 
@@ -106,6 +106,6 @@ _**Example**: In a context where you install the page load tracking tag on your 
 
 This metric displays, in percentage, the ratio between the number of clicks and the number of page loads in the defined time frame.
 
-<figure><img src="../../.gitbook/assets/Click to Page Load Rate (1).png" alt=""><figcaption><p>Click to Page Load Rate</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Click to Page Load Rate.png" alt=""><figcaption><p>Click to Page Load Rate</p></figcaption></figure>
 
-_**Example**: The data provided by this metric will show you how many clicks on your ads have resulted in a page load. In this picture, the defined time frame was 1 day divided into 6h periods, you will notice that at 6 AM the click to page load rate was nearly 80%, meaning that 20% of the clicks didn't result in a page load, from noon until 6 PM the click to page load rate was nearly 60%, after that it increases at midnight to 100%, meaning every ad click resulted in a page load._&#x20;
+_**Example**: The data provided by this metric will show you how many clicks on your ads have resulted in a page load. In this picture, the defined time frame was 1 day divided into 6h periods, you will notice that at 6 AM the click to page load rate was nearly 80%, meaning that 20% of the clicks didn't result in a page load, from noon until 6 PM the click to page load rate was nearly 60%, after that it increases at midnight to 100%, meaning every ad click resulted in a page load._
