@@ -22,7 +22,7 @@ Algunas métricas, como Bid Price Effective, también tendrán la opción de est
 
 Esta opción mostrará los mismos datos que están en las tarjetas de métrica en formato de tabla. Esta opción de visualización permite exportar los datos haciendo clic en el botón de descarga <img src="../.gitbook/assets/image (261).png" alt="" data-size="line">. También puedes visualizar la tabla en modo de pantalla completa haciendo clic en ![](<../.gitbook/assets/image (126).png>).
 
-<figure><img src="../.gitbook/assets/image (552).png" alt=""><figcaption><p>Data Table Visualization</p></figcaption></figure>
+<figure><img src="/broken/files/eYMpuCC9H6nRsgwsbbu9" alt=""><figcaption><p>Visualización de Tabla de Datos</p></figcaption></figure>
 
 ### Agrupar Por
 
@@ -46,8 +46,8 @@ Para actualizar tus resultados, haz clic en el botón de refrescar <img src="../
 
 A continuación, se presentan los productos que incluyen el servicio de métricas. Para obtener más información sobre las métricas asociadas con cada producto, consulta el contenido a continuación según tu producto de interés:
 
-* [Métricas de Ad Server](ad-server/ad-server-metrics.md)
-* [Métricas de DSP](demand-side-platform-dsp/dsp-metrics.md)
-* [Métricas de DMP](data-management-platform-dmp/dmp-metrics.md)
-* [Métricas de CS2](catalog-storage-service-cs2/cs2-metrics.md)
-* [Métricas de Monitoreo](monitoring/monitoring-metrics.md)
+* [Métricas de Ad Server](../../es/product-documentation/ad-server/ad-server-metrics.md)
+* [Métricas de DSP](../../es/product-documentation/demand-side-platform-dsp/dsp-metrics.md)
+* [Métricas de DMP](../../es/product-documentation/data-management-platform-dmp/dmp-metrics.md)
+* [Métricas de CS2](../../es/product-documentation/catalog-storage-service-cs2/cs2-metrics.md)
+* [Métricas de Monitoreo](../../es/product-documentation/monitoring/monitoring-metrics.md)

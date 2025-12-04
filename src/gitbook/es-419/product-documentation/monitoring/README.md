@@ -1,11 +1,11 @@
 # Monitoreo
 
-In our Monitoring section, you will be able to create event stores and pipes related to all of our products and your currently active campaigns. This will provide you with valuable data to study better solutions for your campaigns and improve your strategy.
+En nuestra sección de Monitoreo, podrás crear almacenes de eventos y canalizaciones relacionados con todos nuestros productos y tus campañas actualmente activas. Esto te proporcionará datos valiosos para estudiar mejores soluciones para tus campañas y mejorar tu estrategia.
 
-## Event Stores
+## Almacenes de Eventos
 
-It is possible to create numerous event stores to store data and set your own data retention settings, allowing you to adjust the retention according to your planning. [Learn More about Event Stores](event-stores.md).
+Es posible crear numerosos almacenes de eventos para guardar datos y configurar tus propios ajustes de retención, permitiéndote ajustar la retención de acuerdo con tu planificación. [Aprende más sobre Almacenes de Eventos](event-stores.md).
 
-## Event Pipes
+## Pipelines de Eventos
 
-Here you will decide which events you will collect data from, ranging from an active campaign to any event that happens within our platform. This provides ample data to help you keep track of any important product that you are focused on. [Learn More about Event Pipes](event-pipes.md).
+Aquí decidirás de qué eventos recopilarás datos, desde una campaña activa hasta cualquier evento que ocurra dentro de nuestra plataforma. Esto proporciona una gran cantidad de datos que te ayudarán a hacer un seguimiento de cualquier producto importante en el que estés enfocado. [Aprende más sobre Pipelines de Eventos](event-pipes.md).

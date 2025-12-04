@@ -14,9 +14,9 @@ Estas son las funciones disponibles en BMS.
 
 <summary>Cuentas</summary>
 
-[Overview](product-documentation/accounts/)
+[Overview](../es/product-documentation/accounts/)
 
-[Account Billing](product-documentation/accounts/account-billing.md)
+[Account Billing](../es/product-documentation/accounts/account-billing.md)
 
 </details>
 
@@ -24,29 +24,29 @@ Estas son las funciones disponibles en BMS.
 
 <summary>Ad Server</summary>
 
-[Overview](product-documentation/ad-server/)
+[Overview](../es/product-documentation/ad-server/)
 
-[Creatives](product-documentation/ad-server/creatives.md)
+[Creatives](../es/product-documentation/ad-server/creatives.md)
 
-[Creative Groups](product-documentation/ad-server/creative-groups.md)
+[Creative Groups](../es/product-documentation/ad-server/creative-groups.md)
 
-[Creative Metrics](product-documentation/ad-server/creatives.md#metrics-tab)
+[Creative Metrics](../es/product-documentation/ad-server/creatives.md#metrics-tab)
 
-[Ads](product-documentation/ad-server/ads/)
+[Ads](../es/product-documentation/ad-server/ads/)
 
-[Ads Metrics](product-documentation/ad-server/ads/#metrics-tab)
+[Ads Metrics](../es/product-documentation/ad-server/ads/#metrics-tab)
 
-[Ad Exchange Review](product-documentation/ad-server/ads/ad-exchange-review/)
+[Ad Exchange Review](../es/product-documentation/ad-server/ads/ad-exchange-review/)
 
-[Creative Builder](product-documentation/ad-server/creative-builder/)
+[Creative Builder](../es/product-documentation/ad-server/creative-builder/)
 
-[Blueprints](product-documentation/ad-server/creative-builder/blueprints.md)
+[Blueprints](../es/product-documentation/ad-server/creative-builder/blueprints.md)
 
-[Builds](product-documentation/ad-server/creative-builder/builds.md)
+[Builds](../es/product-documentation/ad-server/creative-builder/builds.md)
 
-[Ad Serving Billing](product-documentation/ad-server/ad-server-billing.md)
+[Ad Serving Billing](../es/product-documentation/ad-server/ad-server-billing.md)
 
-[Page Load Tracking Tag](product-documentation/ad-server/page-load-tracking-tag.md)
+[Page Load Tracking Tag](../es/product-documentation/ad-server/page-load-tracking-tag.md)
 
 </details>
 
@@ -54,23 +54,23 @@ Estas son las funciones disponibles en BMS.
 
 <summary>Plataforma de Demanda (DSP)</summary>
 
-[Overview](product-documentation/demand-side-platform-dsp/)
+[Overview](../es/product-documentation/demand-side-platform-dsp/)
 
-[Managing Campaigns](product-documentation/demand-side-platform-dsp/campaigns.md)
+[Managing Campaigns](../es/product-documentation/demand-side-platform-dsp/campaigns.md)
 
-[Managing Budgets](product-documentation/demand-side-platform-dsp/budgets.md)
+[Managing Budgets](../es/product-documentation/demand-side-platform-dsp/budgets.md)
 
-[Managing Targets](product-documentation/demand-side-platform-dsp/targets.md)
+[Managing Targets](../es/product-documentation/demand-side-platform-dsp/targets.md)
 
-[Managing Ads](product-documentation/demand-side-platform-dsp/managing-ads.md)
+[Managing Ads](../es/product-documentation/demand-side-platform-dsp/managing-ads.md)
 
-[Real Time Tab](product-documentation/demand-side-platform-dsp/real-time-tab.md)
+[Real Time Tab](../es/product-documentation/demand-side-platform-dsp/real-time-tab.md)
 
-[DSP Metrics](product-documentation/demand-side-platform-dsp/dsp-metrics.md)
+[DSP Metrics](../es/product-documentation/demand-side-platform-dsp/dsp-metrics.md)
 
-[Campaign Billing](product-documentation/demand-side-platform-dsp/campaign-billing.md)
+[Campaign Billing](../es/product-documentation/demand-side-platform-dsp/campaign-billing.md)
 
-[Check URL Classification](product-documentation/demand-side-platform-dsp/check-url-classification.md)
+[Check URL Classification](../es/product-documentation/demand-side-platform-dsp/check-url-classification.md)
 
 </details>
 
@@ -78,17 +78,17 @@ Estas son las funciones disponibles en BMS.
 
 <summary>Plataforma de Gestión de Datos (DMP)</summary>
 
-[Overview](product-documentation/data-management-platform-dmp/)
+[Overview](../es/product-documentation/data-management-platform-dmp/)
 
-[Cookie Pools](product-documentation/data-management-platform-dmp/cookie-pools.md)
+[Cookie Pools](../es/product-documentation/data-management-platform-dmp/cookie-pools.md)
 
-[Trackers](product-documentation/data-management-platform-dmp/trackers/)
+[Trackers](../es/product-documentation/data-management-platform-dmp/trackers/)
 
-[Identifier Pools](product-documentation/data-management-platform-dmp/identifier-pools.md)
+[Identifier Pools](../es/product-documentation/data-management-platform-dmp/identifier-pools.md)
 
-[DMP Metrics](product-documentation/data-management-platform-dmp/dmp-metrics.md)
+[DMP Metrics](../es/product-documentation/data-management-platform-dmp/dmp-metrics.md)
 
-[DMP Billing](product-documentation/data-management-platform-dmp/dmp-billing.md)
+[DMP Billing](../es/product-documentation/data-management-platform-dmp/dmp-billing.md)
 
 </details>
 
@@ -96,19 +96,19 @@ Estas son las funciones disponibles en BMS.
 
 <summary>Servicio de Almacenamiento de Catálogos (CS2)</summary>
 
-[Overview](product-documentation/catalog-storage-service-cs2/)
+[Overview](../es/product-documentation/catalog-storage-service-cs2/)
 
-[Catalogs](product-documentation/catalog-storage-service-cs2/catalogs.md)
+[Catalogs](../es/product-documentation/catalog-storage-service-cs2/catalogs.md)
 
-[Products](product-documentation/catalog-storage-service-cs2/products.md)
+[Products](../es/product-documentation/catalog-storage-service-cs2/products.md)
 
-[Import Channels](product-documentation/catalog-storage-service-cs2/import-channels.md)
+[Import Channels](../es/product-documentation/catalog-storage-service-cs2/import-channels.md)
 
-[Recommendation Models](product-documentation/catalog-storage-service-cs2/recommendation-models.md)
+[Recommendation Models](../es/product-documentation/catalog-storage-service-cs2/recommendation-models.md)
 
-[CS2 Metrics](product-documentation/catalog-storage-service-cs2/cs2-metrics.md)
+[CS2 Metrics](../es/product-documentation/catalog-storage-service-cs2/cs2-metrics.md)
 
-[CS2 Billing](product-documentation/catalog-storage-service-cs2/cs2-billing.md)
+[CS2 Billing](../es/product-documentation/catalog-storage-service-cs2/cs2-billing.md)
 
 </details>
 
@@ -116,11 +116,11 @@ Estas son las funciones disponibles en BMS.
 
 <summary>Gestión de Acceso e Identidad (IAM)</summary>
 
-[Users](product-documentation/gestion-de-acceso-e-identidad-iam/users.md)
+[Users](../es/product-documentation/gestion-de-acceso-e-identidad-iam/users.md)
 
-[Groups](product-documentation/gestion-de-acceso-e-identidad-iam/groups.md)
+[Groups](../es/product-documentation/gestion-de-acceso-e-identidad-iam/groups.md)
 
-[API Keys](product-documentation/gestion-de-acceso-e-identidad-iam/api-keys.md)
+[API Keys](../es/product-documentation/gestion-de-acceso-e-identidad-iam/api-keys.md)
 
 </details>
 
@@ -128,11 +128,11 @@ Estas son las funciones disponibles en BMS.
 
 <summary>Medios</summary>
 
-[Overview](product-documentation/media/)
+[Overview](../es/product-documentation/media/)
 
-[Media Metrics](product-documentation/media/media-metrics.md)
+[Media Metrics](../es/product-documentation/media/media-metrics.md)
 
-[Media Billing](product-documentation/media/media-billing.md)
+[Media Billing](../es/product-documentation/media/media-billing.md)
 
 </details>
 
@@ -154,9 +154,9 @@ Estas son las funciones disponibles en BMS.
 
 [Event Pipes](product-documentation/monitoring/event-pipes.md)
 
-[Monitoring Metrics](product-documentation/monitoring/monitoring-metrics.md)
+[Monitoring Metrics](../es/product-documentation/monitoring/monitoring-metrics.md)
 
-[Monitoring Billing](product-documentation/monitoring/monitoring-billing.md)
+[Monitoring Billing](../es/product-documentation/monitoring/monitoring-billing.md)
 
 </details>
 
@@ -164,7 +164,7 @@ Estas son las funciones disponibles en BMS.
 
 <summary>Facturación</summary>
 
-[Overview](product-documentation/billing.md)
+[Overview](../es/product-documentation/billing.md)
 
 </details>
 
@@ -172,9 +172,9 @@ Estas son las funciones disponibles en BMS.
 
 <summary>Contenedores de Etiquetas</summary>
 
-[Overview](product-documentation/tag-container/)
+[Overview](../es/product-documentation/tag-container/)
 
-[Tag Container Metrics](product-documentation/tag-container/metricas-de-contenedores-de-etiquetas.md)
+[Tag Container Metrics](../es/product-documentation/tag-container/metricas-de-contenedores-de-etiquetas.md)
 
 </details>
 
@@ -182,11 +182,10 @@ Estas son las funciones disponibles en BMS.
 
 Hemos configurado algunas soluciones para ayudarle a comenzar en nuestra plataforma y probar nuestras funciones.
 
-{% content-ref url="solutions/branding.md" %}
-[branding.md](solutions/branding.md)
+{% content-ref url="../es/solutions/branding.md" %}
+[branding.md](../es/solutions/branding.md)
 {% endcontent-ref %}
 
-{% content-ref url="solutions/retargeting.md" %}
-[retargeting.md](solutions/retargeting.md)
+{% content-ref url="../es/solutions/retargeting.md" %}
+[retargeting.md](../es/solutions/retargeting.md)
 {% endcontent-ref %}
-
