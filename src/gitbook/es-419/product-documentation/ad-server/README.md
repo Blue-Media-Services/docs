@@ -2,7 +2,7 @@
 
 ## Concepts
 
-### Creatives
+### Creativos
 
 This is the smallest building block of our ad server. A creative represents the code that will be delivered to the end user when your ad is displayed.
 
