@@ -6,7 +6,7 @@ En nuestra pestaña de Almacenes de Eventos, puedes crear un almacén que actúe
 
 ## Creación de un Almacén de Eventos
 
-Para crear un almacén de eventos, haz clic ![Create Event Store](<../../.gitbook/assets/image (977).png>) en y aparecerá una pantalla de creación de eventos.
+Para crear un almacén de eventos, haz clic ![Create Event Store](<../../.gitbook/assets/image (90).png>) en y aparecerá una pantalla de creación de eventos.
 
 <figure><img src="../../.gitbook/assets/image (508).png" alt="" width="361"><figcaption><p>Event Store Creation</p></figcaption></figure>
 
@@ -42,20 +42,20 @@ Podrás Archivar, Eliminar, Habilitar y Deshabilitar eventos de forma masiva.
 
 ### Archivar y Desarchivar tu Almacén de Eventos
 
-To archive your event store, click on <img src="../../.gitbook/assets/image (514).png" alt="Archive" data-size="line"> and your event store will be sent to the archived list. In order to unarchive your event store, switch your view to archived events by flipping the toggle <img src="../../.gitbook/assets/image (515).png" alt="Archived Toggle" data-size="line">. You will then be presented with the list of archived events. Click on <img src="../../.gitbook/assets/image (962) (1).png" alt="Unarchive" data-size="line"> to unarchive an event store.
+To archive your event store, click on <img src="../../.gitbook/assets/image (514).png" alt="Archive" data-size="line"> and your event store will be sent to the archived list. In order to unarchive your event store, switch your view to archived events by flipping the toggle <img src="../../.gitbook/assets/image (515).png" alt="Archived Toggle" data-size="line">. You will then be presented with the list of archived events. Click on <img src="../../.gitbook/assets/image (962).png" alt="Unarchive" data-size="line"> to unarchive an event store.
 
 Para archivar tu almacén de eventos, haz clic en <img src="/broken/files/SFOOfUAVFqA2VU2a7V0b" alt="Archive" data-size="line"> y este será enviado a la lista de archivados.\
 Para desarchivarlo, cambia tu vista a eventos archivados activando el interruptor <img src="/broken/files/BAWL5ZBRmpnGCEXTPELU" alt="Archived Toggle" data-size="line"> . Luego se mostrará la lista de eventos archivados. Haz clic en <img src="/broken/files/Nr8yowoO1Llbe0Ouejg2" alt="Unarchive" data-size="line"> para desarchivar un almacén de eventos.
 
 ### Eliminar tu Almacén de Eventos
 
-To delete an event store, click on <img src="../../.gitbook/assets/image (963) (1).png" alt="Delete" data-size="line"> and a confirmation screen will pop up.
+To delete an event store, click on <img src="../../.gitbook/assets/image (963).png" alt="Delete" data-size="line"> and a confirmation screen will pop up.
 
 Para eliminar un event store, haz clic en <img src="/broken/files/w3wi5nkUi5gO75A14kjL" alt="Delete" data-size="line"> y aparecerá una pantalla de confirmación.
 
-<figure><img src="../../.gitbook/assets/image (964) (1).png" alt="" width="359"><figcaption><p>Deletion Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (964).png" alt="" width="359"><figcaption><p>Deletion Screen</p></figcaption></figure>
 
-Para confirmar la eliminación, haz clic en ![Delete](<../../.gitbook/assets/image (976).png>).
+Para confirmar la eliminación, haz clic en ![Delete](<../../.gitbook/assets/image (89).png>).
 
 {% hint style="danger" %}
 _¡Atención! Si eliminas un event store, todos los datos relacionados con ese event store serán eliminados._
@@ -80,7 +80,7 @@ El formato JSON-line ofrece una vista sin procesar y sin filtrar del flujo de ev
 
 <figure><img src="../../.gitbook/assets/image (951).png" alt=""><figcaption><p>JSON-line</p></figcaption></figure>
 
-Selecciona este formato y luego haz clic en ![Download](<../../.gitbook/assets/image (978).png>) para descargar tu flujo de eventos.
+Selecciona este formato y luego haz clic en ![Download](<../../.gitbook/assets/image (91).png>) para descargar tu flujo de eventos.
 
 #### CSV
 
@@ -102,7 +102,7 @@ To remove a column, select it in the list and then click at ![](/broken/files/GO
 
 Para eliminar una columna, selecciónala en la lista y luego haz clic en ![](/broken/files/GOORpYetMOqJfFV66ieD).
 
-Una vez finalizada tu configuración, haz clic en ![Download](<../../.gitbook/assets/image (978).png>) para descargar tu archivo CSV.
+Una vez finalizada tu configuración, haz clic en ![Download](<../../.gitbook/assets/image (91).png>) para descargar tu archivo CSV.
 
 ### Acciones en bloque
 
@@ -122,7 +122,7 @@ Para eliminar un evento, haz clic en ![](/broken/files/b13HqBPcE8eBnNEDxKRe) y s
 
 <figure><img src="/broken/files/PiW98WWh3s3TUBaY7Mq7" alt="" width="359"><figcaption><p>Eliminación de Evento</p></figcaption></figure>
 
-Después de hacer clic en ![Delete](<../../.gitbook/assets/image (976).png>), tus datos de eventos se eliminarán de forma permanente.
+Después de hacer clic en ![Delete](<../../.gitbook/assets/image (89).png>), tus datos de eventos se eliminarán de forma permanente.
 
 {% hint style="danger" %}
 _¡Atención! Ten cuidado al eliminar flujos de eventos, esta acción no se puede deshacer, lo que significa que tus datos se eliminarán permanentemente._
@@ -132,11 +132,11 @@ _¡Atención! Ten cuidado al eliminar flujos de eventos, esta acción no se pued
 
 Selecciona un almacén de eventos para visualizar las métricas generadas por los _event pipes_. Ten en cuenta que debes seleccionar un almacén de eventos al crear un _event pipe_. Si envías tus eventos únicamente a un _webhook_, el almacén de eventos no se poblará. Estas son todas las métricas disponibles para los almacenes de eventos:
 
-* [Stream Bytes](../../../es/product-documentation/monitoring/monitoring-metrics.md#stream-bytes)
-* [Stream Count](../../../es/product-documentation/monitoring/monitoring-metrics.md#stream-count)
-* [Stream Upload Bytes](../../../es/product-documentation/monitoring/monitoring-metrics.md#stream-upload-bytes)
-* [Stream Upload Count](../../../es/product-documentation/monitoring/monitoring-metrics.md#stream-upload-count)
-* [Stream Download Bytes](../../../es/product-documentation/monitoring/monitoring-metrics.md#stream-download-bytes)
-* [Stream Download Count](../../../es/product-documentation/monitoring/monitoring-metrics.md#stream-download-count)
-* [Stream Delete Bytes](../../../es/product-documentation/monitoring/monitoring-metrics.md#stream-delete-bytes)
-* [Stream Delete Count](../../../es/product-documentation/monitoring/monitoring-metrics.md#stream-delete-count)
+* [Stream Bytes](monitoring-metrics.md#stream-bytes)
+* [Stream Count](monitoring-metrics.md#stream-count)
+* [Stream Upload Bytes](monitoring-metrics.md#stream-upload-bytes)
+* [Stream Upload Count](monitoring-metrics.md#stream-upload-count)
+* [Stream Download Bytes](monitoring-metrics.md#stream-download-bytes)
+* [Stream Download Count](monitoring-metrics.md#stream-download-count)
+* [Stream Delete Bytes](monitoring-metrics.md#stream-delete-bytes)
+* [Stream Delete Count](monitoring-metrics.md#stream-delete-count)

@@ -46,8 +46,8 @@ Para actualizar tus resultados, haz clic en el botón de refrescar <img src="../
 
 A continuación, se presentan los productos que incluyen el servicio de métricas. Para obtener más información sobre las métricas asociadas con cada producto, consulta el contenido a continuación según tu producto de interés:
 
-* [Métricas de Ad Server](../../es/product-documentation/ad-server/ad-server-metrics.md)
-* [Métricas de DSP](../../es/product-documentation/demand-side-platform-dsp/dsp-metrics.md)
-* [Métricas de DMP](../../es/product-documentation/data-management-platform-dmp/dmp-metrics.md)
-* [Métricas de CS2](../../es/product-documentation/catalog-storage-service-cs2/cs2-metrics.md)
-* [Métricas de Monitoreo](../../es/product-documentation/monitoring/monitoring-metrics.md)
+* [Métricas de Ad Server](ad-server/ad-server-metrics.md)
+* [Métricas de DSP](demand-side-platform-dsp/dsp-metrics.md)
+* [Métricas de DMP](data-management-platform-dmp/dmp-metrics.md)
+* [Métricas de CS2](catalog-storage-service-cs2/cs2-metrics.md)
+* [Métricas de Monitoreo](monitoring/monitoring-metrics.md)

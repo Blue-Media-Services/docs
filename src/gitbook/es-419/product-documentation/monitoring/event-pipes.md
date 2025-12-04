@@ -5,7 +5,7 @@ Our Event Pipes are used to collect data from all products on our platform. You 
 All event pipes created will be sent to either an Event Store, or you can use a webhook to send this data directly to your data management tool. We provide templates for every event that we can track so you can pick which you want to collect data.
 
 {% hint style="info" %}
-We have a solution that may help you understand how a webhook works, check this article [here](../../../es/third-party-integrations/webhook-tool-zapier.md).
+We have a solution that may help you understand how a webhook works, check this article [here](../../third-party-integrations/webhook-tool-zapier.md).
 {% endhint %}
 
 ## Creating an Event Pipe
@@ -49,7 +49,7 @@ Once you have fulfilled all fields with the corresponding information based on y
 
 In this case, our filter failed due to verification in our Value field. These fields are case-sensitive and **must** match the corresponding information.
 
-Once you have added your filters, click on <img src="../../.gitbook/assets/image (979) (1).png" alt="" data-size="line"> to save your event pipe.
+Once you have added your filters, click on <img src="../../.gitbook/assets/image (979).png" alt="" data-size="line"> to save your event pipe.
 
 ### Targets tab
 
@@ -77,22 +77,22 @@ Once everything is configured, click on <img src="../../.gitbook/assets/image (2
 
 It is possible to send your data to a webhook provided by your data management tool, select this option to use the data management tool of preference, and then fill out the details.
 
-<figure><img src="../../.gitbook/assets/image (980).png" alt=""><figcaption><p>Target de Llamada a Webhook</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption><p>Target de Llamada a Webhook</p></figcaption></figure>
 
 * Name your target.
 * Select "Call Webhook".
 * Insert your data management tool's webhook URL.
 
-Once you have configured your webhook URL, use our Test Webhook tab to confirm the usability of your webhook tool. Select one of the sample event templates and click on ![Test Webhook](<../../.gitbook/assets/image (981).png>).
+Once you have configured your webhook URL, use our Test Webhook tab to confirm the usability of your webhook tool. Select one of the sample event templates and click on ![Test Webhook](<../../.gitbook/assets/image (94).png>).
 
-If your webhook test is successful, your icon will be presented as ![Test Webhook Successful](<../../.gitbook/assets/image (8) (1).png>) and the tabs for your test will be fulfilled.
+If your webhook test is successful, your icon will be presented as ![Test Webhook Successful](<../../.gitbook/assets/image (8) (2).png>) and the tabs for your test will be fulfilled.
 
 * Payload - Information that will be sent to your webhook.
 * Result - Status returned and the latency.
 * Request - Request used by BMS to send you the information for this test.
 * Response - Received response from your webhook.
 
-After finishing all configuration and tests, click on <img src="../../.gitbook/assets/image (979) (1).png" alt="" data-size="line"> to save your target.
+After finishing all configuration and tests, click on <img src="../../.gitbook/assets/image (979).png" alt="" data-size="line"> to save your target.
 
 #### Google Sheets
 
@@ -128,15 +128,15 @@ You will be capable of Archiving and Deleting events in bulk.
 
 ### Archiving and Unarchiving your Event Pipe
 
-To archive your event pipe, click on <img src="../../.gitbook/assets/image (514).png" alt="Archive" data-size="line"> and it will be sent to the archived list. In order to unarchive your event pipe, switch your view to archived events by flipping the toggle <img src="../../.gitbook/assets/image (515).png" alt="Archived Toggle" data-size="line">. You will then be presented with the list of archived events. Click on <img src="../../.gitbook/assets/image (962) (1).png" alt="Unarchive" data-size="line"> to unarchive an event pipe.
+To archive your event pipe, click on <img src="../../.gitbook/assets/image (514).png" alt="Archive" data-size="line"> and it will be sent to the archived list. In order to unarchive your event pipe, switch your view to archived events by flipping the toggle <img src="../../.gitbook/assets/image (515).png" alt="Archived Toggle" data-size="line">. You will then be presented with the list of archived events. Click on <img src="../../.gitbook/assets/image (962).png" alt="Unarchive" data-size="line"> to unarchive an event pipe.
 
 ### Deleting your Event Pipe
 
-To delete an event, click on ![](<../../.gitbook/assets/image (975) (1).png>) and a confirmation will be required.
+To delete an event, click on ![](<../../.gitbook/assets/image (975).png>) and a confirmation will be required.
 
 <figure><img src="/broken/files/tSux2ltbMsdt4oKuZtih" alt=""><figcaption><p>Eliminación del Pipeline de Eventos</p></figcaption></figure>
 
-After clicking on <img src="../../.gitbook/assets/image (977) (1).png" alt="Delete" data-size="line">, your event pipe will be deleted.
+After clicking on <img src="../../.gitbook/assets/image (977).png" alt="Delete" data-size="line">, your event pipe will be deleted.
 
 {% hint style="warning" %}
 _We advise users to archive instead of deleting, only delete if you are sure of it, the action cannot be undone._
@@ -148,6 +148,6 @@ Select an event pipe to access its metrics, selecting more than one will show yo
 
 These are all the metrics for event pipes:
 
-* [Matched Events Count](../../../es/product-documentation/monitoring/monitoring-metrics.md#matched-events-count)
-* [Target Execution Call Count](../../../es/product-documentation/monitoring/monitoring-metrics.md#target-execution-call-count)
-* [Target Execution Failure Rate](../../../es/product-documentation/monitoring/monitoring-metrics.md#target-execution-failure-rate)
+* [Matched Events Count](monitoring-metrics.md#matched-events-count)
+* [Target Execution Call Count](monitoring-metrics.md#target-execution-call-count)
+* [Target Execution Failure Rate](monitoring-metrics.md#target-execution-failure-rate)
