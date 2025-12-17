@@ -30,11 +30,11 @@ An Identifier Pool must be created before being used for a campaign so that it c
 
 After creating an identifier pool, you can edit it by clicking on the editing button ![Edit](<../../.gitbook/assets/image (482).png>). All parameters are editable, for the TTL the changes will apply only to newly added identifiers. After making your changes, click on ![Save](<../../.gitbook/assets/image (476).png>) to save them.
 
-It's possible to archive identifier pools for your better organization. Click on ![Archive](<../../.gitbook/assets/image (6) (2).png>) to archive the selected identifier pool, and visualize your archived identifier pools by turning on the switch "Archived" above the identifier pools list. It is also possible to unarchive an identifier pool by clicking on ![Unarchive](<../../.gitbook/assets/image (7) (1).png>).
+It's possible to archive identifier pools for your better organization. Click on ![Archive](<../../.gitbook/assets/image (1067).png>) to archive the selected identifier pool, and visualize your archived identifier pools by turning on the switch "Archived" above the identifier pools list. It is also possible to unarchive an identifier pool by clicking on ![Unarchive](<../../.gitbook/assets/image (1068).png>).
 
 ### Deleting an Identifier Pool
 
-You can delete an identifier pool by clicking on the delete button ![Delete](<../../.gitbook/assets/image (8) (1).png>), to proceed with the process click on ![Delete](<../../.gitbook/assets/image (9) (1).png>) to confirm. Be aware that tracker actions based on these identifier pools will stop working.
+You can delete an identifier pool by clicking on the delete button ![Delete](<../../.gitbook/assets/image (1070).png>), to proceed with the process click on ![Delete](<../../.gitbook/assets/image (1071).png>) to confirm. Be aware that tracker actions based on these identifier pools will stop working.
 
 {% hint style="danger" %}
 Attention! Be careful when deleting identifier pools, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted.

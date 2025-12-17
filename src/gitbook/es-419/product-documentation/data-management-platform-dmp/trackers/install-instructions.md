@@ -31,11 +31,11 @@ Script tracking gathers detailed user behavior directly from your website, helpi
 
 1. On the BMS Trackers page, click on the Install Instructions Tab.
 2. Select the Script option.
-3. Use the copy button ![](<../../../.gitbook/assets/image (88) (1).png>) to copy the script displayed.
+3. Use the copy button ![](<../../../.gitbook/assets/image (88) (1) (1).png>) to copy the script displayed.
 4. If you have configured custom data fields, use the indicated placeholder to inform the custom data values.
 5. Paste the code into your website, precisely on the page where you want this event to be captured.
 
-<figure><img src="../../../.gitbook/assets/image (444) (1).png" alt=""><figcaption><p>Script</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1000).png" alt=""><figcaption><p>Script</p></figcaption></figure>
 
 ## Pixel
 
@@ -60,11 +60,11 @@ Pixel tracking collects data from emails and websites, enabling precise campaign
 
 1. On the BMS Trackers page, click on the Install Instructions Tab.
 2. Select the Pixel option.
-3. Use the copy button ![](<../../../.gitbook/assets/image (88) (1).png>) to copy the image tag displayed.
+3. Use the copy button ![](<../../../.gitbook/assets/image (88) (1) (1).png>) to copy the image tag displayed.
 4. If you have configured custom data fields, use the indicated placeholder to inform the values.
 5. Paste the code into your website, or email, precisely where you want this event to be captured.
 
-<figure><img src="../../../.gitbook/assets/image (445) (1).png" alt=""><figcaption><p>Pixel</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1001).png" alt=""><figcaption><p>Pixel</p></figcaption></figure>
 
 ## Redirect
 
@@ -88,10 +88,10 @@ URL redirect tracking simplifies performance monitoring by capturing data throug
 1. On the BMS Trackers page, click on the Install Instructions Tab.
 2. Select the Redirect option.
 3. Inform the URL to where you want to redirect the user after the event is captured.
-4. Use the copy button ![](<../../../.gitbook/assets/image (88) (1).png>) to copy the displayed URL.
+4. Use the copy button ![](<../../../.gitbook/assets/image (88) (1) (1).png>) to copy the displayed URL.
 5. Use the generated URL just as you would use the URL you provided.
 
-<figure><img src="../../../.gitbook/assets/image (446) (1).png" alt=""><figcaption><p>Redirect</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1002).png" alt=""><figcaption><p>Redirect</p></figcaption></figure>
 
 After installing your events' trackers you should start receiving data from them, it's possible to follow this process on the metrics tab.
 
@@ -99,7 +99,7 @@ After installing your events' trackers you should start receiving data from them
 
 AppsFlyer is a mobile attribution and marketing analytics platform. It enables businesses to measure and analyze the performance of their mobile advertising campaigns by attributing app installs, in-app events, and conversions to the respective marketing channels or campaigns responsible for generating them.
 
-<figure><img src="../../../.gitbook/assets/image (1116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1030).png" alt=""><figcaption></figcaption></figure>
 
 The platform also offers precise attribution solutions, allowing marketers to identify the sources of app installs, in-app events, and conversions—whether from the BMS network, other ad channels, or organic sources.
 
@@ -175,7 +175,7 @@ Tracking with GTM enhances insights into user behavior and campaign performance,
 2. Add the Tracking Script
    1.  Copy and paste the script that is shown on the install instruction:\\
 
-       <figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Google Ads Tracking Template Script</p></figcaption></figure>
+       <figure><img src="../../../.gitbook/assets/image (1114).png" alt=""><figcaption><p>Google Ads Tracking Template Script</p></figcaption></figure>
    2. Replace the placeholders with your custom values:
       * `REPLACE_WITH_PRICE` → the transaction value (if applicable).
       * `REPLACE_WITH_QUANTITY` → the number of items (if applicable).

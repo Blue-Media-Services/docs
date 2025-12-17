@@ -10,7 +10,7 @@ You can learn more about how metrics are handled by visiting the [Metrics page](
 
 This metric represents the number of ads served from the Ad Server, based on the end user's browser requesting the content. This means your ad will be in the user's browser.
 
-<div><figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption><p>Deliveries Metric</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Deliveries and Delivery.png" alt=""><figcaption><p>Deliveries % Metric</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (95) (1).png" alt=""><figcaption><p>Deliveries Metric</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Deliveries and Delivery.png" alt=""><figcaption><p>Deliveries % Metric</p></figcaption></figure></div>
 
 _**Example:** In this graph, you can see that a peak of almost 700 deliveries was reached, with an average delivery rate of 100%. This means your ads are being delivered to the correct audience without any restrictions on their domain. The Delivery metric is often related to the Impressions metric. After winning a bid, your ad will be served to the domain. However, if your delivery does not get a similar result as the impressions, it may be caused by the domain's rules, towards blocking some specific kind of Ads._
 
@@ -98,7 +98,7 @@ _**Example**: This is a more precise way to count how many users visited your pa
 
 This metric shows the ratio of pages loaded to ad delivery, which means that it shows, in percentage, how much of your ad deliveries resulted in a page load.
 
-<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption><p>Page Load Rate %</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (96) (1).png" alt=""><figcaption><p>Page Load Rate %</p></figcaption></figure>
 
 _**Example**: In a context where you install the page load tracking tag on your website, you will be able to follow on this metric how much of your ad deliveries resulted in users accessing your website. In this picture, the defined time frame was 3 days, divided into 6-hour periods, you will notice that on Aug 21 nearly 0.75% of the ad deliveries resulted in a page load, and after that, on Aug 23, the page load rate was almost 0.25%._
 

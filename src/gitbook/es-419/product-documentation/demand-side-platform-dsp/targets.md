@@ -16,7 +16,7 @@ You can choose who to show ads to based on where these users are located by eith
 
 ### **Location**
 
-<figure><img src="../../.gitbook/assets/image (824).png" alt=""><figcaption><p>Location Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (738).png" alt=""><figcaption><p>Location Tab</p></figcaption></figure>
 
 * Geographies - By selecting specific countries or regions, your ads will only appear to users accessing from those geographic locations.
 * Geo-fences - By selecting specific countries or regions, your ads will only appear to users accessing from those geographic locations.
@@ -49,7 +49,7 @@ Please note that we can only display your ads on apps that are connected to one 
 
 By selecting this target option, your content target will deliver your ads to users across both websites and apps. No further segmentation options are available on this tab when this option is selected.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Contents - Apps and Websites</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Contents - Apps and Websites</p></figcaption></figure>
 
 * The campaign will target users across both websites and apps, ensuring broad reach. Segmentation options are not available, meaning the campaign will be delivered to all websites and apps without audience filtering. If you wish to specify your targeting, please select either websites only or apps only.
 
@@ -65,7 +65,7 @@ By selecting this target option, your content target will deliver your ads to us
 
 ### **Inventory**
 
-<figure><img src="../../.gitbook/assets/image (925).png" alt=""><figcaption><p>Inventory Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (839).png" alt=""><figcaption><p>Inventory Tab</p></figcaption></figure>
 
 * Exchange - By selecting specific ad exchanges, your ads will be displayed through those platforms.
 * Position - Select specific inventory positions to strategically place your ads for optimal visibility and engagement.
@@ -96,11 +96,11 @@ On the selected Campaign page, Press <img src="../../.gitbook/assets/image (49).
 
 <figure><img src="../../.gitbook/assets/image (48).png" alt="" width="563"><figcaption><p>Create Target Screen</p></figcaption></figure>
 
-When adding targets, pay attention to the <img src="../../.gitbook/assets/image (84) (1).png" alt="Check" data-size="original"> and <img src="../../.gitbook/assets/image (85) (1).png" alt="Exclude" data-size="line"> signs. These indicate whether you are selecting or excluding a filter for your campaign. The filters you choose will be **listed** in your target filter, showing what will be targeted or excluded from that specific target.
+When adding targets, pay attention to the <img src="../../.gitbook/assets/image (385).png" alt="Check" data-size="original"> and <img src="../../.gitbook/assets/image (386).png" alt="Exclude" data-size="line"> signs. These indicate whether you are selecting or excluding a filter for your campaign. The filters you choose will be **listed** in your target filter, showing what will be targeted or excluded from that specific target.
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-08-21 073343.png" alt=""><figcaption><p>Target Selection or Exclusion</p></figcaption></figure>
 
-After selecting and configuring your target, click on ![](<../../.gitbook/assets/image (762).png>).
+After selecting and configuring your target, click on ![](<../../.gitbook/assets/image (676).png>).
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-08-21 073834.png" alt=""><figcaption><p>Configured Target Screen</p></figcaption></figure>
 
@@ -134,7 +134,7 @@ To start a campaign and use your configured target, ensure the targets are enabl
 
 ## Duplicating a Target
 
-If you want to reutilize a dense target but with few changes, you have the option to duplicate that target and save time, simply click on <img src="../../.gitbook/assets/image (209).png" alt="Duplicate Target" data-size="line"> to duplicate your target and a copy of that target will be instantly created.
+If you want to reutilize a dense target but with few changes, you have the option to duplicate that target and save time, simply click on <img src="../../.gitbook/assets/image (123).png" alt="Duplicate Target" data-size="line"> to duplicate your target and a copy of that target will be instantly created.
 
 ## Bulk Actions
 
@@ -144,7 +144,7 @@ After selecting two or more targets, the bulk actions button will be enabled, <i
 
 ## Deleting a Target
 
-If a target is no longer useful for your campaign, you can click on <img src="../../.gitbook/assets/image (210).png" alt="Delete Target" data-size="line"> to permanently delete the target, and a confirmation screen will be shown to you.
+If a target is no longer useful for your campaign, you can click on <img src="../../.gitbook/assets/image (124).png" alt="Delete Target" data-size="line"> to permanently delete the target, and a confirmation screen will be shown to you.
 
 <figure><img src="../../.gitbook/assets/image (754).png" alt=""><figcaption><p>Target Deletion</p></figcaption></figure>
 

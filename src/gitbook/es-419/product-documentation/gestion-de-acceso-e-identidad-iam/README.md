@@ -4,7 +4,7 @@ Gestiona tus usuarios y grupos en la página de Gestión de Acceso e Identidad (
 
 La página de IAM es accesible haciendo clic en **Permisos** en el menú de la cuenta.
 
-<figure><img src="../../../es-419/.gitbook/assets/image (33) (1).png" alt=""><figcaption><p>Página de inicio de BMS - Menú de cuenta</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (793).png" alt=""><figcaption><p>Página de inicio de BMS - Menú de cuenta</p></figcaption></figure>
 
 ## Usuarios
 

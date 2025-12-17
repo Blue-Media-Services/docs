@@ -6,9 +6,9 @@ Reviewing ads is essential to prevent inappropriate content from being displayed
 
 Please note that sometimes an ad exchange's rejection might not provide an accurate status for your review. Therefore, make sure to resend your ad for review to double-check the rejection status.
 
-<figure><img src="../../../../../es-419/.gitbook/assets/image (235).png" alt="" width="125"><figcaption><p>Rejected Status</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (235).png" alt="" width="125"><figcaption><p>Rejected Status</p></figcaption></figure>
 
-<figure><img src="../../../../../es-419/.gitbook/assets/image (564).png" alt=""><figcaption><p>Status Rejection Example</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (478).png" alt=""><figcaption><p>Status Rejection Example</p></figcaption></figure>
 
 Currently, few ad exchanges performs review on ads, these exchanges contain a helpful documentation that can guide on how to solve an ad exchange rejection. Below, you can check each ad exchange separately.
 

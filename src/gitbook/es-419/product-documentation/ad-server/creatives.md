@@ -14,7 +14,7 @@ To start creating your creative, click on <img src="../../.gitbook/assets/image 
 
 Fill in the details:
 
-<figure><img src="../../.gitbook/assets/image (628).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (542).png" alt=""><figcaption></figcaption></figure>
 
 * Name - how you want to call this creative;
 * Tags - up to 5 labels that can be used to aid identification and searching;
@@ -36,9 +36,9 @@ To design your creative, you have two options:
 
 ### Editing UTMs
 
-When inserting the link to the website designated for your creative, it is important to set your UTM tags. If you do not have your tags pre-created, you can use the <img src="../../.gitbook/assets/image (629).png" alt="Edit UTMs" data-size="line"> feature to make adjustments to your URL and check a preview in real time to validate your URL. This button can be found in the space named "Link to." After clicking the button, the UTM tag configuration screen will pop up.
+When inserting the link to the website designated for your creative, it is important to set your UTM tags. If you do not have your tags pre-created, you can use the <img src="../../.gitbook/assets/image (543).png" alt="Edit UTMs" data-size="line"> feature to make adjustments to your URL and check a preview in real time to validate your URL. This button can be found in the space named "Link to." After clicking the button, the UTM tag configuration screen will pop up.
 
-<figure><img src="../../.gitbook/assets/image (38) (1).png" alt=""><figcaption><p>UTM Editor</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (591).png" alt=""><figcaption><p>UTM Editor</p></figcaption></figure>
 
 You will be presented with your current website URL and then each UTM tag and its explanation to help you complete them.
 
@@ -62,9 +62,9 @@ When editing UTMs, every time you change a tag, it will automatically update you
 * **UTM Term:** Identifies paid keywords in ad campaigns (mainly used for paid search campaigns).
   * **Example - "Sport Shoes":** This identifies the paid search campaign in which the keywords used for the paid search were Sport Shoes.
 
-Once you configure all of your UTM Tags, hit the <img src="../../.gitbook/assets/image (632).png" alt="Save" data-size="line"> button, and your tags will be configured accordingly.
+Once you configure all of your UTM Tags, hit the <img src="../../.gitbook/assets/image (546).png" alt="Save" data-size="line"> button, and your tags will be configured accordingly.
 
-<figure><img src="../../.gitbook/assets/image (633).png" alt=""><figcaption><p>UTM Tags Configured</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (547).png" alt=""><figcaption><p>UTM Tags Configured</p></figcaption></figure>
 
 ### Paste HTML
 
@@ -74,7 +74,7 @@ To use a fully customized creative, switch to the "Paste HTML" tab and insert th
 Caution! You will be presented with some macros later in this section. You must use them to enable BMS click tracking in your ads; otherwise, clicks **will not be tracked**.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (397) (1).png" alt=""><figcaption><p>HTML Customization Example</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (795).png" alt=""><figcaption><p>HTML Customization Example</p></figcaption></figure>
 
 This can be anything and it is entirely up to you to produce a working creative with HTML, CSS, and Javascript.
 
@@ -90,7 +90,7 @@ After making all necessary adjustments, click on ![Save](<../../.gitbook/assets/
 
 Our Ad Server provides several macros that can be used within your HTML code, they can be found at the bottom of the Paste HTML tab.
 
-<figure><img src="../../.gitbook/assets/image (882).png" alt=""><figcaption><p>Available Macros Section</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (796).png" alt=""><figcaption><p>Available Macros Section</p></figcaption></figure>
 
 Some of them are:
 
@@ -122,7 +122,7 @@ If you have any questions for the result of your creative review status, contact
 
 To edit a creative use the <img src="../../.gitbook/assets/edit.png" alt="Edit" data-size="line"> button on the corresponding creative. All fields are available for editing except the domain and type selectors.
 
-<figure><img src="../../.gitbook/assets/image (634).png" alt=""><figcaption><p>Editing a Creative</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (548).png" alt=""><figcaption><p>Editing a Creative</p></figcaption></figure>
 
 If you modify the image URL, link or the HTML code the creative will go back to the <img src="../../.gitbook/assets/draft status.png" alt="Draft" data-size="line"> status, and you will need to send the creative for review again. While in draft, the creative will not be shown on any campaigns.
 
@@ -130,7 +130,7 @@ Once you have made all necessary changes to your creative, click on ![Save](<../
 
 ### Enabling and Disabling a Creative
 
-![](<../../.gitbook/assets/image (240).png>)
+![](<../../.gitbook/assets/image (154).png>)
 
 In order to be displayed in a campaign, a creative must be enabled. If you wish to prevent a creative from being displayed, you can disable it, and it will immediately cease impressions.
 

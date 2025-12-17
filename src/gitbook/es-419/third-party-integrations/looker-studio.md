@@ -12,7 +12,7 @@ If you still don't have a BMS account, sign up [here](https://console.bluems.com
 
 BMS has a partner connector in Looker Studio for the metrics API. This connector allows you to send data from your BMS campaigns to a customized report in Looker Studio. Below are the steps to configure BMS as a Data Source.
 
-<figure><img src="../../es-419/.gitbook/assets/image (1110).png" alt=""><figcaption><p>Looker Studio Homepage</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1024).png" alt=""><figcaption><p>Looker Studio Homepage</p></figcaption></figure>
 
 1. Access Looker Studio. You may need to create an account if you do not have one yet.
 2. Go to the Data Sources tab, located just below the search bar.
@@ -20,11 +20,11 @@ BMS has a partner connector in Looker Studio for the metrics API. This connector
 4. To rename your data source, click on the default name in the top-left corner of the page.
 5.  Search for "BMS" in the search bar.\\
 
-    <figure><img src="../../es-419/.gitbook/assets/image (1111).png" alt=""><figcaption><p>Finding BMS Connector</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1025).png" alt=""><figcaption><p>Finding BMS Connector</p></figcaption></figure>
 6. Click on the BMS Monitoring to select it as a data source.
 7.  Fill in with the correct parameters:\\
 
-    <figure><img src="../../es-419/.gitbook/assets/image (1112).png" alt=""><figcaption><p>BMS Connector Parameters</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1026).png" alt=""><figcaption><p>BMS Connector Parameters</p></figcaption></figure>
 
     * **BMS Account ID:** Enter the BMS account ID of the account you will connect to Looker Studio, using the format XXXX-XXXX-XXXX.
     * **BMS API Key:** Provide a BMS API Key secret code with permission to read the metrics data of your BMS account.

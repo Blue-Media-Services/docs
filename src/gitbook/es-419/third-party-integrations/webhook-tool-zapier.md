@@ -33,19 +33,19 @@ When using **Zapier's Webhook**, move to the [trigger](webhook-tool-zapier.md#tr
 
 Go to our Monitoring tab and click on **Event Pipes**.
 
-<div align="center"><figure><img src="../../es-419/.gitbook/assets/image (491).png" alt=""><figcaption><p>Monitoring Tab</p></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/image (491).png" alt=""><figcaption><p>Monitoring Tab</p></figcaption></figure></div>
 
-There, we will be creating an event pipe by clicking on <img src="../../es-419/.gitbook/assets/image (492) (1).png" alt="Create Event Pipe" data-size="line">, in this case, we will be creating an ADS - Delivered event, so select the Sample event Template, our ADS - Delivered template.
+There, we will be creating an event pipe by clicking on <img src="../.gitbook/assets/image (492) (1).png" alt="Create Event Pipe" data-size="line">, in this case, we will be creating an ADS - Delivered event, so select the Sample event Template, our ADS - Delivered template.
 
-<figure><img src="../../es-419/.gitbook/assets/image (493) (1).png" alt="" width="538"><figcaption><p>Event Pipe Screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (407).png" alt="" width="538"><figcaption><p>Event Pipe Screen</p></figcaption></figure>
 
-Then click on <img src="../../es-419/.gitbook/assets/image (494) (1).png" alt="Add Filter" data-size="line"> to add a filter to collect data from ad-delivered events, by searching events that contain ad-delivered on their Type field.
+Then click on <img src="../.gitbook/assets/image (494) (1).png" alt="Add Filter" data-size="line"> to add a filter to collect data from ad-delivered events, by searching events that contain ad-delivered on their Type field.
 
-<figure><img src="../../es-419/.gitbook/assets/image (496) (1).png" alt="" width="529"><figcaption><p>Event Pipe Filter</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (496) (1).png" alt="" width="529"><figcaption><p>Event Pipe Filter</p></figcaption></figure>
 
-Move to the Targets tab, there is where we configure our webhook link, click on <img src="../../es-419/.gitbook/assets/image (498).png" alt="Add Target" data-size="line"> and then select Call Webhook.
+Move to the Targets tab, there is where we configure our webhook link, click on <img src="../.gitbook/assets/image (498).png" alt="Add Target" data-size="line"> and then select Call Webhook.
 
-<figure><img src="../../es-419/.gitbook/assets/image (499).png" alt="" width="543"><figcaption><p>Create Target Screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (499).png" alt="" width="543"><figcaption><p>Create Target Screen</p></figcaption></figure>
 
 Insert the URL provided by Zapier or your data management tool, and then **save** your Target and Event Pipe.
 
@@ -53,11 +53,11 @@ Insert the URL provided by Zapier or your data management tool, and then **save*
 In some tools you **might** already have the webhook link available, if you are using **Zapier**, you will need to start configuring your webhook first in order to get the link.
 {% endhint %}
 
-<figure><img src="../../es-419/.gitbook/assets/image (637).png" alt="" width="542"><figcaption><p>Zapier Webhook Configured</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (637).png" alt="" width="542"><figcaption><p>Zapier Webhook Configured</p></figcaption></figure>
 
 Make sure to have your Event Pipe enabled and an Active campaign to collect data and send it to your webhook tool.
 
-<figure><img src="../../es-419/.gitbook/assets/image (638).png" alt=""><figcaption><p>Event Pipe Enabled Tab</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (638).png" alt=""><figcaption><p>Event Pipe Enabled Tab</p></figcaption></figure>
 
 ### Configuring your Webhook Tool
 
@@ -67,13 +67,13 @@ Zapier is a tool that presents multiple integrations that can promote automation
 
 If you will be using Zapier as well, this is the link to access: [Zapier](https://zapier.com).
 
-On Zapier, click on <img src="../../es-419/.gitbook/assets/image (270).png" alt="Create" data-size="line">, then Zaps.
+On Zapier, click on <img src="../.gitbook/assets/image (184).png" alt="Create" data-size="line">, then Zaps.
 
-<figure><img src="../../es-419/.gitbook/assets/image (501).png" alt="" width="221"><figcaption><p>Zapier Creation Menu</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (501).png" alt="" width="221"><figcaption><p>Zapier Creation Menu</p></figcaption></figure>
 
 We will then configure our trigger and action, based on Webhook + Event Pipe + Google Sheets.
 
-<figure><img src="../../es-419/.gitbook/assets/image (502).png" alt="" width="489"><figcaption><p>Zapier's Trigger and Action</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (502).png" alt="" width="489"><figcaption><p>Zapier's Trigger and Action</p></figcaption></figure>
 
 ### Trigger
 
@@ -81,17 +81,17 @@ This is the most important step, since here you will be getting the Webhook URL 
 
 To configure our trigger, click on Trigger and then Search for Webhooks by Zapier.
 
-<figure><img src="../../es-419/.gitbook/assets/image (503).png" alt=""><figcaption><p>Webhook Feature</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (417).png" alt=""><figcaption><p>Webhook Feature</p></figcaption></figure>
 
 Then move to the App & Event Tab on your right, there you will configure your event to a Catch Hook event.
 
-<figure><img src="../../es-419/.gitbook/assets/image (504) (1).png" alt="" width="404"><figcaption><p>Webhook Configuration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (504) (1).png" alt="" width="404"><figcaption><p>Webhook Configuration</p></figcaption></figure>
 
 Move to the Test Tab and get your **Webhook URL**.
 
 This URL will be used on your Event Pipe configuration [here](webhook-tool-zapier.md#creating-an-event-pipe).
 
-<figure><img src="../../es-419/.gitbook/assets/image (506).png" alt="" width="410"><figcaption><p>Webhook URL</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (506).png" alt="" width="410"><figcaption><p>Webhook URL</p></figcaption></figure>
 
 After configuring the webhook URL to your Event Pipe, click on Test Trigger to collect a data sample and use it to configure your Google Sheet.
 
@@ -101,17 +101,17 @@ _Attention! Make sure to have an **Active** Campaign and have your Event Pipe **
 
 The data might take a while to be available, once your event pipe sends information to your tool, this is the data you will get from that event.
 
-<figure><img src="../../es-419/.gitbook/assets/image (639).png" alt="" width="402"><figcaption><p>Zapier Data Collected</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (639).png" alt="" width="402"><figcaption><p>Zapier Data Collected</p></figcaption></figure>
 
-Click on <img src="../../es-419/.gitbook/assets/image (935).png" alt="" data-size="line"> and then we will move to configure the Action that will be taken after collecting the data.
+Click on <img src="../.gitbook/assets/image (935).png" alt="" data-size="line"> and then we will move to configure the Action that will be taken after collecting the data.
 
-If every step has been correctly followed, your Trigger will have a <img src="../../es-419/.gitbook/assets/image (937).png" alt="Check" data-size="line"> informing that it is working as intended.
+If every step has been correctly followed, your Trigger will have a <img src="../.gitbook/assets/image (937).png" alt="Check" data-size="line"> informing that it is working as intended.
 
 ### Action
 
 We will use **Google Sheets** to manage the data collected.
 
-<figure><img src="../../es-419/.gitbook/assets/image (936).png" alt="" width="377"><figcaption><p>Trigger and Action</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (936).png" alt="" width="377"><figcaption><p>Trigger and Action</p></figcaption></figure>
 
 Create a Google sheet on your preferred account, and then have the Columns ready to be configured.
 
@@ -119,41 +119,41 @@ In this example, we will be collecting the following data: **Time Stamp**, **Dom
 
 Note that you can name your columns according to your needs, feel free to set any identification that feels better for you.
 
-<figure><img src="../../es-419/.gitbook/assets/image (938).png" alt="" width="333"><figcaption><p>Google Sheet Configured</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (938).png" alt="" width="333"><figcaption><p>Google Sheet Configured</p></figcaption></figure>
 
 We will be using the Create Spreadsheet Row Event on our Google sheet action configuration.
 
-<figure><img src="../../es-419/.gitbook/assets/image (939).png" alt="" width="410"><figcaption><p>Action Event Configuration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (939).png" alt="" width="410"><figcaption><p>Action Event Configuration</p></figcaption></figure>
 
 After Configuring your account in the Account Tab, move to the Action tab.
 
 There we will configure our Spreadsheet, worksheet and which data will be sent to each column.
 
-<figure><img src="../../es-419/.gitbook/assets/image (940).png" alt="" width="408"><figcaption><p>Spreadsheet and Worksheet Configured</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (854).png" alt="" width="408"><figcaption><p>Spreadsheet and Worksheet Configured</p></figcaption></figure>
 
 To better search each value, type on the search tab the value you want to collect.
 
-<figure><img src="../../es-419/.gitbook/assets/image (941).png" alt=""><figcaption><p>Data Collection</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (855).png" alt=""><figcaption><p>Data Collection</p></figcaption></figure>
 
 After configuring all data fields with the collected sample from the **Trigger** test, you will be ready to start testing.
 
-<figure><img src="../../es-419/.gitbook/assets/image (942).png" alt="" width="400"><figcaption><p>Action Test</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (942).png" alt="" width="400"><figcaption><p>Action Test</p></figcaption></figure>
 
-Click on <img src="../../es-419/.gitbook/assets/image (943).png" alt="" data-size="line"> and confirm that the data has been sent to your spreadsheet.
+Click on <img src="../.gitbook/assets/image (857).png" alt="" data-size="line"> and confirm that the data has been sent to your spreadsheet.
 
-<figure><img src="../../es-419/.gitbook/assets/image (490).png" alt="" width="563"><figcaption><p>Data Sent to Spreadsheet</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (404).png" alt="" width="563"><figcaption><p>Data Sent to Spreadsheet</p></figcaption></figure>
 
-If every step has been followed successfully, your events will have a <img src="../../es-419/.gitbook/assets/image (945).png" alt="Check" data-size="line">.
+If every step has been followed successfully, your events will have a <img src="../.gitbook/assets/image (859).png" alt="Check" data-size="line">.
 
-<figure><img src="../../es-419/.gitbook/assets/image (946).png" alt="" width="251"><figcaption><p>Events Checked</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (860).png" alt="" width="251"><figcaption><p>Events Checked</p></figcaption></figure>
 
-Click on <img src="../../es-419/.gitbook/assets/image (947).png" alt="" data-size="line"> to enable your webhook and every data that is sent from our Event Pipe feature, will be available on your Google Sheets!
+Click on <img src="../.gitbook/assets/image (861).png" alt="" data-size="line"> to enable your webhook and every data that is sent from our Event Pipe feature, will be available on your Google Sheets!
 
 ### Start Collecting Data!
 
 Once you have an Active Campaign, Event Pipe and Webhook, this is how your Google Sheet will be updated.
 
-<figure><img src="../../es-419/.gitbook/assets/Spreadsheetdata Animated.gif" alt="" width="563"><figcaption><p>Google Sheet Real-Time Update</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Spreadsheetdata Animated.gif" alt="" width="563"><figcaption><p>Google Sheet Real-Time Update</p></figcaption></figure>
 
 {% hint style="info" %}
 _If you are interested in more information about Webhooks through Zapier, here you can find more detailed information:_ [_Zapier Webhook Guide_](https://zapier.com/blog/what-are-webhooks/)

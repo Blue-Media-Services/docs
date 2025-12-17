@@ -27,10 +27,10 @@ It is possible to [Create New API Keys](api-keys.md#create-new-api-keys) and it 
     * Etiquetas: Asigna etiquetas para tu organización.
     * Políticas: Configura las políticas de acceso que limitan a qué da acceso esta Clave API; haz clic en <img src="../../.gitbook/assets/image (7).png" alt="" data-size="original"> para agregar tus políticas. Cada política tiene un nombre y una descripción de lo que permite acceder. También puedes crear la Clave API sin seleccionar una política.
 
-    <figure><img src="../../.gitbook/assets/image (978).png" alt=""><figcaption><p>Modal de Selección de Políticas</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (892).png" alt=""><figcaption><p>Modal de Selección de Políticas</p></figcaption></figure>
 
     * Después de seleccionar todas las políticas necesarias, haz clic en <img src="../../.gitbook/assets/image (153).png" alt="" data-size="line"> para confirmar tu selección.
-3. Haz clic en <img src="../../.gitbook/assets/image (24) (1).png" alt="" data-size="line"> para guardar tu Clave API.
+3. Haz clic en <img src="../../.gitbook/assets/image (9) (1).png" alt="" data-size="line"> para guardar tu Clave API.
 
 #### Vincular Clave API Existente
 
@@ -43,12 +43,12 @@ Al vincular una Clave API existente, otorgarás acceso a tu cuenta a los usuario
 1. Haz clic en <img src="../../.gitbook/assets/image (9) (2).png" alt="" data-size="line"> para agregar una Clave API.
 2.  Selecciona **Vincular Clave API existente** y luego completa los detalles.
 
-    <figure><img src="../../.gitbook/assets/image (948).png" alt=""><figcaption><p>Vinculación de una API Existente</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (862).png" alt=""><figcaption><p>Vinculación de una API Existente</p></figcaption></figure>
 
     * ID de Clave API: Ingresa el ID de la Clave API que deseas vincular.
     * Políticas: Configura las políticas de acceso que limitan a qué da acceso esta Clave API haciendo clic en <img src="../../.gitbook/assets/image (7).png" alt="" data-size="original"> para agregar tus políticas. Cada política requiere un nombre y una descripción del acceso que proporciona. Al vincular Claves API, se debe seleccionar al menos una política.
     * Después de seleccionar todas las políticas necesarias, haz clic en <img src="../../.gitbook/assets/image (153).png" alt="" data-size="line"> para confirmar tu selección.
-3. Haz clic en <img src="../../.gitbook/assets/image (24) (1).png" alt="" data-size="line"> para guardar tu Clave API.
+3. Haz clic en <img src="../../.gitbook/assets/image (9) (1).png" alt="" data-size="line"> para guardar tu Clave API.
 
 ### Pestaña de Códigos de Acceso
 
@@ -73,7 +73,7 @@ Puedes crear hasta 2 códigos de acceso por Clave API; cada código es válido p
 
 Para interactuar con los servicios de BMS de manera programática, necesitas incluir el Código de Acceso generado en tus solicitudes API. Tu acceso estará restringido a las APIs específicas que tu Clave API está autorizada a usar. Puedes incluir el Código de Acceso en tus solicitudes usando uno de los siguientes métodos:
 
-*   **En el Encabezado de Solicitud:** Copia el "x-api-key" usando el botón <img src="../../.gitbook/assets/image (985).png" alt="" data-size="original"> . Esto evitará errores de tipeo, y pégalo en el encabezado de tus solicitudes.
+*   **En el Encabezado de Solicitud:** Copia el "x-api-key" usando el botón <img src="../../.gitbook/assets/image (899).png" alt="" data-size="original"> . Esto evitará errores de tipeo, y pégalo en el encabezado de tus solicitudes.
 
     <figure><img src="../../.gitbook/assets/image (984).png" alt=""><figcaption><p>Acceso a BMS a través de la API - Método del Encabezado de Solicitud</p></figcaption></figure>
 *   **En la Cadena de Consulta:** Agrega el Código de Acceso a la URL como un parámetro de consulta apiKey. También puedes usar el botón de copiar para evitar errores de tipeo.
@@ -88,7 +88,7 @@ Todos los detalles de las Claves API están disponibles para edición haciendo c
 
 También puedes eliminar una Clave API haciendo clic en <img src="../../.gitbook/assets/image (422) (1).png" alt="" data-size="original"> , y luego confirmando la acción en <img src="../../.gitbook/assets/image (423) (1).png" alt="" data-size="line">. Ten cuidado: esta acción no se puede deshacer. Ten en cuenta que cualquier API que dependa de la Clave API eliminada dejará de funcionar.
 
-Con respecto a los Códigos de Acceso, puedes ver el secreto del código de acceso y descargar las credenciales haciendo clic en <img src="../../.gitbook/assets/image (424) (1).png" alt="" data-size="original"> en la misma fila del código de acceso que deseas ver. La descripción del código de acceso también se puede editar haciendo clic en <img src="../../.gitbook/assets/image (420).png" alt="" data-size="line"> en la misma fila del código de acceso que deseas modificar. Una vez que hayas terminado de realizar tus cambios, haz clic en <img src="../../.gitbook/assets/image (421) (1).png" alt="" data-size="line"> para guardarlos.
+Con respecto a los Códigos de Acceso, puedes ver el secreto del código de acceso y descargar las credenciales haciendo clic en <img src="../../.gitbook/assets/image (958).png" alt="" data-size="original"> en la misma fila del código de acceso que deseas ver. La descripción del código de acceso también se puede editar haciendo clic en <img src="../../.gitbook/assets/image (420).png" alt="" data-size="line"> en la misma fila del código de acceso que deseas modificar. Una vez que hayas terminado de realizar tus cambios, haz clic en <img src="../../.gitbook/assets/image (421) (1).png" alt="" data-size="line"> para guardarlos.
 
 {% hint style="danger" %}
 ¡Atención! Ten cuidado al eliminar un código de acceso, esta acción no se puede deshacer y todos los servicios que dependen de este código dejarán de funcionar.

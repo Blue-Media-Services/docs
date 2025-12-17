@@ -12,7 +12,7 @@ Las campañas de Branding tienen como objetivo aumentar el reconocimiento de una
 
 ### Creación de una nueva campaña <a href="#creating-a-new-campaign" id="creating-a-new-campaign"></a>
 
-En nuestra **Página de Inicio**, haga clic en <img src="../../es-419/.gitbook/assets/image (394).png" alt="Campaigns" data-size="line"> y luego en <img src="../../es-419/.gitbook/assets/image (764).png" alt="" data-size="line">. Complete los detalles prestando atención a lo siguiente:
+En nuestra **Página de Inicio**, haga clic en <img src="../.gitbook/assets/image (308).png" alt="Campaigns" data-size="line"> y luego en <img src="../.gitbook/assets/image (678).png" alt="" data-size="line">. Complete los detalles prestando atención a lo siguiente:
 
 * El dominio que elija debe ser el mismo dominio seleccionado cuando se crearon los anuncios.
 * El precio de puja que elija influye directamente en la calidad del inventario al que tendrá acceso. Cuanto más popular sea un sitio web, más caro será. Recomendamos optar por un precio de puja variable para obtener impresiones en una amplia variedad de sitios web, pagando la tarifa de mercado por cada uno y optimizando su presupuesto diario. Un rango entre **$0.50 y $1.50** es un buen punto de partida.
@@ -29,7 +29,7 @@ Las cuentas nuevas están limitadas a un gasto de $30 por día por campaña. Si 
 
 ### Configurando uno o más objetivos <a href="#configuring-one-or-more-targets" id="configuring-one-or-more-targets"></a>
 
-Con un presupuesto diario asignado, necesitamos saber a quién desea dirigir su campaña. Para crear su primer objetivo, en el panel Configuración > Objetivos, haga clic en el botón <img src="../../es-419/.gitbook/assets/image (397).png" alt="Create Target" data-size="line">.
+Con un presupuesto diario asignado, necesitamos saber a quién desea dirigir su campaña. Para crear su primer objetivo, en el panel Configuración > Objetivos, haga clic en el botón <img src="../.gitbook/assets/image (311).png" alt="Create Target" data-size="line">.
 
 Puede especificar su público objetivo utilizando cuatro filtros principales:
 
@@ -42,25 +42,25 @@ Tenga en cuenta que, cuanto más filtros aplique, más específica será su audi
 
 ### Eligiendo qué anuncios mostrar <a href="#choosing-which-a-ds-to-show" id="choosing-which-a-ds-to-show"></a>
 
-Con los objetivos ya definidos, es momento de seleccionar los anuncios que desea mostrar a su audiencia. En el panel Configuración > Anuncios, haga clic en <img src="../../es-419/.gitbook/assets/image (397).png" alt="Create Ad" data-size="line">.
+Con los objetivos ya definidos, es momento de seleccionar los anuncios que desea mostrar a su audiencia. En el panel Configuración > Anuncios, haga clic en <img src="../.gitbook/assets/image (311).png" alt="Create Ad" data-size="line">.
 
-Se le mostrará una lista de todos los anuncios que coinciden con el dominio de la campaña. Puede refinar la búsqueda y usar el <img src="../../es-419/.gitbook/assets/image (406).png" alt="Preview" data-size="line"> para obtener una vista previa del anuncio.
+Se le mostrará una lista de todos los anuncios que coinciden con el dominio de la campaña. Puede refinar la búsqueda y usar el <img src="../.gitbook/assets/image (320).png" alt="Preview" data-size="line"> para obtener una vista previa del anuncio.
 
-Marque todos los anuncios que desea seleccionar y luego haga clic en <img src="../../es-419/.gitbook/assets/image (405).png" alt="" data-size="line"> para confirmar.
+Marque todos los anuncios que desea seleccionar y luego haga clic en <img src="../.gitbook/assets/image (405).png" alt="" data-size="line"> para confirmar.
 
 Puede eliminar o seleccionar más anuncios en cualquier momento.
 
-También es posible crear sus anuncios en esta misma página: después de hacer clic en ![](<../../es-419/.gitbook/assets/image (45) (1).png>) en el panel de anuncios, haga clic en <img src="../../es-419/.gitbook/assets/image (342).png" alt="" data-size="line"> para crear un nuevo anuncio. Los anuncios creados a través de este proceso usarán automáticamente el mismo dominio que la campaña. Si tiene alguna duda al configurar sus anuncios, consulte nuestro artículo de [**Anuncios**](../product-documentation/ad-server/ads/), donde encontrará información más detallada sobre cómo crear anuncios.
+También es posible crear sus anuncios en esta misma página: después de hacer clic en ![](<../.gitbook/assets/image (744).png>) en el panel de anuncios, haga clic en <img src="../.gitbook/assets/image (342).png" alt="" data-size="line"> para crear un nuevo anuncio. Los anuncios creados a través de este proceso usarán automáticamente el mismo dominio que la campaña. Si tiene alguna duda al configurar sus anuncios, consulte nuestro artículo de [**Anuncios**](../product-documentation/ad-server/ads/), donde encontrará información más detallada sobre cómo crear anuncios.
 
-**Nota:** Si su anuncio ha sido creado recientemente, puede tener un ícono de <img src="../../es-419/.gitbook/assets/image (408).png" alt="Issue Sign" data-size="line">. Esto puede deberse a que no tiene una regla configurada o hay aprobaciones pendientes en los Ad Exchanges. Puede verificar el problema pasando el cursor sobre el ícono de advertencia.
+**Nota:** Si su anuncio ha sido creado recientemente, puede tener un ícono de <img src="../.gitbook/assets/image (408).png" alt="Issue Sign" data-size="line">. Esto puede deberse a que no tiene una regla configurada o hay aprobaciones pendientes en los Ad Exchanges. Puede verificar el problema pasando el cursor sobre el ícono de advertencia.
 
 ### Activar la campaña <a href="#turn-on-the-campaign" id="turn-on-the-campaign"></a>
 
-¡Es hora de iniciar la campaña! En la tabla principal, simplemente actívela cambiando el interruptor Enable <img src="../../es-419/.gitbook/assets/image (409).png" alt="switch" data-size="line">.
+¡Es hora de iniciar la campaña! En la tabla principal, simplemente actívela cambiando el interruptor Enable <img src="../.gitbook/assets/image (323).png" alt="switch" data-size="line">.
 
 **Nota:** Puede **habilitar** o **deshabilitar** su campaña en cualquier momento y también realizar cambios en tiempo real mientras la campaña está activa. Cualquier modificación que realice tardará hasta 15 segundos en surtir efecto.
 
-Verifique que la campaña tenga un check verde <img src="../../es-419/.gitbook/assets/image (392).png" alt="" data-size="line">. Este símbolo cambiará a un <img src="../../es-419/.gitbook/assets/image (408).png" alt="Issue Sign" data-size="line"> si existe algún problema que impida que la campaña se ejecute correctamente. Al pasar el cursor sobre el signo de exclamación, se mostrará el motivo de la advertencia.
+Verifique que la campaña tenga un check verde <img src="../.gitbook/assets/image (392).png" alt="" data-size="line">. Este símbolo cambiará a un <img src="../.gitbook/assets/image (408).png" alt="Issue Sign" data-size="line"> si existe algún problema que impida que la campaña se ejecute correctamente. Al pasar el cursor sobre el signo de exclamación, se mostrará el motivo de la advertencia.
 
 {% hint style="info" %}
 _Nuestro sistema de pujas funciona cruzando la información de la configuración y el valor de puja establecidos en su campaña, por lo que obtendrá impresiones basadas únicamente en la configuración de su campaña._
@@ -76,11 +76,11 @@ Cuando su campaña esté activa, puede ir al panel **Tiempo Real** y verificar l
 * Vistas: el usuario final vio al menos el 50 % de su anuncio en su pantalla durante al menos 1 segundo.
 * Clics: el usuario final hizo clic en su anuncio.
 
-Puede hacer clic en el botón <img src="../../es-419/.gitbook/assets/image (406).png" alt="Preview" data-size="line"> para obtener más detalles sobre cada evento.
+Puede hacer clic en el botón <img src="../.gitbook/assets/image (320).png" alt="Preview" data-size="line"> para obtener más detalles sobre cada evento.
 
 Puede obtener más información sobre los eventos en tiempo real en la [página de documentación de la **Pestaña de Tiempo Real**](../product-documentation/demand-side-platform-dsp/real-time-tab.md).
 
-Los datos presentes en la pestaña de tiempo real no se almacenan en la pestaña de métricas. Para acceder a ellos después de los 15 minutos en que se conservan allí, deberá utilizar nuestros servicios de **Monitoreo**, como **Pipelines de Eventos** y **Almacenamiento de Eventos**. Puede obtener más información sobre estos servicios en el artículo de [**Monitoreo**](../../es-419/product-documentation/monitoring/).
+Los datos presentes en la pestaña de tiempo real no se almacenan en la pestaña de métricas. Para acceder a ellos después de los 15 minutos en que se conservan allí, deberá utilizar nuestros servicios de **Monitoreo**, como **Pipelines de Eventos** y **Almacenamiento de Eventos**. Puede obtener más información sobre estos servicios en el artículo de [**Monitoreo**](../product-documentation/monitoring/).
 
 ### Consultar métricas <a href="#check-metrics" id="check-metrics"></a>
 
@@ -105,10 +105,10 @@ Opciones de agrupación
 Opciones de visualización
 
 * Tarjetas de Métricas: una forma más sencilla de ver sus métricas y compararlas con otras, ya que muestran un gráfico y señalan cada grupo elegido.
-* Tabla de Datos: al seleccionar este método de visualización, puede revisar los datos directamente en pantalla o descargarlos como archivo **.csv** para aplicar sus propios filtros y trabajar con los valores mostrados. Para descargar, simplemente seleccione el método de visualización y luego haga clic en <img src="../../es-419/.gitbook/assets/image (410).png" alt="" data-size="line"> para iniciar la descarga de sus métricas.
+* Tabla de Datos: al seleccionar este método de visualización, puede revisar los datos directamente en pantalla o descargarlos como archivo **.csv** para aplicar sus propios filtros y trabajar con los valores mostrados. Para descargar, simplemente seleccione el método de visualización y luego haga clic en <img src="../.gitbook/assets/image (324).png" alt="" data-size="line"> para iniciar la descarga de sus métricas.
 
-También puede consultar sus métricas desde la **página de Resumen**, a la cual puede acceder desde la página de **Inicio** o desde Campañas. Simplemente haga clic en <img src="../../es-419/.gitbook/assets/image (412).png" alt="" data-size="line">; allí podrá elegir una campaña y revisar sus métricas de forma más amplia.
+También puede consultar sus métricas desde la **página de Resumen**, a la cual puede acceder desde la página de **Inicio** o desde Campañas. Simplemente haga clic en <img src="../.gitbook/assets/image (326).png" alt="" data-size="line">; allí podrá elegir una campaña y revisar sus métricas de forma más amplia.
 
-Todas las métricas cuentan con un <img src="../../es-419/.gitbook/assets/image (411).png" alt="" data-size="line"> que le ayudará a identificar de qué trata cada una.
+Todas las métricas cuentan con un <img src="../.gitbook/assets/image (325).png" alt="" data-size="line"> que le ayudará a identificar de qué trata cada una.
 
 Puede obtener más información sobre las métricas en la [página de documentación de la **Pestaña de Métricas**](../product-documentation/demand-side-platform-dsp/dsp-metrics.md).

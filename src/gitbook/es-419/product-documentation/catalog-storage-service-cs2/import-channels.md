@@ -14,10 +14,10 @@ To start creating an Import Channel, we must first create the catalog which will
 _Import Channels can import data from HTTP, FTP or SFTP websites. Google Merchant's XML format is the standard for creating catalogs and the easiest to work with, but the import channel can be configured to use CSV or other XML formats._
 {% endhint %}
 
-1. Click on <img src="../../.gitbook/assets/image (34) (2).png" alt="" data-size="line"> to start creating your Import Channel.
+1. Click on <img src="../../.gitbook/assets/image (17) (2).png" alt="" data-size="line"> to start creating your Import Channel.
 2.  Fill in the details on the 3 tabs:\\
 
-    <figure><img src="../../.gitbook/assets/image (36) (2).png" alt=""><figcaption><p>Import Channel editor</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Import Channel editor</p></figcaption></figure>
 
     1. General Tab\
        On this tab, you will find the general details related to your import channel, use the examples to help you fill in all the details.
@@ -48,12 +48,12 @@ _Import Channels can import data from HTTP, FTP or SFTP websites. Google Merchan
               * User: Inform a user to access your source.
               * Password: Inform the password to validate your user at the source.
               * Path: Inform the path to your source.
-        * Test Source: This button, <img src="../../.gitbook/assets/image (991).png" alt="" data-size="line">, allows you to test your source and retrieve relevant data for the next fields. There are three tabs for the source test result:
+        * Test Source: This button, <img src="../../.gitbook/assets/image (905).png" alt="" data-size="line">, allows you to test your source and retrieve relevant data for the next fields. There are three tabs for the source test result:
           * Detected Records: Display your feed's records in table format.
           * Issues: Display the problems that can affect your import job.
           *   Raw: Display your feed file source code.\\
 
-              <figure><img src="../../.gitbook/assets/image (990).png" alt=""><figcaption><p>Source Test Result</p></figcaption></figure>
+              <figure><img src="../../.gitbook/assets/image (904).png" alt=""><figcaption><p>Source Test Result</p></figcaption></figure>
 
         After finishing the test click on <img src="../../.gitbook/assets/image (992).png" alt="" data-size="line"> to close the source test result window and automatically fill the next fields with your test results.
 
@@ -74,9 +74,9 @@ _Import Channels can import data from HTTP, FTP or SFTP websites. Google Merchan
 
             * Advanced: For any other kind of feed file, select this option.
 
-            <figure><img src="../../.gitbook/assets/image (989).png" alt=""><figcaption><p>Mapping Tab - Advanced</p></figcaption></figure>
+            <figure><img src="../../.gitbook/assets/image (903).png" alt=""><figcaption><p>Mapping Tab - Advanced</p></figcaption></figure>
         * Detect Template: Click on <img src="../../.gitbook/assets/image (994).png" alt="" data-size="line"> to detect the best template based on your feed file.
-        * Test Template: Click on <img src="../../.gitbook/assets/image (997).png" alt="" data-size="line"> to access a preview of how your products will be displayed in your catalog. If there are any failures with the mapping or the feed file, you will notice them on this test.
+        * Test Template: Click on <img src="../../.gitbook/assets/image (911).png" alt="" data-size="line"> to access a preview of how your products will be displayed in your catalog. If there are any failures with the mapping or the feed file, you will notice them on this test.
 
         <figure><img src="../../.gitbook/assets/Captura de tela 2024-09-18 145710.png" alt=""><figcaption><p>Mapping Test Result</p></figcaption></figure>
 
@@ -89,23 +89,23 @@ _Import Channels can import data from HTTP, FTP or SFTP websites. Google Merchan
         * Value: Inform the value you need to filter from your catalog's feed, such as a brand name, or range of product ids.
         * After filling out the fields, you will also need to input the same data into the displayed template. You must change only the values you are filtering, otherwise, it will not work properly.
 
-        You can add as many filters as necessary by clicking on <img src="../../.gitbook/assets/image (441) (1).png" alt="" data-size="original">, and also remove them by clicking on ![](<../../.gitbook/assets/image (442) (1).png>) at the same row as the filter you want to delete.
+        You can add as many filters as necessary by clicking on <img src="../../.gitbook/assets/image (441) (1).png" alt="" data-size="original">, and also remove them by clicking on ![](<../../.gitbook/assets/image (998).png>) at the same row as the filter you want to delete.
 
         <figure><img src="../../.gitbook/assets/Captura de tela 2024-12-19 110001.png" alt=""><figcaption><p>Filters Tab</p></figcaption></figure>
 
         * _**Example 1**:_ _In this picture, you will notice that a filter was established using the description column of the feed file as a reference for the path, the chosen operator was 'Contains', and the Value was 'Cerdo', meaning that this import channel will only import products that contain the word 'Cerdo' in their description. You will also notice that on the template, the content of the line 'description' was modified to match the filter value._
         * _**Example 2**: You will also notice a filter using the 'url' column as a reference for the path; this one was manually added. To manually add new columns to your filters, they must be present in your feed's mapping too. You also need to respect the template semantics: columns are comma-separated, and a colon is used to separate a column label from its value. Column labels and values must be declared between quotation marks._
-3. Once you have finished the steps above, check your settings to ensure everything is correct, then click on <img src="../../.gitbook/assets/image (39) (2).png" alt="" data-size="line"> to save your Import Channel.
+3. Once you have finished the steps above, check your settings to ensure everything is correct, then click on <img src="../../.gitbook/assets/image (19) (1).png" alt="" data-size="line"> to save your Import Channel.
 4.  Click on <img src="../../.gitbook/assets/image (10).png" alt="" data-size="original"> to start a manual job for importing your products:\\
 
-    <figure><img src="../../.gitbook/assets/image (26) (2).png" alt=""><figcaption><p>Start Jobs screen</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Start Jobs screen</p></figcaption></figure>
 5. Click on <img src="../../.gitbook/assets/image (12).png" alt="" data-size="line"> to start importing your products.
-6.  It's also possible to import only a few products to test if everything works fine before starting the full import. We can do this by checking the box 'Testing Mode', filling in the details and then clicking on <img src="../../.gitbook/assets/image (28) (1).png" alt="" data-size="line">.\\
+6.  It's also possible to import only a few products to test if everything works fine before starting the full import. We can do this by checking the box 'Testing Mode', filling in the details and then clicking on <img src="../../.gitbook/assets/image (12) (1).png" alt="" data-size="line">.\\
 
-    <figure><img src="../../.gitbook/assets/image (484).png" alt=""><figcaption><p>Start Jobs screen - Testing Mode</p></figcaption></figure>
-7.  Follow your import at the Jobs tab, at this tab we can see the issues with our import or if they were completed. It's possible to understand the problem by clicking on ![](<../../.gitbook/assets/image (59) (1).png>) or ![](<../../.gitbook/assets/image (60) (1).png>) on the same row as the failed job.\\
+    <figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption><p>Start Jobs screen - Testing Mode</p></figcaption></figure>
+7.  Follow your import at the Jobs tab, at this tab we can see the issues with our import or if they were completed. It's possible to understand the problem by clicking on ![](<../../.gitbook/assets/image (59) (1).png>) or ![](<../../.gitbook/assets/image (262).png>) on the same row as the failed job.\\
 
-    <figure><img src="../../.gitbook/assets/image (57) (1).png" alt=""><figcaption><p>Jobs tab</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (259).png" alt=""><figcaption><p>Jobs tab</p></figcaption></figure>
 
 ### Editing an Import Channel
 

@@ -10,9 +10,9 @@ We have a solution that may help you understand how a webhook works, check this 
 
 ## Creating an Event Pipe
 
-To create an event store, click on <img src="../../.gitbook/assets/image (276).png" alt="Create Event Pipe" data-size="line"> , and an event pipe creation screen will pop up.
+To create an event store, click on <img src="../../.gitbook/assets/image (190).png" alt="Create Event Pipe" data-size="line"> , and an event pipe creation screen will pop up.
 
-<figure><img src="/broken/files/2SPKQ45kJT8EcGd0p7Yg" alt=""><figcaption><p>Creación de Pipeline de Eventos</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-11-04 073841.png" alt=""><figcaption><p>Creación de Pipeline de Eventos</p></figcaption></figure>
 
 * Name - Set a name for your Event Store.
 * Tags - Create tags to better identify each event pipe.
@@ -25,13 +25,13 @@ To start configuring your event pipe, pick a template of your choice in our Filt
 
 In this example, we will be creating an event pipe for ADS - Delivered. This event tracks every Ad that is currently running in a campaign and is delivering impressions. Once we create this event pipe, all data will be sent to an Event Store or a Webhook.
 
-<figure><img src="/broken/files/qEMHiii00R8d51np93Ib" alt=""><figcaption><p>ADS - Ad Delivered Pipeline de Eventos</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-11-04 074141.png" alt=""><figcaption><p>ADS - Ad Delivered Pipeline de Eventos</p></figcaption></figure>
 
 Once we have the template selected, you can check which data will be collected when creating the corresponding Event Pipe.
 
 To collect the data, we **must** insert a filter, by clicking on ![Add Filter](<../../.gitbook/assets/image (279).png>).
 
-<figure><img src="/broken/files/xjBUNeQQPD4HUl5rnRfU" alt="" width="515"><figcaption><p>Agregar Filtros</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (78).png" alt="" width="515"><figcaption><p>Agregar Filtros</p></figcaption></figure>
 
 * Path - Specific tag in which you can identify the event. Ex: id, type, source, data.accountId.
 * Operator - Rule that will be used on this filter.
@@ -39,17 +39,17 @@ To collect the data, we **must** insert a filter, by clicking on ![Add Filter](<
 
 In this case, we will be collecting data from ad-delivered events, so this is how the configuration would look.
 
-<figure><img src="../../.gitbook/assets/image (281).png" alt="" width="524"><figcaption><p>Event Pipe Filter Settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (195).png" alt="" width="524"><figcaption><p>Event Pipe Filter Settings</p></figcaption></figure>
 
 We specified the **Path** using the tag "Type", chose the **Operator** option to "Contains" and added the **Value** "Ad-delivered". Note that these fields are case sensitive, so the fulfilled fields **must** match the template.
 
-Once you have fulfilled all fields with the corresponding information based on your event pipe, the test filter must have a check confirming that it is working properly <img src="../../.gitbook/assets/image (282).png" alt="Test Filters Checked" data-size="line">. If it is not working properly due to missing information or a typo, it will be presented with a warning sign <img src="../../.gitbook/assets/image (284).png" alt="Test Filters Warning" data-size="line">.
+Once you have fulfilled all fields with the corresponding information based on your event pipe, the test filter must have a check confirming that it is working properly <img src="../../.gitbook/assets/image (196).png" alt="Test Filters Checked" data-size="line">. If it is not working properly due to missing information or a typo, it will be presented with a warning sign <img src="../../.gitbook/assets/image (284).png" alt="Test Filters Warning" data-size="line">.
 
-<figure><img src="../../.gitbook/assets/image (283).png" alt="" width="518"><figcaption><p>Test Filter Warning</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (197).png" alt="" width="518"><figcaption><p>Test Filter Warning</p></figcaption></figure>
 
 In this case, our filter failed due to verification in our Value field. These fields are case-sensitive and **must** match the corresponding information.
 
-Once you have added your filters, click on <img src="../../.gitbook/assets/image (979).png" alt="" data-size="line"> to save your event pipe.
+Once you have added your filters, click on <img src="../../.gitbook/assets/image (92) (2).png" alt="" data-size="line"> to save your event pipe.
 
 ### Targets tab
 
@@ -63,7 +63,7 @@ To configure a target, click on ![Add Target](<../../.gitbook/assets/Captura de 
 
 You must create an event store before using it as a target for your event pipes. Learn more about [Event Stores](event-pipes.md#event-store).
 
-<figure><img src="/broken/files/7c1Qpw1Ep8autQnbL73l" alt=""><figcaption><p>Enviar al Target de Almacén de Eventos</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Enviar al Target de Almacén de Eventos</p></figcaption></figure>
 
 If you decide to send your data to an event store, simply name your target and choose your already created event store.
 
@@ -71,19 +71,19 @@ If you decide to send your data to an event store, simply name your target and c
 * Select "Send to Event Store".
 * Select the event store you are willing to use.
 
-Once everything is configured, click on <img src="../../.gitbook/assets/image (289).png" alt="Save" data-size="line"> and your event pipe will be listed.
+Once everything is configured, click on <img src="../../.gitbook/assets/image (203).png" alt="Save" data-size="line"> and your event pipe will be listed.
 
 #### Call Webhook
 
 It is possible to send your data to a webhook provided by your data management tool, select this option to use the data management tool of preference, and then fill out the details.
 
-<figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption><p>Target de Llamada a Webhook</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (93) (1).png" alt=""><figcaption><p>Target de Llamada a Webhook</p></figcaption></figure>
 
 * Name your target.
 * Select "Call Webhook".
 * Insert your data management tool's webhook URL.
 
-Once you have configured your webhook URL, use our Test Webhook tab to confirm the usability of your webhook tool. Select one of the sample event templates and click on ![Test Webhook](<../../.gitbook/assets/image (94).png>).
+Once you have configured your webhook URL, use our Test Webhook tab to confirm the usability of your webhook tool. Select one of the sample event templates and click on ![Test Webhook](<../../.gitbook/assets/image (94) (1).png>).
 
 If your webhook test is successful, your icon will be presented as ![Test Webhook Successful](<../../.gitbook/assets/image (8) (2).png>) and the tabs for your test will be fulfilled.
 
@@ -92,31 +92,31 @@ If your webhook test is successful, your icon will be presented as ![Test Webhoo
 * Request - Request used by BMS to send you the information for this test.
 * Response - Received response from your webhook.
 
-After finishing all configuration and tests, click on <img src="../../.gitbook/assets/image (979).png" alt="" data-size="line"> to save your target.
+After finishing all configuration and tests, click on <img src="../../.gitbook/assets/image (92) (2).png" alt="" data-size="line"> to save your target.
 
 #### Google Sheets
 
 You can also send your data to Google Sheets, select this option, and fill out the details.
 
-<figure><img src="/broken/files/plJXtWcXYGHJl0CRfG6I" alt=""><figcaption><p>Target de Google Sheet</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Target de Google Sheet</p></figcaption></figure>
 
 * Name your target.
 * Select "Google Sheets".
 * Connect with your Google Account, and you can access the sheet.
 
-Once everything is configured, click on <img src="../../.gitbook/assets/image (289).png" alt="Save" data-size="line"> and your event pipe will be listed.
+Once everything is configured, click on <img src="../../.gitbook/assets/image (203).png" alt="Save" data-size="line"> and your event pipe will be listed.
 
 ### Enabling your Event Pipe
 
 To enable an event pipe simply flip the toggle <img src="../../.gitbook/assets/image (510).png" alt="Toggle" data-size="line"> and your event store will be enabled.
 
-<figure><img src="/broken/files/hZitZV2EZGJToYa9887R" alt=""><figcaption><p>Pipeline de Eventos Habilitado</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption><p>Pipeline de Eventos Habilitado</p></figcaption></figure>
 
 ### Editing your Event Pipe
 
 To edit your event store, click on <img src="../../.gitbook/assets/image (512).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes and then click on <img src="../../.gitbook/assets/image (509).png" alt="Save" data-size="line">.
 
-<figure><img src="/broken/files/FbFcviGACBwh3VdGe0FW" alt="" width="527"><figcaption><p>Pantalla de Edición del Pipeline de Eventos</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (77).png" alt="" width="527"><figcaption><p>Pantalla de Edición del Pipeline de Eventos</p></figcaption></figure>
 
 ### Bulk Actions
 
@@ -124,17 +124,17 @@ When selecting two or more event pipes, the Bulk Actions will be enabled, allowi
 
 You will be capable of Archiving and Deleting events in bulk.
 
-<figure><img src="/broken/files/5ueZSQTUA7ufQrxEiLS6" alt=""><figcaption><p>Acciones Masivas del Pipeline de Eventos</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption><p>Acciones Masivas del Pipeline de Eventos</p></figcaption></figure>
 
 ### Archiving and Unarchiving your Event Pipe
 
-To archive your event pipe, click on <img src="../../.gitbook/assets/image (514).png" alt="Archive" data-size="line"> and it will be sent to the archived list. In order to unarchive your event pipe, switch your view to archived events by flipping the toggle <img src="../../.gitbook/assets/image (515).png" alt="Archived Toggle" data-size="line">. You will then be presented with the list of archived events. Click on <img src="../../.gitbook/assets/image (962).png" alt="Unarchive" data-size="line"> to unarchive an event pipe.
+To archive your event pipe, click on <img src="../../.gitbook/assets/image (514).png" alt="Archive" data-size="line"> and it will be sent to the archived list. In order to unarchive your event pipe, switch your view to archived events by flipping the toggle <img src="../../.gitbook/assets/image (515).png" alt="Archived Toggle" data-size="line">. You will then be presented with the list of archived events. Click on <img src="../../.gitbook/assets/image (876).png" alt="Unarchive" data-size="line"> to unarchive an event pipe.
 
 ### Deleting your Event Pipe
 
 To delete an event, click on ![](<../../.gitbook/assets/image (975).png>) and a confirmation will be required.
 
-<figure><img src="/broken/files/tSux2ltbMsdt4oKuZtih" alt=""><figcaption><p>Eliminación del Pipeline de Eventos</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption><p>Eliminación del Pipeline de Eventos</p></figcaption></figure>
 
 After clicking on <img src="../../.gitbook/assets/image (977).png" alt="Delete" data-size="line">, your event pipe will be deleted.
 

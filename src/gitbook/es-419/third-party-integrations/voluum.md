@@ -6,7 +6,7 @@ Voluum is a cloud-based analytics platform that helps marketers monitor, optimiz
 
 By integrating BMS with Voluum, advertisers can export campaign data, track specific events, and gain deeper visibility into their campaigns' performance.
 
-<figure><img src="../../es-419/.gitbook/assets/image (504).png" alt=""><figcaption><p>Voluum Homepage</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (504).png" alt=""><figcaption><p>Voluum Homepage</p></figcaption></figure>
 
 ### Tracking Clicks and Impressions
 
@@ -20,7 +20,7 @@ You must add BMS as a traffic source into your Voluum campaigns to extract data.
 2. Click on "Create" to create a new campaign.
 3.  Select "Simple" as creation mode.\\
 
-    <figure><img src="../../es-419/.gitbook/assets/image (505).png" alt=""><figcaption><p>Voluum Campaign Editor - General Tab</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (505).png" alt=""><figcaption><p>Voluum Campaign Editor - General Tab</p></figcaption></figure>
 4. Fill in the details:
    * **General**
      * **Traffic Source**: Search for "BMS" and select it.
@@ -30,19 +30,19 @@ You must add BMS as a traffic source into your Voluum campaigns to extract data.
 5. After you are satisfied with the remaining parameters, click on Save to proceed.
 6.  Select the Tracking and Automizer Tab.\\
 
-    <figure><img src="../../es-419/.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Voluum Campaign Editor - Tracking &#x26; Automizer Tab</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Voluum Campaign Editor - Tracking &#x26; Automizer Tab</p></figcaption></figure>
 7.  Here, you will find 2 primordial information that will conclude the integration process:
 
     *   **Campaign URL**: This parameter will allow Voluum to track clicks on your BMS campaigns. Use the copy button to copy this link and then use it as your ad's link, i.e., paste it into the "Link To" parameter of your ads or creatives.\\
 
-        <figure><img src="../../es-419/.gitbook/assets/image (508) (1).png" alt=""><figcaption><p>Creatives Editor - Link to</p></figcaption></figure>
+        <figure><img src="../.gitbook/assets/image (1043).png" alt=""><figcaption><p>Creatives Editor - Link to</p></figcaption></figure>
     * **Impression Click URL**: This parameter will allow Voluum to track impressions on your BMS campaigns. You must copy it using the copy button, paste this URL inside a pixel tag as a source and then add this pixel tag to your creative HTML code.
       * _Example:_ This is an example of a pixel tag:\
         `<img src="VOLUUM_IMPRESSION_PIXEL_URL" style="position: absolute; opacity: 0;">`\
         You must replace the 'src' parameter with the link you copied from Voluum. After replacing it, you will have a result like this:\
         `<img src="https://ImpressionURL.copied/from/Voluum" style="position: absolute; opacity: 0;">`
 
-    <figure><img src="../../es-419/.gitbook/assets/image (397) (1).png" alt=""><figcaption><p>Creatives Editor - Paste HTML tab</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (795).png" alt=""><figcaption><p>Creatives Editor - Paste HTML tab</p></figcaption></figure>
 
 ## Additional Information
 

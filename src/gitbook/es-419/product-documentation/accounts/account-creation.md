@@ -55,7 +55,7 @@ Complete los campos requeridos, incluyendo:
 
 Ingrese los datos de su tarjeta de crédito válida, los cuales serán utilizados para fines de facturación.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para propósitos de validación, se puede cargar un pequeño monto temporal a su tarjeta, que será reembolsado inmediatamente. Aceptamos las siguientes tarjetas:
 
