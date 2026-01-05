@@ -46,7 +46,7 @@ Estes são os recursos disponíveis na BMS.
 
 [Faturamento de Servidor de Anúncios](product-documentation/ad-server/ad-server-billing.md)
 
-[Tag de Rastreamento de Carregamento de Página](product-documentation/ad-server/page-load-tracking-tag.md)
+[Tag de Rastreamento de Carregamento de Página](/broken/pages/gES7bgs4KZWs0wg6OGvy)
 
 </details>
 

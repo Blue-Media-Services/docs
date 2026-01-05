@@ -223,7 +223,7 @@ Após selecionar este modelo, você precisará preencher alguns detalhes de acor
 
 <figure><img src="../.gitbook/assets/Captura de tela 2025-04-24 103042.png" alt=""><figcaption><p>Rastreamento de Carregamento de Página</p></figcaption></figure>
 
-Quando acionada, esta ação executará a [Tag de Rastreio de Carregamento de Página](../product-documentation/ad-server/page-load-tracking-tag.md). Para configurá-la, você precisará preencher os seguintes detalhes:
+Quando acionada, esta ação executará a [Tag de Rastreio de Carregamento de Página](/broken/pages/gES7bgs4KZWs0wg6OGvy). Para configurá-la, você precisará preencher os seguintes detalhes:
 
 * **ID da Conta BMS:** Seu número de conta BMS de 12 dígitos.
 

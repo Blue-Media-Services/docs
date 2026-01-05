@@ -28,7 +28,6 @@
     * [Builds](product-documentation/ad-server/creative-builder/builds.md)
   * [Métricas de Ad Server](product-documentation/ad-server/ad-server-metrics.md)
   * [Faturamento de Servidor de Anúncios](product-documentation/ad-server/ad-server-billing.md)
-  * [Tag de Rastreamento de Carregamento de Página](product-documentation/ad-server/page-load-tracking-tag.md)
 * [Plataforma de Demanda (DSP)](product-documentation/demand-side-platform-dsp/README.md)
   * [Visão Geral](product-documentation/demand-side-platform-dsp/overview.md)
   * [Gerenciando Campanhas](product-documentation/demand-side-platform-dsp/campaigns.md)
