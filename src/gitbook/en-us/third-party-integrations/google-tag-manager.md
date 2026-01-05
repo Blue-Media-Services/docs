@@ -222,7 +222,7 @@ After selecting this template, you will need to fill in some details according t
 
 <figure><img src="../.gitbook/assets/Captura de tela 2025-04-24 103042 (1).png" alt=""><figcaption><p>Track Page Loaded</p></figcaption></figure>
 
-When triggered, this action will execute the [Page Load Tracking Tag](../product-documentation/ad-server/page-load-tracking-tag.md). To configure it, you will need to fill in the following details:
+When triggered, this action will execute the [Page Load Tracking Tag](/broken/pages/Q1W7s09Dm7V81XqDxENs). To configure it, you will need to fill in the following details:
 
 * **BMS Account ID**: Your 12-digit BMS account number.
 

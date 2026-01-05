@@ -46,7 +46,7 @@ These are the features available on BMS.
 
 [Ad Serving Billing](product-documentation/ad-server/ad-server-billing.md)
 
-[Page Load Tracking Tag](product-documentation/ad-server/page-load-tracking-tag.md)
+[Page Load Tracking Tag](/broken/pages/Q1W7s09Dm7V81XqDxENs)
 
 </details>
 
