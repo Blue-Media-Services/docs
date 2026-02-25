@@ -1,20 +1,20 @@
 # Revisión de Ad Exchange
 
-Some ad exchanges require a review of your ad before displaying it in their inventory to ensure compliance with their pre-established rules. Once the review is complete, the ad exchange will inform you whether the ad is approved or rejected, along with the reason for rejection.
+Algunas plataformas de intercambio publicitario requieren revisar tu anuncio antes de mostrarlo en su inventario para garantizar que cumple con sus normas preestablecidas. Una vez completada la revisión, la plataforma de intercambio publicitario te informará si el anuncio ha sido aprobado o rechazado, junto con el motivo del rechazo.
 
-Reviewing ads is essential to prevent inappropriate content from being displayed on websites that do not accept such content.
+Revisar los anuncios es esencial para evitar que se muestre contenido inapropiado en sitios web que no aceptan dicho contenido.
 
-Please note that sometimes an ad exchange's rejection might not provide an accurate status for your review. Therefore, make sure to resend your ad for review to double-check the rejection status.
+Ten en cuenta que, en ocasiones, el rechazo de una plataforma de intercambio publicitario puede no proporcionar un estado preciso para tu revisión. Por lo tanto, asegúrate de reenviar tu anuncio para su revisión y comprobar dos veces el estado del rechazo.
 
-<figure><img src="../../../../.gitbook/assets/image (235).png" alt="" width="125"><figcaption><p>Rejected Status</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (235).png" alt="" width="125"><figcaption><p>Estado rechazado</p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (478).png" alt=""><figcaption><p>Status Rejection Example</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (478).png" alt=""><figcaption><p>Ejemplo de rechazo de estado</p></figcaption></figure>
 
-Currently, few ad exchanges performs review on ads, these exchanges contain a helpful documentation that can guide on how to solve an ad exchange rejection. Below, you can check each ad exchange separately.
+Actualmente, pocos intercambios publicitarios revisan los anuncios, pero estos intercambios contienen documentación útil que puede servir de guía para resolver el rechazo de un intercambio publicitario. A continuación, puede consultar cada intercambio publicitario por separado.
 
 * [Google Authorized Buyers](google-authorized-buyers.md)
 * [Xandr](xandr.md)
 
 ## Información Adicional <a href="#additional-information" id="additional-information"></a>
 
-An Ad Exchange review is a crucial step in preparing your ads for a campaign. If you have any questions about a status that is unclear, please contact our support team.
+La revisión de Ad Exchange es un paso crucial en la preparación de tus anuncios para una campaña. Si tienes alguna pregunta sobre un estado que no te queda claro, ponte en contacto con nuestro equipo de asistencia.

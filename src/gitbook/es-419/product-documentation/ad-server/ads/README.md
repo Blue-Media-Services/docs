@@ -1,235 +1,235 @@
 ---
-description: Learn how to create, edit and analyze your Ads' metrics here.
+description: Aprenda aquí cómo crear, editar y analizar las métricas de sus anuncios.
 ---
 
 # Anuncios
 
-In the Ads area, you will create the Ads for your campaign, adding the group of creatives you want to send to the Ad Exchanges for approval.
+En el área de Anuncios, creará los anuncios para su campaña, añadiendo el grupo de creatividades que desea enviar a los Ad Exchanges para su aprobación.
 
-You have complete control and visualization of the status of your Ad in each of the Ad Exchanges and you can also create rules for promoting these Ads.
+Tendrá control total y visualización del estado de su anuncio en cada uno de los Ad Exchanges y también podrá crear reglas para la promoción de estos anuncios.
 
-## Managing Ads <a href="#managingads" id="managingads"></a>
+## Gestión de anuncios <a href="#managingads" id="managingads"></a>
 
-In the dedicated ads management area, you will be able to manage your ads with ease. It is possible to create, edit, delete, archive or unarchive, and access your archived ads.
+En el área dedicada a la gestión de anuncios, podrá administrar sus anuncios con facilidad. Es posible crear, editar, eliminar, archivar o desarchivar, así como acceder a sus anuncios archivados.
 
-Bulk actions are available after selecting 2 or more ads. Use this option to delete, archive or send ads for review in bulk.
+Las acciones masivas están disponibles tras seleccionar dos o más anuncios. Utilice esta opción para eliminar, archivar o enviar anuncios a revisión de forma masiva.
 
-<figure><img src="../../../.gitbook/assets/image (486).png" alt=""><figcaption><p>Ads List</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (486).png" alt=""><figcaption><p>Lista de anuncios</p></figcaption></figure>
 
-## Creating Ads <a href="#creatingads" id="creatingads"></a>
+## Creación de anuncios <a href="#creatingads" id="creatingads"></a>
 
-To create ads, click on <img src="../../../.gitbook/assets/image (479).png" alt="Create Ads" data-size="line"> either in the Ads area or in the Campaigns area to get started.
+Para crear anuncios, haga clic en <img src="../../../.gitbook/assets/image (479).png" alt="Create Ads" data-size="line"> ya sea en el área de Anuncios o en el área de Campañas para comenzar.
 
-<figure><img src="../../../.gitbook/assets/image (549).png" alt=""><figcaption><p>Creating Ads</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (549).png" alt=""><figcaption><p>Creación de anuncios</p></figcaption></figure>
 
-On the Select Assets Tab, you will need to fulfill a domain in which your creatives will be representing, you can choose between creating new creatives or using existing creatives.
+En la pestaña de Selección de Activos, deberá completar el dominio que representarán sus creatividades; puede elegir entre crear nuevas creatividades o utilizar las existentes.
 
-To configure your UTM Tags, check [here](../creatives.md#editing-utms) for more information.
+Para configurar sus etiquetas UTM, consulte  [aquí](../creatives.md#editing-utms) for more information.
 
-### Creating New Creatives
+### Creación de nuevas creatividades
 
-When creating new creatives through our ads tab, you can click on <img src="../../../.gitbook/assets/image (193).png" alt="Add Images" data-size="line"> to upload images. You can use existing images from your media library, upload new images directly from your computer, or insert your Web Address (URL).
+Al crear nuevas creatividades a través de la pestaña de anuncios, puede hacer clic en <img src="../../../.gitbook/assets/image (193).png" alt="Add Images" data-size="line"> para subir imágenes. Puede utilizar imágenes existentes de su biblioteca de medios, subir nuevas imágenes directamente desde su computadora o insertar su dirección web (URL).
 
-After selecting your images, you will be shown your uploaded images.
+Tras seleccionar sus imágenes, se le mostrarán las imágenes cargadas.
 
-<figure><img src="../../../.gitbook/assets/image (171).png" alt=""><figcaption><p>New Creatives List</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (171).png" alt=""><figcaption><p>Lista de nuevas creatividades</p></figcaption></figure>
 
-### Use Existing Creatives
+### Uso de creatividades existentes
 
-If you wish to create new Ads based on existing Creatives, select the Use Existing Creatives tab, note that if you have previously selected any images on the Create New Creatives tab, all of your images will be discarded.
+Si desea crear nuevos anuncios basados en creatividades existentes, seleccione la pestaña Usar creatividades existentes; tenga en cuenta que si ha seleccionado previamente alguna imagen en la pestaña "Crear nuevas creatividades", todas sus imágenes serán descartadas.
 
-<figure><img src="../../../.gitbook/assets/image (173).png" alt=""><figcaption><p>Existing Creatives</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (173).png" alt=""><figcaption><p>Creatividades existentes</p></figcaption></figure>
 
-* To use existing creatives, click on <img src="../../../.gitbook/assets/image (174).png" alt="Add Creatives" data-size="line"> and you will be presented with a list of all created creatives.
+* Para utilizar creatividades existentes, haga clic en <img src="../../../.gitbook/assets/image (174).png" alt="Add Creatives" data-size="line"> y se le presentará una lista de todas las creatividades creadas.
 
-<figure><img src="../../../.gitbook/assets/image (175).png" alt="" width="540"><figcaption><p>Creatives List</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (175).png" alt="" width="540"><figcaption><p>Lista de creatividades</p></figcaption></figure>
 
-* You also have the option to create a creative directly from this screen, by clicking on <img src="../../../.gitbook/assets/image (554).png" alt="Create Creative" data-size="line">.
-* Once you have chosen all necessary creatives, click on <img src="../../../.gitbook/assets/image (636).png" alt="Select" data-size="line"> and all selected creatives will be listed.
-* You can also Preview your ad by clicking on <img src="../../../.gitbook/assets/image (179).png" alt="" data-size="line">, and if necessary, you can remove any unwanted creatives for your ad by clicking on <img src="../../../.gitbook/assets/image (180).png" alt="Remove" data-size="line">.
+* También tiene la opción de crear una creatividad directamente desde esta pantalla, haciendo clic en <img src="../../../.gitbook/assets/image (554).png" alt="Create Creative" data-size="line">.
+* También tiene la opción de crear una creatividad directamente desde esta pantalla, haciendo clic en <img src="../../../.gitbook/assets/image (636).png" alt="Select" data-size="line"> y todas las creatividades seleccionadas aparecerán en la lista.
+* También puede previsualizar su anuncio haciendo clic en <img src="../../../.gitbook/assets/image (179).png" alt="" data-size="line">, y, si es necesario, puede eliminar cualquier creatividad no deseada para su anuncio haciendo clic en <img src="../../../.gitbook/assets/image (180).png" alt="Remove" data-size="line">.
 
-<figure><img src="../../../.gitbook/assets/image (178).png" alt=""><figcaption><p>Existing Creatives List</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (178).png" alt=""><figcaption><p>Lista de creatividades existentes</p></figcaption></figure>
 
-* After making all necessary changes, click on <img src="../../../.gitbook/assets/image (35) (1).png" alt="Next" data-size="line"> to move to the next step.
+* Después de realizar todos los cambios necesarios, haga clic en <img src="../../../.gitbook/assets/image (35) (1).png" alt="Next" data-size="line"> para pasar al siguiente paso.
 
-### A/B Test
+### Prueba A/B&#x20;
 
-On the A/B Test tab, you can decide if you will be testing your Ads to check their results, by setting different weights on each creative.
+En la pestaña de Prueba A/B, puede decidir si desea poner a prueba sus anuncios para comprobar sus resultados, estableciendo diferentes pesos en cada creatividad.
 
-It is necessary to have more than one creative selected in order to use the A/B Test.
+Es necesario tener seleccionada más de una creatividad para poder utilizar la Prueba A/B.
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 074415.png" alt=""><figcaption><p>A/B Test</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 074415.png" alt=""><figcaption><p>Prueba A/B </p></figcaption></figure>
 
-* You can select whether you will be using the A/B Test by clicking on the <img src="../../../.gitbook/assets/image (183).png" alt="" data-size="line"> corresponding to your decision, then if necessary, set a custom Suffix to better identify your A/B creatives.
-* After making all necessary changes, click on <img src="../../../.gitbook/assets/image (35) (1).png" alt="Next" data-size="line"> to move to the next step.
+* Puede seleccionar si utilizará la Prueba A/B haciendo clic en el <img src="../../../.gitbook/assets/image (183).png" alt="" data-size="line"> correspondiente a su decisión; luego, si es necesario, establezca un sufijo personalizado para identificar mejor sus creatividades de la Prueba A/B.
+* Después de realizar todos los cambios necesarios, haga clic en <img src="../../../.gitbook/assets/image (35) (1).png" alt="Next" data-size="line"> para pasar al siguiente paso.
 
-### Naming and Tagging
+### Nombramiento y Etiquetado
 
-On the Naming and Tagging Strategy tab, you will be able to customize your ads' names and tags.
+En la pestaña de Estrategia de Nombramiento y Etiquetado, podrá personalizar los nombres y las etiquetas de sus anuncios.
 
-* **Copy From Assets**: Uses the same name or tags from the creative itself.
-* **Use New**: Creates a new name or tag for all ads.
-  * **Append Size**: By checking this option, insert the creative's size into the name.
-* **Custom**: Customize each Ad separately, naming and tagging each one.
+* **Copiar desde Activos:** Utiliza el mismo nombre o las mismas etiquetas de la propia creatividad.
+* **Usar Nuevo:** Crea un nuevo nombre o etiqueta para todos los anuncios.
+  * **Añadir Tamaño**: Al marcar esta opción, se inserta el tamaño de la creatividad en el nombre.
+* **Personalizado:** Permite personalizar cada anuncio por separado, nombrando y etiquetando cada uno de ellos.
 
-You can check the current status of your settings by checking the Preview Editor.
+Puede verificar el estado actual de su configuración consultando el Editor de Previsualización.
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 074521.png" alt=""><figcaption><p>Naming and Tagging Strategy</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 074521.png" alt=""><figcaption><p>Estrategia de Nombramiento y Etiquetado</p></figcaption></figure>
 
-After making all necessary changes, click on <img src="../../../.gitbook/assets/image (35) (1).png" alt="Next" data-size="line"> to move to the next step.
+Después de realizar todos los cambios necesarios, haga clic en <img src="../../../.gitbook/assets/image (35) (1).png" alt="Next" data-size="line"> para pasar al siguiente paso.
 
-### Rules
+### Reglas
 
-On your Rules tab, you will be able to set a schedule for your Ad, being able to set a starting date and ending date, as well as setting which day and time.
+En la pestaña de Reglas, podrá establecer una programación para su anuncio, pudiendo definir una fecha de inicio y una fecha de finalización, así como configurar el día y la hora específicos.
 
 {% hint style="warning" %}
-_If no schedule is set, all of your ads will be displayed all day long every day._
+Si no se establece ninguna programación, todos sus anuncios se mostrarán durante todo el día, todos los días.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 074620.png" alt=""><figcaption><p>Configuring Default Rule</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 074620.png" alt=""><figcaption><p>Configuración de la Regla Predeterminada</p></figcaption></figure>
 
-* To set a specific time for each day or remove a day from your schedule, click on the dropdown <img src="../../../.gitbook/assets/image (185).png" alt="Dropdown" data-size="line">.
+* Para establecer una hora específica para cada día o eliminar un día de su programación, haga clic en el menú desplegable<img src="../../../.gitbook/assets/image (185).png" alt="Dropdown" data-size="line">.
 
-<figure><img src="../../../.gitbook/assets/image (186).png" alt="" width="364"><figcaption><p>Schedule Settings</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (186).png" alt="" width="364"><figcaption><p>Configuración de Programación</p></figcaption></figure>
 
-* You can set a specific time for your Ad to be displayed. If all boxes are unchecked, the selected day will be removed from your schedule.
-* While making changes to your schedule, our Preview Editor will display how many hours per week the ads will be displayed.
+* Puede establecer una hora específica para que se muestre su anuncio. Si todas las casillas están desmarcadas, el día seleccionado se eliminará de su programación.
+* Mientras realiza cambios en su programación, nuestro Editor de Previsualización mostrará cuántas horas por semana se mostrarán los anuncios.
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 075035.png" alt=""><figcaption><p>Preview Editor - Rules</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 075035.png" alt=""><figcaption><p>Editor de Previsualización - Reglas</p></figcaption></figure>
 
-* After making all necessary changes, click on <img src="../../../.gitbook/assets/image (35) (1).png" alt="Next" data-size="line"> to move to the next step.
+* Después de realizar todos los cambios necesarios, haga clic en <img src="../../../.gitbook/assets/image (35) (1).png" alt="Next" data-size="line"> para pasar al siguiente paso.
 
 ### Exchanges
 
-All ads are sent for review and need Ad Exchange approval in order to be available in your campaign.
+Todos los anuncios se envían para revisión y requieren la aprobación de la Ad Exchange para estar disponibles en su campaña.
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 075154.png" alt=""><figcaption><p>Exchanges Selection</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 075154.png" alt=""><figcaption><p>Selección de Exchanges</p></figcaption></figure>
 
-* Some Ad Exchanges do not require a review, and your Ads will be available for immediate use.
-* After making all necessary changes, click on <img src="../../../.gitbook/assets/image (188).png" alt="Next" data-size="line"> to move to the next step.
+* Algunas Ad Exchanges no requieren revisión y sus anuncios estarán disponibles para su uso inmediato.
+* Después de realizar todos los cambios necesarios, haga clic en <img src="../../../.gitbook/assets/image (188).png" alt="Next" data-size="line"> para pasar al siguiente paso.
 
-### Review
+### Revisión
 
-Once you have followed every step correctly and made all the necessary changes, you will be able to review all your settings. If there are any adjustments required, click on <img src="../../../.gitbook/assets/image (191).png" alt="Previous" data-size="line"> to fix any issue.
+Una vez que haya seguido todos los pasos correctamente y realizado todos los cambios necesarios, podrá revisar toda su configuración. Si se requiere algún ajuste, haga clic en <img src="../../../.gitbook/assets/image (191).png" alt="Previous" data-size="line"> para solucionar cualquier problema.
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 075239.png" alt=""><figcaption><p>Ads Review</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 075239.png" alt=""><figcaption><p>Revisión de anuncios</p></figcaption></figure>
 
-After reviewing all of your ad creation process, click on <img src="../../../.gitbook/assets/image (192).png" alt="" data-size="line"> to finish your ad creation.
+Después de revisar todo el proceso de creación de su anuncio, haga clic en <img src="../../../.gitbook/assets/image (192).png" alt="" data-size="line"> para finalizar la creación del mismo.
 
-## Editing an Ad
+## Edición de un anuncio
 
-If you need to make any necessary changes, click on <img src="../../../.gitbook/assets/image (86) (1).png" alt="" data-size="line"> on the ad and you will be able to edit the name and tags for your ad.
+Si necesita realizar cualquier cambio necesario, haga clic en <img src="../../../.gitbook/assets/image (86) (1).png" alt="" data-size="line"> en el anuncio y podrá editar el nombre y las etiquetas de su anuncio.
 
-<figure><img src="../../../.gitbook/assets/image (87) (1).png" alt=""><figcaption><p>Editing an Ad</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (87) (1).png" alt=""><figcaption><p>Edición de un anuncio</p></figcaption></figure>
 
-After making changes, click on <img src="../../../.gitbook/assets/image (519).png" alt="Save" data-size="line">.
+Después de realizar los cambios, haga clic en <img src="../../../.gitbook/assets/image (519).png" alt="Save" data-size="line">.
 
-## Creating Ad Rules
+## Creación de reglas de anuncios
 
-For an Ad to work, it is necessary to create a rule, you will decide when the ad will be displayed, if you have not created the rule through our Ad Creation steps, follow the steps below.
+Para que un anuncio funcione, es necesario crear una regla; usted decidirá cuándo se mostrará el anuncio. Si no ha creado la regla a través de nuestros pasos de creación de anuncios, siga los pasos a continuación.
 
-To start creating an Ad rule, select an ad and move to the <img src="../../../.gitbook/assets/image (520).png" alt="Rules" data-size="line"> tab.
+Para comenzar a crear una regla de anuncio, seleccione un anuncio y diríjase a la <img src="../../../.gitbook/assets/image (520).png" alt="Rules" data-size="line"> pestaña.
 
-<figure><img src="../../../.gitbook/assets/image (75) (1).png" alt=""><figcaption><p>Rules</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (75) (1).png" alt=""><figcaption><p>Reglas</p></figcaption></figure>
 
-To create a rule, click on <img src="../../../.gitbook/assets/image (76) (1).png" alt="Add Rule" data-size="line">.
+Para crear una regla, haga clic en <img src="../../../.gitbook/assets/image (76) (1).png" alt="Add Rule" data-size="line">.
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 075457.png" alt=""><figcaption><p>Editing Rules</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-27 075457.png" alt=""><figcaption><p>Edición de reglas</p></figcaption></figure>
 
-On your rule creation, you will be able to select the time frame in which your ad will be displayed.
+En la creación de su regla, podrá seleccionar el intervalo de tiempo en el que se mostrará su anuncio.
 
-* **Name**: Inform a name for the rule.
-* **Use Single Creative**: Select this option to apply this rule to a single creative.
-* **Use Creative Group**: Select this option to apply this rule to a creative group.
-* **Scheduling**: You can schedule your ads to be displayed on certain days or time window, making it possible to fully customize when your ads will be displayed.
-* **Display**: Set a starting date and when the rule stops, you can always edit this date when necessary.
+* **Nombre:** Ingrese un nombre para la regla.
+* **Usar creatividad individual:** Seleccione esta opción para aplicar esta regla a una sola creatividad.
+* **Usar grupo de creatividades:** Seleccione esta opción para aplicar esta regla a un grupo de creatividades.
+* **Programación:** Puede programar sus anuncios para que se muestren en ciertos días o ventanas de tiempo, lo que permite personalizar totalmente cuándo se mostrarán sus anuncios.
+* **Visualización**: Establezca una fecha de inicio y el momento en que se detendrá la regla; siempre podrá editar esta fecha cuando sea necesario.
 
-After making all necessary customizations, click on <img src="../../../.gitbook/assets/image (519).png" alt="Save" data-size="line">.
+Después de realizar todas las personalizaciones necesarias, haga clic en <img src="../../../.gitbook/assets/image (519).png" alt="Save" data-size="line">.
 
-<figure><img src="../../../.gitbook/assets/image (78) (1).png" alt=""><figcaption><p>Rules Configured</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (78) (1).png" alt=""><figcaption><p>Reglas configuradas</p></figcaption></figure>
 
-Once you configure your rule, a week preview will be shown as well as the hours per week that your ad will be displayed. To make any necessary changes, click on ![](<../../../.gitbook/assets/image (79) (1).png>) and you will be able to make changes.
+Una vez que configure su regla, se mostrará una vista previa semanal, así como las horas por semana que se mostrará su anuncio. Para realizar cualquier cambio necesario, haga clic en ![](<../../../.gitbook/assets/image (79) (1).png>) y podrá efectuar las modificaciones.
 
 {% hint style="info" %}
-If you do not change the rule, the platform will understand that your creative will run during the campaign period, on all days of the week, and at any time. This area allows you to create periods for Ads to run within the same campaign, as well as their times and days of the week.
+Si no cambia la regla, la plataforma entenderá que su creatividad se ejecutará durante todo el periodo de la campaña, todos los días de la semana y en cualquier horario. Esta área le permite crear periodos para que los anuncios se ejecuten dentro de la misma campaña, así como sus horarios y días de la semana.
 {% endhint %}
 
-You can create multiple rules for the same Ad, and enable or disable them as you wish. Just flip the<img src="../../../.gitbook/assets/image (80) (1).png" alt="Toggle" data-size="line"> to decide which rules will be used.
+Puede crear múltiples reglas para el mismo anuncio y activarlas o desactivarlas según desee. Simplemente mueva el<img src="../../../.gitbook/assets/image (80) (1).png" alt="Toggle" data-size="line"> para decidir qué reglas se utilizarán.
 
-_**Example**: Let's say that in the first half of the month, you have a promotion for a 10% discount on products and in the second half of the month for a 20% discount. You could create two Ads with different creatives and create a period rule so that the platform makes this change automatically for you, without the need to create two different campaigns._
+_**Ejemplo:** Supongamos que en la primera mitad del mes tiene una promoción del 10% de descuento en productos y en la segunda mitad del mes una del 20%. Podría crear dos anuncios con creatividades diferentes y definir una regla de periodo para que la plataforma realice este cambio automáticamente por usted, sin necesidad de crear dos campañas distintas._
 
-## Exchange Reviews
+## Opiniones sobre Exchange
 
-Once you create your ads, it is necessary for certain exchanges to review your ad in order to display it on their inventory. You can check your exchange review status by clicking on <img src="../../../.gitbook/assets/image (81) (1).png" alt="Exchange Reviews" data-size="line">.
+Una vez que haya creado sus anuncios, es necesario que ciertas plataformas los revisen para poder mostrarlos en su inventario. Puede comprobar el estado de revisión de su plataforma haciendo clic en<img src="../../../.gitbook/assets/image (81) (1).png" alt="Exchange Reviews" data-size="line">.
 
-<figure><img src="../../../.gitbook/assets/image (82) (1).png" alt=""><figcaption><p>Exchange Reviews</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (82) (1).png" alt=""><figcaption><p>Opiniones sobre Exchange</p></figcaption></figure>
 
-If you did not check the Send for Review on your Ad creation, you will be able to send your ad for review by clicking on <img src="../../../.gitbook/assets/image (83) (1).png" alt="Send" data-size="line">.
+Si no marcó la casilla Enviar para revisión al crear su anuncio, podrá enviarlo para su revisión haciendo clic en <img src="../../../.gitbook/assets/image (83) (1).png" alt="Send" data-size="line">.
 
-Should your ad review fail for any reason, you can check more details [here](ad-exchange-review/) on how to correctly identify the error and how to fix it.
+Si tu anuncio no supera la revisión por cualquier motivo, puedes consultar más detalles [aquí](ad-exchange-review/) sobre cómo identificar correctamente el error y cómo solucionarlo.
 
-Alternatively, you can use the bulk actions to send ads for exchange review in bulk. This option is available when selecting at least 2 ads, then clicking on <img src="../../../.gitbook/assets/image (528).png" alt="" data-size="line"> and selecting "Send For Review".
+Como alternativa, puede utilizar las acciones masivas para enviar anuncios para su revisión por parte de Exchange de forma masiva. Esta opción está disponible cuando se seleccionan al menos dos anuncios y, a continuación, se hace clic en <img src="../../../.gitbook/assets/image (528).png" alt="" data-size="line"> y seleccionando "Enviar para revisión".
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2025-05-09 140645.png" alt=""><figcaption><p>Send for Review - Bulk Actions</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2025-05-09 140645.png" alt=""><figcaption><p>Enviar para revisión - Acciones masivas</p></figcaption></figure>
 
-You will also be able to select the ad exchanges before sending the ads for review in bulk. After selecting the ad exchanges, click on <img src="../../../.gitbook/assets/image (530).png" alt="" data-size="line"> to send your ads for review.
+También podrá seleccionar los intercambios publicitarios antes de enviar los anuncios para su revisión de forma masiva. Después de seleccionar los intercambios publicitarios, haga clic en <img src="../../../.gitbook/assets/image (530).png" alt="" data-size="line"> para enviar sus anuncios para su revisión.
 
-## Checking the status of an Ad <a href="#checking-the-status-of-anad" id="checking-the-status-of-anad"></a>
+## Comprobación del estado de un anuncio <a href="#checking-the-status-of-anad" id="checking-the-status-of-anad"></a>
 
-On the Ad list, you can check at a glance if there are any issues with your configuration. You can move the mouse over the warning sign to see a description of the issue.
+En la lista de anuncios, puede comprobar de un vistazo si hay algún problema con su configuración. Puede pasar el ratón por encima del signo de advertencia para ver una descripción del problema.
 
-<figure><img src="../../../.gitbook/assets/image (242).png" alt=""><figcaption><p>Issue being displayed for an ad</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (242).png" alt=""><figcaption><p>Problema que se muestra en un anuncio</p></figcaption></figure>
 
-Once all issues are addressed, the ad will display a green check.
+Una vez que se hayan solucionado todos los problemas, el anuncio mostrará una marca verde.
 
-## Archiving and Unarchiving an Ad
+## Archivar y desarchivar un anuncio
 
-Ads that are not being used as often can be archived by clicking on the <img src="../../../.gitbook/assets/archive.png" alt="Archive" data-size="line"> button. Archiving an Ad does not prevent it from being used or displayed; it only hides it from the main view.
+Los anuncios que no se utilizan con tanta frecuencia se pueden archivar haciendo clic en el <img src="../../../.gitbook/assets/archive.png" alt="Archive" data-size="line"> botón. Archivar un anuncio no impide que se utilice o se muestre; solo lo oculta de la vista principal.
 
-To see all archived ads, simply turn on the <img src="../../../.gitbook/assets/archive filter.png" alt="Archived" data-size="line"> filter. You can unarchive <img src="../../../.gitbook/assets/unarchive.png" alt="Unarchive" data-size="line"> an Ad to make it show again on the main list.
+Para ver todos los anuncios archivados, simplemente active la opción <img src="../../../.gitbook/assets/archive filter.png" alt="Archived" data-size="line"> filtro. Puede desarchivar <img src="../../../.gitbook/assets/unarchive.png" alt="Unarchive" data-size="line"> un anuncio para que vuelva a aparecer en la lista principal.
 
-## Monitoring Ads
+## Supervisión de anuncios
 
-### Metrics Tab
+### Pestaña Métricas
 
-The metrics tab will display all metrics related to the selected ads or for the whole account if no ads are selected.
+La pestaña Métricas mostrará todas las métricas relacionadas con los anuncios seleccionados o con toda la cuenta si no se ha seleccionado ningún anuncio.
 
-Since the group by feature is available for this metrics tab, you will also be able to group your metrics by:
+Dado que la función de agrupación está disponible para esta pestaña de métricas, también podrás agrupar tus métricas por:
 
-* Ad - See the performance of each ad separately.
-* Rule - Check which rule is working better for your ads, making it easy to make adjustments.
-* Creative - See which creative is performing better and create strategies accordingly.
-* Creative Group - See which creative group is performing better and create strategies accordingly.
-* Exchange - Check the performance of an Ad Exchange and make adjustments based on that data.
+* Anuncio: vea el rendimiento de cada anuncio por separado.
+* Regla: comprueba qué regla funciona mejor para tus anuncios, lo que facilita realizar ajustes.
+* Creatividad: comprueba qué creatividad funciona mejor y crea estrategias en consecuencia.
+* Grupo creativo: comprueba qué grupo creativo está obteniendo mejores resultados y crea estrategias en consecuencia.
+* Exchange - comprueba el rendimiento de un intercambio publicitario y realiza ajustes basándote en esos datos.
 
-Find below all metrics available for your Ads.
+A continuación encontrarás todas las métricas disponibles para tus anuncios.
 
-* [Deliveries & Delivery Rate](../ad-server-metrics.md#deliveries-and-delivery-rate)
-* [Displays & Display Rate](../ad-server-metrics.md#displays-and-display-rate)
-* [Impressions](../../demand-side-platform-dsp/dsp-metrics.md#impressions)
-* [Impression Price](../../demand-side-platform-dsp/dsp-metrics.md#impression-price)
-* [Views](../ad-server-metrics.md#views)
-* [Viewability](../ad-server-metrics.md#viewability)
-* [Viewability & Visibilty Duration](../ad-server-metrics.md#viewability-and-visibility-duration)
-* [Clicks and CTR](../ad-server-metrics.md#clicks-and-ctr)
+* [Entregas y Tasa de Entrega](../ad-server-metrics.md#deliveries-and-delivery-rate)
+* [Visualizaciones y Tasa de Visualización](../ad-server-metrics.md#displays-and-display-rate)
+* [Impresiones](../../demand-side-platform-dsp/dsp-metrics.md#impressions)
+* [Precio por Impresión](../../demand-side-platform-dsp/dsp-metrics.md#impression-price)
+* [Vistas](../ad-server-metrics.md#views)
+* [Visibilidad](../ad-server-metrics.md#viewability)
+* [Visibilidad y Duración de la Visibilidad](../ad-server-metrics.md#viewability-and-visibility-duration)
+* [Clics y CTR](../ad-server-metrics.md#clicks-and-ctr)
 * [CPM](../../demand-side-platform-dsp/dsp-metrics.md#cpm)
 * [CPC](../../demand-side-platform-dsp/dsp-metrics.md#cpc)
-* [Time to Display](../ad-server-metrics.md#time-to-display)
-* [Time to Click](../ad-server-metrics.md#time-to-click)
-* [Time to Page Load](../ad-server-metrics.md#time-to-page-load)
-* [Time to View](../ad-server-metrics.md#time-to-view)
-* [Page Loads](../ad-server-metrics.md#page-loads)
-* [Page Load Rate](../ad-server-metrics.md#page-load-rate)
-* [Click to Page Load Rate](../ad-server-metrics.md#click-to-page-load-rate)
-* [Cost per Page Load](../../demand-side-platform-dsp/dsp-metrics.md#cost-per-page-load)
-* [Bids & Bid Win Rate](../../demand-side-platform-dsp/dsp-metrics.md#bids-and-bid-win)
-* [Bid Price Effective](../../demand-side-platform-dsp/dsp-metrics.md#bid-price-effective)
-* [Budget Spent](../../demand-side-platform-dsp/dsp-metrics.md#budget-spent)
-* [Budget Spent on Impressions](../../demand-side-platform-dsp/dsp-metrics.md#budget-spent-on-impressions)
-* [Budget Spent on Deliveries](../../demand-side-platform-dsp/dsp-metrics.md#budget-spent-on-deliveries)
+* [Tiempo hasta la visualización](../ad-server-metrics.md#time-to-display)
+* [Tiempo hasta el clic](../ad-server-metrics.md#time-to-click)
+* [Tiempo de carga de la página](../ad-server-metrics.md#time-to-page-load)
+* [Tiempo hasta la vista](../ad-server-metrics.md#time-to-view)
+* [Cargas de página](../ad-server-metrics.md#page-loads)
+* [Tasa de carga de página](../ad-server-metrics.md#page-load-rate)
+* [Tasa de clic a carga de página](../ad-server-metrics.md#click-to-page-load-rate)
+* [Costo por carga de página](../../demand-side-platform-dsp/dsp-metrics.md#cost-per-page-load)
+* [Pujas y Tasa de pujas ganadas](../../demand-side-platform-dsp/dsp-metrics.md#bids-and-bid-win)
+* [Precio de puja efectivo](../../demand-side-platform-dsp/dsp-metrics.md#bid-price-effective)
+* [Presupuesto gastado](../../demand-side-platform-dsp/dsp-metrics.md#budget-spent)
+* [Presupuesto gastado en impresiones](../../demand-side-platform-dsp/dsp-metrics.md#budget-spent-on-impressions)
+* [Presupuesto gastado en entregas](../../demand-side-platform-dsp/dsp-metrics.md#budget-spent-on-deliveries)
 
-### Real Time Tab
+### Pestaña de Tiempo Real
 
-The real time tab will display real time events related to the selected ad.
+La pestaña de Tiempo real mostrará los eventos en tiempo real relacionados con el anuncio seleccionado.
 
-Learn more about the [real time tab](../../demand-side-platform-dsp/real-time-tab.md).
+Más información sobre el [Pestaña de Tiempo Real](../../demand-side-platform-dsp/real-time-tab.md).

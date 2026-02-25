@@ -1,92 +1,92 @@
 # Catálogos
 
-In the Catalogs tab, you will be able to create a catalog, and then install a pixel to your page so that BMS can collect data from your page based on the following events:
+En la pestaña Catálogos, podrá crear un catálogo y, a continuación, instalar un píxel en su página para que BMS pueda recopilar datos de su página basándose en los siguientes eventos:
 
-* Product Viewed
-* Product Added to Cart
-* Product Ordered
+* Producto visto
+* Producto añadido al carrito
+* Producto pedido
 
-By adding those events to your page, we will be able to collect all the data needed to start creating metrics and then use our **Recommendation Models** to improve your ads.
+Al añadir esos eventos a tu página, podremos recopilar todos los datos necesarios para empezar a crear métricas y, a continuación, utilizar nuestros **Modelos de Recomendación** para mejorar tus anuncios.
 
-## Managing Catalogs
+## **Gestión de Catálogos**
 
-### Creating a Catalog
+### Creación de un Catálogo
 
-To create a catalog, click on <img src="../../.gitbook/assets/image (20).png" alt="Create Catalog" data-size="line"> button.
+Para crear un catálogo, haga clic en <img src="../../.gitbook/assets/image (20).png" alt="Create Catalog" data-size="line"> botón.
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt="" width="539"><figcaption><p>Create Catalog Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt="" width="539"><figcaption><p>Crear pantalla de catálogo</p></figcaption></figure>
 
-Choose a **name** for your catalog, and if you wish, add **Tags** to better identify your catalog.
+Elige un **nombre** para tu catálogo y, si lo deseas, añade **etiquetas** para identificarlo mejor.
 
-After filling in the fields, click on <img src="../../.gitbook/assets/image (22).png" alt="Save" data-size="line">.
+Después de rellenar los campos, haga clic en <img src="../../.gitbook/assets/image (22).png" alt="Save" data-size="line">.
 
-Then your catalog will be available on your list.
+Entonces tu catálogo estará disponible en tu lista.
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Catalog List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Lista del Catálogo</p></figcaption></figure>
 
-### Editing a Catalog
+### Edición de un Catálogo
 
-If you need to Edit a catalog's name or tags, click on <img src="../../.gitbook/assets/image (24).png" alt="Edit" data-size="line">, after making the necessary changes, click on <img src="../../.gitbook/assets/image (25).png" alt="Save" data-size="line">.
+Si necesita editar el nombre o las etiquetas de un catálogo, haga clic en <img src="../../.gitbook/assets/image (24).png" alt="Edit" data-size="line">, después de realizar los cambios necesarios, haga clic en <img src="../../.gitbook/assets/image (25).png" alt="Save" data-size="line">.
 
-### Archiving a Catalog
+### Archivar un Catálogo
 
-To archive a catalog, click on <img src="../../.gitbook/assets/image (26).png" alt="Archive" data-size="line">, then your archived catalog will be shown in the Archived list, to alter your view flip the toggle <img src="../../.gitbook/assets/image (27).png" alt="Toggle" data-size="line">.
+Para archivar un catálogo, haga clic en <img src="../../.gitbook/assets/image (26).png" alt="Archive" data-size="line">, a continuación, su catálogo archivado aparecerá en la lista Archivado. Para cambiar la vista, active el botón. <img src="../../.gitbook/assets/image (27).png" alt="Toggle" data-size="line">.
 
-### Unarchiving a Catalog
+### Desarchivar un Catálogo
 
-To unarchive a catalog, toggle your view to the Archived list then click on <img src="../../.gitbook/assets/image (28).png" alt="Unarchive" data-size="line">, and your catalog will return to the active catalogs.
+Para desarchivar un catálogo, cambie la vista a la lista Archivado y haga clic en <img src="../../.gitbook/assets/image (28).png" alt="Unarchive" data-size="line">, y su catálogo volverá a los catálogos activos.
 
-### Deleting a Catalog
+### Eliminación de un Catálogo
 
-To delete a catalog, click on <img src="../../.gitbook/assets/image (29).png" alt="Delete" data-size="line">, a screen will be shown to confirm the deletion.
+Para eliminar un catálogo, haga clic en <img src="../../.gitbook/assets/image (29).png" alt="Delete" data-size="line">, se mostrará una pantalla para confirmar la eliminación.
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption><p>Catalog Deletion Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption><p>Pantalla de eliminación del Catálogo</p></figcaption></figure>
 
-After clicking on <img src="../../.gitbook/assets/image (31).png" alt="Delete" data-size="line">, your catalog will be **permanently** deleted.
+Después de hacer clic en <img src="../../.gitbook/assets/image (31).png" alt="Delete" data-size="line">, tu catálogo se eliminará de forma **permanente**.
 
 {% hint style="danger" %}
-_Attention! We advise you to deactivate the Catalog instead of completely deleting it. When deleting a Catalog, all data and metrics are lost as well._
+_¡Atención! Le recomendamos que desactive el Catálogo en lugar de eliminarlo por completo. Al eliminar un catálogo, también se pierden todos los datos y métricas._
 {% endhint %}
 
-## Installing Catalogs
+## Instalación de Catálogos
 
-In order to activate our metrics and events, you are required to install a pixel on your website to start collecting data.
+Para activar nuestras métricas y eventos, es necesario que instales un píxel en tu sitio web para comenzar a recopilar datos.
 
-Select a Catalog where you want to install your pixels and then move to the Install Instructions tab.
+Seleccione el Catálogo en el que desea instalar sus píxeles y, a continuación, vaya a la pestaña Instrucciones de instalación.
 
-<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption><p>Install Instructions Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption><p>Pestaña Instrucciones de instalación</p></figcaption></figure>
 
-Each event has a correct page to have your pixel installed, check on each event description to know exactly where.
+Cada evento tiene una página correcta para instalar tu píxel. Consulta la descripción de cada evento para saber exactamente dónde.
 
 {% hint style="info" %}
-Remember to replace the placeholder with your offer ID. Every website has its own way of defining an offer ID variable, so pay attention to how this variable was configured in your website. If the correct variable is not used for your products, the event **will not work.** Ensure that the offer ID variable on your website returns the same values that were imported as product identifiers (on our platform, they are called Offer IDs) in your catalog.
+Recuerda sustituir el marcador de posición por tu ID de oferta. Cada sitio web tiene su propia forma de definir una variable de ID de oferta, así que presta atención a cómo se ha configurado esta variable en tu sitio web. Si no se utiliza la variable correcta para tus productos, **el evento no funcionará**. Asegúrate de que la variable de ID de oferta de tu sitio web devuelve los mismos valores que se importaron como identificadores de producto (en nuestra plataforma, se denominan ID de oferta) en tu catálogo.&#x20;
 {% endhint %}
 
-_**Example:** The Product ordered event should be installed on your **order confirmation page**._
+_**Ejemplo:** El evento Producto solicitado debe instalarse en la página de **confirma**_**ción del pedido**.
 
-## Metrics Tab <a href="#metrics" id="metrics"></a>
+## Pestaña Métricas <a href="#metrics" id="metrics"></a>
 
-Once you have created your catalog and correctly installed your pixels, the metrics will begin to be populated and you will be able to track the events as they happen.
+Una vez que haya creado su catálogo e instalado correctamente sus píxeles, las métricas comenzarán a completarse y podrá realizar un seguimiento de los eventos a medida que se produzcan.
 
-A broad list of Metrics is available and it is possible to group them by **Catalog**, **Import Channel,** and **Recommendation Model,** each presenting its metrics. You can also select multiple catalogs for comparison and assess their performance.
+Hay disponible una amplia lista de métricas y es posible agruparlas por **catálogo**, **canal de importación** y **modelo de recomendación**, cada uno con sus propias métricas. También puede seleccionar varios catálogos para compararlos y evaluar su rendimiento.
 
-These are all the metrics available for the Catalogs feature:
+Estas son todas las métricas disponibles para la función Catálogos:
 
-* [Import Job Count](cs2-metrics.md#import-job-count)
-* [Import Job Duration](cs2-metrics.md#import-job-duration)
-* [Import Job Failure Rate](cs2-metrics.md#import-job-failure-rate)
-* [Import Job Issues](cs2-metrics.md#import-job-issues)
-* [Import Job Processed Bytes](cs2-metrics.md#import-job-processed-bytes)
-* [Import Job Processed Records](cs2-metrics.md#import-job-processed-records)
-* [Product Added To Cart Count](cs2-metrics.md#product-added-to-cart-count)
-* [Product Count](cs2-metrics.md#product-count)
-* [Product Order Count](cs2-metrics.md#product-order-count)
-* [Product Recommendation Count](cs2-metrics.md#product-recommendation-count)
-* [Product View Count](cs2-metrics.md#product-view-count)
-* [Products Added](cs2-metrics.md#products-added)
-* [Products Removed](cs2-metrics.md#products-removed)
-* [Products Updated](cs2-metrics.md#products-updated)
-* [Recommendation Click Count](cs2-metrics.md#recommendation-click-count)
-* [Recommendation Fulfillment Rate](cs2-metrics.md#recommendation-fulfillment-rate)
-* [Recommendation View Count](cs2-metrics.md#recommendation-view-count)
-* [Recommendation Request Count](cs2-metrics.md#recommendation-request-count)
+* [Recuento de trabajos de importación](cs2-metrics.md#import-job-count)
+* [Duración del trabajo de importación](cs2-metrics.md#import-job-duration)
+* [Tasa de errores del trabajo de importación](cs2-metrics.md#import-job-failure-rate)
+* [Problemas del trabajo de importación](cs2-metrics.md#import-job-issues)
+* [Bytes procesados ​​del trabajo de importación](cs2-metrics.md#import-job-processed-bytes)
+* [Registros procesados ​​del trabajo de importación](cs2-metrics.md#import-job-processed-records)
+* [Recuento de productos añadidos al carrito](cs2-metrics.md#product-added-to-cart-count)
+* [Recuento de productos](cs2-metrics.md#product-count)
+* [Recuento de pedidos de productos](cs2-metrics.md#product-order-count)
+* [Recuento de recomendaciones de productos](cs2-metrics.md#product-recommendation-count)
+* [Recuento de vistas de productos](cs2-metrics.md#product-view-count)
+* [Productos añadidos](cs2-metrics.md#products-added)
+* [Productos eliminados](cs2-metrics.md#products-removed)
+* [Productos actualizados](cs2-metrics.md#products-updated)
+* [Recuento de clics en recomendaciones](cs2-metrics.md#recommendation-click-count)
+* [Tasa de cumplimiento de recomendaciones](cs2-metrics.md#recommendation-fulfillment-rate)
+* [Recuento de vistas de recomendaciones](cs2-metrics.md#recommendation-view-count)
+* [Recuento de solicitudes de recomendaciones](cs2-metrics.md#recommendation-request-count)

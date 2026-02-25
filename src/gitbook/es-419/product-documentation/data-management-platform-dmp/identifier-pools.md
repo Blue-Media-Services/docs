@@ -1,88 +1,89 @@
-# Pools de Identificadores
+# Identifier Pools
 
-Identifier pools function much like cookie pools but are specifically designed for mobile devices, including Android smartphones, tablets, and iOS products. Each operating system employs its own unique methods to identify users effectively.
+Identifier pools funciona de manera muy similar a cookie pools pero están diseñados específicamente para dispositivos móviles, incluidos teléfonos inteligentes Android, tabletas y productos iOS. Cada sistema operativo emplea sus propios métodos únicos para identificar a los usuarios de manera eficaz.
 
-Google's Android utilizes the GAID (Google Advertising ID), a unique identifier provided by Google Play Services for advertising purposes. The GAID enables developers and advertisers to track user activity and deliver personalized ads, while also giving users control over their privacy settings.
+Android de Google utiliza el GAID (Google Advertising ID), un identificador único proporcionado por Google Play Services con fines publicitarios. El GAID permite a los desarrolladores y anunciantes realizar un seguimiento de la actividad de los usuarios y ofrecer anuncios personalizados, al tiempo que proporciona a los usuarios control sobre su configuración de privacidad.
 
-Apple's iOS assigns a unique and random identifier to each user, known as the IDFA (Identifier for Advertisers). Similar to the GAID, the IDFA allows developers and advertisers to monitor user activity and serve tailored ads, all while offering users control over their privacy preferences.
+El sistema operativo iOS de Apple asigna un identificador único y aleatorio a cada usuario, conocido como IDFA (Identificador para anunciantes). Al igual que el GAID, el IDFA permite a los desarrolladores y anunciantes supervisar la actividad de los usuarios y ofrecerles anuncios personalizados, al tiempo que ofrece a los usuarios control sobre sus preferencias de privacidad.
 
-## Managing Identifier Pools
+## Gestión de Identifier Pools
 
-<figure><img src="../../.gitbook/assets/image (470).png" alt=""><figcaption><p>Identifier Pools List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (470).png" alt=""><figcaption><p>Lista de Identifier Pools</p></figcaption></figure>
 
-### Creating an Identifier Pool
+### Crear un Identifier Pool
 
-An Identifier Pool must be created before being used for a campaign so that it can be populated. Configure how long the identifiers should be available before expiring, and set how many identifiers you want to store at your pool. Also, select an Ad Exchange to synchronize your Identifiers with it.
+Un Identifier Pool debe crearse antes de utilizarse para una campaña, de modo que pueda rellenarse. Configure cuánto tiempo deben estar disponibles los identificadores antes de caducar y establezca cuántos identificadores desea almacenar en su pool. Además, seleccione un Ad Exchange para sincronizar tus identificadores con él.
 
-1. Click on ![Create Identifier Pool](<../../.gitbook/assets/image (475).png>) to create a new identifier pool.
-2.  Fill in the details:
+1. Haga clic en ![Create Identifier Pool](<../../.gitbook/assets/image (475).png>) para crear un nuevo identifier pool.
+2.  Rellene los datos:
 
-    <figure><img src="../../.gitbook/assets/image (473).png" alt=""><figcaption><p>Identifier Pool Editor</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (473).png" alt=""><figcaption><p>Editor de Identifier Pool</p></figcaption></figure>
 
-    * Name: Inform how you want to name your identifier pool.
-    * Tags: Set tags for organizing your identifier pools.
-    * Exchanges: Select the desired Ad Exchanges.
-    * TTL: Set the number of days you want to keep the identifiers on the pool after added.
-    * Max Size: Define how many identifiers can be added to the pool.
-3. Click on ![Save](<../../.gitbook/assets/image (476).png>) to save your Identifier Pool.
+    * Nombre: Indique cómo desea nombrar su identifier pool.
+    * Etiquetas: Establece etiquetas para organizar tu identifier pools.
+    * Exchanges: Seleccione el deseado Ad Exchanges.
+    * TTL: Establezca el número de días que desea mantener los identificadores en el pool después de añadir.
+    * Tamaño máximo: Defina cuántos identificadores se pueden añadir al pool.
+3. Haga clic en ![Save](<../../.gitbook/assets/image (476).png>) para guardar tu Identifier Pool.
 
-### Editing an Identifier Pool
+### Editar un Identifier Pool
 
-After creating an identifier pool, you can edit it by clicking on the editing button ![Edit](<../../.gitbook/assets/image (482).png>). All parameters are editable, for the TTL the changes will apply only to newly added identifiers. After making your changes, click on ![Save](<../../.gitbook/assets/image (476).png>) to save them.
+Después de crear un identifier pool, puedes editarlo haciendo clic en el botón de edición ![Edit](<../../.gitbook/assets/image (482).png>). Todos los parámetros son editables. En el caso del TTL, los cambios solo se aplicarán a los identificadores recién añadidos. Después de realizar los cambios, haga clic en ![Save](<../../.gitbook/assets/image (476).png>) para salvarlos.
 
-It's possible to archive identifier pools for your better organization. Click on ![Archive](<../../.gitbook/assets/image (1067).png>) to archive the selected identifier pool, and visualize your archived identifier pools by turning on the switch "Archived" above the identifier pools list. It is also possible to unarchive an identifier pool by clicking on ![Unarchive](<../../.gitbook/assets/image (1068).png>).
+Es posible archivar identifier pools para una mejor organización. Haga clic en ![Archive](<../../.gitbook/assets/image (1067).png>) para archivar los seleccionados identifier pools, y visualizar sus archivos archivados identifier pools activando el interruptor "Archivado" situado encima del identifier pools lista. También es posible desarchivar un identifier pool haciendo clic en ![Unarchive](<../../.gitbook/assets/image (1068).png>).
 
-### Deleting an Identifier Pool
+### Eliminar un Identifier Pool
 
-You can delete an identifier pool by clicking on the delete button ![Delete](<../../.gitbook/assets/image (1070).png>), to proceed with the process click on ![Delete](<../../.gitbook/assets/image (1071).png>) to confirm. Be aware that tracker actions based on these identifier pools will stop working.
+Puedes eliminar un identifier pool haciendo clic en el botón eliminar ![Delete](<../../.gitbook/assets/image (1070).png>), para continuar con el proceso, haga clic en ![Delete](<../../.gitbook/assets/image (1071).png>) para confirmar. Tenga en cuenta que las acciones del rastreador basadas en estas identifier pools dejará de funcionar.
 
 {% hint style="danger" %}
-Attention! Be careful when deleting identifier pools, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted.
+¡Atención! Ten cuidado al eliminar identifier pools, esta acción no se puede deshacer y todos los datos relacionados, incluidas las métricas recopiladas anteriormente, también se eliminarán.
 {% endhint %}
 
-## Configuring Identifier Pools
+## Configuración de Identifier Pools
 
-After creating an Identifier Pool it is necessary to configure it before using it as a target in a campaign.
+Después de crear un Identifier Pool, es necesario configurarlo antes de utilizarlo como objetivo en una campaña.
 
-To use Identifier Pools you will need to configure a tracker or use an existing one, this article is dedicated to the Identifier Pools feature, access our [Trackers](trackers/) documentation to learn more about configuring a tracker.
+Para utilizar los Identifier Pools, deberá configurar un rastreador o utilizar uno ya existente. Este artículo está dedicado a la función de Identifier Pools. Acceda a nuestro [Rastreadores](trackers/) documentación para obtener más información sobre cómo configurar un rastreador.
 
-### Creating an Action Linked to an Identifier Pool
+### Crear una Acción Vinculada a un Identifier Pool
 
-Follow the steps below in order to create an action for a tracker that will add or remove users to your identifier pools.
+Siga los pasos que se indican a continuación para crear una acción para un rastreador que añadirá o eliminará usuarios de su identifier pools.
 
-After creating and selecting a tracker from the trackers' list, follow the steps below to link it to your identifier pool:
+Después de crear y seleccionar un rastreador de la lista de rastreadores, siga los pasos que se indican a continuación para vincularlo a su identifier pool:
 
-1. On the Configuration tab, in the events tracked section, click on ![Add Event](<../../.gitbook/assets/image (485).png>) to add a new event.
-2.  Fill in the details:\\
+1. En la pestaña Configuración, en la sección de eventos rastreados, haga clic en ![Add Event](<../../.gitbook/assets/image (485).png>) para añadir un nuevo evento.
+2.  Rellene los datos:
 
-    <figure><img src="../../.gitbook/assets/image (488).png" alt=""><figcaption><p>Event Editor</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (488).png" alt=""><figcaption><p>Editor de eventos</p></figcaption></figure>
 
-    * Name: Inform how you want to name this event.
-    * Event ID: This field can be customized to set a different event ID, however, it is automatically filled with the event's name.
-    * Custom data fields: Set data fields to be collected when the event is captured.
-    * Actions: Set actions to be executed when this event is requested, in this article, we will set an action that adds or removes identifiers from our identifiers pool.
-      1. Click on ![Add Event](<../../.gitbook/assets/image (485).png>) to add a new action.
-      2.  Fill in the details:\\
+    * Nombre: Indique cómo desea nombrar este evento.
+    * ID del evento: Este campo se puede personalizar para establecer un ID de evento diferente; sin embargo, se rellena automáticamente con el nombre del evento.
+    * Campos de datos personalizados: Establezca los campos de datos que se recopilarán cuando se capture el evento.
+    * Acciones: Establezca las acciones que se ejecutarán cuando se solicite este evento. En este artículo, estableceremos una acción que añade o elimina identificadores de nuestro identifiers pool.
+    *
+      1. Haga clic en ![Add Event](<../../.gitbook/assets/image (485).png>) para añadir una nueva acción.
+      2.  Rellene los datos:
 
-          <figure><img src="../../.gitbook/assets/Captura de tela 2025-02-27 084528.png" alt=""><figcaption><p>Action Editor</p></figcaption></figure>
+          <figure><img src="../../.gitbook/assets/Captura de tela 2025-02-27 084528.png" alt=""><figcaption><p>Editor de Acciones</p></figcaption></figure>
 
-          1. Name: Set a name for your event.
-          2. Select Track in Identifier Pool
-          3. Identifier Pool: Select the identifier pool you will link to this action.
-          4. Track as: Select if you want to add or remove identifiers from the pool.
-      3. Click on ![Save](<../../.gitbook/assets/image (476).png>) to save your action.
-3. Click on ![Save](<../../.gitbook/assets/image (476).png>) again to save your event.
+          1. Nombre: Establezca un nombre para su evento.
+          2. Seleccionar rastreador en Identifier Pool
+          3. Identifier Pool: Seleccione el identifier pool te enlazarás con esta acción.
+          4. Seguir como: Seleccione esta opción si desea añadir o eliminar identificadores del pool.
+          5. Haga clic en ![Save](<../../.gitbook/assets/image (476).png>) para guardar tu acción.
+3. Haga clic en ![Save](<../../.gitbook/assets/image (476).png>) de nuevo para guardar tu evento.
 
-The tracker must be installed on all your website pages where you desire to track user activity, after installing the tracker it might take a while, depending on your website's traffic, until the system gathers identifiers enough for using it as a target in a campaign.
+El rastreador debe instalarse en todas las páginas de su sitio web en las que desee realizar un seguimiento de la actividad de los usuarios. Tras instalar el rastreador, es posible que el sistema tarde un tiempo, dependiendo del tráfico de su sitio web, en recopilar suficientes identificadores para utilizarlo como objetivo en una campaña.
 
-## Metrics Tab
+## Pestaña Métricas
 
-You can follow your Identifier Pools as they grow, this can be done by using the metrics tab of the Identifiers Pool Page. These are all the metrics for this feature:
+Puedes seguir tu Identifier Pools a medida que crecen, esto se puede hacer utilizando la pestaña de métricas de la Identifiers Pool página. Estas son todas las métricas para esta función:
 
-* [Identifiers Added Count](dmp-metrics.md#identifiers-added-count)
-* [Identifiers Enabled Count](dmp-metrics.md#identifiers-enabled-count)
-* [Identifiers Expired Count](dmp-metrics.md#identifiers-expired-count)
-* [Identifiers Manually Removed Count](dmp-metrics.md#identifiers-manually-removed-count)
-* [Max Size](dmp-metrics.md#max-size-1)
-* [Size](dmp-metrics.md#size-1)
-* [Time Until Expiration](dmp-metrics.md#time-until-expiration-2)
+* [Recuento de Identifiers Añadidos](dmp-metrics.md#identifiers-added-count)
+* [Recuento de Identifiers Habilitados](dmp-metrics.md#identifiers-enabled-count)
+* [Recuento de Identifiers Caducados](dmp-metrics.md#identifiers-expired-count)
+* [Recuento de Identifiers Eliminados Manualmente](dmp-metrics.md#identifiers-manually-removed-count)
+* [Tamaño Máximo](dmp-metrics.md#max-size-1)
+* [Tamaño](dmp-metrics.md#size-1)
+* [Tiempo hasta el Vencimiento](dmp-metrics.md#time-until-expiration-2)

@@ -1,153 +1,153 @@
 # Pipelines de Eventos
 
-Our Event Pipes are used to collect data from all products on our platform. You can use this feature to keep track of everything that can cause an event at BMS, from campaigns to organization creation, allowing you to organize the provided data as you wish.
+Nuestros Pipelines de Eventos se utilizan para recopilar datos de todos los productos de nuestra plataforma. Puede utilizar esta función para realizar un seguimiento de todo lo que puede provocar un evento en BMS, desde campañas hasta la creación de organizaciones, lo que le permite organizar los datos proporcionados como desee.
 
-All event pipes created will be sent to either an Event Store, or you can use a webhook to send this data directly to your data management tool. We provide templates for every event that we can track so you can pick which you want to collect data.
+Todas las tuberías de eventos creadas se enviarán a un almacén de eventos, o bien puede utilizar un webhook para enviar estos datos directamente a su herramienta de gestión de datos. Proporcionamos plantillas para cada evento que podemos rastrear, de modo que pueda elegir cuáles desea recopilar.
 
 {% hint style="info" %}
-We have a solution that may help you understand how a webhook works, check this article [here](../../third-party-integrations/webhook-tool-zapier.md).
+Tenemos una solución que puede ayudarte a comprender cómo funciona un webhook. Consulta este artículo [aquí](../../integraciones-de-terceros/webhook-tool-zapier.md).
 {% endhint %}
 
-## Creating an Event Pipe
+## Creación de un Pipeline de Eventos
 
-To create an event store, click on <img src="../../.gitbook/assets/image (190).png" alt="Create Event Pipe" data-size="line"> , and an event pipe creation screen will pop up.
+Para crear un almacén de eventos, haga clic en <img src="../../.gitbook/assets/image (190).png" alt="Create Event Pipe" data-size="line"> , y aparecerá una pantalla para crear un canal de eventos.
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-11-04 073841.png" alt=""><figcaption><p>Creación de Pipeline de Eventos</p></figcaption></figure>
 
-* Name - Set a name for your Event Store.
-* Tags - Create tags to better identify each event pipe.
+* Nombre: Establezca un nombre para su almacén de eventos.
+* Etiquetas: Cree etiquetas para identificar mejor cada canal de eventos.
 
-### Filters
+### Filtros
 
-To start configuring your event pipe, pick a template of your choice in our Filters tab according to your needs.
+Para empezar a configurar tu canal de eventos, elige la plantilla que prefieras en nuestra pestaña Filtros según tus necesidades.
 
-* Sample Event Template - In this dropdown menu, you will be provided with all templates related to the events that we can track.
+* Plantilla de evento de muestra - In este menú desplegable, se le proporcionarán todas las plantillas relacionadas con los eventos que podemos rastrear.
 
-In this example, we will be creating an event pipe for ADS - Delivered. This event tracks every Ad that is currently running in a campaign and is delivering impressions. Once we create this event pipe, all data will be sent to an Event Store or a Webhook.
+En este ejemplo, crearemos un canal de eventos para ADS - Delivered. Este evento realiza un seguimiento de todos los anuncios que se están ejecutando actualmente en una campaña y que están generando impresiones. Una vez creado este canal de eventos, todos los datos se enviarán a un almacén de eventos o a un webhook.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-11-04 074141.png" alt=""><figcaption><p>ADS - Ad Delivered Pipeline de Eventos</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-11-04 074141.png" alt=""><figcaption><p>ADS - Anuncio entregado Canal de eventos</p></figcaption></figure>
 
-Once we have the template selected, you can check which data will be collected when creating the corresponding Event Pipe.
+Una vez seleccionada la plantilla, puede comprobar qué datos se recopilarán al crear el pipeline de eventos correspondiente.
 
-To collect the data, we **must** insert a filter, by clicking on ![Add Filter](<../../.gitbook/assets/image (279).png>).
+Para recopilar los datos, **debemos** insertar un filtro haciendo clic en ![Add Filter](<../../.gitbook/assets/image (279).png>).
 
 <figure><img src="../../.gitbook/assets/image (78).png" alt="" width="515"><figcaption><p>Agregar Filtros</p></figcaption></figure>
 
-* Path - Specific tag in which you can identify the event. Ex: id, type, source, data.accountId.
-* Operator - Rule that will be used on this filter.
-* Value - The specific value the tag must contain.
+* Ruta - Etiqueta específica en la que se puede identificar el evento. Ejemplo: id, tipo, fuente, data.accountId.
+* Operador - Regla que se utilizará en este filtro.
+* Valor - El valor específico que debe contener la etiqueta.
 
-In this case, we will be collecting data from ad-delivered events, so this is how the configuration would look.
+En este caso, recopilaremos datos de eventos relacionados con la entrega de anuncios, por lo que la configuración sería la siguiente:
 
-<figure><img src="../../.gitbook/assets/image (195).png" alt="" width="524"><figcaption><p>Event Pipe Filter Settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (195).png" alt="" width="524"><figcaption><p>Configuración del filtro de eventos</p></figcaption></figure>
 
-We specified the **Path** using the tag "Type", chose the **Operator** option to "Contains" and added the **Value** "Ad-delivered". Note that these fields are case sensitive, so the fulfilled fields **must** match the template.
+Especificamos la **ruta** utilizando la etiqueta "Tipo", seleccionamos la **opción** "Contiene" en el operador y añadimos el **valor** "Anuncio entregado". Tenga en cuenta que estos campos distinguen entre mayúsculas y minúsculas, por lo que los campos rellenados deben coincidir con la plantilla.
 
-Once you have fulfilled all fields with the corresponding information based on your event pipe, the test filter must have a check confirming that it is working properly <img src="../../.gitbook/assets/image (196).png" alt="Test Filters Checked" data-size="line">. If it is not working properly due to missing information or a typo, it will be presented with a warning sign <img src="../../.gitbook/assets/image (284).png" alt="Test Filters Warning" data-size="line">.
+Una vez que haya completado todos los campos con la información correspondiente basada en su canal de eventos, el filtro de prueba debe tener una marca que confirme que funciona correctamente <img src="../../.gitbook/assets/image (196).png" alt="Test Filters Checked" data-size="line">. Si no funciona correctamente debido a información faltante o un error tipográfico, se mostrará una señal de advertencia <img src="../../.gitbook/assets/image (284).png" alt="Test Filters Warning" data-size="line">.
 
-<figure><img src="../../.gitbook/assets/image (197).png" alt="" width="518"><figcaption><p>Test Filter Warning</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (197).png" alt="" width="518"><figcaption><p>Advertencia del filtro de prueba</p></figcaption></figure>
 
-In this case, our filter failed due to verification in our Value field. These fields are case-sensitive and **must** match the corresponding information.
+En este caso, nuestro filtro falló debido a la verificación en nuestro campo Valor. Estos campos distinguen entre mayúsculas y minúsculas y **deben** coincidir con la información correspondiente.
 
-Once you have added your filters, click on <img src="../../.gitbook/assets/image (92) (2).png" alt="" data-size="line"> to save your event pipe.
+Una vez que hayas añadido tus filtros, haz clic en <img src="../../.gitbook/assets/image (92) (2).png" alt="" data-size="line"> para guardar tu evento.
 
-### Targets tab
+### Pestaña Objetivos
 
-Here you will decide where to send the data: whether it will be sent to one or multiple event stores, a webhook, or a Google Sheet.
+Aquí decidirás dónde enviar los datos: si se enviarán a uno o varios almacenes de eventos, a un webhook o a una hoja de cálculo de Google.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-11-04 074833.png" alt=""><figcaption><p>Event Pipe's Targets Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-11-04 074833.png" alt=""><figcaption><p>Pestaña Objetivos de Pipeline de Eventos</p></figcaption></figure>
 
-To configure a target, click on ![Add Target](<../../.gitbook/assets/Captura de tela 2024-11-01 083709.png>) and fill out the details according to the chosen target option:
+Para configurar un objetivo, haga clic en ![Add Target](<../../.gitbook/assets/Captura de tela 2024-11-01 083709.png>) y rellene los datos según la opción de destino elegida:
 
-#### Send to Event Store
+#### Enviar a la Almacén de Eventos
 
-You must create an event store before using it as a target for your event pipes. Learn more about [Event Stores](event-pipes.md#event-store).
+Debe crear un almacén de eventos antes de utilizarlo como destino para sus canalizaciones de eventos. Más información sobre [Pipelines de Eventos](event-pipes.md#event-store).
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Enviar al Target de Almacén de Eventos</p></figcaption></figure>
 
-If you decide to send your data to an event store, simply name your target and choose your already created event store.
+Si decides enviar tus datos a un almacén de eventos, simplemente nombra tu destino y elige el almacén de eventos que ya has creado.
 
-* Name your target.
-* Select "Send to Event Store".
-* Select the event store you are willing to use.
+* Nombra tu objetivo.
+* Seleccione "Enviar al almacén de eventos".
+* Seleccione el almacén de eventos que desea utilizar.
 
-Once everything is configured, click on <img src="../../.gitbook/assets/image (203).png" alt="Save" data-size="line"> and your event pipe will be listed.
+Una vez que todo esté configurado, haga clic en <img src="../../.gitbook/assets/image (203).png" alt="Save" data-size="line"> y aparecerá tu canal de eventos.
 
-#### Call Webhook
+#### Llamar a Webhook
 
-It is possible to send your data to a webhook provided by your data management tool, select this option to use the data management tool of preference, and then fill out the details.
+Es posible enviar sus datos a un webhook proporcionado por su herramienta de gestión de datos. Seleccione esta opción para utilizar la herramienta de gestión de datos que prefiera y, a continuación, rellene los datos.
 
-<figure><img src="../../.gitbook/assets/image (93) (1).png" alt=""><figcaption><p>Target de Llamada a Webhook</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (93) (1).png" alt=""><figcaption><p>Objetivo de Llamada a Webhook</p></figcaption></figure>
 
-* Name your target.
-* Select "Call Webhook".
-* Insert your data management tool's webhook URL.
+* Nombra tu objetivo.
+* Selecciona "Llamar a Webhook".
+* Introduzca la URL del webhook de su herramienta de gestión de datos.
 
-Once you have configured your webhook URL, use our Test Webhook tab to confirm the usability of your webhook tool. Select one of the sample event templates and click on ![Test Webhook](<../../.gitbook/assets/image (94) (1).png>).
+Una vez que haya configurado la URL de su webhook, utilice nuestra pestaña Probar webhook para confirmar la usabilidad de su herramienta webhook. Seleccione una de las plantillas de eventos de muestra y haga clic en ![Test Webhook](<../../.gitbook/assets/image (94) (1).png>).
 
-If your webhook test is successful, your icon will be presented as ![Test Webhook Successful](<../../.gitbook/assets/image (8) (2).png>) and the tabs for your test will be fulfilled.
+Si la prueba de tu webhook es satisfactoria, tu icono se mostrará como ![Test Webhook Successful](<../../.gitbook/assets/image (8) (2).png>) y se completarán las pestañas para su prueba.
 
-* Payload - Information that will be sent to your webhook.
-* Result - Status returned and the latency.
-* Request - Request used by BMS to send you the information for this test.
-* Response - Received response from your webhook.
+* Carga útil - Información que se enviará a tu webhook.
+* Resultado - Estado devuelto y latencia.
+* Solicitud - Solicitud utilizada por BMS para enviarle la información relativa a esta prueba.
+* Respuesta - Se ha recibido la respuesta de su webhook.
 
-After finishing all configuration and tests, click on <img src="../../.gitbook/assets/image (92) (2).png" alt="" data-size="line"> to save your target.
+Después de terminar toda la configuración y las pruebas, haga clic en <img src="../../.gitbook/assets/image (92) (2).png" alt="" data-size="line"> para salvar a tu objetivo.
 
 #### Google Sheets
 
-You can also send your data to Google Sheets, select this option, and fill out the details.
+También puede enviar sus datos a Google Sheets, seleccione esta opción y rellene los datos.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Target de Google Sheet</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Objetivo de Google Sheet</p></figcaption></figure>
 
-* Name your target.
-* Select "Google Sheets".
-* Connect with your Google Account, and you can access the sheet.
+* Nombra tu objetivo.
+* Seleccionar "Google Sheets".
+* Conéctate con tu cuenta de Google y podrás acceder a la sheet.
 
-Once everything is configured, click on <img src="../../.gitbook/assets/image (203).png" alt="Save" data-size="line"> and your event pipe will be listed.
+Una vez que todo esté configurado, haga clic en <img src="../../.gitbook/assets/image (203).png" alt="Save" data-size="line"> y aparecerá tu canal de eventos.
 
-### Enabling your Event Pipe
+### Habilitar su Canal de Eventos
 
-To enable an event pipe simply flip the toggle <img src="../../.gitbook/assets/image (510).png" alt="Toggle" data-size="line"> and your event store will be enabled.
+Para habilitar un canal de eventos, simplemente active el interruptor <img src="../../.gitbook/assets/image (510).png" alt="Toggle" data-size="line"> y tu tienda de eventos quedará habilitada.
 
 <figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption><p>Pipeline de Eventos Habilitado</p></figcaption></figure>
 
-### Editing your Event Pipe
+### Edición de su Canal de Eventos
 
-To edit your event store, click on <img src="../../.gitbook/assets/image (512).png" alt="Edit" data-size="line"> and an editing screen will pop up, make the necessary changes and then click on <img src="../../.gitbook/assets/image (509).png" alt="Save" data-size="line">.
+Para editar tu tienda de eventos, haz clic en <img src="../../.gitbook/assets/image (512).png" alt="Edit" data-size="line"> y aparecerá una pantalla de edición, realice los cambios necesarios y luego haga clic en <img src="../../.gitbook/assets/image (509).png" alt="Save" data-size="line">.
 
 <figure><img src="../../.gitbook/assets/image (77).png" alt="" width="527"><figcaption><p>Pantalla de Edición del Pipeline de Eventos</p></figcaption></figure>
 
-### Bulk Actions
+### Acciones Masivas
 
-When selecting two or more event pipes, the Bulk Actions will be enabled, allowing you to make actions in bulk.
+Al seleccionar dos o más tuberías de eventos, se habilitarán las acciones masivas, lo que le permitirá realizar acciones de forma masiva.
 
-You will be capable of Archiving and Deleting events in bulk.
+Podrás archivar y eliminar eventos de forma masiva.
 
 <figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption><p>Acciones Masivas del Pipeline de Eventos</p></figcaption></figure>
 
-### Archiving and Unarchiving your Event Pipe
+### Archivar y Desarchivar su Canal de Eventos
 
-To archive your event pipe, click on <img src="../../.gitbook/assets/image (514).png" alt="Archive" data-size="line"> and it will be sent to the archived list. In order to unarchive your event pipe, switch your view to archived events by flipping the toggle <img src="../../.gitbook/assets/image (515).png" alt="Archived Toggle" data-size="line">. You will then be presented with the list of archived events. Click on <img src="../../.gitbook/assets/image (876).png" alt="Unarchive" data-size="line"> to unarchive an event pipe.
+Para archivar tu canal de eventos, haz clic en <img src="../../.gitbook/assets/image (514).png" alt="Archive" data-size="line"> y se enviará a la lista archivada. Para desarchivar tu canal de eventos, cambia la vista a eventos archivados activando el botón <img src="../../.gitbook/assets/image (515).png" alt="Archived Toggle" data-size="line">. A continuación, se le mostrará la lista de eventos archivados. Haga clic en <img src="../../.gitbook/assets/image (876).png" alt="Unarchive" data-size="line"> para desarchivar un canal de eventos.
 
-### Deleting your Event Pipe
+### Eliminar tu Canal de Eventos
 
-To delete an event, click on ![](<../../.gitbook/assets/image (975).png>) and a confirmation will be required.
+Para eliminar un evento, haga clic en ![](<../../.gitbook/assets/image (975).png>) y se requerirá una confirmación.
 
 <figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption><p>Eliminación del Pipeline de Eventos</p></figcaption></figure>
 
-After clicking on <img src="../../.gitbook/assets/image (977).png" alt="Delete" data-size="line">, your event pipe will be deleted.
+Después de hacer clic en <img src="../../.gitbook/assets/image (977).png" alt="Delete" data-size="line">, tu canal de eventos será eliminado.
 
 {% hint style="warning" %}
-_We advise users to archive instead of deleting, only delete if you are sure of it, the action cannot be undone._
+_Recomendamos a los usuarios que archiven en lugar de eliminar; solo elimine si está seguro, ya que la acción no se puede deshacer._
 {% endhint %}
 
-## Metrics Tab
+## Pestaña Métricas
 
-Select an event pipe to access its metrics, selecting more than one will show you a comparison between the selected ones, the metrics are populated once you have created event pipes and they are enabled and collecting data.
+Seleccione una canalización de eventos para acceder a sus métricas. Si selecciona más de una, se mostrará una comparación entre las seleccionadas. Las métricas se rellenan una vez que ha creado las canalizaciones de eventos y estas están habilitadas y recopilando datos.
 
-These are all the metrics for event pipes:
+Estas son todas las métricas para los conductos de eventos:
 
-* [Matched Events Count](monitoring-metrics.md#matched-events-count)
-* [Target Execution Call Count](monitoring-metrics.md#target-execution-call-count)
-* [Target Execution Failure Rate](monitoring-metrics.md#target-execution-failure-rate)
+* [Recuento de Eventos Coincidentes](monitoring-metrics.md#matched-events-count)
+* [Recuento de Llamadas de Ejecución del Objetivo](monitoring-metrics.md#target-execution-call-count)
+* [Tasa de fallos de Ejecución del Objetivo](monitoring-metrics.md#target-execution-failure-rate)

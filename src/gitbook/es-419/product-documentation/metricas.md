@@ -12,7 +12,7 @@ Elige cómo deseas visualizar tus datos. Estas son las opciones de visualizació
 
 Esta opción muestra tus métricas en tarjetas que contienen gráficos. Es posible exportar los datos contenidos en cada tarjeta de métrica haciendo clic en la tarjeta deseada y luego en el botón de descarga <img src="../.gitbook/assets/image (261).png" alt="" data-size="line">.
 
-<figure><img src="../.gitbook/assets/image (550).png" alt=""><figcaption><p>Metric Cards Visualization</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (550).png" alt=""><figcaption><p>Visualización de tarjetas métricas</p></figcaption></figure>
 
 Algunas métricas, como Bid Price Effective, también tendrán la opción de estadística en sus tarjetas; esta opción permite visualizar tus datos desde otra perspectiva. Usando el mismo ejemplo, para esta métrica podemos ver el promedio, mínimo y máximo del Bid Price Effective.
 

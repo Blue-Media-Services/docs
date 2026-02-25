@@ -1,21 +1,21 @@
 # Verificar Clasificación de URL
 
-When configuring your domain targets, you may have uncertainties about the classification of certain domains. To address this, BMS has developed a URL Check tool. By entering a URL, the tool will identify and provide the domain's classification, offering valuable information to the user.
+Al configurar los destinos de su dominio, es posible que tenga dudas sobre la clasificación de determinados dominios. Para solucionar este problema, BMS ha desarrollado una herramienta de verificación de URL. Al introducir una URL, la herramienta identificará y proporcionará la clasificación del dominio, ofreciendo información valiosa al usuario.
 
-To access our Check URL Classification tool, check the DSP's tools menu.
+Para acceder a nuestra herramienta de clasificación de URL, consulte el menú de herramientas del DSP.
 
-<figure><img src="../../.gitbook/assets/image (841).png" alt=""><figcaption><p>Accessing Check URL Classification</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (841).png" alt=""><figcaption><p>Acceso a la Clasificación de URL de Verificación</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (576).png" alt=""><figcaption><p>Check URL Classification</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (576).png" alt=""><figcaption><p>Comprobar la Clasificación de la URL</p></figcaption></figure>
 
-When you need to confirm a domain's classification, simply enter the URL in the provided field and click on <img src="../../.gitbook/assets/image (577).png" alt="Check URL" data-size="line">.
+Cuando necesite confirmar la clasificación de un dominio, simplemente introduzca la URL en el campo proporcionado y haga clic en <img src="../../.gitbook/assets/image (577).png" alt="Check URL" data-size="line">.
 
-<figure><img src="../../.gitbook/assets/image (573).png" alt=""><figcaption><p>URL Classified</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (573).png" alt=""><figcaption><p>URL Clasificado</p></figcaption></figure>
 
-A list of classifications for the URL will be displayed. If you disagree with the given classification, you can click on <img src="../../.gitbook/assets/image (578).png" alt="Suggest New Classification" data-size="line"> to have BMS's team review the URL for the correct classification if necessary.
+Se mostrará una lista de clasificaciones para la URL. Si no está de acuerdo con la clasificación dada, puede hacer clic en <img src="../../.gitbook/assets/image (578).png" alt="Suggest New Classification" data-size="line">que el equipo de BMS revise la URL para determinar la clasificación correcta, si es necesario.
 
-When suggesting a new classification, click on the "**Suggest**" button. A screen will pop up, allowing you to propose **adding** or **removing** a category.
+Cuando quieras sugerir una nueva clasificación, haz clic en el botón **"Sugerir"**. Aparecerá una ventana emergente que te permitirá proponer **añadir** o **eliminar** una categoría.
 
-<figure><img src="../../.gitbook/assets/image (574).png" alt=""><figcaption><p>Creating a Suggestion</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (574).png" alt=""><figcaption><p>Crear una Sugerencia</p></figcaption></figure>
 
-After making your suggestions, click on <img src="../../.gitbook/assets/image (667).png" alt="Save" data-size="line"> and your suggestions will be sent to BMS's Team to analyze and possibly approve.
+Después de hacer tus sugerencias, haz clic en <img src="../../.gitbook/assets/image (667).png" alt="Save" data-size="line"> y sus sugerencias se enviarán al equipo de BMS para que las analicen y, posiblemente, las aprueben.

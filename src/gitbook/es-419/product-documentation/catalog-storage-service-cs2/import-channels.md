@@ -1,127 +1,126 @@
 # Canais de Importación
 
-Use import channels to upload your products' catalog's feed to our platform, this feature will also keep your catalog updated according to the feed.
+Utiliza los canales de importación para subir el feed del catálogo de tus productos a nuestra plataforma. Esta función también mantendrá tu catálogo actualizado según el feed.
 
-## Managing Import Channels
+## Gestión de Canales de Importación
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Import Channels' list</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Lista de canales de importación</p></figcaption></figure>
 
-### Creating an Import Channel
+### Creación de un Canal de Importación
 
-To start creating an Import Channel, we must first create the catalog which will contain the products imported by the feed, to create a catalog follow the steps in the [Catalogs](catalogs.md) article, we also will need to have a products feed to use as a source for our import channel.
+Para empezar a crear un canal de importación, primero debemos crear el catálogo que contendrá los productos importados por el feed. Para crear un catálogo, siga los pasos que se indican en el [Catálogos](catalogs.md) artículo, también necesitaremos disponer de un feed de productos que utilicemos como fuente para nuestro canal de importación.
 
 {% hint style="info" %}
-_Import Channels can import data from HTTP, FTP or SFTP websites. Google Merchant's XML format is the standard for creating catalogs and the easiest to work with, but the import channel can be configured to use CSV or other XML formats._
+_Los canales de importación pueden importar datos desde sitios web HTTP, FTP o SFTP. El formato XML de Google Merchant es el estándar para crear catálogos y el más fácil de manejar, pero el canal de importación se puede configurar para utilizar CSV u otros formatos XML._
 {% endhint %}
 
-1. Click on <img src="../../.gitbook/assets/image (17) (2).png" alt="" data-size="line"> to start creating your Import Channel.
-2.  Fill in the details on the 3 tabs:\\
+1. Haga clic en <img src="../../.gitbook/assets/image (17) (2).png" alt="" data-size="line"> para empezar a crear tu canal de importación.
+2.  Rellene los datos en las 3 pestañas:
 
-    <figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Import Channel editor</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Editor de Canales de Importación</p></figcaption></figure>
 
-    1. General Tab\
-       On this tab, you will find the general details related to your import channel, use the examples to help you fill in all the details.
-       * Name: Set a name for your Import channel.
-       * Tags: Set tags for your organization.
-       * Catalog: Select the catalog you've created to receive the products on the feed.
-       * When to create or update products: Set the period in which your products will be created or updated.
-       * When to remove products:
-         * Never: Products created or updated at the source will be modified or added to the catalog. However, products deleted at the source will not be removed from the catalog.
-         * Before each importation: All products will be deleted from the catalog before each import process. Then, products that exist at the source will be added to the catalog.\
-           \&#xNAN;_Beware!_ The catalog will remain empty until the importation is completed, which might result in empty ad banners during this period. All product metrics will be preserved.
-         * Hours after being imported: Define how long after importation products should remain in the catalog if not re-imported. As long as the import frequency is shorter than the product expiration time, the catalog will not become empty. All product metrics will be preserved.
-    2.  Source Tab\
-        This tab contains the source details related to your import channel, use the examples to help you fill in these details according to your source option.
+    1. Pestaña General\
+       En esta pestaña encontrará los datos generales relacionados con su canal de importación. Utilice los ejemplos para ayudarle a rellenar todos los datos.
+       * Nombre: Establezca un nombre para su canal de importación.
+       * Etiquetas: Establezca etiquetas para su organización.
+       * Catálogo: Seleccione el catálogo que ha creado para recibir los productos en el feed.
+       * Cuándo crear o actualizar productos: Establezca el período en el que se crearán o actualizarán sus productos.
+       * Cuándo eliminar productos:
+         * Nunca: Los productos creados o actualizados en el origen se modificarán o añadirán al catálogo. Sin embargo, los productos eliminados en el origen no se eliminarán del catálogo.
+         * Antes de cada importación: Todos los productos se eliminarán del catálogo antes de cada proceso de importación. A continuación, los productos que existan en el origen se añadirán al catálogo. ¡Atención! El catálogo permanecerá vacío hasta que se complete la importación, lo que podría dar lugar a banners publicitarios vacíos durante este periodo. Se conservarán todas las métricas de los productos.
+         * Horas después de la importación: Defina cuánto tiempo deben permanecer los productos en el catálogo después de la importación si no se vuelven a importar. Siempre que la frecuencia de importación sea inferior al tiempo de caducidad del producto, el catálogo no quedará vacío. Se conservarán todas las métricas de los productos.&#x20;
+    2.  Pestaña Fuente\
+        Esta pestaña contiene los detalles de la fuente relacionados con su canal de importación. Utilice los ejemplos para ayudarle a rellenar estos detalles según su opción de fuente.
 
-        * Protocol: Select the protocol of your source and fill in the details according to your choice.
+        * Protocolo: Seleccione el protocolo de su fuente y rellene los datos según su elección.
           1.  HTTP:
 
-              <div align="center" data-full-width="false"><figure><img src="../../.gitbook/assets/Captura de tela 2024-08-27 121710.png" alt=""><figcaption><p>Source Tab - HTTP</p></figcaption></figure></div>
+              <div align="center" data-full-width="false"><figure><img src="../../.gitbook/assets/Captura de tela 2024-08-27 121710.png" alt=""><figcaption><p>Pestaña Fuente - HTTP</p></figcaption></figure></div>
 
-              * URL: Inform your feed's URL
-          2.  SFTP and FTP:
+              * URL: Indique la URL de su feed.
+          2.  SFTP y FTP:
 
-              <figure><img src="../../.gitbook/assets/Captura de tela 2024-08-22 090041.png" alt=""><figcaption><p>Source Tab - SFTP/FTP</p></figcaption></figure>
+              <figure><img src="../../.gitbook/assets/Captura de tela 2024-08-22 090041.png" alt=""><figcaption><p>Pestaña Fuente - SFTP/FTP</p></figcaption></figure>
 
-              * Host: Inform your source's host.
-              * Port: Inform your source's Port.
-              * User: Inform a user to access your source.
-              * Password: Inform the password to validate your user at the source.
-              * Path: Inform the path to your source.
-        * Test Source: This button, <img src="../../.gitbook/assets/image (905).png" alt="" data-size="line">, allows you to test your source and retrieve relevant data for the next fields. There are three tabs for the source test result:
-          * Detected Records: Display your feed's records in table format.
-          * Issues: Display the problems that can affect your import job.
-          *   Raw: Display your feed file source code.\\
+              * Host: Indique el host de su fuente.
+              * Puerto: Indique el puerto de su fuente.
+              * Usuario: Indique un usuario para acceder a su fuente.
+              * Contraseña: Indique la contraseña para validar su usuario en la fuente.
+              * Ruta: Indique la ruta a su fuente.
+        * Fuente de prueba: Este botón, <img src="../../.gitbook/assets/image (905).png" alt="" data-size="line">, le permite probar su fuente y recuperar datos relevantes para los siguientes campos. Hay tres pestañas para el resultado de la prueba de la fuente:
+          * Registros detectados: muestra los registros de tu feed en formato de tabla.
+          * Problemas: muestra los problemas que pueden afectar a tu trabajo de importación.
+          *   Sin procesar: muestra el código fuente de tu archivo de feed.
 
-              <figure><img src="../../.gitbook/assets/image (904).png" alt=""><figcaption><p>Source Test Result</p></figcaption></figure>
+              <figure><img src="../../.gitbook/assets/image (904).png" alt=""><figcaption><p>Resultado de la prueba de origen</p></figcaption></figure>
 
-        After finishing the test click on <img src="../../.gitbook/assets/image (992).png" alt="" data-size="line"> to close the source test result window and automatically fill the next fields with your test results.
+        Después de terminar la prueba, haga clic en <img src="../../.gitbook/assets/image (992).png" alt="" data-size="line"> para cerrar la ventana de resultados de la prueba de origen y rellenar automáticamente los siguientes campos con los resultados de la prueba.
 
-        * Charset: Inform the source's charset, which was previously detected on the source test result.
-        * File Format: The source test result will automatically fill these fields, however, you can change them manually. Select between these options:
-          * CSV: Source feed based on a file with comma-separated values.
-            * Delimiter: insert the character that separates your file values.
-          * XML: Source feed based on an XML file.
-            * Item tag: insert the item tag on your XML file.
-    3.  Mapping Tab\
-        You will find on this tab the mapping details related to your import channel, use the examples to help you to configure your mapping.
+        * Juego de caracteres: Indique el juego de caracteres de la fuente, que se detectó previamente en el resultado de la prueba de la fuente.
+        * Formato de archivo: El resultado de la prueba de la fuente rellenará automáticamente estos campos, sin embargo, puede cambiarlos manualmente. Seleccione entre estas opciones:
+          * CSV: Fuente basada en un archivo con valores separados por comas.
+            * Delimitador: inserte el carácter que separa los valores de su archivo.
+          * XML: Fuente basada en un archivo XML.
+            * Etiqueta de elemento: inserte la etiqueta de elemento en su archivo XML.
+    3.  Pestaña Mapeo\
+        En esta pestaña encontrará los detalles de asignación relacionados con su canal de importación. Utilice los ejemplos para ayudarle a configurar su asignación.
 
-        *   Template Format: Select between these two options:
+        *   Formato de plantilla: Seleccione entre estas dos opciones:
 
-            * Google Shopping: Select this option if you are using a Google Shopping Feed.
+            * Google Shopping: Seleccione esta opción si utiliza un feed de Google Shopping.
 
-            <figure><img src="../../.gitbook/assets/image (987).png" alt=""><figcaption><p>Mapping Tab - Google Shopping</p></figcaption></figure>
+            <figure><img src="../../.gitbook/assets/image (987).png" alt=""><figcaption><p>Pestaña Mapeo - Google Shopping</p></figcaption></figure>
 
-            * Advanced: For any other kind of feed file, select this option.
+            * Avanzado: Para cualquier otro tipo de archivo de fuente, seleccione esta opción.
 
-            <figure><img src="../../.gitbook/assets/image (903).png" alt=""><figcaption><p>Mapping Tab - Advanced</p></figcaption></figure>
-        * Detect Template: Click on <img src="../../.gitbook/assets/image (994).png" alt="" data-size="line"> to detect the best template based on your feed file.
-        * Test Template: Click on <img src="../../.gitbook/assets/image (911).png" alt="" data-size="line"> to access a preview of how your products will be displayed in your catalog. If there are any failures with the mapping or the feed file, you will notice them on this test.
+            <figure><img src="../../.gitbook/assets/image (903).png" alt=""><figcaption><p>Pestaña Mapeo - Avanzado</p></figcaption></figure>
+        * Detectar plantilla: Haga clic en <img src="../../.gitbook/assets/image (994).png" alt="" data-size="line"> detectar la mejor plantilla basada en tu archivo de alimentación.
+        * Plantilla de prueba: Haga clic en <img src="../../.gitbook/assets/image (911).png" alt="" data-size="line"> para acceder a una vista previa de cómo se mostrarán sus productos en su catálogo. Si hay algún error en la asignación o en el archivo de alimentación, lo notará en esta prueba.
 
-        <figure><img src="../../.gitbook/assets/Captura de tela 2024-09-18 145710.png" alt=""><figcaption><p>Mapping Test Result</p></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/Captura de tela 2024-09-18 145710.png" alt=""><figcaption><p>Resultado de la prueba de mapeo</p></figcaption></figure>
 
-        * Click on <img src="../../.gitbook/assets/image (999).png" alt="" data-size="line"> to proceed.
-    4.  Filters Tab\
-        In this tab, you will be able to set filters to select the products that you need to import. This can be useful for reducing the costs of import jobs by importing only the products you need.
+        * Haga clic en <img src="../../.gitbook/assets/image (999).png" alt="" data-size="line"> para continuar.
+    4.  Pestaña Filtros\
+        En esta pestaña, podrás establecer filtros para seleccionar los productos que necesitas importar. Esto puede ser útil para reducir los costes de los trabajos de importación, ya que solo se importarán los productos que necesites.
 
-        * Path: Inform a path value, such as one of the feed column labels.
-        * Operator: Select one of the operator values, this value will establish the filter.
-        * Value: Inform the value you need to filter from your catalog's feed, such as a brand name, or range of product ids.
-        * After filling out the fields, you will also need to input the same data into the displayed template. You must change only the values you are filtering, otherwise, it will not work properly.
+        * Ruta: Indique un valor de ruta, como una de las etiquetas de columna de la fuente.
+        * Operador: Seleccione uno de los valores del operador, este valor establecerá el filtro.
+        * Valor: Indique el valor que necesita filtrar del feed de su catálogo, como el nombre de una marca o un rango de identificadores de productos.
+        * Después de rellenar los campos, también deberá introducir los mismos datos en la plantilla que se muestra. Solo debe cambiar los valores que está filtrando, de lo contrario, no funcionará correctamente.
 
-        You can add as many filters as necessary by clicking on <img src="../../.gitbook/assets/image (441) (1).png" alt="" data-size="original">, and also remove them by clicking on ![](<../../.gitbook/assets/image (998).png>) at the same row as the filter you want to delete.
+        Puede añadir tantos filtros como sea necesario haciendo clic en <img src="../../.gitbook/assets/image (441) (1).png" alt="" data-size="original">, y también eliminarlos haciendo clic en ![](<../../.gitbook/assets/image (998).png>) en la misma fila que el filtro que desea eliminar.
 
-        <figure><img src="../../.gitbook/assets/Captura de tela 2024-12-19 110001.png" alt=""><figcaption><p>Filters Tab</p></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/Captura de tela 2024-12-19 110001.png" alt=""><figcaption><p>Pestaña Filtros</p></figcaption></figure>
 
-        * _**Example 1**:_ _In this picture, you will notice that a filter was established using the description column of the feed file as a reference for the path, the chosen operator was 'Contains', and the Value was 'Cerdo', meaning that this import channel will only import products that contain the word 'Cerdo' in their description. You will also notice that on the template, the content of the line 'description' was modified to match the filter value._
-        * _**Example 2**: You will also notice a filter using the 'url' column as a reference for the path; this one was manually added. To manually add new columns to your filters, they must be present in your feed's mapping too. You also need to respect the template semantics: columns are comma-separated, and a colon is used to separate a column label from its value. Column labels and values must be declared between quotation marks._
-3. Once you have finished the steps above, check your settings to ensure everything is correct, then click on <img src="../../.gitbook/assets/image (19) (1).png" alt="" data-size="line"> to save your Import Channel.
-4.  Click on <img src="../../.gitbook/assets/image (10).png" alt="" data-size="original"> to start a manual job for importing your products:\\
+        * _**Ejemplo 1:** En esta imagen, notará que se estableció un filtro utilizando la columna de descripción del archivo del feed como referencia para la ruta; el operador elegido fue "Contains" (Contiene) y el Valor fue "Cerdo", lo que significa que este canal de importación solo importará productos que contengan la palabra "Cerdo" en su descripción. También notará que en la plantilla, el contenido de la línea "description" se modificó para coincidir con el valor del filtro._
+        * _**Ejemplo 2:** También notará un filtro que utiliza la columna "url" como referencia para la ruta; este fue añadido manualmente. Para añadir manualmente nuevas columnas a sus filtros, estas deben estar presentes también en el mapeo de su feed. Asimismo, debe respetar la semántica de la plantilla: las columnas se separan por comas y se utilizan los dos puntos para separar la etiqueta de una columna de su valor. Las etiquetas de las columnas y los valores deben declararse entre comillas._
+3. Una vez que haya completado los pasos anteriores, compruebe la configuración para asegurarse de que todo sea correcto y, a continuación, haga clic en <img src="../../.gitbook/assets/image (19) (1).png" alt="" data-size="line"> para guardar tu canal de importación.
+4.  Haga clic en <img src="../../.gitbook/assets/image (10).png" alt="" data-size="original"> para iniciar una tarea manual para importar sus productos:
 
-    <figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Start Jobs screen</p></figcaption></figure>
-5. Click on <img src="../../.gitbook/assets/image (12).png" alt="" data-size="line"> to start importing your products.
-6.  It's also possible to import only a few products to test if everything works fine before starting the full import. We can do this by checking the box 'Testing Mode', filling in the details and then clicking on <img src="../../.gitbook/assets/image (12) (1).png" alt="" data-size="line">.\\
+    <figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Iniciar pantalla de trabajos</p></figcaption></figure>
+5. Haga clic en <img src="../../.gitbook/assets/image (12).png" alt="" data-size="line"> para comenzar a importar sus productos.
+6.  También es posible importar solo algunos productos para comprobar si todo funciona correctamente antes de iniciar la importación completa. Para ello, marque la casilla "Modo de prueba", rellene los datos y haga clic en <img src="../../.gitbook/assets/image (12) (1).png" alt="" data-size="line">.
 
-    <figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption><p>Start Jobs screen - Testing Mode</p></figcaption></figure>
-7.  Follow your import at the Jobs tab, at this tab we can see the issues with our import or if they were completed. It's possible to understand the problem by clicking on ![](<../../.gitbook/assets/image (59) (1).png>) or ![](<../../.gitbook/assets/image (262).png>) on the same row as the failed job.\\
+    <figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption><p>Pantalla Iniciar trabajos - Modo de prueba</p></figcaption></figure>
+7.  Sigue tu importación en la pestaña Trabajos. En esta pestaña podemos ver los problemas con nuestra importación o si se han completado. Es posible comprender el problema haciendo clic en ![](<../../.gitbook/assets/image (59) (1).png>) o ![](<../../.gitbook/assets/image (262).png>) en la misma fila que el trabajo fallido.
 
-    <figure><img src="../../.gitbook/assets/image (259).png" alt=""><figcaption><p>Jobs tab</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (259).png" alt=""><figcaption><p>Pestaña de Trabajos</p></figcaption></figure>
 
-### Editing an Import Channel
+### Edición de un Canal de Importación
 
-We can edit our import channels by clicking on <img src="../../.gitbook/assets/image (13).png" alt="" data-size="line"> at the same row that the import channel you need to edit. All details are available for editing.
+Podemos editar nuestros canales de importación haciendo clic en <img src="../../.gitbook/assets/image (13).png" alt="" data-size="line"> en la misma fila que el canal de importación que necesita editar. Todos los detalles están disponibles para su edición.
 
-### Deleting an Import Channel
+### Eliminación de un Canal de Importación
 
-We can delete unused import channels by clicking on <img src="../../.gitbook/assets/image (15).png" alt="" data-size="line"> at the same row that the import channel to be deleted is, however, this will also delete the metrics related to it, so proceed with caution, alternatively we can also archive these import channels by clicking on <img src="../../.gitbook/assets/image (14).png" alt="" data-size="line"> at the same row that the import channel to be archived, to view archived import channels, turn on the option 'Archived' above the import channels' list.
+Podemos eliminar los canales de importación que no se utilizan haciendo clic en <img src="../../.gitbook/assets/image (15).png" alt="" data-size="line"> en la misma fila en la que se encuentra el canal de importación que se va a eliminar; sin embargo, esto también eliminará las métricas relacionadas con él, por lo que se debe proceder con precaución. Como alternativa, también podemos archivar estos canales de importación haciendo clic en <img src="../../.gitbook/assets/image (14).png" alt="" data-size="line"> en la misma fila que el canal de importación que se va a archivar, para ver los canales de importación archivados, active la opción "Archivado" situada encima de la lista de canales de importación.
 
-## Metrics Tab
+## Pestaña Métricas
 
-The import channels metrics tab contains data about your importing jobs, such as data processing, performance, and failure rate. The metrics tab will display account-wide data for all import channels if no import channel is selected. Selecting a single import channel will show metrics specific to that import channel while selecting multiple import channels will compare their performance. These are the metrics available for import channels:
+La pestaña de métricas de canales de importación contiene datos sobre sus trabajos de importación, como el procesamiento de datos, el rendimiento y la tasa de fallos. La pestaña de métricas mostrará los datos de toda la cuenta para todos los canales de importación si no se selecciona ningún canal de importación. Al seleccionar un solo canal de importación, se mostrarán las métricas específicas de ese canal, mientras que al seleccionar varios canales de importación se comparará su rendimiento. Estas son las métricas disponibles para los canales de importación:&#x20;
 
-* [Import Job Count](cs2-metrics.md#import-job-count)
-* [Import Job Duration](cs2-metrics.md#import-job-duration)
-* [Import Job Failure Rate](cs2-metrics.md#import-job-failure-rate)
-* [Import Job Issues](cs2-metrics.md#import-job-issues)
-* [Import Job Processed Bytes](cs2-metrics.md#import-job-processed-bytes)
-* [Import Job Processed Records](cs2-metrics.md#import-job-processed-records)
+* [Recuento de trabajos de Importación](cs2-metrics.md#import-job-count)
+* [Duración de trabajos de Importación](cs2-metrics.md#import-job-duration)
+* [Tasa de fallos de trabajos de Importación](cs2-metrics.md#import-job-failure-rate)
+* [Problemas de trabajos de Importación](cs2-metrics.md#import-job-issues)
+* [Bytes procesados ​​de trabajos de Importación](cs2-metrics.md#import-job-processed-bytes)
+* [Registros procesados ​​de trabajos de Importación](cs2-metrics.md#import-job-processed-records)

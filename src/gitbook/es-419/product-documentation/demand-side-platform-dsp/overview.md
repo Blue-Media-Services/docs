@@ -1,23 +1,23 @@
 # Resumen
 
-## Overview Metrics
+## Resumen de métricas
 
-You can have a more precise view of your campaign by checking the <img src="../../.gitbook/assets/image (113).png" alt="Overview" data-size="line"> tab. Here you will be presented with the most valuable metrics of a campaign, which can be divided by **Targets**, **Ads**, **Creative Groups**, and **Creatives**.
+Puede obtener una visión más precisa de su campaña consultando el <img src="../../.gitbook/assets/image (113).png" alt="Overview" data-size="line"> pestaña. Aquí se le presentarán las métricas más valiosas de una campaña, que se pueden dividir por **objetivos**, **anuncios**, **grupos creativos** y **creativos**.
 
-<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption><p>Campaign Overview</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption><p>Resumen de la campaña</p></figcaption></figure>
 
-To better understand the metrics displayed on the overview page, visit our [Campaign Metrics Tab](campaigns.md#metrics-tab).
+Para comprender mejor las métricas que se muestran en la página de resumen, visite nuestra [Pestaña Métricas de Campaña](campaigns.md#metrics-tab).
 
-It is possible to select a campaign and then choose a specific date to view the overview for that period.
+Es posible seleccionar una campaña y luego elegir una fecha específica para ver el resumen de ese período.
 
-After selecting a campaign and a period, you will be presented with an overview of that campaign, including all targets, ads, creative groups, and creatives that are impacting the campaign, and how they are performing.
+Después de seleccionar una campaña y un período, se le presentará una descripción general de esa campaña, incluidos todos los objetivos, anuncios, grupos creativos y creatividades que están afectando a la campaña, y su rendimiento.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-12-10 080427.png" alt=""><figcaption><p>Overview Display</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-12-10 080427.png" alt=""><figcaption><p>Resumen Pantalla</p></figcaption></figure>
 
-It is also possible to check the top domains, apps, countries, regions, cities and devices for each campaign through the Overview tab. It presents the most relevant metrics and shows how each one is performing, providing you with valuable data to make strategic decisions.
+También es posible consultar los principales dominios, aplicaciones, países, regiones, ciudades y dispositivos de cada campaña a través de la pestaña "Descripción general". Esta pestaña presenta las métricas más relevantes y muestra el rendimiento de cada una de ellas, lo que le proporciona datos valiosos para tomar decisiones estratégicas.
 
 {% hint style="info" %}
-Some results might appear as "unspecified" due to user privacy settings or a lack of precise location data. However, ads are still delivered within the configured target. For example, if targeting a country, ads will only appear there, but results by region or city might show as "unspecified."
+Algunos resultados pueden aparecer como "sin especificar" debido a la configuración de privacidad del usuario o a la falta de datos precisos sobre la ubicación. Sin embargo, los anuncios se siguen mostrando dentro del público objetivo configurado. Por ejemplo, si se elige como público objetivo un país, los anuncios solo aparecerán allí, pero los resultados por región o ciudad pueden mostrarse como "sin especificar".&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2025-04-01 104316.png" alt=""><figcaption><p>Ranking Display</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2025-04-01 104316.png" alt=""><figcaption><p>Visualización de clasificación</p></figcaption></figure>

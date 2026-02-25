@@ -1,7 +1,7 @@
 # Plataforma de Demanda (DSP)
 
-In the DSP area, you will be using all features previously created like **Creatives**, **Creative Groups** and **Ads**, to start your campaign and customize it with more features to make it even more effective.
+En el área DSP, utilizará todas las funciones creadas anteriormente, como **Creativos**, **Grupos creativos** y **Anuncios**, para iniciar su campaña y personalizarla con más funciones que la harán aún más eficaz.
 
-This is the most important step since you will be deciding which public you want to focus your campaign on, the ads that will be displayed, and the budget available for each campaign.
+Este es el paso más importante, ya que decidirás a qué público quieres dirigir tu campaña, los anuncios que se mostrarán y el presupuesto disponible para cada campaña.
 
-<figure><img src="../../.gitbook/assets/image (993).png" alt=""><figcaption><p>Campaign View</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (993).png" alt=""><figcaption><p>Vista de campaña</p></figcaption></figure>

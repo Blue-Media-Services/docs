@@ -4,7 +4,7 @@ Cada vez que creamos un creativo, un grupo de creativos o un Anuncio, el archivo
 
 <figure><img src="../../.gitbook/assets/image (434) (1).png" alt=""><figcaption><p>Biblioteca de Medios</p></figcaption></figure>
 
-### Uploading a Media
+### Subir un Medio
 
 Para cargar medios, haz clic en ![Upload Media](<../../.gitbook/assets/image (435) (1).png>) , luego puedes arrastrar imágenes a la pantalla o seleccionar los archivos manualmente navegando por ellos.
 

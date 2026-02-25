@@ -1,52 +1,52 @@
 # Gestión de Campañas
 
-### Creating a Campaign
+### Creación de una campaña
 
-In the Campaigns Area click on <img src="../../.gitbook/assets/image (675).png" alt="Crear Campaña" data-size="line">.
+En el área de campañas, haga clic en <img src="../../.gitbook/assets/image (675).png" alt="Crear Campaña" data-size="line">.
 
-Fill in the details.
+Rellene los datos.
 
 <figure><img src="../../.gitbook/assets/image (661).png" alt="Creación de la Campaña"><figcaption><p>Creación de la Campaña</p></figcaption></figure>
 
-* Name - Choose a name for your campaign;
-* Tags - up to 5 labels that can be used to aid identification and searching;
-* Domain - this is the primary domain that this campaign will take the user when clicked;
-* Time Zone – which time zone you want to deliver your campaign;
-* Scheduling - set your start and ending date for the Campaign;
-* Bid Price – this is where you will be deciding your bidding price for the AD’s auction;
-  * Fixed - Set your immutable price for an inventory slot;
-  * Variable - Activate this option to use our technology "**Bid Shading**", which is the platform's own bidder; if activated, it will optimize your budget spend, always focusing on the fairest value for purchasing those inventory spaces. This generates significant savings, although the company may choose not to activate Bid Shading and let the bidding offer be based solely on the CPM target.
-* Frequency Cap: Amount of impressions per device, here you can change how many times the campaign will be shown to each device;
+* Nombre - Elige un nombre para tu campaña;
+* Etiquetas - Hasta 5 etiquetas que se pueden utilizar para facilitar la identificación y la búsqueda;
+* Dominio - Es el dominio principal al que llevará al usuario esta campaña cuando haga clic en ella;
+* Zona horaria - La zona horaria en la que desea que se publique su campaña;
+* Programación - Establezca la fecha de inicio y finalización de la campaña;
+* Precio de puja - Aquí es donde decidirá el precio de puja para la subasta del anuncio;
+  * Fijo: Establece un precio fijo para un espacio de inventario.
+  * Variable: Active esta opción para utilizar nuestra tecnología **"Bid Shading"**, que es el propio pujador de la plataforma; si se activa, optimizará su gasto presupuestario, centrándose siempre en el valor más justo para la compra de esos espacios de inventario. Esto genera un ahorro significativo, aunque la empresa puede optar por no activar Bid Shading y dejar que la oferta de puja se base únicamente en el objetivo de CPM.&#x20;
+* Límite de frecuencia: Cantidad de impresiones por dispositivo. Aquí puede cambiar cuántas veces se mostrará la campaña en cada dispositivo;
 
 {% hint style="warning" %}
-_Attention! The higher the Frequency Cap, the more you'll appear to the same user. The lower the Frequency Cap, you'll reach more users and appear less often to each of them._
+_¡Atención! Cuanto mayor sea el límite de frecuencia, más aparecerás ante el mismo usuario. Cuanto menor sea el límite de frecuencia, llegarás a más usuarios y aparecerás con menos frecuencia ante cada uno de ellos._
 {% endhint %}
 
-After filling in all fields, click on ![Guardar](<../../.gitbook/assets/image (676).png>), if there is any invalid field, it will be shown so you can review what is missing.
+Después de rellenar todos los campos, haga clic en ![Guardar](<../../.gitbook/assets/image (676).png>) si hay algún campo no válido, se mostrará para que puedas revisar lo que falta.
 
-This will be your view after successfully creating a campaign.
+Esta será la vista que verás después de crear correctamente una campaña.
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-12-05 073504.png" alt="Lista de Campañas"><figcaption><p>Lista de Campañas</p></figcaption></figure>
 
-### Configuring your Campaign
+### Configuración de su campaña
 
-To start configuring your Campaign, check the <img src="../../.gitbook/assets/image (52).png" alt="Check Box" data-size="line"> of your desired campaign and your configuration tab will be displayed accordingly.
+Para comenzar a configurar tu campaña, comprueba el <img src="../../.gitbook/assets/image (52).png" alt="Check Box" data-size="line"> de la campaña deseada y se mostrará la pestaña de configuración correspondiente.
 
-<figure><img src="../../.gitbook/assets/Campaña.jpeg" alt="Configuración de la Campaña"><figcaption><p>Configuración de la Campaña</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Campaña.jpeg" alt="Configuración de la Campaña"><figcaption><p>Configuración de su campaña</p></figcaption></figure>
 
-Configure your [Budget](budgets.md), [Targets](targets.md) and [Ads](managing-ads.md).
+Configure su [Presupuestos](budgets.md), [Objetivos](targets.md) y [Anuncios](managing-ads.md).
 
-### Enabling your Campaign
+### Habilitar tu campaña
 
-To enable your campaign, you **must** have at least one Target and Ad added to the campaign, you can also check the <img src="../../.gitbook/assets/image (76) (1) (1).png" alt="" data-size="line"> sign to see whether there is any issue preventing you from enabling the campaign.
+Para habilitar tu campaña, **debes** tener al menos un objetivo y un anuncio añadidos a la campaña. También puedes consultar el <img src="../../.gitbook/assets/image (76) (1) (1).png" alt="" data-size="line"> inicie sesión para comprobar si hay algún problema que le impida habilitar la campaña.
 
 {% hint style="warning" %}
-If this notice appears in the status of your creative, ad, or campaign, it means that the material was not approved by the platform or ad exchanges. In this case, BMS will inform you of the issue in question (in detail) by hovering the cursor on the sign, and you can make the necessary adjustments before activation.
+_Si este aviso aparece en el estado de su creatividad, anuncio o campaña, significa que el material no ha sido aprobado por la plataforma o los intercambios publicitarios. En este caso, BMS le informará del problema en cuestión (en detalle) al pasar el cursor por encima del signo, y usted podrá realizar los ajustes necesarios antes de la activación._
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Campaña3.jpeg" alt="Campaña"><figcaption><p>Campaña</p></figcaption></figure>
 
-To enable your campaign simply flip the Enable toggle.
+Para habilitar tu campaña, simplemente activa el botón "Habilitar".
 
 <div align="center"><figure><img src="../../.gitbook/assets/Campaña2.jpeg" alt="Campaña Habilitada"><figcaption><p>Campaña Habilitada</p></figcaption></figure></div>
 
@@ -68,68 +68,68 @@ Para compartir la vista previa de tu anuncio, haz clic en ![Share Ad Preview](<.
 
 Al seleccionar "Ads Preview", puedes ver exactamente cómo el cliente verá los anuncios usando el enlace antes de enviarlo.
 
-<figure><img src="../../.gitbook/assets/AdLink.jpeg" alt="Ads Preview"><figcaption><p>Ads Preview</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/AdLink.jpeg" alt="Ads Preview"><figcaption><p>Vista previa de anuncios</p></figcaption></figure>
 
-### Duplicating your Campaign
+### Duplicar tu campaña
 
-If you wish to reutilize a campaign with different configurations without having to create a new one from scratch, you have the option of duplicating a campaign, simply click on <img src="../../.gitbook/assets/image (77) (1) (1).png" alt="" data-size="line"> at the campaign you want to duplicate and a copy of that campaign will be listed, when duplicating a campaign, you also duplicate ads, budget, and targets.
+Si desea reutilizar una campaña con diferentes configuraciones sin tener que crear una nueva desde cero, tiene la opción de duplicar una campaña, simplemente haga clic en <img src="../../.gitbook/assets/image (77) (1) (1).png" alt="" data-size="line"> en la campaña que desea duplicar aparecerá una copia de dicha campaña. Al duplicar una campaña, también se duplican los anuncios, el presupuesto y los objetivos.
 
-### Archiving and Unarchiving Your Campaign
+### Archivar y desarchivar tu campaña
 
-If a campaign has served its purpose but you do not wish to delete the campaign, you have the option of archiving it, click on <img src="../../.gitbook/assets/image (78) (1) (1).png" alt="Archive" data-size="line"> to archive.
+Si una campaña ha cumplido su propósito pero no desea eliminarla, tiene la opción de archivarla. Haga clic en <img src="../../.gitbook/assets/image (78) (1) (1).png" alt="Archive" data-size="line"> para archivar.
 
-To check your archived campaigns, click on <img src="../../.gitbook/assets/image (79) (1) (1).png" alt="Archive (Archivado)" data-size="line"> to toggle your view to Archived campaigns, there you will see all of them and if you wish to retrieve a campaign simply click on ![Disarchive](<../../.gitbook/assets/image (80) (1) (1).png>) and the campaign will be available again.
+Para consultar tus campañas archivadas, haz clic en <img src="../../.gitbook/assets/image (79) (1) (1).png" alt="Archive (Archivado)" data-size="line"> para cambiar la vista a campañas archivadas, allí las verá todas y, si desea recuperar una campaña, simplemente haga clic en ![Disarchive](<../../.gitbook/assets/image (80) (1) (1).png>) y la campaña volverá a estar disponible.
 
-### Deleting a Campaign
+### Eliminar una campaña
 
-If you need to delete a campaign simply click on ![Delete Campaign](<../../.gitbook/assets/image (81) (1) (1).png>) and a confirmation screen will be displayed, this action cannot be undone and you will have to manually type the campaign name to delete it.
+Si necesita eliminar una campaña, simplemente haga clic en ![Delete Campaign](<../../.gitbook/assets/image (81) (1) (1).png>) y aparecerá una pantalla de confirmación. Esta acción no se puede deshacer y tendrás que escribir manualmente el nombre de la campaña para eliminarla.
 
 <figure><img src="../../.gitbook/assets/image (112).png" alt="Pantalla de Eliminación de Campaña"><figcaption><p>Pantalla de Eliminación de Campaña</p></figcaption></figure>
 
 {% hint style="danger" %}
-_Attention! We always advise to deactivate the campaign instead of deleting it completely. When deleting a campaign, all data and metrics are lost as well._
+_¡Atención! Siempre recomendamos desactivar la campaña en lugar de eliminarla por completo. Al eliminar una campaña, también se pierden todos los datos y métricas._
 {% endhint %}
 
-### Metrics Tab
+### Pestaña Métricas
 
-While real-time events are kept for 15 minutes, you can check the campaign metrics for any time interval. Metrics can take up to 5 minutes to display the most recent data. Below you can find every metric that is available for your Campaign.
+Aunque los eventos en tiempo real se conservan durante 15 minutos, puedes consultar las métricas de la campaña para cualquier intervalo de tiempo. Las métricas pueden tardar hasta 5 minutos en mostrar los datos más recientes. A continuación encontrarás todas las métricas disponibles para tu campaña.
 
-* [Campaign Active](dsp-metrics.md#campaign-active)
-* [Budget Spent](dsp-metrics.md#budget-spent)
-* [Bids & Bid Win Rate](dsp-metrics.md#bids-and-bid-win)
-* [Impressions](dsp-metrics.md#impressions)
-* [Impression Price](dsp-metrics.md#impression-price)
+* [Campaña Activa](dsp-metrics.md#campaign-active)
+* [Presupuesto Gastado](dsp-metrics.md#budget-spent)
+* [Pujas y Tasa de Pujas Ganadas](dsp-metrics.md#bids-and-bid-win)
+* [Impresiones](dsp-metrics.md#impressions)
+* [Precio por Impresión](dsp-metrics.md#impression-price)
 * [CPM](dsp-metrics.md#cpm)
 * [CPC](dsp-metrics.md#cpc)
-* [Deliveries & Delivery Rate](../ad-server/ad-server-metrics.md#deliveries-and-delivery-rate)
-* [Displays & Display Rate](../ad-server/ad-server-metrics.md#displays-and-display-rate)
-* [Views](../ad-server/ad-server-metrics.md#views)
-* [Viewability](../ad-server/ad-server-metrics.md#viewability)
-* [Viewability & Visibility Duration](../ad-server/ad-server-metrics.md#viewability-and-visibility-duration)
-* [Clicks & CTR](../ad-server/ad-server-metrics.md#clicks-and-ctr)
-* [Click to Page Load Rate](../ad-server/ad-server-metrics.md#click-to-page-load-rate)
-* [Cost per Page Load](dsp-metrics.md#cost-per-page-load)
-* [Time to Display](../ad-server/ad-server-metrics.md#time-to-display)
-* [Time to View](../ad-server/ad-server-metrics.md#time-to-view)
-* [Time to Click](../ad-server/ad-server-metrics.md#time-to-click)
-* [Time to Page Load](../ad-server/ad-server-metrics.md#time-to-page-load)
-* [Page Loads](../ad-server/ad-server-metrics.md#page-loads)
-* [Page Load Rate](../ad-server/ad-server-metrics.md#page-load-rate)
-* [Bid Price Target](dsp-metrics.md#bid-price-target)
-* [Bid Price Effective](dsp-metrics.md#bid-price-effective)
-* [Device Count](dsp-metrics.md#device-count)
-* [Device Frequency](dsp-metrics.md#device-frequency)
-* [Budget Spent with Recommendations](dsp-metrics.md#budget-spent-with-recommendations)
-* [Budget Spent Placing Bids](dsp-metrics.md#budget-spent-placing-bids)
-* [Budget Spent on Impressions](dsp-metrics.md#budget-spent-on-impressions)
-* [Budget Spent on Deliveries](dsp-metrics.md#budget-spent-on-deliveries)
-* [Budget Pace Target](dsp-metrics.md#budget-pace-target)
-* [Budget Pace Effective](dsp-metrics.md#budget-pace-effective)
-* [Budget Available](dsp-metrics.md#budget-available)
-* [Budget Daily Limit](dsp-metrics.md#budget-daily-limit)
-* [Rejected Bids](dsp-metrics.md#rejected-bids)
-* [Losing Bids](dsp-metrics.md#losing-bids)
-* [Losing Bid Prices](dsp-metrics.md#losing-bid-prices)
-* [Minimum Price to Win](dsp-metrics.md#minimum-price-to-win)
+* [Entregas y Tasa de Entrega](../ad-server/ad-server-metrics.md#deliveries-and-delivery-rate)
+* [Visualizaciones y Tasa de Visualización](../ad-server/ad-server-metrics.md#displays-and-display-rate)
+* [Vistas](../ad-server/ad-server-metrics.md#views)
+* [Visibilidad](../ad-server/ad-server-metrics.md#viewability)
+* [Visibilidad y Duración de la Visibilidad](../ad-server/ad-server-metrics.md#viewability-and-visibility-duration)
+* [Clics y CTR](../ad-server/ad-server-metrics.md#clicks-and-ctr)
+* [Tasa de Clic a Carga de Página](../ad-server/ad-server-metrics.md#click-to-page-load-rate)
+* [Costo por Carga de Página](dsp-metrics.md#cost-per-page-load)
+* [Tiempo hasta la Visualización](../ad-server/ad-server-metrics.md#time-to-display)
+* [Tiempo hasta la Vista](../ad-server/ad-server-metrics.md#time-to-view)
+* [Tiempo hasta el Clic](../ad-server/ad-server-metrics.md#time-to-click)
+* [Tiempo de Carga de la Página](../ad-server/ad-server-metrics.md#time-to-page-load)
+* [Cargas de Página](../ad-server/ad-server-metrics.md#page-loads)
+* [Tasa de Carga de Página](../ad-server/ad-server-metrics.md#page-load-rate)
+* [Objetivo de Precio de Puja](dsp-metrics.md#bid-price-target)
+* [Precio de Puja Efectivo](dsp-metrics.md#bid-price-effective)
+* [Recuento de Dispositivos](dsp-metrics.md#device-count)
+* [Frecuencia por Dispositivo](dsp-metrics.md#device-frequency)
+* [Presupuesto Gastado con Recomendaciones](dsp-metrics.md#budget-spent-with-recommendations)
+* [Presupuesto Gastado al Realizar Pujas](dsp-metrics.md#budget-spent-placing-bids)
+* [Presupuesto Gastado en Impresiones](dsp-metrics.md#budget-spent-on-impressions)
+* [Presupuesto Gastado en Entregas](dsp-metrics.md#budget-spent-on-deliveries)
+* [Objetivo de Ritmo de Presupuesto](dsp-metrics.md#budget-pace-target)
+* [Ritmo de Presupuesto Efectivo](dsp-metrics.md#budget-pace-effective)
+* [Presupuesto Disponible](dsp-metrics.md#budget-available)
+* [Límite de Presupuesto Diario](dsp-metrics.md#budget-daily-limit)
+* [Pujas Rechazadas](dsp-metrics.md#rejected-bids)
+* [Pujas Perdidas](dsp-metrics.md#losing-bids)
+* [Precios de Pujas Perdidas](dsp-metrics.md#losing-bid-prices)
+* [Precio Mínimo para Ganar](dsp-metrics.md#minimum-price-to-win)
 
-You can also view Real Time events from your Campaign through our [Real Time Tab](real-time-tab.md).
+También puede ver los eventos en tiempo real de su campaña a través de nuestra [Pestaña de Tiempo Real](real-time-tab.md).

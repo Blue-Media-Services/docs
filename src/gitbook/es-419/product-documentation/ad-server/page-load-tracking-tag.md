@@ -1,27 +1,27 @@
 # Etiqueta de Seguimiento de Carga de Página
 
-The Page Load Tracking Tag enables you to measure the effectiveness of your ads by tracking whether users who click on them land on your website. This feature provides insights into how well your ad clicks translate into genuine website visits. It helps you understand and optimize user engagement with your ads.
+La etiqueta de seguimiento de carga de página te permite medir la eficacia de tus anuncios mediante el seguimiento de si los usuarios que hacen clic en ellos llegan a tu sitio web. Esta función proporciona información sobre la eficacia con la que los clics en tus anuncios se traducen en visitas reales al sitio web. Te ayuda a comprender y optimizar la interacción de los usuarios con tus anuncios.
 
-To access our Page Load Tracking Tag feature, check the Ad Server's tools menu.
+Para acceder a nuestra función de etiqueta de seguimiento de carga de página, consulte el menú de herramientas del Ad Server.
 
-<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Accessing Page Load Tracking Tag</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Acceso a la etiqueta de seguimiento de carga de página</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (833).png" alt=""><figcaption><p>Page Load Tracking Tag</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (833).png" alt=""><figcaption><p>Etiqueta de seguimiento de carga de página</p></figcaption></figure>
 
-Once you add this tag to your website, it begins tracking the entire journey from when a user clicks on your ad to when your webpage fully loads. It records the time taken for this process and gathers crucial metrics, such as the total number of page loads, the conversion rate of clicks to page loads, the average cost per page load, and the average time from click to page load.
+Una vez que añades esta etiqueta a tu sitio web, comienza a rastrear todo el recorrido desde que un usuario hace clic en tu anuncio hasta que tu página web se carga por completo. Registra el tiempo que tarda este proceso y recopila métricas cruciales, como el número total de cargas de la página, la tasa de conversión de clics a cargas de la página, el coste medio por carga de la página y el tiempo medio desde el clic hasta la carga de la página.&#x20;
 
-### Installation Methods
+### Métodos de instalación
 
-There are 2 installation methods available: Google Tag Manager and Direct on The Page. For both options there is an installing tutorial on the platform, follow the steps provided for each option on their respective tabs.
+Hay dos métodos de instalación disponibles: Google Tag Manager y Direct on The Page. Para ambas opciones hay un tutorial de instalación en la plataforma. Siga los pasos indicados para cada opción en sus respectivas pestañas.
 
 * **Google Tag Manager:**
 
-<figure><img src="../../.gitbook/assets/Captura de Tela 2024-08-23 às 11.42.53.png" alt=""><figcaption><p>Install Using Google Tag Manager</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de Tela 2024-08-23 às 11.42.53.png" alt=""><figcaption><p>Instalar con Google Tag Manager</p></figcaption></figure>
 
-* **Directly on the page:**
+* **Directamente en la página:**
 
-<figure><img src="../../.gitbook/assets/image (748).png" alt=""><figcaption><p>Install Directly on the Page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (748).png" alt=""><figcaption><p>Instalar directamente en la página</p></figcaption></figure>
 
-Installing this tag is crucial for gaining clear insights into your ad performance and user behavior. It also plays a key role in our anti-fraud detection system by automatically blocking sites that generate clicks without delivering users to the intended destination. This protection helps safeguard you from fraudulent activity. By using the data provided, you can make informed decisions, refine your ads, and enhance the user experience. Overall, this tag ensures every click is accurately tracked, making your marketing efforts more effective and secure.
+La instalación de esta etiqueta es fundamental para obtener información clara sobre el rendimiento de sus anuncios y el comportamiento de los usuarios. También desempeña un papel clave en nuestro sistema de detección de fraudes, ya que bloquea automáticamente los sitios que generan clics sin dirigir a los usuarios al destino previsto. Esta protección le ayuda a protegerse de actividades fraudulentas. Al utilizar los datos proporcionados, puede tomar decisiones informadas, perfeccionar sus anuncios y mejorar la experiencia del usuario. En general, esta etiqueta garantiza que cada clic se rastree con precisión, lo que hace que sus esfuerzos de marketing sean más eficaces y seguros.
 
-The results of using this feature can be tracked through specific metrics designed for it. You can find an explanation of these metrics on the [Ad Server Metrics ](ad-server-metrics.md)Page.
+Los resultados del uso de esta función se pueden rastrear a través de métricas específicas diseñadas para ello. Puede encontrar una explicación de estas métricas en el página de [Métricas del Ad Server](ad-server-metrics.md).

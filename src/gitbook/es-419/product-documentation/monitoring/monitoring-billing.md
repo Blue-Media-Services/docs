@@ -1,43 +1,43 @@
 # Facturación de Monitoreo
 
-In the monitoring tab, it will be presented all bills related to monitoring, which are divided into 4 sub-sections.
+En la pestaña de monitoreo, se presentarán todas las facturas relacionadas con el monitoreo, que se dividen en 4 subsecciones.
 
-<figure><img src="../../.gitbook/assets/image (312).png" alt=""><figcaption><p>Monitoring Sub-Sections</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (312).png" alt=""><figcaption><p>Subsecciones de supervisión</p></figcaption></figure>
 
 {% hint style="info" %}
-At BMS, it prioritizes transparency by displaying every detail of your bill. Visit our [Billing Home](../billing.md) to understand how the bills are structured.
+En BMS, se prioriza la transparencia mostrando todos los detalles de su factura. Visite nuestro [Facturación](../billing.md) para comprender cómo están estructurados los proyectos de ley.
 {% endhint %}
 
-### Event Pipe Management
+### Gestión de Pipelines de Eventos
 
-Every action taken on an event pipe will generate a request. For instance, creating an event pipe, listing your event pipes, and making changes to an event pipe will each generate a request. Additionally, each event pipe will create event logs per hour, which will then be charged based on a 720-hour period.
+Cada acción realizada en un canal de eventos generará una solicitud. Por ejemplo, crear un canal de eventos, enumerar sus canales de eventos y realizar cambios en un canal de eventos generará una solicitud. Además, cada canal de eventos creará registros de eventos por hora, que se cobrarán en función de un período de 720 horas.
 
-<figure><img src="../../.gitbook/assets/image (671).png" alt=""><figcaption><p>Event Pipe Management Detailed</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (671).png" alt=""><figcaption><p>Gestión detallada de pipeline de eventos</p></figcaption></figure>
 
-_**Example:**_ _On this bill, only the configured event pipe has been charged. By observing the number of hours, you can see that the configured event pipe has been active for a month and a few days, resulting in a total bill of $0.79. No other charges occurred since no requests exceeded the first 1,000 free requests._
+_**Ejemplo:** En esta factura, solo se ha cobrado el conducto de eventos (event pipe) configurado. Al observar el número de horas, se puede ver que el conducto ha estado activo durante un mes y algunos días, lo que resulta en una factura total de $0.79. No se produjeron otros cargos ya que ninguna solicitud superó las primeras 1,000 solicitudes gratuitas._
 
-### Event Store Management
+### Gestión del Almacén de Eventos
 
-On the Event Store page, all actions will count as a request. If you access the page, create an event store, check your available event streams, or download an event stream, each of these actions will count as a request. However, downloading an event stream will also incur charges, as will storing event streams. These charges will be based on the size of the event stream and the duration it is stored in BMS.
+En la página del Almacén de Eventos, todas las acciones contarán como una solicitud. Si accede a la página, crea un almacén de eventos, consulta sus flujos de eventos disponibles o descarga un flujo de eventos, cada una de estas acciones contará como una solicitud. Sin embargo, la descarga de un flujo de eventos también generará cargos, al igual que el almacenamiento de los mismos. Estos cargos se basarán en el tamaño del flujo de eventos y la duración de su almacenamiento en BMS.
 
-<figure><img src="../../.gitbook/assets/image (309).png" alt=""><figcaption><p>Event Store Management Detailed</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (309).png" alt=""><figcaption><p>Gestión detallada del Almacén de Eventos</p></figcaption></figure>
 
-_**Example:** On this bill, it is possible to see that most requests were not charged due to not reaching the free 1,000 requests. However, the event store requests incurred a $1.95 bill due to the high number of event streams generated within that event store. Having a configured event store also incurred charges because event streams are generated every hour, resulting in a $0.47 bill. Additionally, storing these generated event streams on the BMS server (if the webhook feature is not used) incurred a $0.04 bill, bringing the total bill to $2.46._
+_**Ejemplo:** En esta factura, es posible ver que la mayoría de las solicitudes no fueron cobradas al no alcanzar las 1,000 solicitudes gratuitas. Sin embargo, las solicitudes del almacén de eventos generaron una factura de $1.95 debido a la gran cantidad de flujos de eventos generados dentro de ese almacén. Tener un almacén de eventos configurado también generó cargos porque los flujos de eventos se crean cada hora, resultando en una factura de $0.47. Además, el almacenamiento de estos flujos generados en el servidor BMS (si no se utiliza la función de webhook) generó una factura de $0.04, lo que eleva la factura total a $2.46._
 
-### Metric Monitoring
+### Monitoreo de Métricas
 
-All metrics on any platform incur charges and are crucial for analyzing performance and making strategic decisions based on the collected data. BMS centralizes the charges for every metric on the platform under the Monitoring tab, which is responsible for receiving all events within the platform.
+Todas las métricas en cualquier plataforma generan cargos y son cruciales para analizar el rendimiento y tomar decisiones estratégicas basadas en los datos recopilados. BMS centraliza los cargos de cada métrica de la plataforma bajo la pestaña Monitoring, que es responsable de recibir todos los eventos dentro de la plataforma.
 
-Metrics are charged per point recorded and for the bytes processed by BMS's servers to generate these metrics.
+Las métricas se cobran por cada punto registrado y por los bytes procesados por los servidores de BMS para generar dichas métricas.
 
-<figure><img src="../../.gitbook/assets/image (587).png" alt=""><figcaption><p>Metric Monitoring Detailed</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (587).png" alt=""><figcaption><p>Monitorización métrica detallada</p></figcaption></figure>
 
-_**Example:** On this bill, it is noted that nearly 17 million metric points were accumulated within a month. This total is generated by summing all the metrics on the user's account, resulting in a cost of $83.47. Additionally, the amount of data scanned to generate these metrics was nearly 119 thousand GB, resulting in a charge of $2.37, for a total bill of $85.84._
+_**Ejemplo:** En esta factura, se observa que se acumularon casi 17 millones de puntos de métrica en un mes. Este total se genera sumando todas las métricas de la cuenta del usuario, lo que resulta en un coste de $83.47. Además, la cantidad de datos escaneados para generar estas métricas fue de casi 119 mil GB, lo que supuso un cargo de $2.37, para una factura total de $85.84._
 
-### Real Time Monitoring
+### Monitoreo en Tiempo Real
 
-Some products have a real-time tab that displays events from your campaign as they happen. For example, when an ad is displayed, the user's location will be shown based on the ad exchange used, along with additional information. Each time the real-time tab is accessed, it will incur costs.
+Algunos productos disponen de una pestaña de tiempo real que muestra los eventos de su campaña a medida que ocurren. Por ejemplo, cuando se muestra un anuncio, se visualizará la ubicación del usuario según el _ad exchange_ utilizado, junto con información adicional. Cada vez que se acceda a la pestaña de tiempo real, se generarán costes.
 
-<figure><img src="../../.gitbook/assets/image (588).png" alt=""><figcaption><p>Real Time Monitoring Detailed</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (588).png" alt=""><figcaption><p>Monitoreo en Tiempo Real</p></figcaption></figure>
 
-_**Example:** In this case, the requests for recent real-time events were relatively low but exceeded the 100,000 free events mark, resulting in a charge of $0.14._
+_**Ejemplo:** En este caso, las solicitudes de eventos recientes en tiempo real fueron relativamente bajas, pero superaron la marca de 100 000 eventos gratuitos, lo que dio lugar a un cargo de 0,14$._

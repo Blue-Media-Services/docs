@@ -1,64 +1,64 @@
 # Facturación de DMP
 
-The data management platform billing section details the costs related to this service, divided into up to 6 subsections, depending on the services you have consumed.
+La sección de facturación de la plataforma de gestión de datos detalla los costes relacionados con este servicio, divididos en hasta 6 subsecciones, dependiendo de los servicios que haya consumido.
 
-<figure><img src="../../.gitbook/assets/image (557).png" alt=""><figcaption><p>DMP Billing</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (557).png" alt=""><figcaption><p>Facturación DMP</p></figcaption></figure>
 
 {% hint style="info" %}
-At BMS, it prioritizes transparency by displaying every detail of your bill. Visit our [Billing Home](../billing.md) to understand how the bills are structured.
+En BMS, se prioriza la transparencia mostrando todos los detalles de su factura. Visite nuestro [Facturación](../billing.md) para comprender cómo están estructurados los proyectos de ley.
 {% endhint %}
 
-Below is an explanation of each of these sections with their respective details.
+A continuación se ofrece una explicación de cada una de estas secciones con sus respectivos detalles.
 
-### Cookie Pool Management
+### **Gestión de Cookie Pools**
 
-In this subsection, you can find information about the costs associated with the cookie pool management service. Deleting items does not incur charges, and for any service within this section, other than stored and configured cookie pools, there is a free quota of 1,000 requests. Once this quota is exceeded, a charge per request will apply. As for stored and configured cookies, charges will be based on the quantity of cookies stored and configured, as well as the duration of storage.
+En esta subsección, puede encontrar información sobre los costes asociados al servicio de gestión de cookie pools. La eliminación de elementos no genera cargos y, para cualquier servicio dentro de esta sección que no sea el almacenamiento y configuración de cookie pools, existe una cuota gratuita de 1,000 solicitudes. Una vez superada esta cuota, se aplicará un cargo por solicitud. En cuanto a las cookies almacenadas y configuradas, los cargos se basarán en la cantidad de cookies almacenadas y configuradas, así como en la duración del almacenamiento.
 
-<figure><img src="../../.gitbook/assets/image (559).png" alt=""><figcaption><p>Cookie Pool Management</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (559).png" alt=""><figcaption><p>Gestión de Cookie Pools</p></figcaption></figure>
 
-_**Example**: In this picture, you can see that nearly 9,000 cookie-hours were consumed. The charge is not shown as it is less than $0.01. Additionally, almost 825 cookie-pool-hours were consumed, resulting in a $0.86 bill. The free quota on the get cookie pool service was exceeded in 7,120 requests, resulting in a $0.07 bill. Since the other services did not exceed the free quota, no charge was applied to them, totaling a $0.93 bill._
+_**Ejemplo:** En esta imagen, puede ver que se consumieron casi 9,000 cookie-hours. El cargo no se muestra ya que es inferior a $0.01. Además, se consumieron casi 825 cookie-pool-hours, lo que resultó en una factura de $0.86. La cuota gratuita en el servicio de "get cookie pool" se excedió en 7,120 solicitudes, resultando en un cargo de $0.07. Dado que los otros servicios no superaron la cuota gratuita, no se aplicó ningún cargo a ellos, sumando un total de $0.93 en la factura._
 
-### Cookie Synchronization
+### **Sincronización de Cookies**
 
-This subsection provides details on the cost of the cookie synchronization service. This service is used whenever a cookie in your pool is synchronized with a cookie on the ad exchanges. There is no charge for deletions, and each service includes a free quota of 1,000 requests. Once the free quota is exceeded, a charge per request will be applied.
+Esta subsección proporciona detalles sobre el coste del servicio de sincronización de cookies. Este servicio se utiliza cada vez que una cookie en su pool se sincroniza con una cookie en los _ad exchanges_. No hay cargos por eliminaciones, y cada servicio incluye una cuota gratuita de 1,000 solicitudes. Una vez superada la cuota gratuita, se aplicará un cargo por solicitud.
 
-<figure><img src="../../.gitbook/assets/image (646).png" alt=""><figcaption><p>Cookie Synchronization</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (646).png" alt=""><figcaption><p>Sincronización de Cookies</p></figcaption></figure>
 
-_**Example**: As observed in this image, none of the listed services have exceeded the free quota, so no charges will be applied._
+_**Ejemplo:** Como se observa en esta imagen, ninguno de los servicios enumerados ha superado la cuota gratuita, por lo que no se aplicarán cargos._
 
-### Interest Group Management
+### **Gestión de Grupos de Interés**
 
-In this subsection, you will find the cost details for the interest group management service. Deletions are not charged, and there is a free quota of 1,000 requests for each service in this section, except for storage, which will incur charges based on the number of interest groups configured and the duration of storage.
+En esta subsección, encontrará los detalles de los costes del servicio de gestión de grupos de interés. Las eliminaciones no tienen cargo y existe una cuota gratuita de 1,000 solicitudes para cada servicio de esta sección, a excepción del almacenamiento, el cual generará cargos basados en el número de grupos de interés configurados y la duración del almacenamiento.
 
-<figure><img src="../../.gitbook/assets/image (648).png" alt=""><figcaption><p>Interest Group Management</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (648).png" alt=""><figcaption><p>Gestión de Grupos de Interés</p></figcaption></figure>
 
-_**Example**: As observed in this image, none of the listed services have exceeded the free quota, so no charges will be applied._
+_**Ejemplo:** Como se observa en esta imagen, ninguno de los servicios enumerados ha superado la cuota gratuita, por lo que no se aplicarán cargos._
 
-### Tracker Activity Query
+### **Consulta de Actividad del Rastreador**
 
-In this subsection, you will find the cost details related to the tracker activity query service. This service is used whenever you request data about your tracker's recent activities. There is a free quota of 1,000 requests for this service; after that, you will be charged per request.
+En esta subsección, encontrará los detalles de los costes relacionados con el servicio de consulta de actividad del rastreador. Este servicio se utiliza cada vez que solicita datos sobre las actividades recientes de su rastreador. Existe una cuota gratuita de 1,000 solicitudes para este servicio; después de eso, se le cobrará por cada solicitud.
 
-<figure><img src="../../.gitbook/assets/image (642).png" alt=""><figcaption><p>Tracker Activity Query</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (642).png" alt=""><figcaption><p>Consulta de Actividad del Rastreador</p></figcaption></figure>
 
-_**Example**: As you can see in this picture, the free quota was not exceeded, and therefore no charges will be applied._
+_**Ejemplo:** Como puede ver en esta imagen, no se ha superado la cuota gratuita, por lo que no se aplicarán cargos._
 
-### Tracker Activity Recorder
+### **Registro de Actividad del Rastreador**
 
-This subsection details the costs related to the tracker activity recorder service. This service monitors and records your tracker activity. There is a free quota of 1,000 requests for this service; after that, you will be billed per request.
+Esta subsección detalla los costes relacionados con el servicio de registro de actividad del rastreador. Este servicio monitorea y registra la actividad de su rastreador. Existe una cuota gratuita de 1,000 solicitudes para este servicio; después de eso, se le facturará por cada solicitud.
 
-<figure><img src="../../.gitbook/assets/image (563).png" alt=""><figcaption><p>Tracker Activity Recorder</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (563).png" alt=""><figcaption><p>Registro de Actividad del Rastreador</p></figcaption></figure>
 
-_**Example**: In this picture, you can notice that after surpassing the free quota of 1,000 requests, there were nearly 208,000 requests made, resulting in a $2.08 bill._
+_**Ejemplo:** En esta imagen, se puede observar que, tras superar la cuota gratuita de 1000 solicitudes, se realizaron casi 208 000 solicitudes, lo que dio lugar a una factura de 2,08 dólares._
 
-### Tracker Management
+### **Gestión de Rastreadores**
 
-This subsection provides information about the costs associated with the tracker management service. Except for storing configured trackers, all other services in this section come with a free quota of 1,000 requests. Once this quota is exceeded, a charge per request will apply. Deletions do not incur any charges.
+Esta subsección proporciona información sobre los costes asociados al servicio de gestión de rastreadores. A excepción del almacenamiento de rastreadores configurados, todos los demás servicios de esta sección cuentan con una cuota gratuita de 1,000 solicitudes. Una vez superada esta cuota, se aplicará un cargo por solicitud. Las eliminaciones no generan ningún cargo.
 
-<figure><img src="../../.gitbook/assets/image (650).png" alt=""><figcaption><p>Tracker Management</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (650).png" alt=""><figcaption><p>Gestión de Rastreadores</p></figcaption></figure>
 
-_**Example**: In this picture, you will notice that no charge was applied to the services that didn't exceed the free quota, also nearly 1,700 tracker-hours were consumed, resulting in a $0.23 bill._
+_**Ejemplo:** En esta imagen, observará que no se aplicó ningún cargo a los servicios que no superaron la cuota gratuita, además se consumieron casi 1700 horas de seguimiento, lo que dio como resultado una factura de 0,23 dólares._
 
 {% hint style="info" %}
-All products generate metrics once you start using them. These metrics are charged and are crucial for understanding your BMS platform usage and performance. The [Monitoring Tab](../monitoring/monitoring-billing.md#metric-monitoring) is responsible for these metrics and will display the related bill.\
-BMS is focused on transparency and will show you the costs for all features within each product.
+Todos los productos generan métricas una vez que comienza a utilizarlos. Estas métricas se cobran y son cruciales para comprender el uso y el rendimiento de su plataforma BMS. El [Facturación de Monitoreo](../monitoring/monitoring-billing.md#metric-monitoring) es responsable de estas métricas y mostrará la factura correspondiente.\
+BMS se centra en la transparencia y le mostrará los costes de todas las funciones de cada producto.
 {% endhint %}

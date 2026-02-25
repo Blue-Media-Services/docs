@@ -1,176 +1,176 @@
 # Creativos
 
-Creatives are the smallest building block of our Ad Server, representing what will be delivered to the end-user when your ad is displayed.
+Las creatividades son el componente más pequeño de nuestro servidor de anuncios y representan lo que se mostrará al usuario final cuando se muestre su anuncio.
 
-Display Creatives are essentially just blocks of HTML code. You can provide this code yourself or utilize our built-in editor to configure a simple creative that has a clickable image.
+Las creatividades de display son, básicamente, bloques de código HTML. Puede proporcionar este código usted mismo o usar nuestro editor integrado para configurar una creatividad sencilla con una imagen interactiva.
 
-## Managing Creatives
+## Gestión de Creativos
 
-<figure><img src="../../.gitbook/assets/image (239).png" alt=""><figcaption><p>Creative list</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (239).png" alt=""><figcaption><p>Lista creativa</p></figcaption></figure>
 
-## Creating a Creative
+## Creación de una Creatividad
 
-To start creating your creative, click on <img src="../../.gitbook/assets/image (556).png" alt="Create Creative" data-size="line">.
+Para comenzar a crear su creatividad, haga clic en <img src="../../.gitbook/assets/image (556).png" alt="Create Creative" data-size="line">.
 
-Fill in the details:
+Complete los detalles:
 
 <figure><img src="../../.gitbook/assets/image (542).png" alt=""><figcaption></figcaption></figure>
 
-* Name - how you want to call this creative;
-* Tags - up to 5 labels that can be used to aid identification and searching;
-* Domain - the primary domain to which this creative will direct the user when clicked;
-* Type - the type of creative, such as common IAB size like "Large Leaderboard (970x90)", "Banner (468x60)", etc.
+* Nombre - cómo desea llamar a esta creatividad;
+* Etiquetas - hasta 5 etiquetas que pueden usarse para facilitar la identificación y búsqueda;
+* Dominio - el dominio principal al que esta creatividad dirigirá al usuario al hacer clic;
+* Tipo - el tipo de creatividad, como tamaños comunes de IAB como "Large Leaderboard (970x90)", "Banner (468x60)", etc.
 
-After clicking on the drop-down menu available for selecting a creative type, you will have access to a list containing all types that can be used, these are the available types:
+Después de hacer clic en el menú desplegable disponible para seleccionar un tipo de creatividad, tendrá acceso a una lista que contiene todos los tipos que pueden usarse; estos son los tipos disponibles:
 
-<table data-header-hidden><thead><tr><th width="396"></th><th></th></tr></thead><tbody><tr><td>Super Leaderboard / Pushdown (970x90)</td><td>Medium Rectangle (300x250)</td></tr><tr><td>Leaderboard (728x90)</td><td>Large Rectangle (336x280)</td></tr><tr><td>Banner (468x60)</td><td>Small Square (200x200)</td></tr><tr><td>Smartphone Leaderboard (320x50)</td><td>Square (250x250)</td></tr><tr><td>Smartphone Banner (300x50)</td><td>Mobile Phone Interstitial (640x1136)</td></tr><tr><td>Feature Phone Small Banner (120x20)</td><td>Mobile Phone Interstitial (1080x1920)</td></tr><tr><td>Feature Phone Medium Banner (168x28)</td><td>Mobile Phone Interstitial (750x1334)</td></tr><tr><td>Feature Phone Large Banner (216x36)</td><td>Half-Page (300x600)</td></tr><tr><td>Billboard (970x250)</td><td>Portrait (300x1050)</td></tr><tr><td>Smartphone Large Leaderboard (320x100)</td><td>Wide Skyscraper (160x600)</td></tr><tr><td>Financial (120x60)</td><td>Skyscraper (120x600)</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="408.2222900390625">Texto</th><th>Texto</th></tr></thead><tbody><tr><td>Super Leaderboard / Pushdown (970x90)</td><td>Rectángulo medio (300x250)</td></tr><tr><td>Leaderboard (728x90)</td><td>Rectángulo grande (336x280)</td></tr><tr><td>Banner (468x60)</td><td>Cuadrado pequeño (200x200)</td></tr><tr><td>Leaderboard para smartphone (320x50)</td><td>Cuadrado (250x250)</td></tr><tr><td>Banner para smartphone (300x50)</td><td>Intersticial para móvil (640x1136)</td></tr><tr><td>Banner pequeño para teléfonos básicos (120x20)</td><td>Intersticial para móvil (1080x1920)</td></tr><tr><td>Banner mediano para teléfonos básicos (168x28)</td><td>Intersticial para móvil (750x1334)</td></tr><tr><td>Banner grande para teléfonos básicos (216x36)</td><td>Media página (300x600)</td></tr><tr><td>Billboard (970x250)</td><td>Retrato (300x1050)</td></tr><tr><td>Leaderboard grande para smartphone (320x100)</td><td>Rascacielos ancho (160x600)</td></tr><tr><td>Financiero (120x60)</td><td>Rascacielos (120x600)</td></tr></tbody></table>
 
-To design your creative, you have two options:
+Para diseñar su creatividad, tiene dos opciones:
 
-### Static Image
+### Imagen Estática
 
-* To use a simple image with a link, on the "Static Image" tab, fill in:
-  * The image you wish to display. You can either paste a URL for an image you are already hosting or use the integration with the BMS Media Library to find or upload a new one.
-    * Note: The BMS Media Library supports uploads of static images or GIFs as long as the file size is 2 MB or less.
-  * The link you wish to open when the image is clicked. This can be any HTTPS URL with query strings such as UTMs. Our standard click tracker will be added to show metrics for the creative.
+* Para utilizar una imagen sencilla con un enlace, en la pestaña "Imagen Estática", complete lo siguiente:
+  * La imagen que desea mostrar. Puede pegar la URL de una imagen que ya tenga alojada o utilizar la integración con la BMS Media Library para buscar o subir una nueva.
+    * Nota: La BMS Media Library permite subir imágenes estáticas o GIFs, siempre que el tamaño del archivo sea de 2 MB o menos.
+  * El enlace que desea abrir cuando se haga clic en la imagen. Puede ser cualquier URL HTTPS con cadenas de consulta (query strings) como las UTM. Se añadirá nuestro rastreador de clics estándar para mostrar las métricas de la creatividad.
 
-### Editing UTMs
+### Edición de UTMs
 
-When inserting the link to the website designated for your creative, it is important to set your UTM tags. If you do not have your tags pre-created, you can use the <img src="../../.gitbook/assets/image (543).png" alt="Edit UTMs" data-size="line"> feature to make adjustments to your URL and check a preview in real time to validate your URL. This button can be found in the space named "Link to." After clicking the button, the UTM tag configuration screen will pop up.
+Al insertar el enlace al sitio web designado para su creatividad, es importante configurar sus etiquetas UTM. Si no tiene sus etiquetas creadas previamente, puede utilizar <img src="../../.gitbook/assets/image (543).png" alt="Edit UTMs" data-size="line"> para realizar ajustes en su URL y ver una vista previa en tiempo real para validar su dirección. Este botón se encuentra en el espacio denominado "Enlace a". Tras hacer clic en el botón, aparecerá la pantalla de configuración de etiquetas UTM.
 
-<figure><img src="../../.gitbook/assets/image (591).png" alt=""><figcaption><p>UTM Editor</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (591).png" alt=""><figcaption><p>Editor de UTM</p></figcaption></figure>
 
-You will be presented with your current website URL and then each UTM tag and its explanation to help you complete them.
-
-{% hint style="warning" %}
-If no URL has been informed, you will **need** to insert the corresponding **URL** to your website's domain, if no URL is presented it will not be possible to configure your UTM's.
-{% endhint %}
-
-When editing UTMs, every time you change a tag, it will automatically update your Link URL, presenting you with the current version of your tags.
-
-*   **UTM Source:** Identifies the source of the traffic. In this case, you would use "BMS" as your source.
-
-    * **Example - "BMS"**: To know that the creative has come from the BMS platform.
-
-    **Note:** You can add any kind of source to your UTM, it is up to you to decide with one is better.
-* **UTM Medium:** You can use a campaign medium to identify the medium a visitor found your URL on, such as social media, QR code, cost-per-click (CPC), affiliates, organic/paid ads, newsletters, etc.
-  * **Example - "Social":** Since the campaign will target social media, we can set the medium as Social.
-* **UTM Campaign:** As the name suggests, it is used to give a name to your campaign, like "Black Friday Sale," "Thanksgiving Sale," "Launch Campaign," etc.
-  * **Example - "YourCampaign":** Here you can simply state the name of your campaign, to better identify the campaign that the creative is being used.
-* **UTM Content:** Campaign content is useful when you are A/B testing ads. It differentiates identical links that direct to the same URL. For example, when you have two links in one email, this parameter distinguishes between them.
-  * **Example - "HomePage":** The content that the user will be presented to, if we are running A/B Tests on different pages, this is a way of configuring the content UTM Tag.
-* **UTM Term:** Identifies paid keywords in ad campaigns (mainly used for paid search campaigns).
-  * **Example - "Sport Shoes":** This identifies the paid search campaign in which the keywords used for the paid search were Sport Shoes.
-
-Once you configure all of your UTM Tags, hit the <img src="../../.gitbook/assets/image (546).png" alt="Save" data-size="line"> button, and your tags will be configured accordingly.
-
-<figure><img src="../../.gitbook/assets/image (547).png" alt=""><figcaption><p>UTM Tags Configured</p></figcaption></figure>
-
-### Paste HTML
-
-To use a fully customized creative, switch to the "Paste HTML" tab and insert the final HTML code that will be displayed when the user views your creative.
+Se le presentará la URL actual de su sitio web y, a continuación, cada etiqueta UTM con su explicación para ayudarle a completarlas.
 
 {% hint style="warning" %}
-Caution! You will be presented with some macros later in this section. You must use them to enable BMS click tracking in your ads; otherwise, clicks **will not be tracked**.
+Si no se ha informado ninguna URL, **deberá** insertar la **URL** correspondiente al dominio de su sitio web; si no se presenta ninguna URL, no será posible configurar sus UTM.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (795).png" alt=""><figcaption><p>HTML Customization Example</p></figcaption></figure>
+Al editar las UTM, cada vez que cambie una etiqueta, se actualizará automáticamente la URL de su enlace, mostrándole la versión actual de sus etiquetas.
 
-This can be anything and it is entirely up to you to produce a working creative with HTML, CSS, and Javascript.
+*   **UTM Fuente:** Identifica la fuente del tráfico. En este caso, usaría "BMS" como su fuente.
 
-When you provide the HTML code, our click tracker won't be automatically added. You can copy the click tracker macro (or any other macro you wish) from the bottom template assist buttons and paste it into your HTML. For more information, please take a look at the [Macros section](creatives.md#macros).
+    * **Ejemplo - "BMS":** Para saber que la creatividad proviene de la plataforma BMS.
 
-You can use the <img src="../../.gitbook/assets/preview.png" alt="Preview" data-size="line"> button to see how your creative will be displayed and to make sure that it directs users to the correct site when clicked.
+    **Nota:** Puede añadir cualquier tipo de fuente a su UTM; depende de usted decidir cuál es mejor.
+* **UTM Medio:** Puede utilizar un medio de campaña para identificar el medio en el que un visitante encontró su URL, como redes sociales, código QR, coste por clic (CPC), afiliados, anuncios orgánicos/pagados, boletines informativos, etc.
+  * **Ejemplo - "Social":** Dado que la campaña se dirigirá a redes sociales, podemos establecer el medio como Social.
+* **UTM Campaña:** Como su nombre indica, se utiliza para dar un nombre a su campaña, como "Rebajas de Black Friday", "Rebajas de Acción de Gracias", "Campaña de Lanzamiento", etc.
+  * **Ejemplo - "SuCampaña":** Aquí puede indicar simplemente el nombre de su campaña para identificar mejor la campaña en la que se está utilizando la creatividad.
+* **UTM Contenido:** El contenido de la campaña es útil cuando se realizan pruebas A/B de anuncios. Diferencia enlaces idénticos que dirigen a la misma URL. Por ejemplo, cuando tiene dos enlaces en un mismo correo electrónico, este parámetro distingue entre ellos.
+  * **Ejemplo - "PaginaDeInicio":** El contenido que se le presentará al usuario; si estamos realizando pruebas A/B en diferentes páginas, esta es una forma de configurar la etiqueta UTM de contenido.
+* **UTM Término:** Identifica palabras clave de pago en campañas de anuncios (se utiliza principalmente para campañas de búsqueda de pago).
+  * **Ejemplo - "Zapatos Deportivos":** Esto identifica la campaña de búsqueda de pago en la que las palabras clave utilizadas fueron Zapatos Deportivos.
 
-If you are ready to send the creative for review, ensure that the "Send for review" option is checked. If you wish to continue editing it later, leave it unchecked.
+Una vez que configure todas sus etiquetas UTM, pulse el <img src="../../.gitbook/assets/image (546).png" alt="Save" data-size="line"> bot botón, y sus etiquetas se configurarán en consecuencia.
 
-After making all necessary adjustments, click on ![Save](<../../.gitbook/assets/image (555).png>).
+<figure><img src="../../.gitbook/assets/image (547).png" alt=""><figcaption><p>Etiquetas UTM configuradas</p></figcaption></figure>
+
+### Pegar HTM
+
+Para utilizar una creatividad totalmente personalizada, cambie a la pestaña "Pegar HTML" e inserte el código HTML final que se mostrará cuando el usuario vea su creatividad.
+
+{% hint style="warning" %}
+¡Cuidado! Se le presentarán algunas macros más adelante en esta sección. Debe utilizarlas para habilitar el seguimiento de clics de BMS en sus anuncios; de lo contrario, **no se realizará el seguimiento de los clics.**
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (795).png" alt=""><figcaption><p>Ejemplo de personalización de HTML</p></figcaption></figure>
+
+Esto puede ser cualquier cosa y depende totalmente de usted producir una creatividad funcional con HTML, CSS y Javascript.
+
+Cuando proporciona el código HTML, nuestro rastreador de clics no se añadirá automáticamente. Puede copiar la macro del rastreador de clics (o cualquier otra macro que desee) desde los botones de asistencia de plantilla en la parte inferior y pegarla en su HTML. Para obtener más información, por favor eche un vistazo a la [Sección de Macros](creatives.md#macros).
+
+Puede utilizar la <img src="../../.gitbook/assets/preview.png" alt="Preview" data-size="line"> botón para ver cómo se mostrará su creatividad y para asegurarse de que dirija a los usuarios al sitio correcto al hacer clic.
+
+Si está listo para enviar la creatividad a revisión, asegúrese de que la opción "Enviar para revisión" esté marcada. Si desea seguir editándola más tarde, déjela desmarcada.
+
+Después de realizar todos los ajustes necesarios, haga clic en ![Save](<../../.gitbook/assets/image (555).png>).
 
 #### Macros
 
-Our Ad Server provides several macros that can be used within your HTML code, they can be found at the bottom of the Paste HTML tab.
+Nuestro servidor de anuncios proporciona varias macros que pueden utilizarse dentro de su código HTML; estas se encuentran en la parte inferior de la pestaña Pegar HTML.
 
-<figure><img src="../../.gitbook/assets/image (796).png" alt=""><figcaption><p>Available Macros Section</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (796).png" alt=""><figcaption><p>Sección de Macros Disponibles</p></figcaption></figure>
 
-Some of them are:
+Algunas de ellas son:
 
-* **BMS Click Trackers** - These macros will enable BMS to track clicks on your ads. If you don't install any of these, no click event or metric will be registered.
-  * **Unescaped Click URL**\
-    This is the most used version. It must be installed at the very beginning of the link, before any other tracker, and before the final URL itself.
-  * **Escaped Click URL**\
-    This version is similar to the previous but it should only be used if you wish to have an external click tracker that does not support unescaped URLs.
-  * **Double-escaped Click URL**\
-    This version is similar to the previous two, but it should only be used if you wish to have a click tracker chain of two or more where the external click trackers do not support unescaped URLs.
+* **Rastreadores de clics de BMS** - Estas macros permitirán que BMS rastree los clics en sus anuncios. Si no instala ninguna de estas, no se registrará ningún evento de clic ni métrica.
+  * **URL de clic sin escape** \
+    Esta es la versión más utilizada. Debe instalarse al principio del enlace, antes de cualquier otro rastreador y antes de la propia URL final.
+  * **URL de clic con escape** \
+    Esta versión es similar a la anterior, pero solo debe usarse si desea tener un rastreador de clics externo que no admita URLs sin escape.
+  * **URL de clic con doble escape** \
+    Esta versión es similar a las dos anteriores, pero solo debe usarse si desea tener una cadena de dos o más rastreadores de clics donde los rastreadores externos no admitan URLs sin escape.
   * **Cache Buster**\
-    This macro will inject a random sequence of numbers and is most commonly used to ensure that the requests will not be cached.
+    Esta macro inyectará una secuencia aleatoria de números y se utiliza comúnmente para garantizar que las solicitudes no se almacenen en la caché.
 
-### Creative Review
+### Revisión de la Creatividad
 
-Upon finishing your creative's creation, your creative will be sent to review in order to identify if the creative is inappropriate. Below you can find some statuses that can be displayed for your creative.
+Al finalizar la creación de su creatividad, esta se enviará a revisión para identificar si es inapropiada. A continuación, puede encontrar algunos de los estados que pueden mostrarse para su creatividad:
 
-* **Queued:** The creative is in the review queue.
-* **In-Progress:** The platform is still reviewing the creative.
-* **Approved:** The creative has been approved without any restrictions.
-* **Partially-Approved:** The creative has been approved with restrictions (specific regions or platforms).
-* **Rejected:** The creative has been rejected and can not be used.
-* **Revoked:** The creative was previously approved but has been revoked.
-* **Skipped:** The review process was skipped and not executed.
+* **En cola:** La creatividad se encuentra en la cola de revisión.
+* **En progreso:** La plataforma aún está revisando la creatividad.
+* **Aprobada:** La creatividad ha sido aprobada sin ninguna restricción.
+* **Parcialmente aprobada:** La creatividad ha sido aprobada con restricciones (regiones o plataformas específicas).
+* **Rechazada:** La creatividad ha sido rechazada y no puede utilizarse.
+* **Revocada:** La creatividad fue aprobada previamente, pero ha sido revocada.
+* **Omitida:** El proceso de revisión fue omitido y no se ejecutó.
 
-If you have any questions for the result of your creative review status, contact our support team.
+Si tiene alguna pregunta sobre el resultado del estado de revisión de su creatividad, póngase en contacto con nuestro equipo de soporte.
 
-### Editing a Creative
+### Edición de una Creatividad
 
-To edit a creative use the <img src="../../.gitbook/assets/edit.png" alt="Edit" data-size="line"> button on the corresponding creative. All fields are available for editing except the domain and type selectors.
+Para editar una creatividad, utilice el <img src="../../.gitbook/assets/edit.png" alt="Edit" data-size="line"> botón en la creatividad correspondiente. Todos los campos están disponibles para edición, excepto los selectores de dominio y de tipo.
 
-<figure><img src="../../.gitbook/assets/image (548).png" alt=""><figcaption><p>Editing a Creative</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (548).png" alt=""><figcaption><p>Edición de una creatividad</p></figcaption></figure>
 
-If you modify the image URL, link or the HTML code the creative will go back to the <img src="../../.gitbook/assets/draft status.png" alt="Draft" data-size="line"> status, and you will need to send the creative for review again. While in draft, the creative will not be shown on any campaigns.
+Si modifica la URL de la imagen, el enlace o el código HTML, la creatividad volverá al <img src="../../.gitbook/assets/draft status.png" alt="Draft" data-size="line"> estado, y deberá enviar la creatividad a revisión nuevamente. Mientras esté en borrador, la creatividad no se mostrará en ninguna campaña.
 
-Once you have made all necessary changes to your creative, click on ![Save](<../../.gitbook/assets/image (555).png>).
+Una vez que haya realizado todos los cambios necesarios en su creatividad, haga clic en ![Save](<../../.gitbook/assets/image (555).png>).
 
-### Enabling and Disabling a Creative
+### Habilitar y deshabilitar una creatividad
 
 ![](<../../.gitbook/assets/image (154).png>)
 
-In order to be displayed in a campaign, a creative must be enabled. If you wish to prevent a creative from being displayed, you can disable it, and it will immediately cease impressions.
+Para que se muestre en una campaña, una creatividad debe estar habilitada. Si desea evitar que se muestre una creatividad, puede deshabilitarla y dejará de generar impresiones inmediatamente.
 
-### Archiving and Unarchiving a Creative
+### Archivar y desarchivar una creatividad
 
-Creatives that are not being used frequently can be archived by clicking on the <img src="../../.gitbook/assets/archive.png" alt="Archive" data-size="line"> button. Archiving a creative does not prevent it from being used or displayed; it simply hides it from the main view.
+Las creatividades que no se utilicen con frecuencia pueden archivarse haciendo clic en el <img src="../../.gitbook/assets/archive.png" alt="Archive" data-size="line"> botón. Archivar una creatividad no impide que sea utilizada o mostrada; simplemente la oculta de la vista principal.
 
-To view all archived creatives, simply turn on the <img src="../../.gitbook/assets/archive filter.png" alt="Archived" data-size="line"> filter. You can unarchive <img src="../../.gitbook/assets/unarchive.png" alt="Unarchive" data-size="line"> a creative to return it to the main list.
+Para ver todas las creatividades archivadas, simplemente active el <img src="../../.gitbook/assets/archive filter.png" alt="Archived" data-size="line"> filtro. Puede desarchivar <img src="../../.gitbook/assets/unarchive.png" alt="Unarchive" data-size="line"> una creatividad para devolverla a la lista principal.
 
-### Deleting a Creative
+### Eliminar una creatividad
 
-You can delete a creative by clicking on <img src="../../.gitbook/assets/delete.png" alt="Delete" data-size="line">. If the creative is being used, you will be presented with a list of creative groups that will be affected. If you confirm the deletion, the creative groups will be modified to remove the deleted creative from the rotation.
+Puede eliminar una creatividad haciendo clic en <img src="../../.gitbook/assets/delete.png" alt="Delete" data-size="line">. Si la creatividad se está utilizando, se le presentará una lista de los grupos de creatividades que se verán afectados. Si confirma la eliminación, los grupos de creatividades se modificarán para eliminar la creatividad borrada de la rotación.
 
-<figure><img src="../../.gitbook/assets/image (241).png" alt=""><figcaption><p>Delete confirmation screen showing that the creative is being used.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (241).png" alt=""><figcaption><p>Pantalla de confirmación de eliminación que muestra que la creatividad se está utilizando.</p></figcaption></figure>
 
 {% hint style="danger" %}
-Attention! If you delete a creative, all data related to that creative, including previously collected metrics, will also be deleted, this action cannot be undone.
+¡Atención! Si elimina una creatividad, todos los datos relacionados con esa creatividad, incluidas las métricas recopiladas anteriormente, también se eliminarán; esta acción no se puede deshacer.
 {% endhint %}
 
-## Monitoring Creatives
+## Monitoreo de creatividades
 
-### Metrics Tab
+### Pestaña de métricas
 
-The metrics tab will display all metrics related to the selected creatives or for the whole account if no creatives are selected. Find below all metrics available for your creatives.
+La pestaña de métricas mostrará todas las métricas relacionadas con las creatividades seleccionadas o para toda la cuenta si no hay creatividades seleccionadas. A continuación, encontrará todas las métricas disponibles para sus creatividades.
 
-* [Deliveries](ad-server-metrics.md#deliveries-and-delivery-rate)
-* [Displays & Display Rate](ad-server-metrics.md#displays-and-display-rate)
-* [Views](ad-server-metrics.md#views)
-* [Viewability](ad-server-metrics.md#viewability)
-* [Clicks and CTR](ad-server-metrics.md#clicks-and-ctr)
-* [Click to Page Load Rate](ad-server-metrics.md#click-to-page-load-rate)
-* [Time to Display](ad-server-metrics.md#time-to-display)
-* [Time to View](ad-server-metrics.md#time-to-view)
-* [Time to Click](ad-server-metrics.md#time-to-click)
-* [Time to Page Load](ad-server-metrics.md#time-to-page-load)
-* [Page Loads](ad-server-metrics.md#page-loads)
-* [Page Load Rate](ad-server-metrics.md#page-load-rate)
+* [Entregas](ad-server-metrics.md#deliveries-and-delivery-rate)
+* [Impresiones y Tasa de Impresión](ad-server-metrics.md#displays-and-display-rate)
+* [Visualizaciones](ad-server-metrics.md#views)
+* [Visibilidad](ad-server-metrics.md#viewability)
+* [Clics y CTR](ad-server-metrics.md#clicks-and-ctr)
+* [Tasa de Clic a Carga de Página](ad-server-metrics.md#click-to-page-load-rate)
+* [Tiempo hasta la Impresión](ad-server-metrics.md#time-to-display)
+* [Tiempo hasta la Visualización](ad-server-metrics.md#time-to-view)
+* [Tiempo hasta el Clic](ad-server-metrics.md#time-to-click)
+* [Tiempo hasta la Carga de Página](ad-server-metrics.md#time-to-page-load)
+* [Cargas de Página](ad-server-metrics.md#page-loads)
+* [Tasa de Carga de Página](ad-server-metrics.md#page-load-rate)
 
-### Real Time Tab
+### Pestaña de Tiempo Real
 
-The real time tab will display real time events related to the selected creative.
+La pestaña de tiempo real mostrará eventos en tiempo real relacionados con la creatividad seleccionada.&#x20;
 
-Learn more about the [Real Time tab](../demand-side-platform-dsp/real-time-tab.md).
+Obtenga más información sobre la [Pestaña de Tiempo Real](../demand-side-platform-dsp/real-time-tab.md).

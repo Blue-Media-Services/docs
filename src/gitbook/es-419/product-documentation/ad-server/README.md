@@ -1,35 +1,35 @@
 # Ad Server
 
-## Concepts
+## Conceptos
 
 ### Creativos
 
-This is the smallest building block of our ad server. A creative represents the code that will be delivered to the end user when your ad is displayed.
+Es la unidad básica de nuestro servidor de anuncios. Un creativo representa el código que se entregará al usuario final cuando se muestre su anuncio.&#x20;
 
-You can provide the HTML code yourself or the platform can generate the HTML code for you if you give an image and link URL.
+Puede proporcionar el código HTML usted mismo o la plataforma puede generarlo por usted si proporciona una imagen y una URL de enlace.&#x20;
 
-Creatives can be in one of 3 states: draft, in review, and approved. Any modification to a creative's content will put it in a draft where it won't be served to users. You can submit any changes for review and if everything is in accordance with our policies, the creative will be approved.
+Los creativos pueden estar en uno de 3 estados: borrador, en revisión y aprobado. Cualquier modificación al contenido de un creativo lo pondrá en estado de borrador y no se mostrará a los usuarios. Puede enviar cualquier cambio para revisión y, si todo cumple con nuestras políticas, el creativo será aprobado.
 
-### Creative groups
+### Grupos Creativos
 
-Creative groups, as the name suggests, allow you to group several creatives while applying different weights to each.
+Los grupos de creativos, como su nombre indica, le permiten agrupar varios creativos aplicando diferentes pesos a cada uno.&#x20;
 
-This is most useful when running A/B tests with any number of creatives to measure which performs better.
+Esto es muy útil al realizar pruebas A/B con cualquier número de creativos para medir cuál funciona mejor.
 
-### Ads
+### Anuncios
 
-Ads are what the end user's browser requests from our Ad Server. They are composed of one or more rules where each rule specify a set of conditions that once met will direct the user to a particular creative group.
+Los anuncios son lo que el navegador del usuario final solicita a nuestro servidor de anuncios. Están compuestos por una o más reglas, donde cada regla especifica un conjunto de condiciones que, una vez cumplidas, dirigirán al usuario a un grupo de creativos en particular.&#x20;
 
-When the end user's browser makes the ad request, the creative group associated with the first rule that matches will be delivered. At this time, one of the creatives configured on the group will be randomly selected by weight and then delivered.
+Cuando el navegador del usuario realiza la solicitud del anuncio, se entregará el grupo de creativos asociado a la primera regla que coincida. En ese momento, uno de los creativos configurados en el grupo se seleccionará aleatoriamente por peso y se entregará.
 
-### Creative Builder
+### Constructor de Creativos
 
-To simplify the creation of standardized creatives you can use Blueprints and Builds. These features can also be used to generate dynamic banners containing your products.
+Para simplificar la creación de creativos estandarizados, puede utilizar Blueprints y Builds. Estas funciones también se pueden usar para generar banners dinámicos que contengan sus productos.
 
 #### Blueprints
 
-Blueprints define a base HTML code that can be dynamically generated based on user input. The parameters required for the generation can also be customized.
+Los Blueprints definen un código HTML base que puede generarse dinámicamente según la entrada del usuario. Los parámetros requeridos para la generación también se pueden personalizar.
 
 #### Builds
 
-When you have a blueprint ready and wish to create creatives from it, you create a build. A build will record what creative sizes you want, the blueprint used, and all parameters. Once created, the build will generate all the creatives for you. You can at any moment alter any parameter and the creatives will be updated to reflect the change.
+Cuando tenga un blueprint listo y desee crear creativos a partir de él, crea un build. Un build registrará los tamaños de creativos que desea, el blueprint utilizado y todos los parámetros. Una vez creado, el build generará todos los creativos por usted. Puede alterar cualquier parámetro en cualquier momento y los creativos se actualizarán para reflejar el cambio.

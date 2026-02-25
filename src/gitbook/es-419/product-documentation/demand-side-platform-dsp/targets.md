@@ -1,153 +1,153 @@
 # Gestión de Objetivos
 
-After creating a Campaign, you will be required to set one Target at least to run the campaign, targets are basically which kind of public you want your campaign to be displayed to, our targets work using **AND** rules not **OR**, so whenever you include a target, you will be restricting your campaign even more to your desired public.
+Después de crear una campaña, se le pedirá que establezca al menos un objetivo para ejecutarla. Los objetivos son básicamente el tipo de público al que desea que se muestre su campaña. Nuestros objetivos funcionan utilizando reglas Y, no O, por lo que cada vez que incluya un objetivo, restringirá aún más su campaña al público deseado.
 
-If you set your campaign with broader targets, your budget will be spent more rapidly, since you will be receiving bid requests from a large range of publishers.
+Si configura su campaña con objetivos más amplios, su presupuesto se gastará más rápidamente, ya que recibirá solicitudes de puja de una gran variedad de editores.
 
-## Pre-Targets
+## Preobjetivos
 
-These are the targets that will work as the first filter (Location, Cookie Pools, Exchange) and will exclude other possibilities.
+Estos son los objetivos que funcionarán como primer filtro (Ubicación, Cookie Pools, Exchange) y excluirán otras posibilidades.
 
-Example: If your objective is to target a specific audience from a Cookie Pool, your ads will only be shown to those users inside the Cookie Pool, disregarding other users.
+Ejemplo: si su objetivo es dirigirse a un público específico de un Cookie Pool, sus anuncios solo se mostrarán a los usuarios que formen parte de ese Pool, sin tener en cuenta a los demás usuarios.
 
-## Targets
+## Objetivos
 
-You can choose who to show ads to based on where these users are located by either specifying the country and region or by adding geofences around specific addresses.
+Puedes elegir a quién mostrar anuncios en función de la ubicación de estos usuarios, ya sea especificando el país y la región o añadiendo geovallas alrededor de direcciones específicas.
 
-### **Location**
+### Ubicación
 
-<figure><img src="../../.gitbook/assets/image (738).png" alt=""><figcaption><p>Location Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (738).png" alt=""><figcaption><p>Pestaña Ubicación</p></figcaption></figure>
 
-* Geographies - By selecting specific countries or regions, your ads will only appear to users accessing from those geographic locations.
-* Geo-fences - By selecting specific countries or regions, your ads will only appear to users accessing from those geographic locations.
+* Geografías - al seleccionar países o regiones específicos, sus anuncios solo se mostrarán a los usuarios que accedan desde esas ubicaciones geográficas.
+* Geo-fences - al seleccionar países o regiones específicos, sus anuncios solo se mostrarán a los usuarios que accedan desde esas ubicaciones geográficas.
 
-### **Contents - Only Websites**
+### **Contenido - Solo sitios Web**
 
-By selecting this target option, your content target will direct your ads only to websites, meaning only website users will receive your ads based on the following content options.
+Al seleccionar esta opción de segmentación, su segmentación por contenido dirigirá sus anuncios solo a sitios web, lo que significa que solo los usuarios de sitios web recibirán sus anuncios en función de las siguientes opciones de contenido.
 
-<figure><img src="../../.gitbook/assets/image (97) (1).png" alt=""><figcaption><p>Contents - Only Websites</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (97) (1).png" alt=""><figcaption><p>Contenido - Solo sitios Web</p></figcaption></figure>
 
-* Languages - By including a particular language, your ads will only appear on websites in that language.
-* Categories - By including specific categories, your ads will only appear on websites featuring content in those categories.
-* Daily Impressions - Define the minimum number of daily impressions a website must receive to display your ads, ensuring they appear only on sites that meet the required traffic threshold.
-* Domains - By including specific domains, your ads will only appear on those specified websites.
-* URL Keywords - By defining URL keywords, you can refine where your ads appear based on the URL's content.
+* Idiomas - Al incluir un idioma concreto, sus anuncios solo aparecerán en sitios web en ese idioma.
+* Categorías - Al incluir categorías específicas, sus anuncios solo aparecerán en sitios web con contenido de esas categorías.
+* Impresiones diarias - Defina el número mínimo de impresiones diarias que debe recibir un sitio web para mostrar sus anuncios, asegurándose de que solo aparezcan en sitios que cumplan con el umbral de tráfico requerido.
+* Dominios - Al incluir dominios específicos, sus anuncios solo aparecerán en los sitios web especificados.
+* Palabras clave de URL - Al definir palabras clave de URL, puede refinar dónde aparecen sus anuncios en función del contenido de la URL.&#x20;
 
-### **Contents - Only Apps**
+### **Contenido - Solo aplicaciones**
 
-By selecting this target option, your content target will deliver your ads only to apps, meaning that only app users will receive your ads based on the apps' selection.
+Al seleccionar esta opción de segmentación, su segmentación por contenido mostrará sus anuncios solo en aplicaciones, lo que significa que solo los usuarios de aplicaciones recibirán sus anuncios en función de la selección de aplicaciones.
 
-<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption><p>Contents - Only Apps</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption><p>Contenido - Solo aplicaciones</p></figcaption></figure>
 
-* Apps - By including specific apps, your ads will only appear on those specified apps. Alternatively, excluding certain apps ensures your ads will not be shown on those apps but will remain available on all others. If no app preferences are set, your ads can be displayed on any app, maximizing reach.
+* Aplicaciones - Al incluir aplicaciones específicas, tus anuncios solo aparecerán en esas aplicaciones concretas. Por otro lado, al excluir determinadas aplicaciones, te aseguras de que tus anuncios no se muestren en ellas, pero seguirán estando disponibles en todas las demás. Si no se establece ninguna preferencia de aplicaciones, tus anuncios se pueden mostrar en cualquier aplicación, lo que maximiza el alcance.&#x20;
 
 {% hint style="info" %}
-Please note that we can only display your ads on apps that are connected to one of the Ad Exchanges that we support.
+Ten en cuenta que solo podemos mostrar tus anuncios en aplicaciones que estén conectadas a uno de los Ad Exchanges que admitimos.
 {% endhint %}
 
-### **Contents - Apps and Websites**
+### **Contenido - Aplicaciones y sitios Web**
 
-By selecting this target option, your content target will deliver your ads to users across both websites and apps. No further segmentation options are available on this tab when this option is selected.
+Al seleccionar esta opción de segmentación, su segmentación por contenido mostrará sus anuncios a los usuarios tanto en sitios web como en aplicaciones. Cuando se selecciona esta opción, no hay más opciones de segmentación disponibles en esta pestaña.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Contents - Apps and Websites</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Contenido - Aplicaciones y sitios Web</p></figcaption></figure>
 
-* The campaign will target users across both websites and apps, ensuring broad reach. Segmentation options are not available, meaning the campaign will be delivered to all websites and apps without audience filtering. If you wish to specify your targeting, please select either websites only or apps only.
+* La campaña se dirigirá a los usuarios tanto de sitios web como de aplicaciones, lo que garantizará un amplio alcance. No hay opciones de segmentación disponibles, lo que significa que la campaña se mostrará en todos los sitios web y aplicaciones sin filtrar la audiencia. Si desea especificar su segmentación, seleccione solo sitios web o solo aplicaciones.
 
-### **Device**
+### **Dispositivo**
 
 <figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
-* Operating Systems - By selecting specific operating systems, your ads will be displayed to users navigating the web on those systems.
-* Browsers - By selecting specific browsers, your ads will be displayed to users navigating the web through those browsers.
-* Device Types - By selecting specific device types, your ads will be displayed to users navigating the web on those devices.
-* Cookie Pools - By selecting specific cookie pools, your ads will target only the users who have been added to those selected pools.
-* Identifier Pools - By selecting specific identifier pools, your ads will target only the users who have been added to those selected pools.
+* Sistemas operativos - Al seleccionar sistemas operativos específicos, sus anuncios se mostrarán a los usuarios que naveguen por la web en esos sistemas.
+* Navegadores - Al seleccionar navegadores específicos, sus anuncios se mostrarán a los usuarios que naveguen por la web a través de esos navegadores.
+* Tipos de dispositivos - Al seleccionar tipos de dispositivos específicos, sus anuncios se mostrarán a los usuarios que naveguen por la web en esos dispositivos.
+* Cookie Pools - Al seleccionar Cookie Pools específicos, sus anuncios se dirigirán solo a los usuarios que se hayan añadido a esos Pools seleccionados.
+* Identifier Pools - Al seleccionar Identifier Pools específicos, sus anuncios se dirigirán solo a los usuarios que se hayan añadido a esos Pools seleccionados.&#x20;
 
-### **Inventory**
+### **Inventario**
 
-<figure><img src="../../.gitbook/assets/image (839).png" alt=""><figcaption><p>Inventory Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (839).png" alt=""><figcaption><p>Pestaña Inventario</p></figcaption></figure>
 
-* Exchange - By selecting specific ad exchanges, your ads will be displayed through those platforms.
-* Position - Select specific inventory positions to strategically place your ads for optimal visibility and engagement.
-* Viewability - Adjust the slider to set the minimum viewability threshold for ad slots. Your ads will only be matched with inventory positions where the viewability percentage is higher than the selected threshold. This allows for precise control over ad placement, ensuring your ads are only displayed in slots with a visibility level that meets or exceeds your criteria for optimal engagement and impact.
-* Click-through rate (CTR) - Adjust the slider to set the minimum Click-Through Rate threshold for ad slots. Your ads will only be matched with inventory where the CTR is higher than the selected threshold. This allows for precise control over ad placement, ensuring your ads are displayed in slots with the CTR level that meets or exceeds your criteria for optimal engagement and impact, the information used for this feature is BMS's database according to all campaigns that are running and collecting data, this feature works for all exchange's inventories.
+* Exchange - Al seleccionar Ad Exchanges específicos, sus anuncios se mostrarán a través de esas plataformas.
+* Posición - Seleccione posiciones específicas en el inventario para colocar estratégicamente sus anuncios y obtener una visibilidad y un compromiso óptimos.
+* Visibilidad - Ajuste el control deslizante para establecer el umbral mínimo de visibilidad para los espacios publicitarios. Sus anuncios solo se emparejarán con posiciones de inventario en las que el porcentaje de visibilidad sea superior al umbral seleccionado. Esto permite un control preciso de la ubicación de los anuncios, lo que garantiza que estos solo se muestren en espacios con un nivel de visibilidad que cumpla o supere sus criterios para lograr un compromiso y un impacto óptimos.
+* Porcentaje de clics (CTR) - Ajuste el control deslizante para establecer el umbral mínimo del porcentaje de clics para los espacios publicitarios. Sus anuncios solo se emparejarán con el inventario cuyo CTR sea superior al umbral seleccionado. Esto permite un control preciso de la ubicación de los anuncios, lo que garantiza que estos se muestren en espacios con un nivel de CTR que cumpla o supere sus criterios para lograr un compromiso y un impacto óptimos. La información utilizada para esta función es la base de datos de BMS según todas las campañas que se están ejecutando y recopilando datos. Esta función funciona para todos los inventarios de intercambio.
 
-## Using AI to define Targets
+## Uso de la IA para definir objetivos
 
-Currently, our platform does not have native AI capabilities. However, feel free to use any AI tool to analyze your data and define your target. Here are a few examples of prompts you can use with your selected AI:
+Actualmente, nuestra plataforma no cuenta con capacidades nativas de IA. Sin embargo, no dude en utilizar cualquier herramienta de IA para analizar sus datos y definir su objetivo. A continuación, le ofrecemos algunos ejemplos de indicaciones que puede utilizar con la IA que elija:
 
-_**Prompt Example 1**: "Based on the provided data, which domains should I focus my campaigns on if my objective is to increase the click-through rate?"_
+_**Ejemplo de Pregunta 1**: "Según los datos proporcionados, ¿en qué dominios debería centrar mis campañas si mi objetivo es aumentar la tasa de clics?"_
 
-_**Prompt Example 2**: "Based on the provided data, in which locations will my campaigns be more effective?"_
+_**Ejemplo de Pregunta 2:** "Según los datos proporcionados, ¿en qué ubicaciones serán más eficaces mis campañas?"._
 
-_**Prompt Example 3**: "Which domains, based on the provided data, should I blacklist to increase my campaigns' click-through rate"_
+_**Ejemplo de Pregunta 3**: "¿Qué dominios, según los datos proporcionados, debería incluir en la lista negra para aumentar la tasa de clics de mis campañas?"_
 
-AI can assist in setting targets that are aligned with your objectives. By analyzing target values, you gain insights for campaign adjustments. For instance, AI can utilize data from our [Monitoring ](../monitoring/)product based on your campaign results and objectives, presenting potential changes for your optimization. For example, when using an [Event Pipe](../monitoring/event-pipes.md) for ADS - Clicked, you can obtain data about which domains are receiving more clicks, allowing you to gain further insights from this information.
+La IA puede ayudar a establecer metas que estén alineadas con sus objetivos. Al analizar los valores objetivo, se obtienen conocimientos para ajustar las campañas. Por ejemplo, la IA puede utilizar datos de nuestro [Monitoreo](../monitoring/) producto basado en los resultados y objetivos de su campaña, presentando posibles cambios para su optimización. Por ejemplo, al utilizar un [Pipelines de Eventos](../monitoring/event-pipes.md) para ADS - Clics, puede obtener datos sobre qué dominios están recibiendo más clics, lo que le permite obtener más información a partir de estos datos.
 
-## Creating a Target
+## Creación de un Objetivo
 
 {% hint style="info" %}
-**Before you start**! It's possible to select as many filters as you wish on a single target, however, keep in mind that the difficulty of matching with a publisher will increase as you add more filters, you can also set more than one target with different filters and run your campaign for each one separately.
+**¡Antes de empezar!** Es posible seleccionar tantos filtros como desee en un solo objetivo, sin embargo, tenga en cuenta que la dificultad de encontrar un editor adecuado aumentará a medida que añada más filtros. También puede establecer más de un objetivo con diferentes filtros y ejecutar su campaña para cada uno de ellos por separado.
 {% endhint %}
 
-On the selected Campaign page, Press <img src="../../.gitbook/assets/image (49).png" alt="Create Target" data-size="line"> to start creating your target.
+En la página de la campaña seleccionada, pulse <img src="../../.gitbook/assets/image (49).png" alt="Create Target" data-size="line"> para empezar a crear tu objetivo.
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt="" width="563"><figcaption><p>Create Target Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt="" width="563"><figcaption><p>Crear pantalla de destino</p></figcaption></figure>
 
-When adding targets, pay attention to the <img src="../../.gitbook/assets/image (385).png" alt="Check" data-size="original"> and <img src="../../.gitbook/assets/image (386).png" alt="Exclude" data-size="line"> signs. These indicate whether you are selecting or excluding a filter for your campaign. The filters you choose will be **listed** in your target filter, showing what will be targeted or excluded from that specific target.
+Al añadir objetivos, preste atención a la <img src="../../.gitbook/assets/image (385).png" alt="Check" data-size="original"> y <img src="../../.gitbook/assets/image (386).png" alt="Exclude" data-size="line"> señales. Estos indican si estás seleccionando o excluyendo un filtro para tu campaña. Los filtros que elijas **aparecerán** en tu filtro de destino, mostrando lo que se incluirá o excluirá de ese destino específico.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-21 073343.png" alt=""><figcaption><p>Target Selection or Exclusion</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-21 073343.png" alt=""><figcaption><p>Selección o exclusión de objetivos</p></figcaption></figure>
 
-After selecting and configuring your target, click on ![](<../../.gitbook/assets/image (676).png>).
+Después de seleccionar y configurar su objetivo, haga clic en ![](<../../.gitbook/assets/image (676).png>).
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-21 073834.png" alt=""><figcaption><p>Configured Target Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-21 073834.png" alt=""><figcaption><p>Pantalla de destino configurada</p></figcaption></figure>
 
-You can add as many targets as needed to your campaign, and you can freely turn each target on or off during the campaign to adjust it to your campaign's needs.
+Puedes añadir tantos objetivos como necesites a tu campaña y activar o desactivar cada uno de ellos libremente durante la campaña para ajustarla a tus necesidades.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Targets List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Lista de objetivos</p></figcaption></figure>
 
-## Estimated Impressions
+## Impresiones Estimadas
 
-When creating a target, you will notice that for most of the available target options, there is an estimate of how many impressions can be achieved daily. This estimate represents the median of the daily impressions over the last 7 days.
+Al crear un objetivo, observará que, para la mayoría de las opciones de objetivo disponibles, hay una estimación del número de impresiones que se pueden conseguir al día. Esta estimación representa la mediana de las impresiones diarias de los últimos 7 días.
 
 {% hint style="info" %}
-This feature only works with inclusions and is not yet available for URL Keywords.
+Esta función solo funciona con inclusiones y aún no está disponible para palabras clave URL.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-21 075508.png" alt=""><figcaption><p>Estimated Impressions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-21 075508.png" alt=""><figcaption><p>Impresiones Estimadas</p></figcaption></figure>
 
-_**Example**: In the picture above, you will notice that for each language, the impressions estimate is shown in the same row as the language. In this example, selecting English and Portuguese will bring you approximately 5.8 million impressions for English and approximately 2.4 million impressions for Portuguese._
+_**Ejemplo:** En la imagen anterior, observará que, para cada idioma, la estimación de impresiones se muestra en la misma fila que el idioma. En este ejemplo, al seleccionar inglés y portugués, obtendrá aproximadamente 5,8 millones de impresiones para el inglés y aproximadamente 2,4 millones de impresiones para el portugués._
 
-Once you select multiple options within a filter, the number of impressions will be summed. After closing the editing group, the total sum will be displayed.
+Una vez que seleccione varias opciones dentro de un filtro, se sumará el número de impresiones. Después de cerrar el grupo de edición, se mostrará la suma total.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2025-07-02 112422.png" alt=""><figcaption><p>Estimated Impressions - Total Sum</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2025-07-02 112422.png" alt=""><figcaption><p>Impresiones Estimadas - Suma total</p></figcaption></figure>
 
-_**Example**: In the picture above, you will notice that English and Portuguese were selected as languages for this target, and their estimated impressions were summed when the group was closed, resulting in a total estimate of 101.5M impressions for both languages combined. Categories and Domains have also been selected. In Categories, you will see that multiple categories were selected, resulting in 165.9M impressions when combined. For Domains, each domain you include adds to the total impressions. In this case, only two domains were selected, resulting in an average of 9.2M impressions._
+_**Ejemplo:** En la imagen anterior, verás que se seleccionaron el inglés y el portugués como idiomas para este objetivo, y sus impresiones estimadas se sumaron cuando se cerró el grupo, lo que dio como resultado una estimación total de 101,5 millones de impresiones para ambos idiomas combinados. También se han seleccionado categorías y dominios. En Categorías, verá que se han seleccionado varias categorías, lo que da como resultado 165,9 millones de impresiones cuando se combinan. En cuanto a los dominios, cada dominio que se incluye se suma al total de impresiones. En este caso, solo se han seleccionado dos dominios, lo que da como resultado una media de 9,2 millones de impresiones._&#x20;
 
-## Enabling and Disabling a Target
+## Habilitar y Deshabilitar un Objetivo
 
-To start a campaign and use your configured target, ensure the targets are enabled if you need to modify or simply stop using a specific target. You can disable it and the campaign will stop using that target immediately.
+Para iniciar una campaña y utilizar el objetivo configurado, asegúrese de que los objetivos estén habilitados si necesita modificar o simplemente dejar de utilizar un objetivo específico. Puede deshabilitarlo y la campaña dejará de utilizar ese objetivo inmediatamente.
 
-<figure><img src="../../.gitbook/assets/image (755).png" alt=""><figcaption><p>Target Toggles</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (755).png" alt=""><figcaption><p>Conmutadores de Objetivo</p></figcaption></figure>
 
-## Duplicating a Target
+## Duplicar un Objetivo
 
-If you want to reutilize a dense target but with few changes, you have the option to duplicate that target and save time, simply click on <img src="../../.gitbook/assets/image (123).png" alt="Duplicate Target" data-size="line"> to duplicate your target and a copy of that target will be instantly created.
+Si desea reutilizar un objetivo denso pero con pocos cambios, tiene la opción de duplicar ese objetivo y ahorrar tiempo, simplemente haga clic en <img src="../../.gitbook/assets/image (123).png" alt="Duplicate Target" data-size="line"> para duplicar tu objetivo y se creará instantáneamente una copia de ese objetivo.
 
-## Bulk Actions
+## Acciones Masivas
 
-If you select more than one target, it is possible to make bulk actions.
+Si selecciona más de un destino, es posible realizar acciones masivas.
 
-After selecting two or more targets, the bulk actions button will be enabled, <img src="../../.gitbook/assets/image (753).png" alt="Bulk Actions" data-size="line"> then after clicking on the menu, you will be shown three possibilities which are: **Enable**, **Disable** and **Delete** targets in bulk, this helps you make more actions at once.
+Después de seleccionar dos o más objetivos, se habilitará el botón de acciones masivas, <img src="../../.gitbook/assets/image (753).png" alt="Bulk Actions" data-size="line"> después de hacer clic en el menú, se te mostrarán tres opciones: **Activar**, **Desactivar** y **Eliminar** objetivos de forma masiva, lo que te ayudará a realizar más acciones a la vez.
 
-## Deleting a Target
+## Eliminación de un Objetivo
 
-If a target is no longer useful for your campaign, you can click on <img src="../../.gitbook/assets/image (124).png" alt="Delete Target" data-size="line"> to permanently delete the target, and a confirmation screen will be shown to you.
+Si un objetivo ya no es útil para tu campaña, puedes hacer clic en <img src="../../.gitbook/assets/image (124).png" alt="Delete Target" data-size="line"> para eliminar definitivamente el objetivo, y se le mostrará una pantalla de confirmación.
 
-<figure><img src="../../.gitbook/assets/image (754).png" alt=""><figcaption><p>Target Deletion</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (754).png" alt=""><figcaption><p>Eliminación de Objetivos</p></figcaption></figure>
 
 {% hint style="danger" %}
-_Attention! We always advise disabling the target beforehand and analyzing if it is necessary to delete or simply modify it since the action cannot be undone._
+_¡Atención! Siempre recomendamos desactivar previamente el objetivo y analizar si es necesario eliminarlo o simplemente modificarlo, ya que la acción no se puede deshacer._
 {% endhint %}

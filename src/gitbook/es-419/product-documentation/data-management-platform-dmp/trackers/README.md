@@ -1,113 +1,113 @@
 # Rastreadores
 
-Trackers are small scripts placed on your website's code to gather data on your users' activities, then we can use the collected data to build recommendation models for running retargeting campaigns, improving your conversions. Additionally, this data can provide valuable insights into your users' interests, facilitating the creation of more efficient ad campaigns.
+Los rastreadores son pequeños scripts que se colocan en el código de su sitio web para recopilar datos sobre las actividades de sus usuarios. A continuación, podemos utilizar los datos recopilados para crear modelos de recomendación con los que llevar a cabo campañas de retargeting y mejorar sus conversiones. Además, estos datos pueden proporcionar información valiosa sobre los intereses de sus usuarios, lo que facilita la creación de campañas publicitarias más eficaces.&#x20;
 
-## Managing Trackers
+## **Gestión de Rastreadores**
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2024-12-05 074113.png" alt=""><figcaption><p>Trackers list</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2024-12-05 074113.png" alt=""><figcaption><p>Lista de Rastreadores</p></figcaption></figure>
 
-### Creating a Tracker
+### Creación de un Rastreador
 
-Trackers will gather data about your website's activities, so it must be installed and active for a while before their data can be used for a campaign.
+Los Rastreadores recopilarán datos sobre las actividades de su sitio web, por lo que deben estar instalados y activos durante un tiempo antes de que sus datos puedan utilizarse para una campaña.
 
-1. Click on <img src="../../../.gitbook/assets/image (269).png" alt="" data-size="line"> to start creating a tracker.
-2.  Fill in the details:
+1. Haga clic en <img src="../../../.gitbook/assets/image (269).png" alt="" data-size="line"> para empezar a crear un Rastreador.
+2.  Rellene los datos:
 
-    <figure><img src="../../../.gitbook/assets/image (1034).png" alt=""><figcaption><p>Tracker Editor</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1034).png" alt=""><figcaption><p>Editor de Rastreadores</p></figcaption></figure>
 
-    * Name: Set a name for your tracker.
-    * Tags: Set tags for your organization.
-    * Maximum users: Set the maximum number of users that should be tracked, once the limit is reached, no more new users will be added to the tracker, but the users added will still be tracked.
-    * Maximum events per user: Set the maximum number of events per user to keep track, once the limit is reached, receiving new events will cause the oldest ones to be expired.
-    * Maximum activity age: Set the number of days for the tracked users' data to be stored, after this period this data will be deleted.
-3. Click on <img src="../../../.gitbook/assets/image (93) (1) (1).png" alt="" data-size="line"> to save your tracker.
+    * Nombre: Establezca un nombre para su rastreador.
+    * Etiquetas: Establezca etiquetas para su organización.
+    * Número máximo de usuarios: Establezca el número máximo de usuarios que se deben rastrear. Una vez alcanzado el límite, no se añadirán más usuarios nuevos al rastreador, pero los usuarios añadidos seguirán siendo rastreados.
+    * Máximo de eventos por usuario: Establezca el número máximo de eventos por usuario que se deben rastrear. Una vez alcanzado el límite, la recepción de nuevos eventos provocará que los más antiguos caduquen.
+    * Antigüedad máxima de la actividad: Establezca el número de días durante los que se almacenarán los datos de los usuarios rastreados. Transcurrido este periodo, los datos se eliminarán.
+3. Haga clic en <img src="../../../.gitbook/assets/image (93) (1) (1).png" alt="" data-size="line"> para guardar tu rastreador.
 
-### Editing a Tracker
+### Edición de un Rastreador
 
-All the trackers' parameters are editable, click on ![](<../../../.gitbook/assets/image (272).png>) in the same row of the tracker you want to edit, make your changes, and then click on ![Save](<../../../.gitbook/assets/image (1046).png>) to save them.
+Todos los parámetros de los rastreadores son editables, haga clic en ![](<../../../.gitbook/assets/image (272).png>) en la misma fila del rastreador que desea editar, realice los cambios y, a continuación, haga clic en ![Save](<../../../.gitbook/assets/image (1046).png>) para salvarlos.
 
-It's possible to archive trackers for your better organization. Click on ![](<../../../.gitbook/assets/image (273).png>) to archive the selected tracker, visualize your archived trackers by turning on the switch "Archived" above the trackers' list. It is also possible to unarchive a tracker by clicking on ![](<../../../.gitbook/assets/image (274).png>).
+Es posible archivar los rastreadores para una mejor organización. Haga clic en ![](<../../../.gitbook/assets/image (273).png>) para archivar el rastreador seleccionado, visualice sus rastreadores archivados activando el interruptor "Archivado" situado encima de la lista de rastreadores. También es posible desarchivar un rastreador haciendo clic en ![](<../../../.gitbook/assets/image (274).png>).
 
-### Deleting a Tracker
+### Eliminar un Rastreador
 
-We can also delete our trackers by clicking on the delete button ![](<../../../.gitbook/assets/image (275).png>) in the same row as the tracker you want to delete and then confirming it by clicking on ![Delete](<../../../.gitbook/assets/image (1048).png>). This action cannot be undone, so please be careful. Additionally, keep in mind that recommendation models based on the deleted tracker might stop working.
+También podemos eliminar nuestros rastreadores haciendo clic en el botón eliminar. ![](<../../../.gitbook/assets/image (275).png>) en la misma fila que el rastreador que desea eliminar y, a continuación, confirmándolo haciendo clic en ![Delete](<../../../.gitbook/assets/image (1048).png>). Esta acción no se puede deshacer, así que ten cuidado. Además, ten en cuenta que los modelos de recomendación basados en el rastreador eliminado podrían dejar de funcionar.
 
 {% hint style="danger" %}
-_Attention! Be careful when deleting trackers, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted._
+_¡Atención! Ten cuidado al eliminar rastreadores, ya que esta acción no se puede deshacer y todos los datos relacionados, incluidas las métricas recopiladas anteriormente, también se eliminarán._
 {% endhint %}
 
-## Managing Events and Actions
+## Gestión de Eventos y Acciones
 
-Configure events to be tracked and actions to be performed by the tracker when the event happens.
+Configure los eventos que se deben rastrear y las acciones que debe realizar el rastreador cuando se produzca el evento.
 
-<figure><img src="../../../.gitbook/assets/image (100).png" alt=""><figcaption><p>Trackers' Configuration Tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (100).png" alt=""><figcaption><p>Pestaña Configuración de los Rastreadores</p></figcaption></figure>
 
-### Creating Events and Actions
+### Creación de eventos y acciones
 
-Configure events according to the activities performed by users on your website, or app, for example adding products to the cart, viewing products, and others.
+Configura eventos según las actividades que realizan los usuarios en tu sitio web o aplicación, por ejemplo, añadir productos al carrito, ver productos y otras.
 
-1. On the Configuration tab, click on <img src="../../../.gitbook/assets/image (278).png" alt="" data-size="original"> to start creating an event.
-2. Fill in the details:
+1. En la pestaña Configuración, haga clic en <img src="../../../.gitbook/assets/image (278).png" alt="" data-size="original"> para empezar a crear un evento.
+2. Rellene los datos:
 
-<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Event Editor</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Editor de Eventos</p></figcaption></figure>
 
-* Name: Set a name for your event.
-* Event ID: Set an ID for your event, if no ID is set, the Event Name will be used as default event ID.
-* Custom Data Fields: Set custom data fields to be collected when the event is captured.
-* Currency: Use this field to specify the currency reference for the event. This should reflect the currency in use on your website. It helps track the monetary value associated with the user action.
-* Amount: This field captures the quantity associated with the event. For example, in a purchase event, it represents the number of products purchased in a single transaction. Declare a variable on your website that reflects this amount.
-* Deduplication ID: This field is used to assign a unique identifier to each event instance. It ensures that duplicated events are not counted multiple times, improving data reliability.
-* Template: The template option is available for all fields above. It defines how the values from the event will be processed. It accepts a string using variables from the custom data fields, and generates a comma-separated output.
+* Nombre: Establezca un nombre para su evento.
+* ID del evento: Establezca un ID para su evento, si no se establece ningún ID, se utilizará el nombre del evento como ID predeterminado.
+* Campos de datos personalizados: Establezca los campos de datos personalizados que se recopilarán cuando se capture el evento.
+* Moneda: Utilice este campo para especificar la referencia monetaria del evento. Debe reflejar la moneda utilizada en su sitio web. Ayuda a realizar un seguimiento del valor monetario asociado a la acción del usuario.
+* Importe: Este campo captura la cantidad asociada al evento. Por ejemplo, en un evento de compra, representa el número de productos comprados en una sola transacción. Declare una variable en su sitio web que refleje este importe.
+* ID de deduplicación: Este campo se utiliza para asignar un identificador único a cada instancia de evento. Garantiza que los eventos duplicados no se cuenten varias veces, lo que mejora la fiabilidad de los datos.
+* Plantilla: La opción de plantilla está disponible para todos los campos anteriores. Define cómo se procesarán los valores del evento. Acepta una cadena que utiliza variables de los campos de datos personalizados y genera una salida separada por comas.&#x20;
 
-1. Click on ![](<../../../.gitbook/assets/image (278).png>) to add an action to your event, the action is what your tracker will do at BMS once the user access the designed page or perform the specified action.
-2. Fill in the details:
-   * Name: Set a name for your action.
-   *   What to do?:
+1. Haga clic en ![](<../../../.gitbook/assets/image (278).png>) para añadir una acción a tu evento, la acción es lo que tu rastreador hará en BMS una vez que el usuario acceda a la página diseñada o realice la acción especificada.
+2. Rellene los datos:
+   * Nombre: Establezca un nombre para su acción.
+   *   ¿Qué hacer?:
 
-       <figure><img src="../../../.gitbook/assets/Captura de tela 2025-02-27 084243.png" alt=""><figcaption><p>Action Editor</p></figcaption></figure>
+       <figure><img src="../../../.gitbook/assets/Captura de tela 2025-02-27 084243.png" alt=""><figcaption><p>Editor de acciones</p></figcaption></figure>
 
-       *   Track In Catalog: Allows you to track events based on a product catalog.
+       *   Seguimiento en el Catálogo: Le permite realizar un seguimiento de los eventos basándose en un catálogo de productos.
 
-           * Catalog: Select the catalog you desire to use.
-           * Track as: Select this action as it must be tracked.
-           * Field Containing Offer IDs: Select the custom field that contains the offer ID or use a template.
-           * Template: Insert a specific template that will be used to create a comma-separated list of offer IDs to be tracked.
-           * Available Custom Data: Custom data fields configured on your event will be displayed here to help you build a template.
+           * Catálogo: Seleccione el catálogo que desea utilizar.
+           * Seguir como: Seleccione esta acción, ya que debe ser seguida.
+           * Campo que contiene los ID de oferta: Seleccione el campo personalizado que contiene el ID de oferta o utilice una plantilla.
+           * Plantilla: Inserte una plantilla específica que se utilizará para crear una lista separada por comas de los ID de oferta que se van a rastrear.
+           * Datos personalizados disponibles: Los campos de datos personalizados configurados en su evento se mostrarán aquí para ayudarle a crear una plantilla.
 
-           <figure><img src="../../../.gitbook/assets/Captura de tela 2025-02-27 084528.png" alt=""><figcaption><p>Action Editor</p></figcaption></figure>
-       * Track in Identifier Pool: This option allows you to add or remove identifiers from your pools.
-         * Identifier Pool: Select the identifier pool you will link to this action.
-         * Operation: Select if you want to add or remove identifiers from the pool.
-3. Click on <img src="../../../.gitbook/assets/image (93) (1) (1).png" alt="" data-size="line"> to save your action.
-4. Feel free to add more actions to this event, and when you're done, click on <img src="../../../.gitbook/assets/image (93) (1) (1).png" alt="" data-size="line"> to save your event.
+           <figure><img src="../../../.gitbook/assets/Captura de tela 2025-02-27 084528.png" alt=""><figcaption><p>Editor de acciones</p></figcaption></figure>
+       * Rastreador de Identifier Pool: Esta opción le permite añadir o eliminar identifiers de sus pools.
+         * Identifier Pool: Seleccione el identifier pool enlazarás con esta acción.
+         * Operación: Seleccione si desea añadir o eliminar identifiers de sus pools.
+3. Haga clic en <img src="../../../.gitbook/assets/image (93) (1) (1).png" alt="" data-size="line"> para guardar tu acción.
+4. Siéntete libre de agregar más acciones a este evento y cuando hayas terminado, haz clic en <img src="../../../.gitbook/assets/image (93) (1) (1).png" alt="" data-size="line"> para guardar tu evento.
 
-### Editing Events and Actions
+### Edición de eventos y acciones
 
-Edit your events and actions to meet your business needs.
+Edita tus eventos y acciones para satisfacer las necesidades de tu negocio.
 
-We can edit events by clicking on ![](<../../../.gitbook/assets/image (272).png>) at the same row of the event to be edited on the Configuration tab, all events' parameters are available to be edited, after finishing your changes, click on ![Save](<../../../.gitbook/assets/image (1046).png>) to save them.
+Podemos editar eventos haciendo clic en ![](<../../../.gitbook/assets/image (272).png>) en la misma fila del evento que se va a editar en la pestaña Configuración, todos los parámetros de los eventos están disponibles para ser editados. Una vez finalizados los cambios, haga clic en ![Save](<../../../.gitbook/assets/image (1046).png>) para salvarlos.
 
-Actions' parameters are also editable, you can do this by finding the event that contains the action you want to edit on the Configuration tab, clicking on ![](<../../../.gitbook/assets/image (272).png>) at the same row of the event, and then clicking on ![](<../../../.gitbook/assets/image (272).png>) at the same row of the action to be edited, make your changes and click on ![Save](<../../../.gitbook/assets/image (1046).png>) to save your changes, then click on ![Save](<../../../.gitbook/assets/image (1046).png>) again to save your changes to the event, and you're done.
+Los parámetros de las acciones también se pueden editar. Para ello, busca el evento que contiene la acción que deseas editar en la pestaña Configuración y haz clic en ![](<../../../.gitbook/assets/image (272).png>) en la misma fila del evento y, a continuación, haciendo clic en ![](<../../../.gitbook/assets/image (272).png>) en la misma fila de la acción que desea editar, realice los cambios y haga clic en ![Save](<../../../.gitbook/assets/image (1046).png>) para guardar los cambios, haga clic en ![Save](<../../../.gitbook/assets/image (1046).png>) vuelve a guardar los cambios realizados en el evento y ya está.
 
-It's also possible to duplicate events and actions by clicking on ![](<../../../.gitbook/assets/image (366).png>) at the same row of the event or action you need to duplicate. This feature can be useful if you need to create a new action or event while keeping some parameters of an existing one.
+También es posible duplicar eventos y acciones haciendo clic en ![](<../../../.gitbook/assets/image (366).png>) en la misma fila del evento o acción que necesita duplicar. Esta función puede ser útil si necesita crear una nueva acción o evento manteniendo algunos parámetros de uno ya existente.
 
-### Deleting Events and Actions
+### Eliminación de eventos y acciones
 
-It's possible to delete events and actions by clicking on ![](<../../../.gitbook/assets/image (275).png>) at the same row of the event or action that you need to delete, and then confirm the action by clicking on ![Delete](<../../../.gitbook/assets/image (1048).png>). This action cannot be undone, so be careful when doing it. Alternatively, it's also possible to disable events and actions by changing the switch position from <img src="../../../.gitbook/assets/image (89) (1) (1).png" alt="" data-size="original"> to ![](<../../../.gitbook/assets/image (90) (1) (1).png>) in the same row of the event or action you want to disable.
+Es posible eliminar eventos y acciones haciendo clic en ![](<../../../.gitbook/assets/image (275).png>) en la misma fila del evento o acción que desea eliminar y, a continuación, confirme la acción haciendo clic en ![Delete](<../../../.gitbook/assets/image (1048).png>). Esta acción no se puede deshacer, así que ten cuidado al realizarla. Como alternativa, también es posible desactivar eventos y acciones cambiando la posición del interruptor de <img src="../../../.gitbook/assets/image (89) (1) (1).png" alt="" data-size="original"> a ![](<../../../.gitbook/assets/image (90) (1) (1).png>) en la misma fila del evento o acción que desea desactivar.
 
-## Install Instructions
+## Instrucciones de Instalación
 
-After setting up events and actions for your tracker, you have to install it on your website. This can be done by following the instructions on the install instructions tab. Check our [Install Instructions](install-instructions.md) article to learn more about our install methods.
+Después de configurar los eventos y acciones para tu rastreador, debes instalarlo en tu sitio web. Para ello, sigue las instrucciones que se indican en la pestaña Instrucciones de instalación. Consulta nuestra [Instrucciones de Instalación](install-instructions.md) artículo para obtener más información sobre nuestros métodos de instalación.
 
-## Metrics Tab
+## Pestaña Métricas
 
-After installing your trackers, you should start receiving data from them. It's possible to follow this process on the metrics tab; these are the available metrics for trackers:
+Después de instalar los rastreadores, debería empezar a recibir datos de ellos. Es posible seguir este proceso en la pestaña de métricas; estas son las métricas disponibles para los rastreadores:
 
-* [Action Execution Count](../dmp-metrics.md#action-execution-count)
-* [Action Failure Rate](../dmp-metrics.md#action-failure-rate)
-* [Activity Count](../dmp-metrics.md#activity-count)
-* [Activity Value](../dmp-metrics.md#activity-value)
-* [Expiration Count](../dmp-metrics.md#expiration-count-1)
-* [Maximum Users](../dmp-metrics.md#maximum-users)
-* [Time Until Expiration](../dmp-metrics.md#time-until-expiration-1)
-* [Tracker User Count](../dmp-metrics.md#tracker-user-count)
+* [Recuento de Ejecución de Acciones](../dmp-metrics.md#action-execution-count)
+* [Tasa de Fallos de Acciones](../dmp-metrics.md#action-failure-rate)
+* [Recuento de Actividades](../dmp-metrics.md#activity-count)
+* [Valor de la Actividad](../dmp-metrics.md#activity-value)
+* [Recuento de Vencimientos](../dmp-metrics.md#expiration-count-1)
+* [Máximo de Usuarios](../dmp-metrics.md#maximum-users)
+* [Tiempo hasta el Vencimiento](../dmp-metrics.md#time-until-expiration-1)
+* [Recuento de usuarios del Rastreador](../dmp-metrics.md#tracker-user-count)

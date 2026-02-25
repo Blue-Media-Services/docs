@@ -1,64 +1,64 @@
 # Facturación de CS2
 
-The catalog storage service billing section is available on the billing page. It contains information about every billed item related to CS2 and is divided into 6 sub-sections.
+La sección de facturación del servicio de almacenamiento de catálogos está disponible en la página de facturación. Contiene información sobre cada elemento facturado relacionado con CS2 y se divide en 6 subsecciones.
 
-<figure><img src="../../.gitbook/assets/image (729).png" alt=""><figcaption><p>CS2 Billing Section</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (729).png" alt=""><figcaption><p>Sección de facturación CS2</p></figcaption></figure>
 
 {% hint style="info" %}
-At BMS, it prioritizes transparency by displaying every detail of your bill. Visit our [Billing Home](../billing.md) to understand how the bills are structured.
+En BMS, se prioriza la transparencia mostrando todos los detalles de su factura. Visite nuestro [Facturación](../billing.md) para comprender cómo están estructurados los proyectos de ley.
 {% endhint %}
 
-Below is an explanation of each of these sections with their respective details.
+A continuación se ofrece una explicación de cada una de estas secciones con sus respectivos detalles.
 
-### Catalog Management
+### Gestión de Catálogos
 
-This subsection outlines the costs associated with catalog management. Deletions are free of charge, and each service in this section includes a free quota of 1,000 requests, except for the storage, which is billed based on the number of catalogs stored and the duration of their storage.
+En esta subsección se describen los costes asociados a la gestión de catálogos. Las eliminaciones son gratuitas y cada servicio de esta sección incluye una cuota gratuita de 1000 solicitudes, excepto el almacenamiento, que se factura en función del número de catálogos almacenados y la duración de su almacenamiento.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-09 134927.png" alt=""><figcaption><p>Catalog Management</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-09 134927.png" alt=""><figcaption><p>Gestión de Catálogos</p></figcaption></figure>
 
-_**Example**: In this picture, there were consumed nearly 1,039 catalog-hours, which is equivalent to 1 catalog stored for a month with another catalog stored for a few days, resulting in a $1.08 charge. You can also observe that no charges were applied for the other services consumed since the free quota was not exceeded._
+_**Ejemplo:** En esta imagen, se consumieron casi 1039 horas de catálogo, lo que equivale a 1 catálogo almacenado durante un mes y otro catálogo almacenado durante unos días, lo que da lugar a un cargo de 1,08 $. También se puede observar que no se aplicaron cargos por los demás servicios consumidos, ya que no se superó la cuota gratuita._
 
-### Import Channel Management
+### Gestión de Canales de Importación
 
-This subsection outlines the costs associated with import channel management. Import channels configured are billed based on the number of import channels configured and the duration of their availability on the platform, import jobs are billed according to how much data they have transferred, there is a free quota of 100 requests for the start import job service, after which charges will incur per request, for the other services on the section there is a free quota of 1,000 requests, after which the services will be billed per request.
+Esta subsección describe los costes asociados a la gestión de los canales de importación. Los canales de importación configurados se facturan en función del número de canales de importación configurados y la duración de su disponibilidad en la plataforma; los trabajos de importación se facturan según la cantidad de datos que hayan transferido; hay una cuota gratuita de 100 solicitudes para el servicio de inicio de trabajos de importación, tras la cual se aplicarán cargos por solicitud; para los demás servicios de la sección hay una cuota gratuita de 1000 solicitudes, tras la cual los servicios se facturarán por solicitud.&#x20;
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-09 135947.png" alt=""><figcaption><p>Import Channel Management</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-09 135947.png" alt=""><figcaption><p>Gestión de Canales de Importación</p></figcaption></figure>
 
-_**Example**: In this picture you will notice that for most services the free quota was not exceeded and therefore no charges were applied to these services, it is also possible to observe that nearly 325 channel-hours were consumed, which is equivalent to having 1 import channel configured for almost two weeks, resulting on a $0.34 charge, you can see that nearly 5 GB were transferred on this period, resulting on a $0.42 bill, after reaching the quota, the listing import jobs service was charged per request, resulting on a $0.28 charge, therefore this customer will be charged on $1.03 for the services on this subsection._
+_**Ejemplo:** En esta imagen se puede observar que, en la mayoría de los servicios, no se superó la cuota gratuita y, por lo tanto, no se aplicaron cargos a estos servicios. También se puede observar que se consumieron casi 325 horas de canal, lo que equivale a tener un canal de importación configurado durante casi dos semanas, lo que da como resultado un cargo de 0,34 dólares. Se puede ver que se transfirieron casi 5 GB en este periodo, lo que da lugar a una factura de 0,42 $. Tras alcanzar la cuota, el servicio de importación de trabajos de listado se cobró por solicitud, lo que da lugar a un cargo de 0,28 $. Por lo tanto, a este cliente se le cobrarán 1,03 $ por los servicios de esta subsección._&#x20;
 
-### Recommendation Model
+### Modelo de Recomendación
 
-In this subsection, you will find the cost details for the recommendation models. Deletion actions are free of charge, there is a free quota of 1,000 requests for every service on this section, except for the Models Configured, which is billed based on the number of recommendation models you have configured and the duration of their availability and use.
+En esta subsección, encontrará los detalles de los costes de los modelos de recomendación. Las acciones de eliminación son gratuitas, hay una cuota gratuita de 1000 solicitudes para cada servicio de esta sección, excepto para los modelos configurados, que se facturan en función del número de modelos de recomendación que haya configurado y la duración de su disponibilidad y uso.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-09 140608.png" alt=""><figcaption><p>Recommendation Model</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-09 140608.png" alt=""><figcaption><p>Modelo de Recomendación</p></figcaption></figure>
 
-_**Example**: You will notice that, in this picture, most of the services consumed did not exceed the free quota, and therefore no charges were applied, it is possible to observe that nearly 835 model-hours were consumed, which is equivalent to 1 model configured for almost a whole month, resulting on a $0.87 bill._
+_**Ejemplo:** Notará que, en esta imagen, la mayoría de los servicios consumidos no superaron la cuota gratuita y, por lo tanto, no se aplicaron cargos; es posible observar que se consumieron casi 835 model-hours, lo que equivale a 1 modelo configurado durante casi un mes completo, resultando en una factura de $0.87._
 
-### Recommendation Engine
+### Motor de Recomendación
 
-This subsection details the costs related to the use of the recommendation engine, there is a free quota of 1,000 requests, after exceeding this quota, the charge is applied per product recommendation request.
+Esta subsección detalla los costes relacionados con el uso del motor de recomendación. Existe una cuota gratuita de 1,000 solicitudes; tras superar esta cuota, el cargo se aplica por cada solicitud de recomendación de producto.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-09 140715.png" alt=""><figcaption><p>Recommendation Engine</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-09 140715.png" alt=""><figcaption><p>Motor de Recomendación</p></figcaption></figure>
 
-_**Example**: In this picture, the free quota was not exceeded, and therefore no charges will incur for the services._
+_**Ejemplo:** En esta imagen, la cuota gratuita no fue superada y, por lo tanto, no se generarán cargos por los servicios._
 
-### Product Management
+### Gestión de Productos
 
-This subsection contains the cost details related to product management. Deletions are free of charge, except for the storage, every service on this section has a free quota of 1,000 requests, after which you will be charged per request, the storage is billed based on the number of products you have stored and the duration of their storage.
+Esta subsección contiene los detalles de los costes relacionados con la gestión de productos. Las eliminaciones son gratuitas; a excepción del almacenamiento, cada servicio de esta sección tiene una cuota gratuita de 1,000 solicitudes, tras la cual se le cobrará por solicitud. El almacenamiento se factura en función de la cantidad de productos que tenga almacenados y la duración de su almacenamiento.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-09 140958.png" alt=""><figcaption><p>Product Management</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-09 140958.png" alt=""><figcaption><p>Gestión de Productos</p></figcaption></figure>
 
-_**Example**: You will observe, in this picture, there were no charges for the services that did not exceed the free quota, after exceeding the quota the creating products and the patching products services were billed per request, there were nearly 35 thousand creating products requests, resulting in a $0.52 bill, and nearly 35 million patching products requests, resulting in a $ 513.17 bill, you can also notice that almost 208 million product-hours were consumed, resulting in a $28,85 bill, totalizing a $542.55 bill for the services in the section._
+_**Ejemplo:** Observará, en esta imagen, que no hubo cargos por los servicios que no superaron la cuota gratuita; tras exceder la cuota, los servicios de creación de productos (creating products) y de actualización parcial de productos (patching products) se facturaron por solicitud. Hubo casi 35 mil solicitudes de creación de productos, lo que resultó en una factura de $0.52, y casi 35 millones de solicitudes de actualización de productos, resultando en una factura de $513.17. También puede notar que se consumieron casi 208 millones de product-hours, lo que resultó en una factura de $28.85, totalizando una factura de $542.55 por los servicios de la sección._
 
-### Catalog Tracking
+### Seguimiento de Catálogo
 
-This subsection contains the cost details related to the catalog tracking, every service in this section has a free quota of 1,000 requests, after which you will be charged per request.
+Esta subsección contiene los detalles de los costes relacionados con el seguimiento del catálogo. Cada servicio en esta sección tiene una cuota gratuita de 1,000 solicitudes, después de la cual se le cobrará por solicitud.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-09 142247.png" alt=""><figcaption><p>Catalog Tracking</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-08-09 142247.png" alt=""><figcaption><p>Seguimiento de Catálogo</p></figcaption></figure>
 
-_**Example**: In this picture, you will notice that a free quota of 1,000 requests was given to each service, after exceeding this quota, the charges were applied based on the number of requests used, there were nearly 151 thousand requests for tracking product events, resulting in a $1.51 bill, and nearly 31 thousand tracking recommendation event requests, resulting in a $0.31 bill, totalizing $1.82 for the services on the section._
+_**Ejemplo:** En esta imagen, observará que se asignó una cuota gratuita de 1000 solicitudes a cada servicio. Una vez superada esta cuota, se aplicaron los cargos en función del número de solicitudes utilizadas. hubo casi 151 000 solicitudes de seguimiento de eventos de productos, lo que dio lugar a una factura de 1,51 dólares, y casi 31 000 solicitudes de seguimiento de eventos de recomendaciones, lo que dio lugar a una factura de 0,31 dólares, lo que suma un total de 1,82 dólares por los servicios de la sección._&#x20;
 
 {% hint style="info" %}
-All products generate metrics once you start using them. These metrics are charged and are crucial for understanding your BMS platform usage and performance. The [Monitoring Tab](../monitoring/monitoring-billing.md#metric-monitoring) is responsible for these metrics and will display the related bill.\
-BMS is focused on transparency and will show you the costs for all features within each product.
+Todos los productos generan métricas una vez que se empiezan a utilizar. Estas métricas se cobran y son cruciales para comprender el uso y el rendimiento de su plataforma BMS. El [Facturación de Monitoreo](../monitoring/monitoring-billing.md#metric-monitoring) es responsable de estas métricas y mostrará la factura correspondiente.\
+BMS se centra en la transparencia y le mostrará los costes de todas las funciones de cada producto.
 {% endhint %}

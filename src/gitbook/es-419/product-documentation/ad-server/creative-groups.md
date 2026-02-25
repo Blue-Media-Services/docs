@@ -1,101 +1,101 @@
 # Grupos Creativos
 
-Creative Groups allow you to group several creatives as a single unit. You can then apply different weights to each and later check the performance of one against the others.
+Los Grupos de Creatividades le permiten agrupar varias creatividades como una sola unidad. De este modo, puede aplicar diferentes pesos a cada una y, posteriormente, comprobar el rendimiento de una frente a las otras.
 
-They are very useful if you wish to display several variants of the same banners while keeping a simple configuration for Ads. They are also how you can run [A/B tests](creative-groups.md#a-b-testing) to determine which creatives perform best.
+Son muy útiles si desea mostrar varias variantes de los mismos banners manteniendo una configuración sencilla para los anuncios. También son la forma en que puede realizar [pruebas A/B ](creative-groups.md#a-b-testing) para determinar qué creatividades funcionan mejor.
 
-## Managing Creative Groups
+## Gestión de Grupos de Creatividades
 
-<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption><p>Creative Group list</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption><p>Lista de Grupos de Creatividades</p></figcaption></figure>
 
-### Creating a Creative Group
+### Creación de un Grupo de Creatividades
 
-On the Creative Group page click on <img src="../../.gitbook/assets/image (472).png" alt="Create Creative Group" data-size="line">.
+En la página de Grupos de Creatividades, haga clic en <img src="../../.gitbook/assets/image (472).png" alt="Create Creative Group" data-size="line">.
 
-Fill in the details:
+Complete los detalles:
 
-<figure><img src="../../.gitbook/assets/image (631).png" alt=""><figcaption><p>Creating a Creative Group</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (631).png" alt=""><figcaption><p>Creación de un Grupo de Creatividades</p></figcaption></figure>
 
-* Name - how you want to call this creative group;
-* Tags - up to 5 labels that can be used to aid identification and searching;
-* Domain - this is the primary domain that the creatives on this group will take the user when clicked;
-* Type - the type of creative, can be any common IAB size like "Large Leaderboard (970x90)", "Banner (468x60)", etc.
+* Nombre: cómo desea llamar a este grupo de creatividades;
+* Etiquetas: hasta 5 etiquetas que pueden utilizarse para facilitar la identificación y la búsqueda;
+* Dominio: este es el dominio principal al que las creatividades de este grupo dirigirán al usuario cuando haga clic en ellas;
+* Tipo: el tipo de creatividad, puede ser cualquier tamaño común de la IAB como "Large Leaderboard (970x90)", "Banner (468x60)", etc.
 
-Configure the creative group composition:
+Configure la composición del grupo de creatividades:
 
-<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption><p>Creative Group composition</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption><p>Composición del grupo de creatividades</p></figcaption></figure>
 
-Select at least one creative to be a part of this group. To add more creatives, use the <img src="../../.gitbook/assets/add.png" alt="Add" data-size="line"> button. To remove an existing creative, use the <img src="../../.gitbook/assets/remove.png" alt="Remove" data-size="line"> button.
+Seleccione al menos una creatividad para que forme parte de este grupo. Para añadir más creatividades, utilice el <img src="../../.gitbook/assets/add.png" alt="Add" data-size="line"> botón. Para eliminar una creatividad existente, utilice el <img src="../../.gitbook/assets/remove.png" alt="Remove" data-size="line"> botón.&#x20;
 
-You can create a new creative directly from this editor by clicking on the <img src="../../.gitbook/assets/create.png" alt="Create" data-size="line"> button, or you can edit an existing creative by clicking on <img src="../../.gitbook/assets/edit.png" alt="Edit" data-size="line">.
+Puede crear una nueva creatividad directamente desde este editor haciendo clic en el <img src="../../.gitbook/assets/create.png" alt="Create" data-size="line"> botón, o puede editar una creatividad existente haciendo clic en <img src="../../.gitbook/assets/edit.png" alt="Edit" data-size="line">.
 
-By default, the system will attribute equal weight to all creatives. If you wish to direct more traffic to one creative over another, simply adjust the weights column. The system will calculate the approximate ratio of impressions each one will have.
+De forma predeterminada, el sistema atribuirá el mismo peso a todas las creatividades. Si desea dirigir más tráfico a una creatividad en lugar de a otra, simplemente ajuste la columna de pesos. El sistema calculará la proporción aproximada de impresiones que tendrá cada una.
 
-Click on the <img src="../../.gitbook/assets/image (135).png" alt="Preview Group" data-size="line"> button to see a preview of this group:
+Haga clic en el <img src="../../.gitbook/assets/image (135).png" alt="Preview Group" data-size="line"> botón para ver una vista previa de este grupo:
 
-<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption><p>Creative Group editor screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption><p>Pantalla del editor de Grupos de Creatividades</p></figcaption></figure>
 
-After making all the necessary changes, click on <img src="../../.gitbook/assets/image (561).png" alt="Save" data-size="line">.
+Después de realizar todos los cambios necesarios, haga clic en <img src="../../.gitbook/assets/image (561).png" alt="Save" data-size="line">.
 
-### Editing a Creative Group
+### Edición de un Grupo de Creatividades
 
-To edit a creative group use the <img src="../../.gitbook/assets/edit.png" alt="Edit" data-size="line"> button on the creative group list. All fields are available for editing except the domain and type selectors.
+Para editar un grupo de creatividades, utilice el <img src="../../.gitbook/assets/edit.png" alt="Edit" data-size="line"> botón en la lista de grupos de creatividades. Todos los campos están disponibles para edición, excepto los selectores de dominio y tipo.
 
-<figure><img src="../../.gitbook/assets/image (474).png" alt=""><figcaption><p>Editing a Creative Group</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (474).png" alt=""><figcaption><p>Edición de un Grupo de Creatividades</p></figcaption></figure>
 
-Once you make the necessary changes to your creative group, click on <img src="../../.gitbook/assets/image (561).png" alt="Save" data-size="line">.
+Una vez que realice los cambios necesarios en su grupo de creatividades, haga clic en <img src="../../.gitbook/assets/image (561).png" alt="Save" data-size="line">.
 
-### Checking the status of a Creative Group
+### Comprobación del estado de un Grupo de Creatividades
 
-In the Creative Group list, by hovering the mouse over the warning sign, you can check the status of your creative.
+En la lista de grupos de creatividades, al pasar el ratón sobre la señal de advertencia, puede comprobar el estado de su creatividad.
 
-<figure><img src="../../.gitbook/assets/image (242).png" alt=""><figcaption><p>Issue being displayed for a creative group</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (242).png" alt=""><figcaption><p>Problema mostrado para un grupo de creatividades</p></figcaption></figure>
 
-Once all issues are addressed the creative group will display a <img src="../../.gitbook/assets/image (562).png" alt="Check" data-size="line">.
+Una vez que se hayan solucionado todos los problemas, el grupo de creatividades mostrará <img src="../../.gitbook/assets/image (562).png" alt="Check" data-size="line">.
 
-### Archiving and Unarchiving a Creative Group
+### Archivado y desarchivado de un grupo de creatividades
 
-Creative Groups that are not being used frequently can be archived by clicking on the <img src="../../.gitbook/assets/archive.png" alt="Archive" data-size="line"> button. Archiving a creative group does not prevent it from being used or displayed, just hides it from main view.
+Los grupos de creatividades que no se utilicen con frecuencia pueden archivarse haciendo clic en el <img src="../../.gitbook/assets/archive.png" alt="Archive" data-size="line"> botón. Archivar un grupo de creatividades no impide que se utilice o se muestre; simplemente lo oculta de la vista principal.
 
-To see all archived creative groups, simply turn on the <img src="../../.gitbook/assets/archive filter.png" alt="Archived" data-size="line"> filter. You can unarchive <img src="../../.gitbook/assets/unarchive.png" alt="Unarchive" data-size="line"> a creative to move it to the main view.
+Para ver todos los grupos de creatividades archivados, simplemente active el <img src="../../.gitbook/assets/archive filter.png" alt="Archived" data-size="line"> filtro. Puede desarchivar <img src="../../.gitbook/assets/unarchive.png" alt="Unarchive" data-size="line"> una creatividad para moverla a la vista principal.
 
-### Deleting a Creative Group
+### Eliminación de un Grupo de Creatividades
 
-You can delete a creative group by clicking on <img src="../../.gitbook/assets/delete.png" alt="Delete" data-size="line">. If the creative group is being used, you will be presented with a list of ads that will be affected. If you confirm the deletion, the ads will be modified to remove the deleted creative group from rotation.
+Puede eliminar un grupo de creatividades haciendo clic en<img src="../../.gitbook/assets/delete.png" alt="Delete" data-size="line">. Si el grupo de creatividades está en uso, se le presentará una lista de los anuncios que se verán afectados. Si confirma la eliminación, los anuncios se modificarán para eliminar el grupo de creatividades borrado de la rotación.
 
-<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption><p>Delete confirmation screen showing that the creative group is being used.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption><p>Pantalla de confirmación de eliminación que muestra que el grupo de creatividades está en uso.</p></figcaption></figure>
 
 {% hint style="danger" %}
-Attention! If you delete a creative group, all data related to that creative group, including previously collected metrics, will also be deleted, this action cannot be undone.
+¡Atención! Si elimina un grupo de creatividades, también se eliminarán todos los datos relacionados con dicho grupo, incluidas las métricas recopiladas anteriormente; esta acción no se puede deshacer.
 {% endhint %}
 
-## Monitoring Creative Groups
+## Monitoreo de Grupos de Creatividades
 
-### Metrics Tab
+### Pestaña de métricas
 
-The metrics tab will display all metrics related to the selected creatives or for the whole account if no creatives are selected. Find below all metrics available for your creative groups.
+La pestaña de métricas mostrará todas las estadísticas relacionadas con las creatividades seleccionadas o para toda la cuenta si no se selecciona ninguna. A continuación, encontrará todas las métricas disponibles para sus grupos de creatividades.
 
-* [Deliveries](ad-server-metrics.md#deliveries-and-delivery-rate)
-* [Displays & Display Rate](ad-server-metrics.md#displays-and-display-rate)
-* [Views](ad-server-metrics.md#views)
-* [Viewability](ad-server-metrics.md#viewability)
-* [Clicks and CTR](ad-server-metrics.md#clicks-and-ctr)
-* [Click to Page Load Rate](ad-server-metrics.md#click-to-page-load-rate)
-* [Time to Display](ad-server-metrics.md#time-to-display)
-* [Time to View](ad-server-metrics.md#time-to-view)
-* [Time to Click](ad-server-metrics.md#time-to-click)
-* [Time to Page Load](ad-server-metrics.md#time-to-page-load)
-* [Page Loads](ad-server-metrics.md#page-loads)
-* [Page Load Rate](ad-server-metrics.md#page-load-rate)
+* [Entregas](ad-server-metrics.md#deliveries-and-delivery-rate)
+* [Impresiones y Tasa de impresión](ad-server-metrics.md#displays-and-display-rate)
+* [Visualizaciones](ad-server-metrics.md#views)
+* [Visibilidad](ad-server-metrics.md#viewability)
+* [Clics y CTR](ad-server-metrics.md#clicks-and-ctr)
+* [Tasa de clics a carga de página](ad-server-metrics.md#click-to-page-load-rate)
+* [Tiempo hasta la impresión](ad-server-metrics.md#time-to-display)
+* [Tiempo hasta la visualización](ad-server-metrics.md#time-to-view)
+* [Tiempo hasta el clic](ad-server-metrics.md#time-to-click)
+* [Tiempo hasta la carga de la página](ad-server-metrics.md#time-to-page-load)
+* [Cargas de página](ad-server-metrics.md#page-loads)
+* [Tasa de carga de página](ad-server-metrics.md#page-load-rate)
 
-#### A/B testing
+#### Pruebas A/B
 
-To check the performance of the creatives in a group, select the desired group on the list and then switch the metrics to be grouped by Creative instead of by Creative Group. You can then compare any of the available metrics between the creatives being tested in the group.
+Para comprobar el rendimiento de las creatividades dentro de un grupo, seleccione el grupo deseado en la lista y, a continuación, cambie la configuración de las métricas para que se agrupen por Creatividad en lugar de por Grupo de creatividades. De este modo, podrá comparar cualquiera de las métricas disponibles entre las creatividades que se están probando en el grupo.
 
-<figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption><p>Checking metrics of an A/B creative test</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption><p>Comprobación de métricas de un test A/B de creatividades</p></figcaption></figure>
 
-### Real Time Tab
+### Pestaña de Tiempo Real
 
-The real time tab will display real time events related to the selected creative group.
+La pestaña de tiempo real mostrará los eventos en tiempo real relacionados con el grupo de creatividades seleccionado.&#x20;
 
-Learn more about the [Real Time tab](../demand-side-platform-dsp/real-time-tab.md).
+Obtenga más información sobre la [Pestaña de Tiempo Real](../demand-side-platform-dsp/real-time-tab.md).

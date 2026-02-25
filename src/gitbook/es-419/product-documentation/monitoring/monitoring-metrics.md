@@ -1,95 +1,95 @@
 # Métricas de Monitoreo
 
-These are all the metrics available in the Monitoring feature for analyzing the data provided by your configured events. The Event Stores metrics tab will present events related to all event pipes that have occurred and will be available for download. The Event Pipes tab will present metrics related to all your created pipes, letting you know if the pipes are working correctly.
+Estas son todas las métricas disponibles en la función de supervisión para analizar los datos proporcionados por los eventos configurados. La pestaña Métricas de almacenes de eventos mostrará los eventos relacionados con todas las tuberías de eventos que se han producido y estarán disponibles para su descarga. La pestaña Tuberías de eventos mostrará las métricas relacionadas con todas las tuberías creadas, lo que le permitirá saber si las tuberías funcionan correctamente.&#x20;
 
 {% hint style="info" %}
-You can learn more about how metrics are handled by visiting the [Metrics page](../../../es-419/product-documentation/metricas.md).
+Para obtener más información sobre cómo se gestionan las métricas, visite la página [Métricas](../metricas.md).
 {% endhint %}
 
-### Stream Bytes
+### Bytes de Flujo
 
-It Is populated by having Event Streams available for download, according to the size of each event stream, this metric will present the sum of all your event streams' bytes.
+Se rellena con los flujos de eventos disponibles para su descarga. Según el tamaño de cada flujo de eventos, esta métrica presentará la suma de todos los bytes de sus flujos de eventos.
 
-<figure><img src="../../../es-419/.gitbook/assets/Stream Bytes.png" alt=""><figcaption><p>Stream Bytes Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Stream Bytes.png" alt=""><figcaption><p>Bytes de Flujo</p></figcaption></figure>
 
-_**Example:** After having an event store populated, it will present event streams related to the pipes selected. Then you will be able to check the size and date of each pipe separately. The graph will populate as the stream's size increases. It is possible to see on this graph that it reached nearly 2 MB in size within a week._
+_**Ejemplo:** Después de haber poblado un almacén de eventos (event store), este presentará flujos de eventos (event streams) relacionados con los conductos (pipes) seleccionados. Entonces podrá comprobar el tamaño y la fecha de cada flujo por separado. El gráfico se poblará a medida que aumente el tamaño del flujo. En este gráfico es posible ver que alcanzó un tamaño de casi 2 MB en una semana._
 
-### Stream Count
+### Recuento de Flujos
 
-It presents the count of each event stream presented on your event store, if the event store has many pipes related to it, the count will be high.
+Esta métrica presenta el recuento de cada flujo de eventos presente en su almacén de eventos; si el almacén de eventos tiene muchos conductos relacionados, el recuento será elevado.
 
-<figure><img src="../../../es-419/.gitbook/assets/Stream Count.png" alt=""><figcaption><p>Stream Count Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Stream Count.png" alt=""><figcaption><p>Recuento de Flujos</p></figcaption></figure>
 
-_**Example:** When creating event pipes, you must select an event store or a webhook to send the data. Once you select an event store, each pipe you create to the same event store will generate an event stream when receiving data. It is important to note that if you have too many event pipes to the same event store, it is advisable to separate them in order to better organize your event streams. On this graph, you can see that the stream count reached a peak of nearly 200 streams._
+_**Ejemplo:** Al crear conductos de eventos (event pipes), debe seleccionar un almacén de eventos o un webhook para enviar los datos. Una vez que selecciona un almacén de eventos, cada conducto que cree hacia ese mismo almacén generará un flujo de eventos al recibir datos. Es importante tener en cuenta que, si tiene demasiados conductos de eventos hacia el mismo almacén, es aconsejable separarlos para organizar mejor sus flujos de eventos. En este gráfico, puede ver que el recuento de flujos alcanzó un pico de casi 200 flujos._
 
-### Stream Upload Bytes
+### Bytes de Subida de Flujo
 
-Presents the total amount of bytes uploaded to your event streams tab, leaving streams available for download.
+Presenta la cantidad total de bytes subidos a la pestaña de flujos de eventos, dejando los flujos disponibles para su descarga.
 
-<figure><img src="../../../es-419/.gitbook/assets/Stream Upload Bytes.png" alt=""><figcaption><p>Stream Upload Bytes Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Stream Upload Bytes.png" alt=""><figcaption><p>Bytes de Subida de Flujo</p></figcaption></figure>
 
-_**Example:** Each event stream is uploaded to your selected event store after a few minutes, being available for download as a .JSON file. The metric will present the sum of all uploaded event streams' bytes to your event store. On this graph, we can see that on specific dates, the data was significantly reduced due to the expiration date of each event stream or deletion._
+_**Ejemplo:** Cada flujo de eventos se sube a su almacén de eventos seleccionado después de unos minutos, quedando disponible para su descarga como un archivo .JSON. La métrica presentará la suma de todos los bytes de los flujos de eventos subidos a su almacén de eventos. En este gráfico, podemos ver que en fechas específicas los datos se redujeron significativamente debido a la fecha de expiración de cada flujo de eventos o a su eliminación._
 
-### Stream Upload Count
+### Recuento de Subida de Flujos
 
-This metric presents the total upload count, related to each event stream's data collected and presented for download, once they expire or get deleted, the count will decrease.
+Esta métrica presenta el recuento total de subidas relacionadas con los datos recolectados y presentados para descarga de cada flujo de eventos; una vez que estos expiren o sean eliminados, el recuento disminuirá.
 
-<figure><img src="../../../es-419/.gitbook/assets/stream upload count.png" alt=""><figcaption><p>Stream Upload Count Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/stream upload count.png" alt=""><figcaption><p>Recuento de Subida de Flujos</p></figcaption></figure>
 
-_**Example:** On this graph, it is possible to see that on some dates the count reached nearly zero due to having no active event pipes or because of a cleanup. It is important to check your upload count since it might impact how you are organizing your event streams. Having too many event streams to organize can be confusing, so a cleanup or optimization should be done from time to time._
+_**Ejemplo:** En este gráfico, es posible ver que en algunas fechas el recuento llegó casi a cero debido a que no había conductos de eventos activos o a causa de una limpieza. Es importante verificar su recuento de subidas, ya que podría afectar la forma en que organiza sus flujos de eventos. Tener demasiados flujos de eventos que organizar puede resultar confuso, por lo que se debe realizar una limpieza u optimización de vez en cuando._
 
-### Stream Download Bytes
+### Bytes de Descarga de Flujo
 
-This metric represents the sum of all downloaded bytes of your event streams and will be populated only when the event stream has been downloaded.
+Esta métrica representa la suma de todos los bytes descargados de sus flujos de eventos y se poblará únicamente cuando el flujo de eventos haya sido descargado.
 
-<figure><img src="../../../es-419/.gitbook/assets/Stream Download Bytes.png" alt=""><figcaption><p>Stream Download Bytes Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Stream Download Bytes.png" alt=""><figcaption><p>Bytes de Descarga de Flujo</p></figcaption></figure>
 
-_**Example:** Once you start downloading your event streams' data, you will be informed of the total number of bytes downloaded each day. This helps you keep track of how much data was downloaded. If the data volume is high, it indicates that many events were captured from the event stream. In this graph, you can see that only 2 KB of data was downloaded._
+_**Ejemplo:** Una vez que comience a descargar los datos de sus flujos de eventos, se le informará del número total de bytes descargados cada día. Esto le ayuda a realizar un seguimiento de cuánta información se ha descargado. Si el volumen de datos es alto, indica que se capturaron muchos eventos del flujo de eventos. En este gráfico, puede ver que solo se descargaron 2 KB de datos._
 
-### Stream Download Count
+### Recuento de Descargas de Flujo
 
-This metric represents the event streams downloaded, which will be populated every time you download an event stream.
+Esta métrica representa los flujos de eventos descargados y se poblará cada vez que usted descargue un flujo de eventos.
 
-<figure><img src="../../../es-419/.gitbook/assets/Stream Download Count.png" alt=""><figcaption><p>Stream Download Count Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Stream Download Count.png" alt=""><figcaption><p>Recuento de Descargas de Flujo</p></figcaption></figure>
 
-_**Example:** If you organize yourself to download the collected event pipe data every week or every two weeks, the metric will inform you so that you don't lose track of your established schedule. In this graph, you can see that the event streams were downloaded only after a week._
+_**Ejemplo:** Si se organiza para descargar los datos recolectados de los conductos de eventos cada semana o cada dos semanas, la métrica le informará para que no pierda el hilo de su cronograma establecido. En este gráfico, puede ver que los flujos de eventos se descargaron solo después de una semana._
 
-### Stream Delete Bytes
+### Bytes de Eliminación de Flujo
 
-This metric is populated every time an event stream is deleted by showing you the sum of all bytes deleted, either manually or by the retention date set upon event store creation.
+Esta métrica se puebla cada vez que se elimina un flujo de eventos, mostrándole la suma de todos los bytes eliminados, ya sea manualmente o por la fecha de retención establecida al crear el almacén de eventos.
 
-<figure><img src="../../../es-419/.gitbook/assets/Stream Delete Bytes.png" alt=""><figcaption><p>Stream Delete Bytes Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Stream Delete Bytes.png" alt=""><figcaption><p>Bytes de Eliminación de Flujo</p></figcaption></figure>
 
-_**Example:** Once you start collecting data for your event store, you will set a retention date for the data. Every time the data reaches that date, your event stream will be deleted, or you can also delete it manually. In this graph, you can see that, at some point, nearly all event streams were deleted._
+_**Ejemplo:** Una vez que comience a recopilar datos para su almacén de eventos, establecerá una fecha de retención para los mismos. Cada vez que los datos alcancen esa fecha, su flujo de eventos se eliminará; también puede eliminarlos manualmente. En este gráfico, puede ver que, en un momento dado, se eliminaron casi todos los flujos de eventos._
 
-### Stream Delete Count
+### Recuento de Eliminación de Flujos
 
-This metric represents the total count of deleted event streams, they are populated either by retention deletion or manual deletion.
+Esta métrica representa el recuento total de flujos de eventos eliminados; se pobla ya sea por eliminación por retención o por eliminación manual.
 
-<figure><img src="../../../es-419/.gitbook/assets/Stream Delete Count.png" alt=""><figcaption><p>Stream Delete Count Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Stream Delete Count.png" alt=""><figcaption><p>Recuento de Eliminación de Flujos</p></figcaption></figure>
 
-_**Example:** On this graph, you can see that the delete count follows a pattern, but on some dates, a lower amount was deleted. This could be due to a change in the retention date or fewer event streams being enabled. Deleting data can help you keep it more organized._
+_**Ejemplo:** En este gráfico, puede ver que el recuento de eliminaciones sigue un patrón, pero en algunas fechas se eliminó una cantidad menor. Esto podría deberse a un cambio en la fecha de retención o a que se habilitaron menos flujos de eventos. Eliminar datos puede ayudarle a mantenerlos más organizados._
 
-### Matched Events Count
+### Recuento de Eventos Coincidentes
 
-This metric is populated each time an event is matched to your event pipe's criteria, once it meets your configuration it collects data.
+Esta métrica se puebla cada vez que un evento coincide con los criterios de su conducto (pipe) de eventos; una vez que cumple con su configuración, comienza a recolectar datos.
 
-<figure><img src="../../../es-419/.gitbook/assets/Matched Events Count.png" alt=""><figcaption><p>Matched Events Count Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Matched Events Count.png" alt=""><figcaption><p>Recuento de Eventos Coincidentes</p></figcaption></figure>
 
-_**Example:** Every time an event meets the criteria established during event pipe creation, this metric will be updated. It is important to monitor this metric, as it indicates whether the criteria are being correctly met; otherwise, there will be no data to collect. In this graph, you can see that at some point, it peaked at nearly 250,000 events. The metric will vary based on the number of campaigns running at the time._
+_**Ejemplo:** Cada vez que un evento cumple con los criterios establecidos durante la creación del conducto de eventos (event pipe), esta métrica se actualizará. Es importante monitorear esta métrica, ya que indica si los criterios se están cumpliendo correctamente; de lo contrario, no habrá datos para recolectar. En este gráfico, puede ver que en un momento dado alcanzó un pico de casi 250,000 eventos. La métrica variará en función del número de campañas que se estén ejecutando en ese momento._
 
-### Target Execution Call Count
+### Recuento de Llamadas de Ejecución de Destino
 
-This metric is populated after the matched events succeed, every matched event will be sent to a target execution call, according to the criteria established, this metric will nearly always follow the same parameters as the matched event count.
+Esta métrica se puebla después de que los eventos coincidentes tienen éxito; cada evento coincidente se enviará a una llamada de ejecución de destino según los criterios establecidos. Esta métrica casi siempre seguirá los mismos parámetros que el recuento de eventos coincidentes.
 
-<figure><img src="../../../es-419/.gitbook/assets/Target Execution Call Count.png" alt=""><figcaption><p>Target Execution Call Count Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Target Execution Call Count.png" alt=""><figcaption><p>Recuento de Llamadas de Ejecución de Destino</p></figcaption></figure>
 
-_**Example:** After an event matches the criteria, our system will execute the established event pipe, collect the data according to the parameters, and then send it to an event store or webhook, as configured. In this graph, you can see the matched event count._
+_**Ejemplo:** Después de que un evento coincide con los criterios, nuestro sistema ejecutará el conducto de eventos (event pipe) establecido, recopilará los datos según los parámetros y luego los enviará a un almacén de eventos o webhook, según lo configurado. En este gráfico, puede ver el recuento de eventos coincidentes._
 
-### Target Execution Failure Rate
+### Tasa de Fallo de Ejecución de Destino
 
-This metric is populated by the failures of a call execution, if there is any error instability on the platform or at the event pipe's configuration, our system will populate the failure rate metric.
+Esta métrica se puebla con los fallos de una ejecución de llamada; si hay algún error, inestabilidad en la plataforma o en la configuración del conducto de eventos, nuestro sistema poblará la métrica de tasa de fallos.
 
-<figure><img src="../../../es-419/.gitbook/assets/Target Execution Failure Rate.png" alt=""><figcaption><p>Target Execution Failure Rate Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Target Execution Failure Rate.png" alt=""><figcaption><p>Tasa de Fallo de Ejecución de Destino</p></figcaption></figure>
 
-_**Example:** If a call execution fails, check your event pipe configuration or if the platform is experiencing instability, as this can cause the call execution to fail. In this graph, you can see that over the period of a month, there was a 1% failure rate on one day, followed by no failures afterward._
+_**Ejemplo:** Si falla la ejecución de una llamada, compruebe la configuración de su canal de eventos o si la plataforma está experimentando inestabilidad, ya que esto puede provocar que falle la ejecución de la llamada. En este gráfico, puede ver que, durante un mes, hubo una tasa de fallos del 1 % en un día, seguida de ningún fallo posterior._

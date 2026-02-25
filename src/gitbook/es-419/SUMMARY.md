@@ -40,10 +40,10 @@
   * [Facturación de Campañas](product-documentation/demand-side-platform-dsp/campaign-billing.md)
   * [Verificar Clasificación de URL](product-documentation/demand-side-platform-dsp/check-url-classification.md)
 * [Plataforma de Gestión de Datos (DMP)](product-documentation/data-management-platform-dmp/README.md)
-  * [Pools de Cookies](product-documentation/data-management-platform-dmp/cookie-pools.md)
+  * [Cookie Pools](product-documentation/data-management-platform-dmp/cookie-pools.md)
   * [Rastreadores](product-documentation/data-management-platform-dmp/trackers/README.md)
     * [Instrucciones de Instalación](product-documentation/data-management-platform-dmp/trackers/install-instructions.md)
-  * [Pools de Identificadores](product-documentation/data-management-platform-dmp/identifier-pools.md)
+  * [Identifier Pools](product-documentation/data-management-platform-dmp/identifier-pools.md)
   * [Métricas de DMP](product-documentation/data-management-platform-dmp/dmp-metrics.md)
   * [Facturación de DMP](product-documentation/data-management-platform-dmp/dmp-billing.md)
 * [Servicio de Almacenamiento de Catálogos (CS2)](product-documentation/catalog-storage-service-cs2/README.md)
@@ -70,10 +70,10 @@
 * [Contenedores de Etiquetas](product-documentation/tag-container/README.md)
   * [Métricas de Contenedores de Etiquetas](product-documentation/tag-container/metricas-de-contenedores-de-etiquetas.md)
 
-## Third-Party Integrations
+## Integraciones de Terceros
 
-* [Herramienta Webhook (Zapier)](third-party-integrations/webhook-tool-zapier.md)
-* [Google Tag Manager](third-party-integrations/google-tag-manager.md)
-* [Voluum](third-party-integrations/voluum.md)
-* [Sincronización Externa de Data Lake (AWS)](third-party-integrations/external-data-lake-sync-aws.md)
-* [Looker Studio](third-party-integrations/looker-studio.md)
+* [Herramienta Webhook (Zapier)](integraciones-de-terceros/webhook-tool-zapier.md)
+* [Google Tag Manager](integraciones-de-terceros/google-tag-manager.md)
+* [Voluum](integraciones-de-terceros/voluum.md)
+* [Sincronización Externa de Data Lake (AWS)](integraciones-de-terceros/external-data-lake-sync-aws.md)
+* [Looker Studio](integraciones-de-terceros/looker-studio.md)

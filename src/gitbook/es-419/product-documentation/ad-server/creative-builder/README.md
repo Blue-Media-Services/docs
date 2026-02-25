@@ -1,13 +1,13 @@
 # Constructor de Creativos
 
-Our platform offers an alternative method for creating creatives. You can create them through our **Blueprints** and **Builds** tab, by using them you will be capable of creating dynamic banners totally customizable, which will grant you freedom in creating these creatives.
+Nuestra plataforma ofrece un método alternativo para crear creatividades. Puedes crearlas a través de nuestra pestaña **Blueprints** and **Builds** (Planos y construcciones), que te permitirá crear banners dinámicos totalmente personalizables, lo que te dará libertad para crear estas creatividades.
 
 ### Blueprints
 
-Blueprints are models for creating ads quickly and efficiently. These pre-made models allow you to build ads that align with your business needs effortlessly.
+Los planos son modelos para crear anuncios de forma rápida y eficaz. Estos modelos predefinidos te permiten crear anuncios que se ajustan a las necesidades de tu negocio sin esfuerzo.
 
-Built on web design languages, Blueprints can offer you the flexibility of creating dynamic banners. Even, if you are not familiar with web development languages, you can confidently use one of the pre-made Blueprints available.
+Basado en lenguajes de diseño web, Blueprints te ofrece la flexibilidad de crear banners dinámicos. Incluso si no estás familiarizado con los lenguajes de desarrollo web, puedes utilizar con confianza uno de los Blueprints predefinidos disponibles.
 
 ### Builds
 
-On builds, you will be using your previously created blueprint to generate creatives in bulk and customize them according to your campaign's needs.
+En las creaciones, utilizará el modelo creado anteriormente para generar creatividades de forma masiva y personalizarlas según las necesidades de su campaña.

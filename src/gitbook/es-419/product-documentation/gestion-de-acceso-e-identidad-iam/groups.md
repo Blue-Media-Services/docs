@@ -4,12 +4,12 @@ Crear grupos para simplificar la gestión de políticas entre varios usuarios. U
 
 ## Gestión de Grupos
 
-<figure><img src="../../.gitbook/assets/image (773).png" alt=""><figcaption><p>Groups List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (773).png" alt=""><figcaption><p>Lista de Grupos</p></figcaption></figure>
 
 1. Haga clic en <img src="../../.gitbook/assets/image (777).png" alt="" data-size="line"> para agregar un nuevo grupo.
-2.  Complete los detalles:\\
+2.  Complete los detalles:
 
-    <figure><img src="../../.gitbook/assets/image (778).png" alt=""><figcaption><p>Groups Editor</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (778).png" alt=""><figcaption><p>Editor de Grupos</p></figcaption></figure>
 
     * Nombre: Indique el nombre de su grupo.
     * Etiquetas: Asigne etiquetas para su organización.
@@ -36,13 +36,13 @@ En la pestaña de Usuarios, podrás editar los usuarios de tus grupos. Seleccion
 1. Haz clic en <img src="../../.gitbook/assets/image (782).png" alt="" data-size="line"> para agregar un nuevo usuario a tu grupo.
 2. Ingresa el correo electrónico del usuario.
 
-<figure><img src="../../.gitbook/assets/image (783).png" alt=""><figcaption><p>Add User</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (783).png" alt=""><figcaption><p>Añadir Usuario</p></figcaption></figure>
 
 3. Haz clic en <img src="../../.gitbook/assets/image (784).png" alt="" data-size="line"> para agregar al usuario.
 
 Selecciona múltiples usuarios para realizar acciones masivas que afectarán a todos los usuarios seleccionados.
 
-### Eliminar usuarios
+### Eliminar Usuarios
 
 {% hint style="danger" %}
 ¡Atención! Ten cuidado al eliminar usuarios, esta acción no se puede deshacer y el usuario perderá acceso a las funciones relacionadas con las políticas del grupo.

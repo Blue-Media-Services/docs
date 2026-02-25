@@ -1,111 +1,111 @@
 # Métricas de Ad Server
 
-Here you will find all metrics related to our Ad Server product, they will appear according to each feature, it will help you understand how the feature is performing and provide valuable insights to make strategic decisions on your campaign. Additionally, when reviewing metrics, you can always use the <img src="../../.gitbook/assets/image (462).png" alt="" data-size="line"> to access our articles about a specific metric.
+Aquí encontrará todas las métricas relacionadas con nuestro producto Ad Server, que aparecerán según cada función, lo que le ayudará a comprender el rendimiento de la función y le proporcionará información valiosa para tomar decisiones estratégicas sobre su campaña. Además, al revisar las métricas, siempre puede utilizar el <img src="../../.gitbook/assets/image (462).png" alt="" data-size="line"> para acceder a nuestros artículos sobre una métrica específica.
 
 {% hint style="info" %}
-You can learn more about how metrics are handled by visiting the [Metrics page](../metricas.md).
+Puede obtener más información sobre cómo se gestionan las métricas visitando la página [Métricas](../metricas.md).
 {% endhint %}
 
-### **Deliveries and Delivery Rate**
+### **Entregas y tasa de entrega**
 
-This metric represents the number of ads served from the Ad Server, based on the end user's browser requesting the content. This means your ad will be in the user's browser.
+Esta métrica representa el número de anuncios servidos desde el Ad Server, basándose en el navegador del usuario final que solicita el contenido. Esto significa que su anuncio aparecerá en el navegador del usuario.
 
-<div><figure><img src="../../.gitbook/assets/image (95) (1).png" alt=""><figcaption><p>Deliveries Metric</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Deliveries and Delivery.png" alt=""><figcaption><p>Deliveries % Metric</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (95) (1).png" alt=""><figcaption><p>Entregas métricas</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Deliveries and Delivery.png" alt=""><figcaption><p>Entregas % métricas</p></figcaption></figure></div>
 
-_**Example:** In this graph, you can see that a peak of almost 700 deliveries was reached, with an average delivery rate of 100%. This means your ads are being delivered to the correct audience without any restrictions on their domain. The Delivery metric is often related to the Impressions metric. After winning a bid, your ad will be served to the domain. However, if your delivery does not get a similar result as the impressions, it may be caused by the domain's rules, towards blocking some specific kind of Ads._
+_**Ejemplo:** En este gráfico, se puede observar que se alcanzó un pico de casi 700 entregas, con una tasa de entrega promedio del 100 %. Esto significa que sus anuncios se están entregando a la audiencia correcta sin ninguna restricción en su dominio. La métrica de entrega suele estar relacionada con la métrica de impresiones. Después de ganar una puja, su anuncio se mostrará en el dominio. Sin embargo, si su entrega no obtiene un resultado similar al de las impresiones, puede deberse a las reglas del dominio, que bloquean algún tipo específico de anuncios._&#x20;
 
-### **Displays and Display Rate**
+### **Pantallas y Frecuencia de actualización**
 
-This metric represents the number of ads displayed in a browser. It indicates that the ad has been downloaded and shown to the user's browser.
+Esta métrica representa el número de anuncios mostrados en un navegador. Indica que el anuncio se ha descargado y mostrado en el navegador del usuario.
 
-<div><figure><img src="../../.gitbook/assets/Display.png" alt=""><figcaption><p>Displays Metric</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Display2.png" alt=""><figcaption><p>Display % Metric</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Display.png" alt=""><figcaption><p>Muestra métricas</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Display2.png" alt=""><figcaption><p>Mostrar % métrico</p></figcaption></figure></div>
 
-_**Example:** In this graph, you can see that a peak of nearly 650 Displays was reached. Even though your impression numbers are a bit higher, the display rate is not reaching 100%. This can be caused by the ad not being positioned well enough, causing the user to not see the ad for even a fraction of their browsing routine. Making changes to the positioning and making the creative more attractive can increase the display rate of your ads._
+_**Ejemplo:** en este gráfico, se puede observar que se alcanzó un pico de casi 650 visualizaciones. Aunque el número de impresiones es ligeramente superior, la tasa de visualización no alcanza el 100 %. Esto puede deberse a que el anuncio no está bien posicionado, lo que hace que el usuario no lo vea ni siquiera durante una fracción de su rutina de navegación. Realizar cambios en la posición y hacer que el creativo sea más atractivo puede aumentar la tasa de visualización de sus anuncios._&#x20;
 
-### **Views**
+### **Vistas**
 
-Number of views according to the **Media Ratings Council Guidelines**, 50% of the ad must be on screen for at least 1 second. This metric is only validated once the user meets the **MRCG** requirements.
+Número de visualizaciones según las directrices del **Media Ratings Council** (Consejo de Calificación de Medios): el 50 % del anuncio debe permanecer en pantalla durante al menos 1 segundo. Esta métrica solo se valida una vez que el usuario cumple los requisitos del **MRCG**.
 
-<figure><img src="../../.gitbook/assets/Viewws.png" alt=""><figcaption><p>Views Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Viewws.png" alt=""><figcaption><p>Métrica de visitas</p></figcaption></figure>
 
-_**Example:** In this graph, a peak of nearly 400 Views can be seen on June 11th. If the views are close to the delivery and display numbers, you can analyze that your Ad is attractive and is achieving a branding result, since people are effectively seeing your ad. The ad must be displayed in the user's browser, and the user needs to see at least 50% of the ad for at least 1 second. If only 40% of the ad is shown, it will not count as a view._
+_**Ejemplo:** En este gráfico, se puede observar un pico de casi 400 visualizaciones el 11 de junio. Si las visualizaciones se acercan a las cifras de entrega y visualización, se puede analizar que el anuncio es atractivo y está logrando un resultado de marca, ya que las personas están viendo efectivamente el anuncio. El anuncio debe mostrarse en el navegador del usuario, y este debe ver al menos el 50 % del anuncio durante al menos 1 segundo. Si solo se muestra el 40 % del anuncio, no se contará como una vista._&#x20;
 
-### **Viewability**
+### **Visibilidad**
 
-The ratio of views to the total number of deliveries is an important metric to measure if your ads are being viewed. Based on this, you might need to change your campaign's strategy.
+La relación entre las visualizaciones y el número total de entregas es una métrica importante para medir si tus anuncios están siendo vistos. En función de esto, es posible que debas cambiar la estrategia de tu campaña.
 
-<figure><img src="../../.gitbook/assets/Viewability (1).png" alt=""><figcaption><p>Viewability Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Viewability (1).png" alt=""><figcaption><p>Métrica de visibilidad</p></figcaption></figure>
 
-_**Example:** You can see in this graph that the campaign started with an average viewability of 50% to 80%, and after some changes, it reached a peak of 100% viewability. If your ads are not being viewed, you might need to check your creative and make changes or even change the positioning of your ads to make them more visible. Keep in mind that changing the positioning can also increase the bidding price due to the spot being more competitive._
+_**Ejemplo:** En este gráfico se puede observar que la campaña comenzó con una visibilidad media del 50 % al 80 % y, tras algunos cambios, alcanzó un pico de visibilidad del 100 %. Si sus anuncios no se están viendo, es posible que deba revisar su creatividad y realizar cambios o incluso modificar la ubicación de sus anuncios para que sean más visibles. Tenga en cuenta que cambiar la ubicación también puede aumentar el precio de la puja, ya que el espacio será más competitivo._&#x20;
 
-### **Viewability and Visibility Duration**
+### **Visibilidad y Duración de la visibilidad**
 
-Viewability duration represents the median amount of time, in seconds, that an ad remained at least 50% visible on the screen, and visibility duration represents the total time that your ads were at least 1% visible. While visibility duration tracks total exposure time, viewability duration measures the quality of attention. Combine the data on these metrics to understand your engagement depth, to identify fraud or poor ad placement and other insights.
+La duración de la visibilidad representa el tiempo medio, en segundos, que un anuncio permaneció al menos un 50 % visible en la pantalla, y la duración de la visibilidad representa el tiempo total que tus anuncios estuvieron al menos un 1 % visibles. Mientras que la duración de la visibilidad realiza un seguimiento del tiempo total de exposición, la duración de la visibilidad mide la calidad de la atención. Combina los datos de estas métricas para comprender la profundidad de tu interacción, identificar fraudes o ubicaciones inadecuadas de anuncios y obtener otras perspectivas.&#x20;
 
-<div><figure><img src="../../.gitbook/assets/Captura de tela 2025-04-24 112827.png" alt=""><figcaption><p>Viewability Duration Metric</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Captura de tela 2025-04-24 113259.png" alt=""><figcaption><p>Visibility Duration Metric</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Captura de tela 2025-04-24 112827.png" alt=""><figcaption><p>Métrica de duración de la visibilidad</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Captura de tela 2025-04-24 113259.png" alt=""><figcaption><p>Métrica de duración de la visibilidad</p></figcaption></figure></div>
 
-_**Example**: These graphs display viewability and visibility duration over a 24-hour time frame, segmented into 6-hour intervals. At 12:00 AM, the average viewability duration was slightly above 20 seconds, meaning ads delivered during this period remained at least 50% visible for an average of 20 seconds. At this same period, the visibility duration was 13 hours and 25 minutes. Considering that this campaign had 8300 deliveries in this same period, a 20s median viewability and 13h25m total visibility show strong engagement—most ads held meaningful screen time, avoiding fleeting exposure while ensuring broad reach. In the next intervals, the duration dropped to 17 seconds, then fluctuated around 10 seconds for the remainder of the time frame, while the visibility also dropped from 13h to 1h at the last period._
+_**Ejemplo:** Estos gráficos muestran la visibilidad y la duración de la visibilidad en un periodo de 24 horas, segmentado en intervalos de 6 horas. A las 12:00 a. m., la duración media de la visibilidad era ligeramente superior a 20 segundos, lo que significa que los anuncios entregados durante este periodo permanecieron visibles al menos en un 50 % durante una media de 20 segundos. En este mismo periodo, la duración de la visibilidad fue de 13 horas y 25 minutos. Teniendo en cuenta que esta campaña tuvo 8300 entregas en este mismo período, una visibilidad media de 20 segundos y una visibilidad total de 13 horas y 25 minutos muestran un fuerte compromiso: la mayoría de los anuncios mantuvieron un tiempo de pantalla significativo, evitando una exposición fugaz y garantizando al mismo tiempo un amplio alcance. En los siguientes intervalos, la duración se redujo a 17 segundos y luego fluctuó en torno a los 10 segundos durante el resto del periodo, mientras que la visibilidad también se redujo de 13 horas a 1 hora en el último periodo._&#x20;
 
-### **Clicks and CTR**
+### **Clics y CTR**
 
-Number of clicks. If your campaign's strategy is based on clicks, pay attention to this metric and make the necessary adjustments.
+Número de clics. Si la estrategia de tu campaña se basa en los clics, presta atención a esta métrica y realiza los ajustes necesarios.
 
-<div><figure><img src="../../.gitbook/assets/Click.png" alt=""><figcaption><p>Clicks Metric</p></figcaption></figure> <figure><img src="../../.gitbook/assets/ctr (1).png" alt=""><figcaption><p>CTR Metric</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Click.png" alt=""><figcaption><p>Métrica de clics</p></figcaption></figure> <figure><img src="../../.gitbook/assets/ctr (1).png" alt=""><figcaption><p>Métrica de CTR</p></figcaption></figure></div>
 
-_**Example:** In this graph, you can see that a peak of almost 10 clicks was reached on certain ads. You can review this chart to identify which ads are not receiving the expected clicks and analyze how they differ from the ads that were clicked on, you also have to consider the used targets to understand in what audience your ads are performing better. A campaign based on Retargeting or Remarketing focuses on clicks to generate conversions. To achieve this, you need to create compelling creatives and may need to allocate a larger budget to ensure better positioning and target more specific audiences._
+_**Ejemplo:** En este gráfico, se puede observar que se alcanzó un pico de casi 10 clics en determinados anuncios. Puede revisar este gráfico para identificar qué anuncios no están recibiendo los clics esperados y analizar en qué se diferencian de los anuncios en los que se hizo clic. También debe tener en cuenta los objetivos utilizados para comprender en qué público están funcionando mejor sus anuncios. Una campaña basada en el retargeting o el remarketing se centra en los clics para generar conversiones. Para lograrlo, es necesario crear creatividades atractivas y es posible que se deba asignar un presupuesto mayor para garantizar un mejor posicionamiento y dirigirse a audiencias más específicas._&#x20;
 
-### **Time to Display**
+### **Tiempo de Display**
 
-This metric measures the time it takes for the ad to load and be displayed. If your ad is too heavy, it might encounter difficulties loading on weaker devices or slower internet connections.
+Esta métrica mide el tiempo que tarda el anuncio en cargarse y mostrarse. Si tu anuncio es demasiado pesado, puede tener dificultades para cargarse en dispositivos menos potentes o con conexiones a Internet más lentas.
 
-<figure><img src="../../.gitbook/assets/timetodisplay.png" alt=""><figcaption><p>Time to Display</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/timetodisplay.png" alt=""><figcaption><p>Tiempo de Display</p></figcaption></figure>
 
-_**Example:** You can see on this graph that some ads are on average taking over 3 seconds to load. If your ad is heavier or close to 2 MB, some users may experience longer loading times, resulting in delays before your ad appears. This can impact directly the visibility of your ad, potentially causing users to miss it during their browsing activities, optimizing your creative might help._
+_**Ejemplo:** En este gráfico se puede observar que algunos anuncios tardan una media de más de 3 segundos en cargarse. Si su anuncio es más pesado o se acerca a los 2 MB, algunos usuarios pueden experimentar tiempos de carga más largos, lo que provocará retrasos antes de que aparezca su anuncio. Esto puede afectar directamente a la visibilidad de su anuncio, lo que podría hacer que los usuarios lo pasen por alto durante sus actividades de navegación. Optimizar su creatividad podría ser de ayuda._&#x20;
 
-### **Time to View**
+### **Tiempo de visualización**
 
-This metric measures the time it takes for a user to view the ad. By examining this metric, you can assess whether adjustments are needed regarding the placement of your ad. If users are taking too long to view your ad, it might be poorly positioned.
+Esta métrica mide el tiempo que tarda un usuario en ver el anuncio. Al examinar esta métrica, puede evaluar si es necesario realizar ajustes en la ubicación de su anuncio. Si los usuarios tardan demasiado en ver su anuncio, es posible que esté mal posicionado.
 
-<figure><img src="../../.gitbook/assets/Time to View (1).png" alt=""><figcaption><p>Time to View Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Time to View (1).png" alt=""><figcaption><p>Tiempo para ver la métrica</p></figcaption></figure>
 
-_**Example:** In this metric, you can see that at the beginning of the campaign, the ads were being viewed much more quickly, largely due to their positioning. However, after some changes, the ads were taking significantly longer than intended, often extending beyond an additional 15 to 20 seconds. An ad displayed at the top of a page is much more visible than one on a side panel, which may require scrolling to view. As a result, changing the positioning of your ad will directly impact the time it takes for users to view it._
+_**Ejemplo:** En esta métrica, se puede observar que, al inicio de la campaña, los anuncios se veían mucho más rápidamente, debido en gran parte a su posicionamiento. Sin embargo, tras algunos cambios, los anuncios tardaban mucho más de lo previsto en verse, a menudo prolongándose más allá de los 15 o 20 segundos adicionales. Un anuncio que se muestra en la parte superior de una página es mucho más visible que uno que aparece en un panel lateral, que puede requerir desplazarse para verlo. Como resultado, cambiar la ubicación de su anuncio afectará directamente al tiempo que tardan los usuarios en verlo._&#x20;
 
-### **Time to Click**
+### **Tiempo para hacer clic**
 
-This metric measures the time it takes for a user to click on the ad. If users take too long to click, it could indicate that the ad is misplaced or not as attractive as expected. Consider making changes to enhance the attractiveness of your ad or adjusting its positioning.
+Esta métrica mide el tiempo que tarda un usuario en hacer clic en el anuncio. Si los usuarios tardan demasiado en hacer clic, podría indicar que el anuncio está mal ubicado o no es tan atractivo como se esperaba. Considere la posibilidad de realizar cambios para mejorar el atractivo de su anuncio o ajustar su posicionamiento.
 
-<figure><img src="../../.gitbook/assets/Time to Click (1).png" alt=""><figcaption><p>Time to Click Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Time to Click (1).png" alt=""><figcaption><p>Métrica de tiempo para hacer clic</p></figcaption></figure>
 
-_**Example:** In this metric, you can observe that, on average, users take 1 minute and 30 seconds before clicking on an ad. If the ad is taking too long to be clicked, you should pay attention to the quality of your creative. It might be better to identify areas for improvement. Additionally, you can also use A/B Tests to assess the performance of each Ad and make multiple improvements in each test to reach a final version of that creative that gets more results. Keep monitoring your ads and make constant adjustments._
+_**Ejemplo:** En esta métrica, se puede observar que, de media, los usuarios tardan 1 minuto y 30 segundos en hacer clic en un anuncio. Si el anuncio tarda demasiado en recibir clics, debes prestar atención a la calidad de tu creatividad. Quizás sea mejor identificar áreas de mejora. Además, también puedes utilizar pruebas A/B para evaluar el rendimiento de cada anuncio y realizar múltiples mejoras en cada prueba hasta llegar a una versión final de esa creatividad que obtenga más resultados. Sigue supervisando tus anuncios y realizando ajustes constantes._&#x20;
 
-### Time To Page Load
+### **Tiempo de carga de la página**
 
-This metric shows a median in seconds of how much time was taken until your website's page was fully loaded.
+Esta métrica muestra la mediana en segundos del tiempo que tardó en cargarse completamente la página de su sitio web.
 
-<figure><img src="../../.gitbook/assets/Time To Page Load.png" alt=""><figcaption><p>Time To Page Load</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Time To Page Load.png" alt=""><figcaption><p>Tiempo de carga de la página</p></figcaption></figure>
 
-_**Example**: These metrics provide information on how much time it takes until your page loads, you can use this data to improve your ads and your website to be faster, which can improve your retention rate. In this picture, the defined time frame was 3 days, divided into 6-hour periods, you will notice that on Aug 21, the time to load the page was nearly 10 seconds, after that, this time was reduced to nearly 5 seconds and then increased to a little more than 10 seconds on Aug 23._
+_**Ejemplo:** Estas métricas proporcionan información sobre el tiempo que tarda en cargarse tu página. Puedes utilizar estos datos para mejorar tus anuncios y tu sitio web y que sean más rápidos, lo que puede mejorar tu tasa de retención. En esta imagen, el periodo de tiempo definido fue de 3 días, dividido en periodos de 6 horas. Observará que el 21 de agosto, el tiempo de carga de la página fue de casi 10 segundos, después de lo cual se redujo a casi 5 segundos y luego aumentó a poco más de 10 segundos el 23 de agosto._&#x20;
 
-### Page Loads
+### **Carga de páginas**
 
-This metric displays the number of page loads you had in the defined time frame. The number of clicks and page loads may differ because clicks pass through an anti-fraud filter. A click might be flagged as suspicious and not counted, however, if the page loads up to 15 minutes after the ad delivery, the page load will be counted.
+Esta métrica muestra el número de cargas de página que ha tenido en el periodo de tiempo definido. El número de clics y cargas de página puede diferir porque los clics pasan por un filtro antifraude. Un clic puede marcarse como sospechoso y no contabilizarse; sin embargo, si la página se carga hasta 15 minutos después de la entrega del anuncio, la carga de la página se contabilizará.
 
-<figure><img src="../../.gitbook/assets/Page Loads.png" alt=""><figcaption><p>Page Loads</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Page Loads.png" alt=""><figcaption><p>Carga de páginas</p></figcaption></figure>
 
-_**Example**: This is a more precise way to count how many users visited your page by clicking on your ads, the user will only be counted after loading your page completely. In this picture, the defined time frame was 3 days, divided into 6-hour periods, you will notice that on Aug 21 there were nearly 25 page loads and nearly 5 page loads on Aug 23._
+_**Ejemplo:** Esta es una forma más precisa de contar cuántos usuarios visitaron su página haciendo clic en sus anuncios, ya que el usuario solo se contará después de que su página se haya cargado por completo. En esta imagen, el intervalo de tiempo definido fue de 3 días, dividido en períodos de 6 horas. Observará que el 21 de agosto hubo casi 25 cargas de página y casi 5 cargas de página el 23 de agosto._&#x20;
 
-### Page Load Rate (%)
+### **Tasa de carga de la página (%)**
 
-This metric shows the ratio of pages loaded to ad delivery, which means that it shows, in percentage, how much of your ad deliveries resulted in a page load.
+Esta métrica muestra la relación entre las páginas cargadas y la entrega de anuncios, lo que significa que muestra, en porcentaje, qué parte de las entregas de anuncios dio lugar a la carga de una página.
 
-<figure><img src="../../.gitbook/assets/image (96) (1).png" alt=""><figcaption><p>Page Load Rate %</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (96) (1).png" alt=""><figcaption><p>Tasa de carga de la página %</p></figcaption></figure>
 
-_**Example**: In a context where you install the page load tracking tag on your website, you will be able to follow on this metric how much of your ad deliveries resulted in users accessing your website. In this picture, the defined time frame was 3 days, divided into 6-hour periods, you will notice that on Aug 21 nearly 0.75% of the ad deliveries resulted in a page load, and after that, on Aug 23, the page load rate was almost 0.25%._
+_**Ejemplo:** en un contexto en el que instala la etiqueta de seguimiento de carga de página en su sitio web, podrá seguir en esta métrica cuántas de sus entregas de anuncios dieron como resultado que los usuarios accedieran a su sitio web. En esta imagen, el periodo de tiempo definido fue de 3 días, dividido en periodos de 6 horas. Observará que el 21 de agosto casi el 0,75 % de las entregas de anuncios dieron lugar a una carga de página y, después, el 23 de agosto, la tasa de carga de página fue de casi el 0,25 %._&#x20;
 
-### Click to Page Load Rate
+### **Tasa de Clic a Carga de Página**
 
-This metric displays, in percentage, the ratio between the number of clicks and the number of page loads in the defined time frame.
+Esta métrica muestra, en porcentaje, la relación entre el número de clics y el número de cargas de página en el periodo de tiempo definido.
 
-<figure><img src="../../.gitbook/assets/Click to Page Load Rate.png" alt=""><figcaption><p>Click to Page Load Rate</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Click to Page Load Rate.png" alt=""><figcaption><p>Tasa de Clic a Carga de Página</p></figcaption></figure>
 
-_**Example**: The data provided by this metric will show you how many clicks on your ads have resulted in a page load. In this picture, the defined time frame was 1 day divided into 6h periods, you will notice that at 6 AM the click to page load rate was nearly 80%, meaning that 20% of the clicks didn't result in a page load, from noon until 6 PM the click to page load rate was nearly 60%, after that it increases at midnight to 100%, meaning every ad click resulted in a page load._
+_**Ejemplo:** Los datos proporcionados por esta métrica le mostrarán cuántos clics en sus anuncios han dado lugar a la carga de una página. En esta imagen, el intervalo de tiempo definido fue de 1 día dividido en períodos de 6 horas. Observará que a las 6 de la mañana la tasa de clics por carga de página era de casi el 80 %, lo que significa que el 20 % de los clics no dieron lugar a una carga de página. Desde el mediodía hasta las 6 de la tarde, la tasa de clics por carga de página fue de casi el 60 %, y después aumentó a medianoche hasta el 100 %, lo que significa que cada clic en un anuncio dio lugar a una carga de página._

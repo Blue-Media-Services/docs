@@ -1,68 +1,68 @@
-# Pools de Cookies
+# Cookie Pools
 
-A Cookie Pool is a collection or database of users' cookies. Cookies are tiny pieces of data stored in a user's web browser when they visit a website. These cookies record users' online behavior, preferences, and interactions with websites and services.
+Un Cookie Pool es una recopilación o base de datos de las cookies de los usuarios. Las cookies son pequeños fragmentos de datos que se almacenan en el navegador web de un usuario cuando visita un sitio web. Estas cookies registran el comportamiento en línea de los usuarios, sus preferencias y sus interacciones con los sitios web y los servicios.
 
-In the context of digital advertising and marketing, a cookie pool can serve several purposes:
+En el contexto de la publicidad y el marketing digitales, un Cookie Pool puede tener varios fines:
 
-* **Audience Segmentation:** Segment users into different groups based on their interests, behaviors, demographics, or other criteria. This segmentation allows for more targeted and customized advertising campaigns.
-* **Retargeting:** Collect users' data based on events and actions for tracking purposes, this data can be used later to create recommendation models for your retargeting campaigns, improving your conversions. [Learn more about Retargeting campaigns](../../solutions/retargeting.md).
-* **Ad Customization:** Use the data gathered to display more relevant ads for each user on your target, based on their recent online activity, interests and behavior, customized ads are more engaging and lead the advertiser to get better results.
-* **Analytics and Measurement:** Track your campaigns' performance, measuring click-through rates, conversion rates, user engagement, among other metrics.
-* **Frequency Capping:** Set frequency caps to limit how often a particular ad is shown to a user within a certain time frame. This prevents displaying the same ad to the same user repeatedly.
+* **Segmentación de la audiencia:** Segmenta a los usuarios en diferentes grupos según sus intereses, comportamientos, datos demográficos u otros criterios. Esta segmentación permite realizar campañas publicitarias más específicas y personalizadas.
+* **Retargeting:** Recopila datos de los usuarios basados en eventos y acciones con fines de seguimiento. Estos datos se pueden utilizar posteriormente para crear modelos de recomendación para tus campañas de retargeting, mejorando así tus conversiones. [Obtenga más información sobre las Campañas de Retargeting](../../solutions/retargeting.md).
+* **Personalización de anuncios:** Utilice los datos recopilados para mostrar anuncios más relevantes para cada usuario de su público objetivo, basándose en su actividad reciente en línea, sus intereses y su comportamiento. Los anuncios personalizados son más atractivos y permiten al anunciante obtener mejores resultados.
+* **Análisis y medición:** Realice un seguimiento del rendimiento de sus campañas, midiendo las tasas de clics, las tasas de conversión y la participación de los usuarios, entre otras métricas.&#x20;
+* **Límite de frecuencia:** Establezca límites de frecuencia para restringir la cantidad de veces que se muestra un anuncio concreto a un usuario en un determinado periodo de tiempo. Esto evita que se muestre el mismo anuncio al mismo usuario repetidamente.&#x20;
 
-## Managing Cookie Pools
+## Gestión de Cookie Pools
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2025-07-02 095105.png" alt=""><figcaption><p>Cookie Pools list</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2025-07-02 095105.png" alt=""><figcaption><p>Lista de Cookie Pools</p></figcaption></figure>
 
-### Creating a Cookie Pool
+### Crear un Cookie Pool
 
-A cookie pool must be created shortly before using it for a campaign so that it can be populated. Configure how long your cookies should be available before expiring, set how many cookies you want to store at your pool and select the Ad Exchanges you will use to synchronize your cookies with it.
+Un cookie pool debe crearse poco antes de utilizarlo para una campaña, de modo que pueda rellenarse. Configure cuánto tiempo deben estar disponibles sus cookies antes de caducar, establezca cuántas cookies desea almacenar en su pool y seleccione los Ad Exchanges que utilizará para sincronizar sus cookies con él.
 
-1. Click on ![Create Cookie Pool](<../../.gitbook/assets/image (1049).png>) to create a cookie pool.
-2.  Fill in the details:\\
+1. Haga clic en ![Create Cookie Pool](<../../.gitbook/assets/image (1049).png>) para crear un cookie pool.
+2.  Rellene los datos:
 
-    <figure><img src="../../.gitbook/assets/Captura de tela 2024-08-15 090606.png" alt=""><figcaption><p>Cookie Pool Editor</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Captura de tela 2024-08-15 090606.png" alt=""><figcaption><p>Editor de Cookie Pool</p></figcaption></figure>
 
-    * Name: Insert a name for your cookie pool.
-    * Tags: Insert tags for your organization.
-    * Exchanges: Select ad exchanges to synchronize with your cookies, we recommend selecting only the exchanges you'll use to run your ad campaigns to prevent unnecessary charges.
-    * TTL: Set the number of days a cookie will be kept on the pool after syncing.
-    * Max Size: Set the maximum amount of cookies that will be stored. After reaching the limit no more cookies will be added to the pool until the old ones expire, but the collected cookies will still be available to use, it's also possible to increase your Max Size to allow more cookies to be collected.
-3. Click on ![Save](<../../.gitbook/assets/image (1046).png>) to save your Cookie Pool.
+    * Nombre: Introduzca un nombre para su cookie pool.
+    * Etiquetas: Introduzca las etiquetas correspondientes a su organización.
+    * Exchanges: Seleccionar ad exchanges para sincronizar con tus cookies, te recomendamos seleccionar solo los exchanges que vas a utilizar para ejecutar tus campañas publicitarias, con el fin de evitar cargos innecesarios.
+    * TTL: Establece el número de días que una cookie se mantendrá en el pool después de la sincronización.
+    * Tamaño máximo: Establece la cantidad máxima de cookies que se almacenarán. Una vez alcanzado el límite, no se añadirán más cookies al pool hasta que caduquen las antiguas, pero las cookies recopiladas seguirán estando disponibles para su uso. También es posible aumentar el tamaño máximo para permitir que se recopilen más cookies.
+3. Haga clic en ![Save](<../../.gitbook/assets/image (1046).png>) para guardar tu Cookie Pool.
 
-### Editing a Cookie Pool
+### Edición de un Cookie Pool
 
-After creating a cookie pool, you can edit it by clicking on the editing button <img src="../../.gitbook/assets/image (64).png" alt="editing button" data-size="line">. All parameters are editable, for the TTL the changes will apply only to newly added cookies. After making your changes, click on ![Save](<../../.gitbook/assets/image (1046).png>) to save them.
+Después de crear un cookie pool, puedes editarlo haciendo clic en el botón de edición <img src="../../.gitbook/assets/image (64).png" alt="editing button" data-size="line">. Todos los parámetros son editables. En el caso del TTL, los cambios solo se aplicarán a las cookies recién añadidas. Después de realizar los cambios, haga clic en ![Save](<../../.gitbook/assets/image (1046).png>) para salvarlos.
 
-It's possible to archive cookie pools for your better organization. Click on ![](<../../.gitbook/assets/image (273).png>) to archive the selected cookie pool, visualize your archived cookie pools by turning on the switch "Archived" above the cookie pools list. It is also possible to unarchive a cookie pool by clicking on ![](<../../.gitbook/assets/image (274).png>).
+Es posible archivar cookie pools para una mejor organización. Haga clic en ![](<../../.gitbook/assets/image (273).png>) archivar los seleccionados cookie pools, visualiza tus archivos cookie pools activando el interruptor "Archivado" situado encima del cookie pools lista. También es posible desarchivar un cookie pool haciendo clic en ![](<../../.gitbook/assets/image (274).png>).
 
-### Deleting a Cookie Pool
+### Eliminar un Cookie Pool
 
 {% hint style="danger" %}
-Attention! Be careful when deleting cookie pools, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted.
+¡Atención! Ten cuidado al eliminar cookie pools, esta acción no se puede deshacer y todos los datos relacionados, incluidas las métricas recopiladas anteriormente, también se eliminarán.
 {% endhint %}
 
-You can delete a cookie pool by clicking on the delete button <img src="../../.gitbook/assets/image (65).png" alt="delete button" data-size="original">, a warning that this action cannot be undone will be displayed to you, to proceed with the process click on ![Delete](<../../.gitbook/assets/image (1048).png>) to confirm you are deleting it and it's done. Be aware that targets based on these cookie pools will stop working.
+Puedes eliminar un cookie pool haciendo clic en el botón eliminar <img src="../../.gitbook/assets/image (65).png" alt="delete button" data-size="original">, se le mostrará una advertencia indicando que esta acción no se puede deshacer. Para continuar con el proceso, haga clic en ![Delete](<../../.gitbook/assets/image (1048).png>) para confirmar que lo estás eliminando y ya está. Ten en cuenta que los objetivos basados en estos cookie pools dejará de funcionar.
 
-## Installing a Cookie Pool
+## Instalación de un Cookie Pool
 
-After creating a cookie pool you\`ll need to install it on your website to start using it, this can be done by following the instructions on the Install Instructions tab of the Cookie Pools page.
+Después de crear un cookie pool deberá instalarlo en su sitio web para comenzar a utilizarlo. Para ello, siga las instrucciones que se indican en la pestaña "Instrucciones de instalación" de la Cookie Pools página.
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption><p>Install Instructions Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption><p>Pestaña Instrucciones de Instalación</p></figcaption></figure>
 
-1. Select the cookie pool you will install by marking the checkbox next to its name.
-2. On the Install Instructions tab, click on <img src="../../.gitbook/assets/image (68).png" alt="" data-size="line"> to copy the code.
-3. Paste the code as high up as possible inside the page\`s \<head> tag.
-4. If you want, it\`s possible to use a unique user id, this is useful if your users log in on multiple devices, to do this, uncomment the indicated part of the code and insert the unique user id.
+1. Seleccione el cookie pool lo instalará marcando la casilla de verificación situada junto a su nombre.
+2. En la pestaña Instrucciones de instalación, haga clic en <img src="../../.gitbook/assets/image (68).png" alt="" data-size="line"> para copiar el código.
+3. Pega el código lo más arriba posible dentro de la etiqueta \<head> de la página.
+4. Si lo desea, es posible utilizar un identificador de usuario único, lo cual resulta útil si sus usuarios inician sesión en varios dispositivos. Para ello, descomente la parte indicada del código e inserte el identificador de usuario único.
 
-You can also use a tag manager, such as Google Tag Manager (GTM), to add this code to your website.
+También puede utilizar un administrador de etiquetas, como Google Tag Manager (GTM), para añadir este código a su sitio web.
 
-## Metrics Tab
+## Pestaña Métricas
 
-After installing your cookie pools you should start receiving data from them, it's possible to follow this process on the metrics tab, these are the available metrics for cookie pools:
+Después de instalar su cookie pools deberías empezar a recibir datos de ellos. Es posible seguir este proceso en la pestaña de métricas. Estas son las métricas disponibles para cookie pools:
 
-* [Expiration Count](dmp-metrics.md#expiration-count)
-* [Max Size](dmp-metrics.md#max-size)
-* [Size](dmp-metrics.md#size)
-* [Sync Count](dmp-metrics.md#sync-count)
-* [Time Until Expiration](dmp-metrics.md#time-until-expiration)
+* [Recuento de Vencimientos](dmp-metrics.md#expiration-count)
+* [Tamaño Máximo](dmp-metrics.md#max-size)
+* [Tamaño](dmp-metrics.md#size)
+* [Recuento de Sincronización](dmp-metrics.md#sync-count)
+* [Tiempo hasta el Vencimiento](dmp-metrics.md#time-until-expiration)

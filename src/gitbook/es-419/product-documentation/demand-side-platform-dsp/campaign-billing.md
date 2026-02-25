@@ -1,92 +1,92 @@
 # Facturación de Campañas
 
-The Campaigns billing section will contain all billed items related to campaigns, it is divided into 2 sub-sections.
+La sección de Facturación de Campañas contendrá todos los elementos facturados relacionados con las campañas y se divide en dos subsecciones.
 
-<figure><img src="../../.gitbook/assets/image (566).png" alt=""><figcaption><p>Campaigns Billing Section</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (566).png" alt=""><figcaption><p>Sección de Facturación de Campañas</p></figcaption></figure>
 
 {% hint style="info" %}
-At BMS, it prioritizes transparency by displaying every detail of your bill. Visit our [Billing Home](../billing.md) to understand how the bills are structured.
+En BMS, se prioriza la transparencia mostrando todos los detalles de su factura. Visite nuestra [Facturación](../billing.md) para comprender cómo están estructurados los proyectos de ley.
 {% endhint %}
 
-## How is your billing composed?
+## ¿Cómo se compone su facturación?
 
-When creating and starting a campaign, it is necessary to use multiple products and features from our platform in order to have everything set to start the campaign, note that the campaign's billing is not only based on the daily budget set.
+Al crear e iniciar una campaña, es necesario utilizar varios productos y funciones de nuestra plataforma para tener todo listo para comenzar la campaña. Tenga en cuenta que la facturación de la campaña no solo se basa en el presupuesto diario establecido.
 
-### Billing X Budget
+### Facturación X Presupuesto
 
-Our Billing works based on the usage of each product, it is the effective cost for each product based on the usage, metered by each request sent to an **API**, **storage**, and **media**.
+Nuestra facturación se basa en el uso de cada producto, es decir, el coste efectivo de cada producto según su uso, medido por cada solicitud enviada a una **API**, **almacenamiento** y **medios**.
 
-### Storage
+### Almacenamiento
 
-When running a campaign, multiple products are used to build its components. As a result, the storage for each creative, creative group, ad, and media item will incur charges. In cases where the account accumulates too many of these items, there could be a significant impact on the monthly billing. Therefore, performing regular clean-ups of unused items is a good practice to maintain a manageable billing balance.
+Al ejecutar una campaña, se utilizan varios productos para crear sus componentes. Como resultado, el almacenamiento de cada elemento creativo, grupo creativo, anuncio y elemento multimedia generará gastos. En los casos en que la cuenta acumule demasiados elementos de este tipo, podría producirse un impacto significativo en la facturación mensual. Por lo tanto, realizar limpiezas periódicas de los elementos no utilizados es una buena práctica para mantener un saldo de facturación manejable.&#x20;
 
-**Example:** Even when a campaign is inactive, charges may still apply because the creatives and ads created for that campaign continue to incur storage costs.
+**Ejemplo:** Incluso cuando una campaña está inactiva, es posible que se sigan aplicando cargos, ya que los creativos y los anuncios creados para esa campaña siguen generando costes de almacenamiento.
 
-### Media
+### Medios
 
-All media uploaded to the library incur storage and download request costs. Each time an end-user views your media in a campaign, a cost is generated for both storage and download. These costs vary based on the size of each media file, as they consume storage space on BMS servers. To help manage these expenses, consider using media hosted on your own servers.
+Todos los archivos multimedia cargados en la biblioteca generan costes de almacenamiento y descarga. Cada vez que un usuario final ve tus archivos multimedia en una campaña, se genera un coste tanto por el almacenamiento como por la descarga. Estos costes varían en función del tamaño de cada archivo multimedia, ya que consumen espacio de almacenamiento en los servidores de BMS. Para ayudar a gestionar estos gastos, considera la posibilidad de utilizar archivos multimedia alojados en tus propios servidores.&#x20;
 
-**Example:** A media that has a 3mb size will have a different cost from a 5mb media size, by hosting that media on your own server, BMS will not charge for that media.
+**Ejemplo:** Un archivo multimedia con un tamaño de 3 MB tendrá un coste diferente al de uno con un tamaño de 5 MB. Al alojar ese archivo multimedia en su propio servidor, BMS no le cobrará por él.
 
-### Daily Budget
+### Presupuesto Diario
 
-The daily budget set for a campaign functions like a gas pedal, helping you control how much you intend to spend. The actual amount spent by the end of the day may vary based on target configurations, bidding settings, and the media used in the campaign.
+El presupuesto diario establecido para una campaña funciona como un acelerador, ayudándote a controlar cuánto pretendes gastar. La cantidad real gastada al final del día puede variar en función de las configuraciones de los objetivos, los ajustes de puja y los medios utilizados en la campaña.
 
-Upon setting your daily budget, it is used on four different types in order to fully delivery a campaign: **Impressions**, **Deliveries**, **Placing Bids**, and **Recommendations**.
+Una vez establecido el presupuesto diario, este se utiliza en cuatro tipos diferentes para llevar a cabo una campaña de forma completa: **impresiones**, **entregas**, **pujas** y **recomendaciones**.
 
-#### Budget Spent on Impressions
+#### Presupuesto gastado en Impresiones
 
-This budget is spent based on the bids won, with the amount paid to the publisher for the right to display ads on their website. On the billing side, this is represented as the media cost (the sum of all winning bids) plus a 20% platform fee.
+Este presupuesto se gasta en función de las pujas ganadas, y el importe se paga al editor por el derecho a mostrar anuncios en su sitio web. En la facturación, esto se representa como el coste de los medios (la suma de todas las pujas ganadoras) más una comisión del 20 % por la plataforma.
 
-<figure><img src="../../.gitbook/assets/image (920).png" alt=""><figcaption><p>Budget Spent on Impressions Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (920).png" alt=""><figcaption><p>Presupuesto gastado en la métrica de Impresiones</p></figcaption></figure>
 
-**Example:** In this case, the budget spent on impressions were over $0.50 to a maximum of $0.75, this metric will be shown at the Budget Management and Media as the Media Cost, upon removing the 20% platform fee, it is possible to match the values.
+**Ejemplo:** En este caso, el presupuesto gastado en impresiones fue de más de 0,50 $ hasta un máximo de 0,75 $; esta métrica se mostrará en la gestión del presupuesto y los medios como el coste de los medios; al eliminar la tarifa de la plataforma del 20 %, es posible hacer coincidir los valores.
 
-<figure><img src="../../.gitbook/assets/image (835).png" alt=""><figcaption><p>Budget Spent on Impressions Billing</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (835).png" alt=""><figcaption><p>Presupuesto gastado en facturación por Impresiones</p></figcaption></figure>
 
-#### Budget Spent on Deliveries
+#### Presupuesto gastado en Entregas
 
-This budget pertains to the total delivery cost of an ad, which includes the combined expenses of Ad Server, Monitoring, and Media. The Ad Server cost covers the API requests needed to deliver the ad, Monitoring costs capture metrics and display them on the dashboard, and Media costs cover the downloading of associated media. On the billing side, these costs appear under **Ad Server**, **Media**, and **Monitoring**. This cost may vary based on the size of the media; larger media files will result in higher expenses.
+Este presupuesto se refiere al coste total de entrega de un anuncio, que incluye los gastos combinados del Ad Server, la supervisión y los medios. El coste del Ad Server cubre las solicitudes de API necesarias para entregar el anuncio, los costes de supervisión capturan las métricas y las muestran en el panel de control, y los costes de los medios cubren la descarga de los medios asociados. En la facturación, estos costes aparecen en las partidas **Ad Server**, **Medios** y **Supervisión**. Este coste puede variar en función del tamaño de los medios; los archivos multimedia más grandes supondrán gastos más elevados.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (836).png" alt=""><figcaption><p>Budget Spent on Deliveries Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (836).png" alt=""><figcaption><p>Presupuesto gastado en Entregas Métrica</p></figcaption></figure>
 
-**Example:** On this metric you can see that hourly it is being spent over $0,01 up to $0,025 on deliveries only, this value will be deducted from the daily budget, even though it is not related to the bidding itself.
+**Ejemplo:** En esta métrica se puede ver que cada hora se gastan entre 0,01 $ y 0,025 $ solo en entregas. Este valor se deducirá del presupuesto diario, aunque no esté relacionado con la puja en sí.
 
-#### Budget Spent Placing Bids
+#### Presupuesto gastado en Pujas
 
-This cost is associated with the operational expense of placing bids. Each time a bid is made, it aligns with the campaign’s targets, requiring the system to filter the entire available inventory based on the campaign's preferences to ensure accurate bidding. This process incurs charges, though they represent a small percentage of the total daily budget. On your billing statement, the Real-Time Bidding section will include a "Bids Placed" line item, which corresponds to your campaign's bid placement metrics.
+Este coste está asociado al gasto operativo de realizar pujas. Cada vez que se realiza una puja, esta se ajusta a los objetivos de la campaña, lo que requiere que el sistema filtre todo el inventario disponible en función de las preferencias de la campaña para garantizar una puja precisa. Este proceso conlleva gastos, aunque representan un pequeño porcentaje del presupuesto diario total. En su extracto de facturación, la sección "Pujas en tiempo real" incluirá una partida denominada "Pujas realizadas", que se corresponde con las métricas de pujas de su campaña.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (919).png" alt=""><figcaption><p>Budget Spent Placing Bids Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (919).png" alt=""><figcaption><p>Presupuesto gastado en Pujas Métrica</p></figcaption></figure>
 
-**Example:** On this metric, it is noticed that the budget spent for operational costs has been over $0.05 to a maximum of $0.13, this cost will be listed on your billing as the Real Time Bidding, it will match the operational costs of your campaign.
+**Ejemplo:** En esta métrica, se observa que el presupuesto gastado en costes operativos ha sido superior a 0,05 $ hasta un máximo de 0,13 $; este coste aparecerá en su factura como "Real Time Bidding" (puja en tiempo real) y coincidirá con los costes operativos de su campaña.
 
-<figure><img src="../../.gitbook/assets/image (918).png" alt=""><figcaption><p>Placing Bids Billing</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (918).png" alt=""><figcaption><p>Realización de Pujas Facturación</p></figcaption></figure>
 
-#### Budget Spent on Recommendations
+#### Presupuesto gastado en Recomendaciones
 
-When using Dynamic Banners, you will be charged for using the API call for a recommendation, due to having an operation cost of linking your targets to a recommendation, if a campaign is not using Dynamic Banners, there will be no costs.
+Al utilizar banners dinámicos, se le cobrará por utilizar la llamada a la API para una recomendación, debido al coste operativo que supone vincular sus objetivos a una recomendación. Si una campaña no utiliza banners dinámicos, no habrá ningún coste.
 
-<figure><img src="../../.gitbook/assets/image (794).png" alt=""><figcaption><p>Budget Spent with Recommendations Metric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (794).png" alt=""><figcaption><p>Presupuesto gastado con Recomendaciones Métricas</p></figcaption></figure>
 
-**Example:** On this metric, it is noticed that the budget spent was over $0.05 up to $0.08 every 12 hours, which value is deducted from the campaign's daily budget.
+**Ejemplo:** En esta métrica, se observa que el presupuesto gastado fue de más de 0,05 $ hasta 0,08 $ cada 12 horas, valor que se deduce del presupuesto diario de la campaña.
 
-## Budget Management and Media
+## Gestión Presupuestaria y Medios de Comunicación
 
-In budget management and media, the bills related to BMS display the current budget availability, the requests generated when you change or set a budget for a campaign, and the media cost plus a 20% BMS tax. The media cost is based on the amount paid to a publisher to display your ad.
+En la gestión presupuestaria y los medios, las facturas relacionadas con BMS muestran la disponibilidad presupuestaria actual, las solicitudes generadas al cambiar o establecer un presupuesto para una campaña y el coste de los medios más un impuesto BMS del 20 %. El coste de los medios se basa en la cantidad pagada a un editor por mostrar su anuncio.
 
-<figure><img src="../../.gitbook/assets/image (567).png" alt=""><figcaption><p>Budget Management and Media Items</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (567).png" alt=""><figcaption><p>Gestión Presupuestaria y Elementos Multimedia</p></figcaption></figure>
 
-_**Example:** On this bill, a media cost of $4,014.89 plus CPM is noted. This cost is based on $3,345.74, which will be passed on to the publishers who displayed your ad, and an additional $669.15 from the 20% tax for using BMS's bidder. The campaign budget availability was also charged due to exceeding 1,000,000 requests. At a cost of $0.10 per 1,000,000 requests, this totaled $0.72. After adding up all bills, the total cost reached $4,015.61._
+**Ejemplo:** En esta factura, se indica un coste de medios de 4.014,89 $ más CPM. Este coste se basa en 3.345,74 $, que se transferirán a los editores que mostraron su anuncio, y 669,15 $ adicionales del impuesto del 20 % por utilizar el postor de BMS. También se cobró la disponibilidad del presupuesto de la campaña por superar las 1 000 000 de solicitudes. A un coste de 0,10 $ por cada 1 000 000 de solicitudes, el total ascendió a 0,72 $. Tras sumar todas las facturas, el coste total alcanzó los 4015,61 $.&#x20;
 
-## Campaign Management
+## Gestión de Campañas
 
-On the campaign management bill, the costs for any action on the campaign page and for campaign storage will be displayed. Each time you create, enable or disable campaigns, it counts as one request. If the number of requests exceeds 1,000 during a month, there will be a cost. Campaigns are charged even if they are inactive. BMS counts each second a campaign is listed, whether active or not, and converts seconds into hours, charging $0.75 per campaign per month, based on a 720-hour month.
+En la factura de gestión de campañas, se mostrarán los costes de cualquier acción realizada en la página de la campaña y del almacenamiento de la misma. Cada vez que crees, actives o desactives campañas, se contará como una solicitud. Si el número de solicitudes supera las 1000 durante un mes, se aplicará un coste. Las campañas se cobran incluso si están inactivas. BMS cuenta cada segundo que una campaña está listada, ya sea activa o no, y convierte los segundos en horas, cobrando 0,75 dólares por campaña al mes, basándose en un mes de 720 horas.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (568).png" alt=""><figcaption><p>Campaign Management Items</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (568).png" alt=""><figcaption><p>Elementos de Gestión de Campañas</p></figcaption></figure>
 
-_**Example:** In this case, since no requests have reached the first 1,000 mark, there will be no charges for actions performed on the campaigns page. However, since there were campaigns running or listed, a total of 2,201.09 campaign hours were charged, equivalent to about 3 campaigns running for an entire month. This resulted in a total cost of $2.29. Note that campaigns are charged for being listed, whether active or not, so deleting a campaign will stop further charges._
+**Ejemplo:** En este caso, dado que ninguna solicitud ha alcanzado la marca de las primeras 1000, no se aplicarán cargos por las acciones realizadas en la página de campañas. Sin embargo, dado que había campañas en ejecución o listadas, se cobraron un total de 2201,09 horas de campaña, lo que equivale a unas 3 campañas en ejecución durante todo un mes. Esto dio lugar a un coste total de 2,29 $. Tenga en cuenta que las campañas se cobran por estar listadas, estén activas o no, por lo que al eliminar una campaña se detendrán los cargos adicionales.
 
 {% hint style="info" %}
-All products generate metrics once you start using them. These metrics are charged and are crucial for understanding your BMS platform usage and performance. The [Monitoring Tab](../monitoring/monitoring-billing.md#metric-monitoring) is responsible for these metrics and will display the related bill.\
-BMS is focused on transparency and will show you the costs for all features within each product.
+Todos los productos generan métricas una vez que se empiezan a utilizar. Estas métricas se cobran y son cruciales para comprender el uso y el rendimiento de su plataforma BMS. El [Pestaña de Monitoreo](../monitoring/monitoring-billing.md#metric-monitoring) es responsable de estas métricas y mostrará la factura correspondiente.\
+BMS se centra en la transparencia y le mostrará los costes de todas las funciones de cada producto.
 {% endhint %}

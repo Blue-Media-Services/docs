@@ -1,15 +1,15 @@
 # Plataforma de Gestión de Datos (DMP)
 
-Use DMP to collect and manage large volumes of data about your audience's online behavior, then use this data to track your audience and define targets for customized ad campaigns.
+Utilice DMP para recopilar y gestionar grandes volúmenes de datos sobre el comportamiento online de su público y, a continuación, utilice estos datos para realizar un seguimiento de su público y definir objetivos para campañas publicitarias personalizadas.
 
 ## Cookie Pools
 
-A Cookie Pool is a collection or database of users' cookies. Cookies are tiny pieces of data stored in a user's web browser when they visit a website. These cookies record users' online behavior, preferences, and interactions with websites and services. [Learn more about Cookie Pools](cookie-pools.md).
+Un Cookie Pool es una recopilación o base de datos de las cookies de los usuarios. Las cookies son pequeños fragmentos de datos que se almacenan en el navegador web de un usuario cuando visita un sitio web. Estas cookies registran el comportamiento en línea de los usuarios, sus preferencias y sus interacciones con los sitios web y los servicios. [Obtenga más información sobre los Cookie Pools](cookie-pools.md).
 
-## Trackers
+## Rastreadores
 
-Use trackers to gather data about your website's audience's online behavior and configure events and actions to create recommendation models based on this data, allowing you to run retargeting campaigns. [Learn more about Trackers](trackers/).
+Utiliza rastreadores para recopilar datos sobre el comportamiento online de la audiencia de tu sitio web y configura eventos y acciones para crear modelos de recomendación basados en estos datos, lo que te permitirá llevar a cabo campañas de retargeting. [Obtenga más información sobre los Rastreadores](trackers/).
 
 ## Identifier Pools
 
-Identifier pools function much like cookie pools but are specifically designed for mobile devices, including Android smartphones, tablets, and iOS products. Each operating system employs its own unique methods to identify users effectively. [Learn more about Identifier Pools](identifier-pools.md).
+Identifier pools funcionan de manera muy similar a los Cookie Pools, pero están diseñados específicamente para dispositivos móviles, incluidos teléfonos inteligentes Android, tabletas y productos iOS. Cada sistema operativo emplea sus propios métodos únicos para identificar a los usuarios de manera eficaz. [Obtenga más información sobre los Identifier Pools](identifier-pools.md).

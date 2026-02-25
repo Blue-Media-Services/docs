@@ -1,13 +1,13 @@
 # Gestión de Presupuestos
 
-New accounts are limited to spending $30 per day per campaign. If you need a higher budget, you can submit a Quota Increase Request and after review your limit will be increased. To learn more about quotas, check our [Accounts](../accounts/#service-quotas) article.
+Las cuentas nuevas tienen un límite de gasto de 30 $ al día por campaña. Si necesitas un presupuesto mayor, puedes enviar una solicitud de aumento de cuota y, tras su revisión, se aumentará tu límite. Para obtener más información sobre las cuotas, consulta nuestra [Cuentas](../accounts/#service-quotas) artículo.
 
-To set a budget for your campaign, simply select your desired campaign and manually set a daily limit budget then press the <img src="../../../es-419/.gitbook/assets/image (750).png" alt="Save" data-size="line"> button, your budget can be modified at any time.
+Para establecer un presupuesto para tu campaña, simplemente selecciona la campaña deseada y establece manualmente un límite de presupuesto diario, luego presiona el botón <img src="../../.gitbook/assets/image (750).png" alt="Save" data-size="line"> , tu presupuesto se puede modificar en cualquier momento.
 
-<figure><img src="../../../es-419/.gitbook/assets/Captura de tela 2024-12-05 073638.png" alt=""><figcaption><p>Budget Configuration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-12-05 073638.png" alt=""><figcaption><p>Presupuesto Configuración</p></figcaption></figure>
 
-After setting your daily budget, you will be presented with the information regarding your budget.
+Después de establecer su presupuesto diario, se le presentará la información relativa a su presupuesto.
 
-* Current Target - This is the target of your budget for the remaining time of that day.
-* Available Now - Current available budget.
-* Consumed Today - Total budget consumed of that campaign during the entire day.
+* Objetivo actual: es el objetivo de su presupuesto para el tiempo restante de ese día.
+* Disponible ahora: presupuesto disponible actual.
+* Consumido hoy: presupuesto total consumido de esa campaña durante todo el día.

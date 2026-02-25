@@ -1,24 +1,24 @@
 # Productos
 
-In the Products tab, you will be presented with all the products imported through our **import channel**, you can check the details and metrics from each product.
+En la pestaña Productos, se le mostrarán todos los productos importados a través de nuestro **canal de importación**. Podrá consultar los detalles y las métricas de cada producto.
 
-You can filter your products by Catalog or manually searching for a specific product.
+Puede filtrar sus productos por Catálogo o buscando manualmente un producto específico.
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Products List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Lista de Productos</p></figcaption></figure>
 
-## Details
+## Detalles
 
-When checking the details for each product, you will see all the information gathered from the Mapping, as well as any errors in the product.
+Al comprobar los detalles de cada producto, verá toda la información recopilada en el mapeo, así como cualquier error que haya en el producto.
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt="" width="563"><figcaption><p>Product Details</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33).png" alt="" width="563"><figcaption><p>Detalles del Producto</p></figcaption></figure>
 
-## Metrics Tab
+## Pestaña Métricas
 
-You can select as many products as you wish to compare them in the metrics tab, providing you with important information about each product and how it is performing. These are all the metrics available for products:
+Puede seleccionar tantos productos como desee para compararlos en la pestaña de métricas, lo que le proporcionará información importante sobre cada producto y su rendimiento. Estas son todas las métricas disponibles para los productos:
 
-* [Product Added to Cart Count](cs2-metrics.md#product-added-to-cart-count)
-* [Product Order Count](cs2-metrics.md#product-added-to-cart-count)
-* [Product Recommendation Count](cs2-metrics.md#product-recommendation-count)
-* [Product View Count](cs2-metrics.md#product-view-count)
-* [Recommendation Click Count](cs2-metrics.md#recommendation-click-count)
-* [Recommendation View Count](cs2-metrics.md#recommendation-view-count)
+* [Cantidad de productos añadidos al carrito](cs2-metrics.md#product-added-to-cart-count)
+* [Cantidad de pedidos de productos](cs2-metrics.md#product-added-to-cart-count)
+* [Cantidad de recomendaciones de productos](cs2-metrics.md#product-recommendation-count)
+* [Cantidad de visualizaciones de productos](cs2-metrics.md#product-view-count)
+* [Cantidad de clics en recomendaciones](cs2-metrics.md#recommendation-click-count)
+* [Cantidad de visualizaciones de recomendaciones](cs2-metrics.md#recommendation-view-count)

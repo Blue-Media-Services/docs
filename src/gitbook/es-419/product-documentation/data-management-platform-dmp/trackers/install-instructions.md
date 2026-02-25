@@ -1,201 +1,201 @@
 # Instrucciones de Instalación
 
-After setting up events and actions for your tracker, you have to install it on your website. This can be done by following the instructions on the install instructions tab.
+Después de configurar los eventos y acciones para tu rastreador, debes instalarlo en tu sitio web. Para ello, sigue las instrucciones que se indican en la pestaña Instrucciones de instalación.
 
-<figure><img src="../../../.gitbook/assets/image (443) (1).png" alt=""><figcaption><p>Install Instructions Tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (443) (1).png" alt=""><figcaption><p>Pestaña Instrucciones de instalación</p></figcaption></figure>
 
-To access the trackers' instructions tab, select the tracker you need to install in the trackers' list. You must choose only one tracker at a time to use this tab. The tab will contain one section for each event created for the selected tracker.
+Para acceder a la pestaña de instrucciones de los rastreadores, seleccione el rastreador que necesita instalar en la lista de rastreadores. Debe elegir solo un rastreador a la vez para utilizar esta pestaña. La pestaña contendrá una sección para cada evento creado para el rastreador seleccionado.
 
-There are several install methods available for this feature: Script, Pixel, Redirect,Apps Flyer and Google Ads Tracking Template. After expanding the section of the event you want to install, you can choose from these options:
+Hay varios métodos de instalación disponibles para esta función: Script, Pixel, Redireccionamiento, Apps Flyer y Plantilla de seguimiento de Google Ads. Después de expandir la sección del evento que desea instalar, puede elegir entre estas opciones:
 
 ## Script
 
-Script-based tracking uses code snippets embedded in a website’s pages to capture user interactions. The script collects data on clicks, time spent on pages, and specific actions taken by visitors. However, it requires that users' browsers have JavaScript enabled; otherwise, it will not function.
+El seguimiento basado en scripts utiliza fragmentos de código incrustados en las páginas de un sitio web para capturar las interacciones de los usuarios. El script recopila datos sobre los clics, el tiempo dedicado a las páginas y las acciones específicas realizadas por los visitantes. Sin embargo, requiere que los navegadores de los usuarios tengan habilitado JavaScript; de lo contrario, no funcionará.&#x20;
 
-Events and actions are counted every time the script loads, so it must be installed on specific pages based on what you intend to track. To simplify the installation process, you can also use tag managers like Google Tag Manager (GTM).
+Los eventos y acciones se cuentan cada vez que se carga el script, por lo que debe instalarse en páginas específicas en función de lo que desee rastrear. Para simplificar el proceso de instalación, también puede utilizar gestores de etiquetas como Google Tag Manager (GTM).
 
-These are some advantages of using the Script method:
+Estas son algunas de las ventajas de utilizar el método Script:
 
-* **Valuable Data**: Tracks detailed user behaviors, such as clicks, time spent on the page, and navigation paths.
-* **Real-Time Analysis**: Provides immediate insights into user activity as it happens.
+* **Datos valiosos:** Realiza un seguimiento detallado del comportamiento de los usuarios, como los clics, el tiempo que pasan en la página y las rutas de navegación.
+* **Análisis en tiempo real:** Proporciona información inmediata sobre la actividad de los usuarios a medida que se produce.
 
-### Use Cases
+### Casos de Uso
 
-Script tracking gathers detailed user behavior directly from your website, helping optimize campaigns and improve marketing performance. Below are key applications of this method:
+El seguimiento de scripts recopila información detallada sobre el comportamiento de los usuarios directamente desde su sitio web, lo que ayuda a optimizar las campañas y mejorar el rendimiento del marketing. A continuación se indican las principales aplicaciones de este método:
 
-* **Landing Page Performance**: A Software-as-a-Service (SaaS) company can use a script to monitor how users interact with CTAs on a landing page, optimizing conversion rates.
-* **User Journey Analysis**: An e-commerce store can track customer navigation from product pages to checkout, identifying drop-off points.
-* **Campaign ROI Measurement**: A digital marketing agency can install scripts on client sites to track traffic from PPC campaigns and attribute conversions.
+* **Rendimiento de la página de destino:** Una empresa de software como servicio (SaaS) puede utilizar un script para supervisar cómo interactúan los usuarios con las llamadas a la acción (CTA) en una página de destino, optimizando así las tasas de conversión.
+* **Análisis del recorrido del usuario:** Una tienda de comercio electrónico puede realizar un seguimiento de la navegación de los clientes desde las páginas de productos hasta la finalización de la compra, identificando los puntos de abandono.
+* **Medición del ROI de las campañas:** Una agencia de marketing digital puede instalar scripts en los sitios web de los clientes para realizar un seguimiento del tráfico procedente de las campañas de PPC y atribuir las conversiones.&#x20;
 
-### How To Install
+### Cómo Instalar
 
-1. On the BMS Trackers page, click on the Install Instructions Tab.
-2. Select the Script option.
-3. Use the copy button ![](<../../../.gitbook/assets/image (88) (1) (1).png>) to copy the script displayed.
-4. If you have configured custom data fields, use the indicated placeholder to inform the custom data values.
-5. Paste the code into your website, precisely on the page where you want this event to be captured.
+1. En la página Rastreadores BMS, haga clic en la pestaña Instrucciones de instalación.
+2. Seleccione la opción Script.
+3. Utiliza el botón copiar ![](<../../../.gitbook/assets/image (88) (1) (1).png>) para que lo copies el script mostrado.
+4. Si ha configurado campos de datos personalizados, utilice el marcador de posición indicado para informar los valores de los datos personalizados.
+5. Pega el código en tu sitio web, exactamente en la página donde deseas que se capture este evento.
 
 <figure><img src="../../../.gitbook/assets/image (1000).png" alt=""><figcaption><p>Script</p></figcaption></figure>
 
-## Pixel
+## Píxel
 
-Pixel tracking involves using an invisible image or embedded code in web pages or emails. When a user accesses the content, the pixel renders and sends back information such as the user’s IP address, device type, and actions taken. This method is widely used in marketing campaigns to measure conversions and ad performance.
+El seguimiento de Píxeles consiste en utilizar una imagen invisible o un código incrustado en páginas web o correos electrónicos. Cuando un usuario accede al contenido, el píxel se renderiza y envía información como la dirección IP del usuario, el tipo de dispositivo y las acciones realizadas. Este método se utiliza ampliamente en campañas de marketing para medir las conversiones y el rendimiento de los anuncios.
 
-Events and actions are tracked each time the pixel renders, so it must be installed on specific pages or emails based on what you intend to monitor. To simplify the installation process, you can use tag managers like Google Tag Manager (GTM).
+Los eventos y acciones se registran cada vez que se renderiza el píxel, por lo que debe instalarse en páginas o correos electrónicos específicos en función de lo que desee supervisar. Para simplificar el proceso de instalación, puede utilizar gestores de etiquetas como Google Tag Manager (GTM).
 
-These are some advantages of using the Pixel method:
+Estas son algunas de las ventajas de utilizar el método Pixel:
 
-* **Email and Web Integration**: Works seamlessly in emails and web pages to track opens, clicks, and conversions.
-* **Precise Retargeting**: Captures data to create retargeting audiences and improve your ad campaign's relevance.
+* **Integración con correo electrónico y web:** Funciona a la perfección en correos electrónicos y páginas web para realizar un seguimiento de las aperturas, los clics y las conversiones.
+* **Retargeting preciso:** Captura datos para crear audiencias de retargeting y mejorar la relevancia de su campaña publicitaria.
 
-### Use Cases
+### Casos de Uso
 
-Pixel tracking collects data from emails and websites, enabling precise campaign analysis and retargeting. Here are some practical marketing examples:
+El seguimiento de Píxeles recopila datos de correos electrónicos y sitios web, lo que permite realizar análisis precisos de las campañas y reorientarlas. A continuación se muestran algunos ejemplos prácticos de marketing:
 
-* **Email Campaign Tracking**: A subscription service can embed a pixel in promotional emails to measure open rates and clicks on discount offers.
-* **Ad Retargeting**: A beauty brand can use a pixel to retarget users who viewed a product but didn’t complete a purchase, showing them personalized ads.
-* **Lead Generation Optimization**: A real estate agency can install a pixel on its form submission page to track leads generated from specific ad campaigns.
+* **Seguimiento de campañas por correo electrónico:** Un servicio de suscripción puede incrustar un píxel en los correos electrónicos promocionales para medir las tasas de apertura y los clics en las ofertas de descuento.
+* **Reorientación publicitaria:** Una marca de belleza puede utilizar un píxel para reorientar a los usuarios que vieron un producto pero no completaron la compra, mostrándoles anuncios personalizados.
+* **Optimización de la generación de clientes potenciales:** Una agencia inmobiliaria puede instalar un píxel en su página de envío de formularios para realizar un seguimiento de los clientes potenciales generados a partir de campañas publicitarias específicas.&#x20;
 
-### How To Install
+### Cómo Instalar
 
-1. On the BMS Trackers page, click on the Install Instructions Tab.
-2. Select the Pixel option.
-3. Use the copy button ![](<../../../.gitbook/assets/image (88) (1) (1).png>) to copy the image tag displayed.
-4. If you have configured custom data fields, use the indicated placeholder to inform the values.
-5. Paste the code into your website, or email, precisely where you want this event to be captured.
+1. En la página Rastreadores BMS, haga clic en la pestaña Instrucciones de instalación.
+2. Seleccione la opción Píxel.
+3. Utiliza el botón copiar ![](<../../../.gitbook/assets/image (88) (1) (1).png>) para copiar la etiqueta de imagen mostrada.
+4. Si ha configurado campos de datos personalizados, utilice el marcador de posición indicado para informar de los valores.
+5. Pega el código en tu sitio web o correo electrónico, exactamente donde quieras que se capture este evento.
 
-<figure><img src="../../../.gitbook/assets/image (1001).png" alt=""><figcaption><p>Pixel</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1001).png" alt=""><figcaption><p>Píxel</p></figcaption></figure>
 
-## Redirect
+## Redirigir
 
-URL redirect tracking works by sending users through an intermediate link before reaching the final destination. This intermediate step collects valuable data, such as traffic sources, campaign parameters, and user behavior. It is a practical method for tracking clicks and understanding the performance of external campaigns or affiliate links.
+El seguimiento de redireccionamiento de URL funciona enviando a los usuarios a través de un enlace intermedio antes de llegar al destino final. Este paso intermedio recopila datos valiosos, como las fuentes de tráfico, los parámetros de la campaña y el comportamiento de los usuarios. Es un método práctico para realizar un seguimiento de los clics y comprender el rendimiento de las campañas externas o los enlaces de afiliados.&#x20;
 
-These are some advantages of using the Redirect method:
+Estas son algunas de las ventajas de utilizar el método Redirect:
 
-* **Effective Attribution**: Accurately tracks traffic sources and affiliate performance.
-* **Campaign-Specific Insights**: Ideal for measuring the success of external or affiliate campaigns.
+* **Atribución eficaz:** Realiza un seguimiento preciso de las fuentes de tráfico y el rendimiento de los afiliados.
+* **Información específica de la campaña:** Ideal para medir el éxito de las campañas externas o de afiliados.
 
-### Use Cases
+### Casos de Uso
 
-URL redirect tracking simplifies performance monitoring by capturing data through intermediary links. Here is how it enhances marketing efforts.
+El seguimiento de redireccionamientos de URL simplifica la supervisión del rendimiento al capturar datos a través de enlaces intermedios. A continuación se explica cómo mejora las iniciativas de marketing.
 
-* **Affiliate Marketing**: A VPN provider can offer influencers unique redirect links to track subscriptions and reward top-performing partners.
-* **Ad Platform Comparison**: A fitness brand can use redirect links in different ad platforms to determine which platform generates more sign-ups.
-* **Email Campaign Effectiveness**: An online education platform can include redirect links in email CTAs to track how many users enroll in courses through the campaign.
+* **Marketing de afiliados:** Un proveedor de VPN puede ofrecer a los influencers enlaces de redireccionamiento únicos para realizar un seguimiento de las suscripciones y recompensar a los socios con mejor rendimiento.
+* **Comparación de plataformas publicitarias:** Una marca de fitness puede utilizar enlaces de redireccionamiento en diferentes plataformas publicitarias para determinar cuál de ellas genera más registros.
+* **Eficacia de las campañas por correo electrónico:** Una plataforma de educación en línea puede incluir enlaces de redireccionamiento en las llamadas a la acción de los correos electrónicos para realizar un seguimiento del número de usuarios que se inscriben en los cursos a través de la campaña.
 
-### How To Install
+### Cómo Instalar
 
-1. On the BMS Trackers page, click on the Install Instructions Tab.
-2. Select the Redirect option.
-3. Inform the URL to where you want to redirect the user after the event is captured.
-4. Use the copy button ![](<../../../.gitbook/assets/image (88) (1) (1).png>) to copy the displayed URL.
-5. Use the generated URL just as you would use the URL you provided.
+1. En la página Rastreadores BMS, haga clic en la pestaña Instrucciones de instalación.
+2. Seleccione la opción Redirigir.
+3. Indique la URL a la que desea redirigir al usuario después de que se capture el evento.
+4. Utiliza el botón copiar ![](<../../../.gitbook/assets/image (88) (1) (1).png>) para copiar la URL mostrada.
+5. Utiliza la URL generada tal y como utilizarías la URL que has proporcionado.
 
-<figure><img src="../../../.gitbook/assets/image (1002).png" alt=""><figcaption><p>Redirect</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1002).png" alt=""><figcaption><p>Redirigir</p></figcaption></figure>
 
-After installing your events' trackers you should start receiving data from them, it's possible to follow this process on the metrics tab.
+Después de instalar los rastreadores de eventos, deberías empezar a recibir datos de ellos. Es posible seguir este proceso en la pestaña de métricas.
 
 ## Apps Flyer
 
-AppsFlyer is a mobile attribution and marketing analytics platform. It enables businesses to measure and analyze the performance of their mobile advertising campaigns by attributing app installs, in-app events, and conversions to the respective marketing channels or campaigns responsible for generating them.
+AppsFlyer es una plataforma móvil de atribución y análisis de marketing. Permite a las empresas medir y analizar el rendimiento de sus campañas publicitarias móviles atribuyendo las instalaciones de aplicaciones, los eventos dentro de las aplicaciones y las conversiones a los respectivos canales de marketing o campañas responsables de generarlos.
 
 <figure><img src="../../../.gitbook/assets/image (1030).png" alt=""><figcaption></figcaption></figure>
 
-The platform also offers precise attribution solutions, allowing marketers to identify the sources of app installs, in-app events, and conversions—whether from the BMS network, other ad channels, or organic sources.
+La plataforma también ofrece soluciones de atribución precisas, lo que permite a los especialistas en marketing identificar las fuentes de las instalaciones de aplicaciones, los eventos dentro de las aplicaciones y las conversiones, ya sea desde la red BMS, otros canales publicitarios o fuentes orgánicas.
 
-These are some advantages of integrating BMS with AppsFlyer:
+Estas son algunas de las ventajas de integrar BMS con AppsFlyer:
 
-* **Powerful Insights**: Gain access to detailed data on user behavior, campaign performance, return on investment (ROI), and customer lifetime value (LTV).
-* **Use Cases**: Supports a variety of scenarios, including optimizing marketing campaigns, improving user acquisition strategies, and enhancing retention efforts.
+* **Información valiosa:** Acceda a datos detallados sobre el comportamiento de los usuarios, el rendimiento de las campañas, el retorno de la inversión (ROI) y el valor del ciclo de vida del cliente (LTV).
+* **Casos de uso:** Admite una gran variedad de escenarios, como la optimización de campañas de marketing, la mejora de las estrategias de adquisición de usuarios y la mejora de las iniciativas de retención.&#x20;
 
-### Use Cases
+### Casos de Uso
 
-AppsFlyer is a platform that tracks user interactions and campaign performance for apps, providing key insights to optimize marketing strategies. Here are its main use cases:
+AppsFlyer es una plataforma que realiza un seguimiento de las interacciones de los usuarios y el rendimiento de las campañas de las aplicaciones, proporcionando información clave para optimizar las estrategias de marketing. Estos son sus principales casos de uso:
 
-* **Attribution of App Installs**: AppsFlyer can track which campaigns drive the most app installs, helping marketers allocate budgets to the most effective channels.
-* **In-App Event Tracking**: AppsFlyer can monitor user actions within the app, such as purchases or content views, providing insights to optimize user engagement.
-* **Fraud Detection**: AppsFlyer’s anti-fraud tools can detect and prevent fraudulent installs or clicks, ensuring reliable campaign performance and protecting ROI.
+* **Atribución de instalaciones de aplicaciones:** AppsFlyer puede realizar un seguimiento de las campañas que generan más instalaciones de aplicaciones, lo que ayuda a los profesionales del marketing a asignar los presupuestos a los canales más eficaces.
+* **Seguimiento de eventos en la aplicación:** AppsFlyer puede supervisar las acciones de los usuarios dentro de la aplicación, como las compras o las visualizaciones de contenido, lo que proporciona información para optimizar la participación de los usuarios.
+* **Detección de fraudes:** Las herramientas antifraude de AppsFlyer pueden detectar y prevenir instalaciones o clics fraudulentos, lo que garantiza un rendimiento fiable de las campañas y protege el retorno de la inversión.&#x20;
 
-### How to integrate BMS with your AppsFlyer account
+### Cómo integrar BMS con tu cuenta de AppsFlyer
 
-After creating your account and setting up your app in AppsFlyer, it is time to add BMS as a partner marketplace to send your app's data to our platform. On the AppsFlyer homepage, navigate to the menu on the left, click on Collaborate, and then select Partner Marketplace.
+Después de crear tu cuenta y configurar tu aplicación en AppsFlyer, es el momento de añadir BMS como mercado asociado para enviar los datos de tu aplicación a nuestra plataforma. En la página de inicio de AppsFlyer, ve al menú de la izquierda, haz clic en Colaborar y, a continuación, selecciona Mercado asociado.
 
-<figure><img src="../../../.gitbook/assets/image (492).png" alt=""><figcaption><p>AppsFlyer Partner Marketplace</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (492).png" alt=""><figcaption><p>Mercado de socios de AppsFlyer</p></figcaption></figure>
 
-1.  Search for Blue Media Services LTDA using the search bar and select this option in the results list.\\
+1.  Busque Blue Media Services LTDA utilizando la barra de búsqueda y seleccione esta opción en la lista de resultados.
 
-    <figure><img src="../../../.gitbook/assets/Captura de tela 2024-12-17 082704.png" alt=""><figcaption><p>BMS Parter Marketplace</p></figcaption></figure>
-2.  Click on <img src="../../../.gitbook/assets/image (493).png" alt="" data-size="line"> to start setting up the integration.\\
+    <figure><img src="../../../.gitbook/assets/Captura de tela 2024-12-17 082704.png" alt=""><figcaption><p>Mercado de socios de BMS</p></figcaption></figure>
+2.  Haga clic en <img src="../../../.gitbook/assets/image (493).png" alt="" data-size="line"> para comenzar a configurar la integración.
 
-    <figure><img src="../../../.gitbook/assets/image (494).png" alt=""><figcaption><p>Integration Manager</p></figcaption></figure>
-3. Turn the <img src="../../../.gitbook/assets/image (495).png" alt="" data-size="line"> switch on.
-4. Default postbacks are attribution postbacks sent for user actions, such as install, re-install, etc. Select how to send the configured postbacks to our platform.
-5. In-app event postbacks: Turn this switch on to send us your in-app events data, such as add-to-cart, product-viewed, among others.
-6. In-app event postback window: Define the period following an install, re-attribution, or re-engagement during which in-app event postbacks will be sent to our platform.
-7. Click on <img src="../../../.gitbook/assets/image (496).png" alt="" data-size="line"> to start adding an event.
-8. Fill in the details:
-   * AppsFlyer event: Set a name for your event.
-   * Mapped partner event: Copy and paste the BRN code from the BMS trackers' install instructions tab, in the 3rd step.
-   * For users from: Select "This partner only" at the dropdown menu.
-   * Including: Select "Value & no revenue" at the dropdown menu.
-9. Add as many events as you need to.
-10. Click on <img src="../../../.gitbook/assets/image (497).png" alt="" data-size="line"> to save your integration.
+    <figure><img src="../../../.gitbook/assets/image (494).png" alt=""><figcaption><p>Gerente de Integración</p></figcaption></figure>
+3. Gire el <img src="../../../.gitbook/assets/image (495).png" alt="" data-size="line"> encender.
+4. Los postbacks predeterminados son postbacks de atribución enviados por acciones de los usuarios, como instalaciones, reinstalaciones, etc. Seleccione cómo enviar los postbacks configurados a nuestra plataforma.
+5. Postbacks de eventos en la aplicación: activa esta opción para enviarnos los datos de los eventos en la aplicación, como añadir al carrito, productos vistos, entre otros.
+6. Ventana de reenvío de eventos en la aplicación: define el período posterior a una instalación, reatribución o reenganche durante el cual se enviarán reenvíos de eventos en la aplicación a nuestra plataforma.
+7. Haga clic en  <img src="../../../.gitbook/assets/image (496).png" alt="" data-size="line"> para empezar a añadir un evento.
+8. Rellene los datos:
+   * Evento de AppsFlyer: Establezca un nombre para su evento.
+   * Evento de socio asignado: Copie y pegue el código BRN de la pestaña de instrucciones de instalación de los rastreadores BMS, en el tercer paso.
+   * Para usuarios de: Seleccione "Solo este socio" en el menú desplegable.
+   * Incluyendo: Seleccione "Valor y sin ingresos" en el menú desplegable.
+9. Añade tantos eventos como necesites.
+10. Haga clic en <img src="../../../.gitbook/assets/image (497).png" alt="" data-size="line"> para guardar tu integración.
 
-After completing these steps, BMS will be integrated with your AppsFlyer account, and the event data from your app will start being sent to our platform.
+Una vez completados estos pasos, BMS se integrará con su cuenta de AppsFlyer y los datos de eventos de su aplicación comenzarán a enviarse a nuestra plataforma.
 
-## Google Ads Tracking Template
+## Plantilla de seguimiento de Google Ads
 
-Google Tag Manager (GTM) is a tool that centralizes and simplifies the installation of tracking codes on a website without requiring direct changes to the site’s source code. Instead of embedding each script manually, you only need to install the GTM container once, and then manage all trackers, pixels, and events through the GTM dashboard.
+Google Tag Manager (GTM) es una herramienta que centraliza y simplifica la instalación de códigos de seguimiento en un sitio web sin necesidad de realizar cambios directos en el código fuente del sitio. En lugar de incrustar cada script manualmente, solo es necesario instalar el contenedor GTM una vez y, a continuación, gestionar todos los rastreadores, píxeles y eventos a través del panel de control de GTM.&#x20;
 
-GTM works by firing snippets of tracking code based on the rules you configure (called _triggers_). This allows you to decide which pages or user actions will activate each tag.
+GTM funciona activando fragmentos de código de seguimiento basados en las reglas que usted configura (denominadas _desencadenantes_). Esto le permite decidir qué páginas o acciones del usuario activarán cada etiqueta.
 
-This approach eliminates the need for constant code edits, making the process more efficient and secure.
+Este enfoque elimina la necesidad de realizar modificaciones constantes en el código, lo que hace que el proceso sea más eficiente y seguro.
 
-Here are some advantages of using trackers through GTM:
+Estas son algunas de las ventajas de utilizar rastreadores a través de GTM:
 
-* **Centralized Management**: All tracking scripts and pixels are handled in one place.
-* **Flexibility**: Configure conditional triggers such as button clicks, page views, or form submissions.
-* **Reduced Technical Dependency**: Marketing teams can manage tags without relying on developers for every update.
-* **Scalability**: Perfect for sites running multiple campaigns, since it simplifies deployment and maintenance.
+* **Gestión centralizada:** Todos los scripts y píxeles de seguimiento se gestionan en un solo lugar.
+* **Flexibilidad:** Configure activadores condicionales, como clics en botones, visitas a páginas o envíos de formularios.
+* **Menor dependencia técnica:** Los equipos de marketing pueden gestionar las etiquetas sin depender de los desarrolladores para cada actualización.&#x20;
+* **Escalabilidad:** Perfecto para sitios que ejecutan múltiples campañas, ya que simplifica la implementación y el mantenimiento.&#x20;
 
-### Use Cases
+### Casos de Uso
 
-Tracking with GTM enhances insights into user behavior and campaign performance, such as:
+El seguimiento con GTM mejora la información sobre el comportamiento de los usuarios y el rendimiento de las campañas, como por ejemplo:
 
-* **Conversion Tracking**: An online store can set up a GTM event that fires when a purchase is completed, ensuring accurate ROI attribution.
-* **Page Element Testing**: A news site can track which headlines users click on most, optimizing content engagement.
-* **Multi-Channel Campaign Measurement**: A marketing agency can install various ad pixels (Google Ads, Facebook Ads, LinkedIn Ads) via GTM without altering the client’s website code.
+* **Seguimiento de conversiones:** Una tienda online puede configurar un evento GTM que se active cuando se complete una compra, lo que garantiza una atribución precisa del ROI.
+* **Pruebas de elementos de página:** Un sitio de noticias puede realizar un seguimiento de los titulares en los que más hacen clic los usuarios, lo que permite optimizar la interacción con el contenido.
+* **Medición de campañas multicanal:** Una agencia de marketing puede instalar varios píxeles publicitarios (Google Ads, Facebook Ads, LinkedIn Ads) a través de GTM sin alterar el código del sitio web del cliente.&#x20;
 
-### How to Install
+### Cómo instalar
 
-1. Access you GTM and click on **Create a New Tag**
-   1. In the left menu, click on **Tags**.
-   2. Click **New** and name your tag as you prefer.
-   3. Click on **Tag Configuration** and choose **Custom HTML.**
-2. Add the Tracking Script
-   1.  Copy and paste the script that is shown on the install instruction:\\
+1. Accede a tu GTM y haz clic en **Crear una nueva etiqueta.**
+   1. En el menú de la izquierda, haz clic en **Etiquetas.**
+   2. Haga clic en **Nuevo** y asigne el nombre que prefiera a su etiqueta.
+   3. Haga clic en **Configuración de etiquetas** y seleccione **HTML personalizado.**
+2. Añadir el Script de Seguimiento
+   1.  Copie y pegue el script que se muestra en las instrucciones de instalación:
 
-       <figure><img src="../../../.gitbook/assets/image (1114).png" alt=""><figcaption><p>Google Ads Tracking Template Script</p></figcaption></figure>
-   2. Replace the placeholders with your custom values:
-      * `REPLACE_WITH_PRICE` → the transaction value (if applicable).
-      * `REPLACE_WITH_QUANTITY` → the number of items (if applicable).
-      * `REPLACE_WITH_DEDUPLICATIONID` → a unique transaction or event ID to prevent duplicates.
-      * `{lpurl}` → leave as-is, it will automatically resolve the landing page URL.
-3. Set the Trigger
-   1. Under **Triggering**, click on **+** to add a new trigger.
-   2. Select **Custom Event**.
-   3. Enter the event name that matches the event pushed into the `dataLayer`.
-      * Example: if your developers are pushing `dataLayer.push({ event: "purchase" })`, use `purchase` as the trigger name.
-   4. Save the trigger.
-4. Save and Publish
-   1. Save your new tag.
-   2. Click **Submit** in the top right corner.
-   3. Add a version name (e.g., _Added Tracker Tag_) and click **Publish**.
+       <figure><img src="../../../.gitbook/assets/image (1114).png" alt=""><figcaption><p>Plantilla de script para el seguimiento de Google Ads</p></figcaption></figure>
+   2. Reemplaza los marcadores de posición con tus valores personalizados:
+      * `REPLACE_WITH_PRICE` → el valor de la transacción (si procede).
+      * `REPLACE_WITH_QUANTITY` → el número de artículos (si procede).
+      * `REPLACE_WITH_DEDUPLICATIONID` → un identificador único de transacción o evento para evitar duplicados.
+      * `{lpurl}` → déjelo tal cual, se resolverá automáticamente la URL de la página de destino.
+3. Configurar el Gatillo
+   1. En **Activación**, haga clic en **+** para agregar un nuevo activador.
+   2. Selecciona **Evento personalizado.**
+   3. Introduzca el nombre del evento que coincida con el evento enviado al `dataLayer`.
+      * Ejemplo: si tus desarrolladores están enviando `dataLayer.push({ event: "purchase" })`, uso `purchase` como nombre del gatillo.
+   4. Guarda el Gatillo.
+4. Guardar y Publicar
+   1. Guarda tu nueva etiqueta.
+   2. Haga clic en **Enviar** en la esquina superior derecha.
+   3. Añade un nombre de versión (por ejemplo, _Etiqueta de seguimiento añadida_) y haz clic en **Publicar.**
 
-## Additional Information
+## Información Adicional
 
-Check out some external references that may help you through the app configuration and partner integration process:
+Consulte algunas referencias externas que pueden ayudarle en el proceso de configuración de la aplicación y de integración de socios:
 
-* [Getting started - Onboarding for marketers](https://support.appsflyer.com/hc/en-us/articles/207033486-Getting-started-Onboarding-for-marketers)
-* [Getting started - Onboarding for agencies](https://support.appsflyer.com/hc/en-us/articles/360002381617-Getting-started-agency-onboarding)
-* [Set up an integrated partner](https://support.appsflyer.com/hc/en-us/articles/4410395957521-Set-up-an-integrated-partner?utm_campaign=active_partners\&utm_medium=ui\&utm_source=hq1)
+* [Introducción - Incorporación para profesionales del Marketing](https://support.appsflyer.com/hc/en-us/articles/207033486-Getting-started-Onboarding-for-marketers)
+* [Introducción - Incorporación para Agencias](https://support.appsflyer.com/hc/en-us/articles/360002381617-Getting-started-agency-onboarding)
+* [Establecer un Socio integrado](https://support.appsflyer.com/hc/en-us/articles/4410395957521-Set-up-an-integrated-partner?utm_campaign=active_partners\&utm_medium=ui\&utm_source=hq1)

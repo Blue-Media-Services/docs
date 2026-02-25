@@ -1,47 +1,47 @@
 # Gestión de Anuncios
 
-### Choosing which Ads to show
+### Seleccionar qué Anuncios mostrar
 
-To select an Ad for your campaign press <img src="../../.gitbook/assets/image (49).png" alt="Select Ads" data-size="line">.
+Para seleccionar un Anuncio para tu campaña, pulsa <img src="../../.gitbook/assets/image (49).png" alt="Select Ads" data-size="line">.
 
-<figure><img src="../../.gitbook/assets/image (670).png" alt=""><figcaption><p>Ads List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (670).png" alt=""><figcaption><p>Lista de Anuncios</p></figcaption></figure>
 
-A screen will pop up and it will be displayed the created ads for that current **campaign's** **domain**.
+Aparecerá una pantalla en la que se mostrarán los anuncios creados para el dominio de la **campaña actual**.
 
-<figure><img src="../../.gitbook/assets/image (757).png" alt="" width="537"><figcaption><p>Ads Selection</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (757).png" alt="" width="537"><figcaption><p>Selección de Anuncios</p></figcaption></figure>
 
-Select a previously created AD or create a new one by pressing <img src="../../.gitbook/assets/image (672).png" alt="Create Ads" data-size="line">.
+Seleccione un anuncio creado previamente o cree uno nuevo pulsando <img src="../../.gitbook/assets/image (672).png" alt="Create Ads" data-size="line">.
 
 {% hint style="info" %}
-Learn more about Ads Creation and Management [**here**](../ad-server/)**.**
+Más información sobre la Creación y Gestión de Anuncios [**aquí**](../ad-server/)**.**
 {% endhint %}
 
-After selecting your ads, click on <img src="../../.gitbook/assets/image (759).png" alt="Select" data-size="line"> to confirm.
+Después de seleccionar tus anuncios, haz clic en <img src="../../.gitbook/assets/image (759).png" alt="Select" data-size="line"> para confirmar.
 
-You can add as many ads as you need to your campaign.
+Puedes añadir tantos anuncios como necesites a tu campaña.
 
-<figure><img src="../../.gitbook/assets/image (760).png" alt=""><figcaption><p>Ads Listed</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (760).png" alt=""><figcaption><p>Anuncios Listados</p></figcaption></figure>
 
-### Preview your Ad
+### Vista Previa de su Anuncio
 
-If you wish to double-check the ad you have already added to that campaign, click on <img src="../../.gitbook/assets/image (45) (2).png" alt="Preview" data-size="line"> to view how the ad will be shown to the end user.
+Si desea volver a comprobar el anuncio que ya ha añadido a esa campaña, haga clic en <img src="../../.gitbook/assets/image (45) (2).png" alt="Preview" data-size="line"> para ver cómo se mostrará el anuncio al usuario final.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (127).png" alt="" width="169"><figcaption><p>Ad Preview</p></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (127).png" alt="" width="169"><figcaption><p>Vista previa del Anuncio</p></figcaption></figure></div>
 
-### Checking your Ad Status
+### Comprobación del estado de su Anuncio
 
-If your ad has been recently created, it might have a <img src="../../.gitbook/assets/image (408).png" alt="Issue Sign" data-size="line"> sign, it can be related to not having a rule configured or pending approvals on Ad Exchanges. You can check what is the issue by hovering the cursor over the warning sign.
+Si su anuncio se ha creado recientemente, es posible que tenga un <img src="../../.gitbook/assets/image (408).png" alt="Issue Sign" data-size="line"> signo, puede estar relacionado con la falta de una regla configurada o con aprobaciones pendientes en Ad Exchanges. Puede comprobar cuál es el problema pasando el cursor por encima del signo de advertencia.
 
-### Deleting an Ad
+### Eliminar un Anuncio
 
-If an ad has been mistakenly added or is no longer useful for that campaign, you can delete it from your campaign by clicking on <img src="../../.gitbook/assets/image (128).png" alt="Delete Ad" data-size="line">, a confirming screen will be shown.
+Si se ha añadido un anuncio por error o ya no es útil para esa campaña, puede eliminarlo de su campaña haciendo clic en <img src="../../.gitbook/assets/image (128).png" alt="Delete Ad" data-size="line">, se mostrará una pantalla de confirmación.
 
 {% hint style="danger" %}
-_Attention! We always advise users to analyze if it is necessary to delete an Ad, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted._
+_¡Atención! Siempre recomendamos a los usuarios que analicen si es necesario eliminar un anuncio, ya que esta acción no se puede deshacer y todos los datos relacionados, incluidas las métricas recopiladas anteriormente, también se eliminarán._
 {% endhint %}
 
-### Bulk Actions
+### Acciones Masivas
 
-If you select more than one ad, it is possible to make bulk actions.
+Si seleccionas más de un anuncio, es posible realizar acciones masivas.
 
-After selecting two or more targets, the bulk actions button will be enabled, <img src="../../.gitbook/assets/image (753).png" alt="Bulk Actions" data-size="line"> then after clicking on the menu, it will be possible to **delete** all selected ads at once.
+Después de seleccionar dos o más objetivos, se habilitará el botón de acciones masivas, <img src="../../.gitbook/assets/image (753).png" alt="Bulk Actions" data-size="line"> después de hacer clic en el menú, será posible **eliminar** todos los anuncios seleccionados a la vez.

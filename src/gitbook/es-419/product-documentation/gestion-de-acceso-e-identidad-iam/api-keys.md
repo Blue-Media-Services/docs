@@ -1,5 +1,5 @@
 ---
-description: Learn more about API Keys and how to integrate them with our platform.
+description: Más información sobre las claves API y cómo integrarlas en nuestra plataforma.
 ---
 
 # Claves API
@@ -14,7 +14,7 @@ Las Claves API están disponibles en la página de permisos. Para acceder a ella
 
 ### Creación de una Clave API
 
-It is possible to [Create New API Keys](api-keys.md#create-new-api-keys) and it is also possible to [Link an Existing API Key](api-keys.md#link-existing-api-key).
+Es posible [Crear Nuevas Claves API](api-keys.md#create-new-api-keys) y también es posible [Vincular una Clave API existente](api-keys.md#link-existing-api-key).
 
 #### Crear nuevas Claves API
 

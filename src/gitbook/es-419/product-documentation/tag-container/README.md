@@ -1,58 +1,58 @@
 # Contenedores de Etiquetas
 
-This feature allows you to create a customized tag container to install multiple tags and scripts from a single piece of code.
+Esta función le permite crear un contenedor de etiquetas personalizado para instalar varias etiquetas y scripts desde un único fragmento de código.
 
-<figure><img src="../../../es-419/.gitbook/assets/image (537).png" alt=""><figcaption><p>Tag Container List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (537).png" alt=""><figcaption><p>Lista de contenedores de Etiquetas</p></figcaption></figure>
 
-### Creating Tag Containers
+### Creación de Contenedores de Etiquetas
 
-Follow the steps below to create your Tag Container. This process will guide you through the necessary steps to set up a customized container that can hold multiple tags and scripts, simplifying the management and deployment of tracking codes across your website.
+Siga los pasos que se indican a continuación para crear su contenedor de etiquetas. Este proceso le guiará a través de los pasos necesarios para configurar un contenedor personalizado que pueda albergar múltiples etiquetas y scripts, lo que simplificará la gestión y la implementación de códigos de seguimiento en su sitio web.
 
 {% hint style="info" %}
-We use cookie pools and trackers as script examples to explain this feature, but you can use any script or tag you need.
+Utilizamos grupos de cookies y rastreadores como ejemplos de scripts para explicar esta función, pero puede utilizar cualquier script o etiqueta que necesite.
 {% endhint %}
 
-1.  Click on <img src="../../../es-419/.gitbook/assets/image (522).png" alt="" data-size="line"> to start creating your Tag Container.\\
+1.  Haga clic en <img src="../../.gitbook/assets/image (522).png" alt="" data-size="line"> para empezar a crear tu contenedor de etiquetas.
 
-    <figure><img src="../../../es-419/.gitbook/assets/image (521).png" alt=""><figcaption><p>Tag Container Editor</p></figcaption></figure>
-2. Fill in the details:
-   * Name: Set a name for your tag container.
-   * Tags: Set tags for your better organization.
-   * Template: Paste the scripts and tags you need to include in your tag container. In the example shown, a BMS Cookie Pool script was used. Notice that the account ID ("acc") and Cookie Pool ID ("cpid") values were replaced by the placeholders "\{{acc\}}" and "\{{cpid\}}". This allows the tag container to be used dynamically. Similarly, a BMS tracker script was also added.
-   * Available Parameters: The parameters will appear in this section based on your Sample Input. You can click on them to copy their references.
-   * Sample Input: This is where you will provide a sample input for your tag container. In the example shown, there are four parameters configured in the sample input:
-     * "e": Refers to the event that should be tracked using our tracker script.
-     * "t": Refers to the tracker ID to be used.
-     * "acc": Refers to the BMS account ID.
-     * "cpid": Refers to the cookie pool ID.
-   * Preview: This section shows how your tag container will look after you fill in the parameters.
-3. After finishing your editions, click on <img src="../../../es-419/.gitbook/assets/image (524).png" alt="" data-size="line"> to save your tag container.
+    <figure><img src="../../.gitbook/assets/image (521).png" alt=""><figcaption><p>Editor de contenedores de etiquetas</p></figcaption></figure>
+2. Rellene los datos:
+   * Nombre: Establezca un nombre para su contenedor de etiquetas.
+   * Etiquetas: Establece etiquetas para organizar mejor tus archivos.
+   * Plantilla: Pega los scripts y las etiquetas que necesites incluir en tu contenedor de etiquetas. En el ejemplo mostrado, se utilizó un script de Cookie Pool de BMS. Observa que los valores del ID de cuenta ("acc") y del ID de Cookie Pool ("cpid") fueron sustituidos por los marcadores de posición "\{{acc\}}" y "\{{cpid\}}". Esto permite que el contenedor de etiquetas se utilice de forma dinámica. Del mismo modo, también se añadió un script de seguimiento (tracker) de BMS.
+   * Parámetros disponibles: Los parámetros aparecerán en esta sección según su entrada de muestra. Puede hacer clic en ellos para copiar sus referencias.
+   * Entrada de muestra: Aquí es donde proporcionará una entrada de muestra para su contenedor de etiquetas. En el ejemplo que se muestra, hay cuatro parámetros configurados en la entrada de muestra:
+     * "e": Se refiere al evento que debe rastrearse utilizando nuestro script de rastreo.
+     * "t": Se refiere al ID del rastreador que se va a utilizar.
+     * "acc": Se refiere al ID de la cuenta BMS.
+     * "cpid": Se refiere al ID del Cookie Pool.
+   * Vista previa: Esta sección muestra cómo quedará tu contenedor de etiquetas después de rellenar los parámetros.
+3. Después de terminar tus ediciones, haz clic en <img src="../../.gitbook/assets/image (524).png" alt="" data-size="line"> para guardar tu contenedor de etiquetas.
 
-### Installing your Tag Container
+### Instalación de su Contenedor de Etiquetas
 
-Follow the steps on the install instructions tab to correctly install your tag container.
+Siga los pasos que se indican en la pestaña de instrucciones de instalación para instalar correctamente su contenedor de etiquetas.
 
-<figure><img src="../../../es-419/.gitbook/assets/image (525).png" alt=""><figcaption><p>Install Instructions Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (525).png" alt=""><figcaption><p>Pestaña Instrucciones de instalación</p></figcaption></figure>
 
-1. Copy the script using the copy button <img src="../../../es-419/.gitbook/assets/image (526).png" alt="" data-size="line">.
-2. Replace the parameters with the corresponding values.
-3. Paste it into your website's code.
+1. Copie el script utilizando el botón copiar <img src="../../.gitbook/assets/image (526).png" alt="" data-size="line">.
+2. Reemplace los parámetros con los valores correspondientes.
+3. Pégalo en el código de tu sitio web.
 
-### Editing or Deleting Tag Containers
+### Edición o eliminación de Contenedores de Etiquetas
 
-All the fields on the tag container editor are available for edition, click on <img src="../../../es-419/.gitbook/assets/image (527).png" alt="" data-size="line"> to edit your tag container.
+Todos los campos del editor del contenedor de etiquetas están disponibles para su edición, haga clic en <img src="../../.gitbook/assets/image (527).png" alt="" data-size="line"> para editar tu contenedor de etiquetas.
 
 {% hint style="danger" %}
-Attention! Be careful when deleting tag containers, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted.
+¡Atención! Tenga cuidado al eliminar contenedores de etiquetas, ya que esta acción no se puede deshacer y todos los datos relacionados, incluidas las métricas recopiladas anteriormente, también se eliminarán.
 {% endhint %}
 
-It is possible to delete tag containers, by clicking on <img src="../../../es-419/.gitbook/assets/image (528) (1).png" alt="" data-size="line"> at the same row as the tag container you need to delete, and then clicking on <img src="../../../es-419/.gitbook/assets/image (529).png" alt="" data-size="line"> to confirm this action.
+Es posible eliminar contenedores de etiquetas haciendo clic en <img src="../../.gitbook/assets/image (528) (1).png" alt="" data-size="line"> en la misma fila que el contenedor de etiquetas que desea eliminar y, a continuación, haciendo clic en <img src="../../.gitbook/assets/image (529).png" alt="" data-size="line"> para confirmar esta acción.
 
-Alternatively, you can archive tag containers to help with organization. This can be done by clicking on <img src="../../../es-419/.gitbook/assets/image (530) (1).png" alt="" data-size="line"> at the same row as the tag container you want to archive. To view archived tag containers, turn the 'Archived' switch on ![](<../../../es-419/.gitbook/assets/image (531).png>), located right above the tag containers list. To unarchive a tag container, click on <img src="../../../es-419/.gitbook/assets/image (532).png" alt="" data-size="line"> at the same row as the tag container you want to unarchive.
+Como alternativa, puede archivar contenedores de etiquetas para facilitar la organización. Para ello, haga clic en <img src="../../.gitbook/assets/image (530) (1).png" alt="" data-size="line"> en la misma fila que el contenedor de etiquetas que desea archivar. Para ver los contenedores de etiquetas archivados, active el interruptor "Archivado" ![](<../../.gitbook/assets/image (531).png>), situado justo encima de la lista de contenedores de etiquetas. Para desarchivar un contenedor de etiquetas, haga clic en <img src="../../.gitbook/assets/image (532).png" alt="" data-size="line"> en la misma fila que el contenedor de etiquetas que desea desarchivar.
 
-### Metrics Tab
+### Pestaña Métricas
 
-Upon finishing your Tag Containers' Installation and effectively using them, it will start to fulfill the metrics presented, below you can find all metrics related to Tag Containers.
+Una vez finalizada la instalación de los contenedores de etiquetas y tras utilizarlos de forma eficaz, estos comenzarán a cumplir con las métricas presentadas. A continuación, encontrará todas las métricas relacionadas con los contenedores de etiquetas:
 
-* [Failure Rate](metricas-de-contenedores-de-etiquetas.md#failure-rate)
-* [Request Count](metricas-de-contenedores-de-etiquetas.md#request-count)
+* [Tasa de Fallos](metricas-de-contenedores-de-etiquetas.md#failure-rate)
+* [Número de Solicitudes](metricas-de-contenedores-de-etiquetas.md#request-count)

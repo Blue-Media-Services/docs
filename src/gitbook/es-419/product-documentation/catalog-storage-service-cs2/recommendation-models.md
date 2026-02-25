@@ -1,99 +1,99 @@
 ---
-description: Learn more about recomendation models and how to create them.
+description: Más información sobre los modelos de recomendación y cómo crearlos.
 ---
 
 # Modelos de Recomendación
 
-Use recommendation models to display your products on dynamic banners, which display different products according to who receives the ad, intending to increase your conversions.
+Utiliza modelos de recomendación para mostrar tus productos en banners dinámicos, que muestran diferentes productos según quién recibe el anuncio, con el objetivo de aumentar tus conversiones.
 
-## Managing Recommendation Models
+## Gestión de Modelos de Recomendación
 
-<figure><img src="../../.gitbook/assets/image (62) (1).png" alt=""><figcaption><p>Recommendation Models List</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (62) (1).png" alt=""><figcaption><p>Lista de Modelos de Recomendación</p></figcaption></figure>
 
-### Creating Recommendation Models
+### Creación de Modelos de Recomendación
 
-Before creating a recommendation model it's necessary to configure catalogs and the DMP services that will act as sources for our recommendation models.
+Antes de crear un modelo de recomendación, es necesario configurar los catálogos y los servicios DMP que actuarán como fuentes para nuestros modelos de recomendación.
 
-1. Click on <img src="../../.gitbook/assets/image (254).png" alt="" data-size="line"> to start creating a recommendation model.
-2.  Fill in the details:\\
+1. Haga clic en <img src="../../.gitbook/assets/image (254).png" alt="" data-size="line"> para empezar a crear un modelo de recomendación.
+2.  Rellene los datos:
 
-    <figure><img src="../../.gitbook/assets/image (264).png" alt=""><figcaption><p>Recommendation Models Editor</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (264).png" alt=""><figcaption><p>Editor de modelos de recomendación</p></figcaption></figure>
 
-    * Name: Inform a name for your recommendation model.
-    * Tags: Set tags for your organization.
-    * Catalog: Select the catalog containing the products you will use for this recommendation model.
-3. Click on <img src="../../.gitbook/assets/image (256).png" alt="" data-size="line"> to save your recommendation model.
+    * Nombre: Introduzca un nombre para su modelo de recomendación.
+    * Etiquetas: Establezca etiquetas para su organización.
+    * Catálogo: Seleccione el catálogo que contiene los productos que utilizará para este modelo de recomendación.
+3. Haga clic en <img src="../../.gitbook/assets/image (256).png" alt="" data-size="line"> para guardar tu modelo de recomendación.
 
-### Configuring Recommendation Models
+### Configuración de Modelos de Recomendación
 
-After creating a recommendation model, it's necessary to configure its sources before being able to use it. This can be done at the configuration tab:
+Después de crear un modelo de recomendación, es necesario configurar sus fuentes antes de poder utilizarlo. Esto se puede hacer en la pestaña de configuración:
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-05-15 095125.png" alt=""><figcaption><p>Recommendation Models Configuration Tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-05-15 095125.png" alt=""><figcaption><p>Pestaña Configuración de modelos de recomendación</p></figcaption></figure>
 
-1. Select a recommendation model in the list.
-2. Click on <img src="../../.gitbook/assets/image (56) (1).png" alt="" data-size="line"> to add a source for this model.
-3.  Fill in the details:\\
+1. Seleccione un modelo de recomendación de la lista.
+2. Haga clic en <img src="../../.gitbook/assets/image (56) (1).png" alt="" data-size="line"> para añadir una fuente para este modelo.
+3.  Rellene los datos:
 
-    <figure><img src="../../.gitbook/assets/image (50) (2).png" alt=""><figcaption><p>Recommendation Models' Source Editor - DMP Tracker</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (50) (2).png" alt=""><figcaption><p>Editor de fuentes de modelos de recomendación - Rastreador DMP</p></figcaption></figure>
 
-    * Name: Inform a name for your source.
-    * Limit: Set the maximum number of products to be added to the recommendation model by this source.
-    * Type: Select the type of source you want to use:
-      1. DMP Tracker: This option will add products to the recommendation model based on the activity data collected on your website.
-         * Tracker: Select the tracker you want to use.
-         * Tracker Event: Select the tracked event that will be considered to add products to the recommendation model.
-         * Field Containing Offer IDs: Inform the customized field containing the offer ID of the products you want on this recommendation model.
-         * Template: Specify a template to produce an offer IDs comma-separated list to track.
-      2.  CS2 Product Ranking: This option will add products to the recommendation model based on the activity collected by your product catalog.
+    * Nombre: Indique un nombre para su fuente.
+    * Límite: Establezca el número máximo de productos que se añadirán al modelo de recomendación por esta fuente.
+    * Tipo: Seleccione el tipo de fuente que desea utilizar:
+      1. DMP Rastreador: esta opción añadirá productos al modelo de recomendación basándose en los datos de actividad recopilados en su sitio web.
+         * Rastreador: Seleccione el rastreador que desea utilizar.
+         * Evento de Rastreador: seleccione el evento seguido que se tendrá en cuenta para añadir productos al modelo de recomendación.
+         * Campo que contiene los ID de las ofertas: Indique el campo personalizado que contiene el ID de las ofertas de los productos que desea incluir en este modelo de recomendación.
+         * Plantilla: Especifique una plantilla para generar una lista de ID de ofertas separadas por comas para realizar el seguimiento.
+      2.  Clasificación de productos CS2: Esta opción añadirá productos al modelo de recomendación basándose en la actividad recopilada por su catálogo de productos.
 
-          <figure><img src="../../.gitbook/assets/image (253).png" alt=""><figcaption><p>Recommendation Models' Source Editor - CS2 Product Ranking</p></figcaption></figure>
+          <figure><img src="../../.gitbook/assets/image (253).png" alt=""><figcaption><p>Editor de fuentes de modelos de recomendación - Clasificación de productos CS2</p></figcaption></figure>
 
-          * Rank by: Select a ranked activity between the options available:
-            * Most Added to Cart: This option will add the most added-to-cart products to your recommendation model.
-            * Most Ordered: This option will add the most ordered products to your recommendation model.
-            * Most Recommendation Clicked: This option can only be used after running a campaign with recommendation models, and it will fill your recommendation model with the products that were recommended before and have been clicked by a user.
-            * Most Recommendation Viewed: This option can only be used after running a campaign with recommendation models, and it will fill your recommendation model with the products that were recommended before and have been viewed by a user.
-            * Most Recommended: This option can only be used after running a campaign with recommendation models, and it will fill your recommendation model with the most recommended products.
-            * Most Viewed: This option will add the most viewed products to your recommendation model
-          * In the past hours: Set a number of hours in the past to consider the activity collected during the period for adding products to the recommendation model.
-4. Click on <img src="../../.gitbook/assets/image (256).png" alt="" data-size="line"> to save your source.
+          * Clasificar por: Seleccione una actividad clasificada entre las opciones disponibles:
+            * Más añadidos al carrito: Esta opción añadirá los productos más añadidos al carrito a tu modelo de recomendación.
+            * Más solicitados: Esta opción añadirá los productos más solicitados a su modelo de recomendación.
+            * Recomendación más clicada: Esta opción solo se puede utilizar después de ejecutar una campaña con modelos de recomendación, y llenará su modelo de recomendación con los productos que se recomendaron anteriormente y en los que ha hecho clic un usuario.
+            * Recomendaciones más vistas: Esta opción solo se puede utilizar después de ejecutar una campaña con modelos de recomendación, y llenará su modelo de recomendación con los productos que se recomendaron anteriormente y que han sido vistos por un usuario.
+            * Más recomendados: Esta opción solo se puede utilizar después de ejecutar una campaña con modelos de recomendación y llenará su modelo de recomendación con los productos más recomendados.
+            * Más vistos: Esta opción añadirá los productos más vistos a tu modelo de recomendación.
+          * En las últimas horas: Establezca un número de horas en el pasado para tener en cuenta la actividad recopilada durante ese periodo a la hora de añadir productos al modelo de recomendación.
+4. Haga clic en <img src="../../.gitbook/assets/image (256).png" alt="" data-size="line"> para guardar tu fuente.
 
-Right after creating your source, a preview of your recommended products will be available. For this preview to be generated, you should have your cookie pools and trackers and/or your catalog events installed on your website, as their data will be used to generate the recommendations.
+Inmediatamente después de crear tu fuente, estará disponible una vista previa de tus productos recomendados. Para que se genere esta vista previa, debes tener instalados en tu sitio web tus grupos de cookies y rastreadores y/o tus eventos de catálogo, ya que sus datos se utilizarán para generar las recomendaciones.
 
-<figure><img src="../../.gitbook/assets/image (64) (1).png" alt=""><figcaption><p>Recommendation Models Configuration tab - Preview.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (64) (1).png" alt=""><figcaption><p>Pestaña Configuración de modelos de recomendación: Vista Previa.</p></figcaption></figure>
 
-### Editing Recommendation Models and Sources
+### Modelos y Fuentes de Recomendaciones de Edición
 
-There are some editing options available for recommendation models and sources.
+Hay algunas opciones de edición disponibles para los modelos y fuentes de recomendación.
 
-#### Recommendation Models
+#### Modelos de Recomendación
 
-You can edit a recommendation model's name and tags, however, the catalog cannot be changed. To make this edition click on <img src="../../.gitbook/assets/image (115).png" alt="" data-size="line"> at the same row as the recommendation model to be edited.
+Puede editar el nombre y las etiquetas de un modelo de recomendación, sin embargo, el catálogo no se puede cambiar. Para realizar esta edición, haga clic en <img src="../../.gitbook/assets/image (115).png" alt="" data-size="line"> en la misma fila que el modelo de recomendación que se va a editar.
 
-#### Sources
+#### Fuentes
 
-All source details are editable, select the recommendation model containing the source to be edited. Then, in the configuration tab, on the sources section, click on <img src="../../.gitbook/assets/image (115).png" alt="" data-size="line"> at the same as the source to be edited, make your changes, then click on <img src="../../.gitbook/assets/image (256).png" alt="" data-size="line"> to save them. You can also duplicate a source by clicking on <img src="../../.gitbook/assets/image (401).png" alt="" data-size="line">. This is useful if you need another source with only a few changes compared to an existing one while keeping the existing one.
+Todos los detalles de la fuente son editables, seleccione el modelo de recomendación que contiene la fuente que desea editar. A continuación, en la pestaña de configuración, en la sección de fuentes, haga clic en <img src="../../.gitbook/assets/image (115).png" alt="" data-size="line"> igual que la fuente que se va a editar, realice los cambios y, a continuación, haga clic en <img src="../../.gitbook/assets/image (256).png" alt="" data-size="line"> para guardarlos. También puedes duplicar una fuente haciendo clic en <img src="../../.gitbook/assets/image (401).png" alt="" data-size="line">. Esto resulta útil si necesitas otra fuente con solo unos pocos cambios respecto a una ya existente, pero sin eliminar esta última.
 
-### How do Sources Work?
+### ¿Cómo funcionan las Fuentes?
 
-Sources are how you collect data to power your Recommendation Model. The Recommendation Model needs this data to organize products as intended. You must choose between a DMP Tracker or a CS2 Product Ranking; both methods work well, but each requires additional steps for proper configuration. Once you have configured your source correctly, your Recommendation Model will start collecting data and actively updating itself, providing your ad with the most current information.
+Las fuentes son la forma en que recopila datos para alimentar su modelo de recomendación. El modelo de recomendación necesita estos datos para organizar los productos según lo previsto. Debe elegir entre un rastreador DMP o una clasificación de productos CS2; ambos métodos funcionan bien, pero cada uno requiere pasos adicionales para una configuración adecuada. Una vez que haya configurado correctamente su fuente, su modelo de recomendación comenzará a recopilar datos y a actualizarse activamente, proporcionando a su anuncio la información más actualizada.&#x20;
 
-### Deleting Recommendation Models and Sources
+### Eliminación de Modelos y Fuentes de Recomendación
 
 {% hint style="danger" %}
-Attention! Be careful when deleting recommendation models, this action cannot be undone and all the related data, including previously collected metrics, will also be deleted.
+¡Atención! Tenga cuidado al eliminar modelos de recomendación, ya que esta acción no se puede deshacer y todos los datos relacionados, incluidas las métricas recopiladas anteriormente, también se eliminarán.
 {% endhint %}
 
-You can archive a recommendation model by clicking on <img src="../../.gitbook/assets/image (63) (1).png" alt="" data-size="line"> at the same row as the recommendation model we need archived. It's also possible to delete a recommendation model, however, this will delete all the metrics related to it, this action cannot be undone, so be careful when performing it. Click on <img src="../../.gitbook/assets/image (402).png" alt="" data-size="original"> at the same row as the recommendation model to be deleted. Then confirm the action by clicking on <img src="../../.gitbook/assets/image (403).png" alt="" data-size="line">. This action cannot be undone.
+Puede archivar un modelo de recomendación haciendo clic en <img src="../../.gitbook/assets/image (63) (1).png" alt="" data-size="line"> en la misma fila que el modelo de recomendación que necesitamos archivar. También es posible eliminar un modelo de recomendación, sin embargo, esto eliminará todas las métricas relacionadas con él, esta acción no se puede deshacer, así que ten cuidado al realizarla. Haz clic en <img src="../../.gitbook/assets/image (402).png" alt="" data-size="original"> en la misma fila que el modelo de recomendación que se va a eliminar. A continuación, confirme la acción haciendo clic en <img src="../../.gitbook/assets/image (403).png" alt="" data-size="line">. Esta acción no se puede deshacer.
 
-It's possible to delete a source. However, this will also delete all the metrics related to this source, so be careful when performing this action. In the sources section of the configuration tab, click on <img src="../../.gitbook/assets/image (402).png" alt="" data-size="original"> at the same row as the source to be deleted. Then confirm the action by clicking on <img src="../../.gitbook/assets/image (403).png" alt="" data-size="line">. This action cannot be undone.
+Es posible eliminar una fuente. Sin embargo, esto también eliminará todas las métricas relacionadas con esta fuente, por lo que debe tener cuidado al realizar esta acción. En la sección de fuentes de la pestaña de configuración, haga clic en <img src="../../.gitbook/assets/image (402).png" alt="" data-size="original"> en la misma fila que la fuente que se va a eliminar. A continuación, confirme la acción haciendo clic en <img src="../../.gitbook/assets/image (403).png" alt="" data-size="line">. Esta acción no se puede deshacer.
 
-## Metrics Tab
+## Pestaña Métricas
 
-After setting your recommendation models and starting using them for a campaign, you should start receiving data from them, it's possible to follow this process on the metrics tab, these are the available metrics for recommendation models:
+Después de configurar sus modelos de recomendación y comenzar a utilizarlos para una campaña, debería empezar a recibir datos de ellos. Es posible seguir este proceso en la pestaña de métricas. Estas son las métricas disponibles para los modelos de recomendación:
 
-* [Product Recommendation Count](cs2-metrics.md#product-recommendation-count)
-* [Recommendation Click Count](cs2-metrics.md#recommendation-click-count)
-* [Recommendation Fulfillment Rate](cs2-metrics.md#recommendation-fulfillment-rate)
-* [Recommendation Request Count](cs2-metrics.md#recommendation-request-count)
-* [Recommendation View Count](cs2-metrics.md#recommendation-view-count)
+* [Recuento de recomendaciones de productos](cs2-metrics.md#product-recommendation-count)
+* [Recuento de clics en recomendaciones](cs2-metrics.md#recommendation-click-count)
+* [Tasa de cumplimiento de recomendaciones](cs2-metrics.md#recommendation-fulfillment-rate)
+* [Recuento de solicitudes de recomendaciones](cs2-metrics.md#recommendation-request-count)
+* [Recuento de visualizaciones de recomendaciones](cs2-metrics.md#recommendation-view-count)
